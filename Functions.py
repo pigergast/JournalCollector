@@ -6,7 +6,10 @@ def getPage(DOI):
     page = requests.get(f"{PAGEURL}{DOI}")
     soup = BeautifulSoup(page.text, "html.parser")
     downloadList = []
-    for li in  soup.find_all('ul', {"class" : "record_mirrors" }):
+    mirrors = soup.find_all('ul', {"class" : "record_mirrors" })
+    if(len(mirrors) != 1):
+        return None
+    for li in mirrors:
         for a in li.find_all('a'):
             link = a['href']
             if(link.startswith('http://library.lol')):
