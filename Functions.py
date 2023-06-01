@@ -3,6 +3,8 @@ import requests
 import urllib.parse
 import re
 import os
+from pymed import PubMed
+
 PAGEURL = 'https://libgen.is/scimag/?q='
 def getPDF(DOI):
     page = requests.get(f"{PAGEURL}{DOI}")
@@ -45,3 +47,17 @@ def downloadPdf(url, title):
     file = open(f"Downloads/{fileTitle}" , "wb")
     file.write(response.content)
     file.close()
+
+def getListOfDoiByYear(year):
+    ISSN = "1527-6546"  # Journal of Nursing Scholarship ISSN
+    query = f'("{year}/1/1"[Date - Publication] : "{year}/12/31"[Date - Publication]) AND {ISSN}[IS]'
+    pubmed = PubMed(tool="MyTool", email="tangkwo1@hotmail.com")
+    results = pubmed.query(query, max_results=9999)
+
+    doi_list = []
+    for article in results:
+        if article.doi:
+            doi_list.append(article.doi)
+
+    return doi_list
+
