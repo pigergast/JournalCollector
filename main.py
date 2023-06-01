@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
     with open('summary.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['DOI', 'Status'])
+        writer.writerow(['DOI', 'Article Name', 'Status'])
 
         # loop through the first five dois and download the pdfs
         i = 0
@@ -22,10 +22,16 @@ if __name__ == '__main__':
 
             i += 1
 
-            if Functions.getPDF(doi):
-                writer.writerow([doi, 'Success'])
+            # check if the doi can be used to download or not
+            check = Functions.getPDF(doi)
+
+            # take the name of the article from the doi
+            articleName = check[1]
+
+            if check[0]:
+                writer.writerow([doi, articleName,'Success'])
             else:
-                writer.writerow([doi, 'Failed'])
+                writer.writerow([doi,articleName , 'Failed'])
 
 
 

@@ -12,7 +12,7 @@ def getPDF(DOI):
     downloadList = []
     mirrors = soup.find_all('ul', {"class" : "record_mirrors" })
     if(len(mirrors) != 1):
-        return False
+        return False, "No PDF found"
     safeDOI = urllib.parse.quote(DOI, safe='')
     title = soup.find('a', href=f'/scimag/{safeDOI}').text
     for li in mirrors:
@@ -24,11 +24,11 @@ def getPDF(DOI):
     for link in downloadList:
         try:
             downloadPdf(link, f"{title}.pdf")
-            return True
+            return True, title
         except Exception as e:
             print(e)
             continue
-    return False
+    return False, title
 
 def getDownloadLink(url):
     page = requests.get(url)
