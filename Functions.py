@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.parse
 import re
+import os
 PAGEURL = 'https://libgen.is/scimag/?q='
 def getPDF(DOI):
     page = requests.get(f"{PAGEURL}{DOI}")
@@ -12,7 +13,6 @@ def getPDF(DOI):
         return False
     safeDOI = urllib.parse.quote(DOI, safe='')
     title = soup.find('a', href=f'/scimag/{safeDOI}').text
-    print(title)
     for li in mirrors:
         for a in li.find_all('a'):
             link = a['href']
@@ -36,9 +36,12 @@ def getDownloadLink(url):
     return download_links['GET']
 
 def downloadPdf(url, title):
+    isExist = os.path.exists("Downloads")
+    if not isExist:
+        # Create a new directory because it does not exist
+        os.makedirs("Downloads")
     response = requests.get(url)
-    print(title)
     fileTitle = re.sub(r'[\\/*?:"<>|]', "", title)
-    file = open(fileTitle , "wb")
+    file = open(f"Downloads/{fileTitle}" , "wb")
     file.write(response.content)
     file.close()
