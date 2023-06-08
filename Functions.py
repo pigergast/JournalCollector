@@ -1,11 +1,12 @@
 from bs4 import BeautifulSoup
-import requests
+import requests, re, os
 import urllib.parse
-import re
-import os
+from datetime import datetime
+from Bio import Entrez
 from pymed import PubMed
 
 PAGEURL = 'https://libgen.is/scimag/?q='
+
 def getPDF(DOI):
     page = requests.get(f"{PAGEURL}{DOI}")
     soup = BeautifulSoup(page.text, "html.parser")
@@ -30,12 +31,14 @@ def getPDF(DOI):
             continue
     return False, title
 
+
 def getDownloadLink(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.text, "html.parser")
     links = soup.find_all("a", string="GET")
     download_links = {link.string: link["href"] for link in links}
     return download_links['GET']
+
 
 def downloadPdf(url, title):
     isExist = os.path.exists("Downloads")
@@ -44,20 +47,54 @@ def downloadPdf(url, title):
         os.makedirs("Downloads")
     response = requests.get(url)
     fileTitle = re.sub(r'[\\/*?:"<>|]', "", title)
-    file = open(f"Downloads/{fileTitle}" , "wb")
+    file = open(f"Downloads/{fileTitle}", "wb")
     file.write(response.content)
     file.close()
 
-def getListOfDoiByYear(year):
-    ISSN = "1527-6546"  # Journal of Nursing Scholarship ISSN
-    query = f'("{year}/1/1"[Date - Publication] : "{year}/12/31"[Date - Publication]) AND {ISSN}[IS]'
-    pubmed = PubMed(tool="MyTool", email="tangkwo1@hotmail.com")
-    results = pubmed.query(query, max_results=9999)
 
-    doi_list = []
-    for article in results:
-        if article.doi:
-            doi_list.append(article.doi)
+def get_journal_pmcids():
 
-    return doi_list
+    base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+    parameters = {
+        "db": "pmc",
+        "term": '"J Nurs Scholarsh"[jour] open access[filter]',
+        "retmode": "json",
+        "retmax": 100000,  # Adjust the value based on your requirements
+        "usehistory": "y"
+    }
 
+    response = requests.get(base_url, params=parameters)
+    response_json = response.json()
+
+    if 'esearchresult' not in response_json or 'idlist' not in response_json['esearchresult']:
+        print("Error: Invalid API response")
+        return []
+
+    webenv = response_json['esearchresult']['webenv']
+    query_key = response_json['esearchresult']['querykey']
+
+    pmcid_list = []
+    retstart = 0
+    retmax = 10000  # Adjust the value based on your requirements
+
+    while retstart <= int(response_json['esearchresult']['count']):
+        fetch_parameters = {
+            "db": "pmc",
+            "query_key": query_key,
+            "WebEnv": webenv,
+            "retmode": "json",
+            "retstart": retstart,
+            "retmax": retmax
+        }
+
+        fetch_response = requests.get(base_url, params=fetch_parameters)
+        fetch_json = fetch_response.json()
+
+        if 'esearchresult' in fetch_json and 'idlist' in fetch_json['esearchresult']:
+            pmcid_list.extend(fetch_json['esearchresult']['idlist'])
+        else:
+            print("Error: Invalid fetch response")
+
+        retstart += retmax
+
+    return pmcid_list
