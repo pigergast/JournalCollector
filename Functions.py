@@ -52,12 +52,12 @@ def downloadPdf(url, title):
     file.close()
 
 
-def get_journal_pmcids():
+def get_journal_pmcids(dateRange):
 
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     parameters = {
         "db": "pmc",
-        "term": '"J Nurs Scholarsh"[jour] open access[filter]',
+        "term": '"J Nurs Scholarsh"[jour] AND open access[filter] AND ' + dateRange,
         "retmode": "json",
         "retmax": 100000,  # Adjust the value based on your requirements
         "usehistory": "y"
