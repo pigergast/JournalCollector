@@ -1,27 +1,25 @@
 from bs4 import BeautifulSoup
 import requests, re, os
 import urllib.parse
-from datetime import datetime
-from Bio import Entrez
-from pymed import PubMed
 
 PAGEURL = 'https://libgen.is/scimag/?q='
+
 
 def getPDF(DOI):
     page = requests.get(f"{PAGEURL}{DOI}")
     soup = BeautifulSoup(page.text, "html.parser")
     downloadList = []
-    mirrors = soup.find_all('ul', {"class" : "record_mirrors" })
-    if(len(mirrors) != 1):
+    mirrors = soup.find_all('ul', {"class": "record_mirrors"})
+    if (len(mirrors) != 1):
         return False, "No PDF found"
     safeDOI = urllib.parse.quote(DOI, safe='')
     title = soup.find('a', href=f'/scimag/{safeDOI}').text
     for li in mirrors:
         for a in li.find_all('a'):
             link = a['href']
-            if(link.startswith('http://library.lol')):
+            if (link.startswith('http://library.lol')):
                 downloadList.append(getDownloadLink(a['href']))
-    #Go through each link in the download list and attempt to download. If download is successful, return true, else return false. If error occur, print exception
+    # Go through each link in the download list and attempt to download. If download is successful, return true, else return false. If error occur, print exception
     for link in downloadList:
         try:
             downloadPdf(link, f"{title}.pdf")
@@ -52,8 +50,17 @@ def downloadPdf(url, title):
     file.close()
 
 
-def get_journal_pmcids(dateRange):
+def PMCLinkExtractor(pmcId):
+    response = requests.get(f"https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC{pmcId}")
+    soup = BeautifulSoup(response.text, "html.parser")
+    #if there is no pdf link, skip
+    if soup.find('link', format='pdf') is None:
+        return None
+    link = soup.find('link', format='pdf')['href'].replace('ftp://', 'https://')
+    return link
 
+
+def get_journal_pmcids(dateRange):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     parameters = {
         "db": "pmc",
