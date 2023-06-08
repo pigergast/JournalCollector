@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
-import requests, re, os
+import requests, re, os, csv, json
 import urllib.parse
+# pip install lxml
 
 PAGEURL = 'https://libgen.is/scimag/?q='
 
@@ -105,3 +106,54 @@ def get_journal_pmcids(dateRange):
         retstart += retmax
 
     return pmcid_list
+
+
+def get_pmid_from_pmcid(pmcid):
+    url = f"https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids=PMC{pmcid}"
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for non-2xx status codes
+        soup = BeautifulSoup(response.content, "lxml-xml")
+
+        records = soup.find_all("record")
+        if len(records) > 0:
+            record = records[0]
+            pmid = record.get("pmid")
+            return pmid
+    except requests.exceptions.RequestException as e:
+        print("Error occurred:", str(e))
+
+    return None
+
+
+def fetch_article_info(pmid):
+    url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={pmid}"
+    response = requests.get(url)
+
+    try:
+        response.raise_for_status()  # Check if the request was successful
+        json_data = response.json()
+
+        # Extract article title and type
+        article_title = json_data["PubmedArticle"][0]["MedlineCitation"]["Article"]["ArticleTitle"]
+        article_type = \
+        json_data["PubmedArticle"][0]["MedlineCitation"]["Article"]["PublicationTypeList"]["PublicationType"][0]["UI"]
+
+        return article_title, article_type
+    except (requests.RequestException, KeyError) as e:
+        print(f"Error fetching article info for PMID {pmid}: {e}")
+        print("Response content:")
+        print(response.text)  # Print the response content for inspection
+        return None, None
+
+
+def write_summary_csv(pmid_list):
+    with open("summary.csv", "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["PMID", "Article Title", "Article Type"])
+
+        for pmid in pmid_list:
+            article_title, article_type = fetch_article_info(pmid)
+            writer.writerow([pmid, article_title, article_type])
+            print(f"Saved info for PMID {pmid} to summary.csv")
