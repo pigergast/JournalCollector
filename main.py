@@ -38,23 +38,31 @@ if __name__ == '__main__':
                         tar.extract(tarinfo, path="Downloads")
                         break
                 tar.close()
+                continue
         Functions.downloadPdf(link, "PMC" + pmcid + ".pdf")
         successful += 1
-
+    print("-------------------")
     print("SUMMARY:")
     print("Number of successful downloads: " + str(successful))
     print("Number of unsuccessful downloads: " + str(unsuccessful))
 
-    # get metadata and create summary.csv
-    # first get pmid from pmcid
-    pmid_list = []
+    # get doi from pmcid
+    doi_list = []
     for pmcid in pmcids:
-        pmid = Functions.get_pmid_from_pmcid(pmcid)
-        pmid_list.append(pmid)
-    print("Numbers of PMID found from the PMC Open Access Subset: " + str(len(pmid_list)))
-    print(pmid_list)
-    # second get metadata from pmid
-    # Functions.write_summary_csv(pmid_list)
+        doi = Functions.get_doi_from_pmcid(pmcid)
+        doi_list.append(doi)
+    print(len(doi_list))
+    print(doi_list)
+    # get metadata from doi using https://api.crossref.org/v1/works/ and write to csv
+    types = []
+    for doi in doi_list:
+        type = Functions.get_article_type(doi)
+        types.append(type)
+
+    Functions.write_to_csv(doi_list, types)
+    print("Done writing")
+
+
 
 
 
