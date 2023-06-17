@@ -1,6 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
-
+import tarfile
 import Functions
 from datetime import datetime
 
@@ -23,11 +21,23 @@ if __name__ == '__main__':
     unsuccessful = 0
     for pmcid in pmcids:
         print("Processing PMC" + pmcid)
-        link = Functions.PMCLinkExtractor(pmcid)
+        link = Functions.PMCPDFLinkExtractor(pmcid)
         if(link is None):
-            print("No PDF link for PMC" + pmcid)
-            unsuccessful += 1
-            continue
+            link = Functions.PMCTARGZLinkExtractor(pmcid)
+            if (link is None):
+                print("No PDF/TAR.GZ link for PMC" + pmcid)
+                unsuccessful += 1
+                continue
+            else:
+                successful += 1
+                Functions.downloadTarGz(link, "PMC" + pmcid + ".tar.gz")
+                tar = tarfile.open("Downloads/tarGz/PMC" + pmcid + ".tar.gz", "r:gz")
+                #extract PDF from tar.gz
+                for tarinfo in tar:
+                    if tarinfo.name.endswith(".pdf"):
+                        tar.extract(tarinfo, path="Downloads")
+                        break
+                tar.close()
         Functions.downloadPdf(link, "PMC" + pmcid + ".pdf")
         successful += 1
 

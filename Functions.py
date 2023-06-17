@@ -50,8 +50,19 @@ def downloadPdf(url, title):
     file.write(response.content)
     file.close()
 
+def downloadTarGz(url, title):
+    isExist = os.path.exists("Downloads/tarGz")
+    if not isExist:
+        # Create a new directory because it does not exist
+        os.makedirs("Downloads/tarGz")
+    response = requests.get(url)
+    fileTitle = re.sub(r'[\\/*?:"<>|]', "", title)
+    file = open(f"Downloads/tarGz/{fileTitle}", "wb")
+    file.write(response.content)
+    file.close()
 
-def PMCLinkExtractor(pmcId):
+
+def PMCPDFLinkExtractor(pmcId):
     response = requests.get(f"https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC{pmcId}")
     soup = BeautifulSoup(response.text, "html.parser")
     #if there is no pdf link, skip
@@ -59,6 +70,15 @@ def PMCLinkExtractor(pmcId):
         return None
     link = soup.find('link', format='pdf')['href'].replace('ftp://', 'https://')
     return link
+def PMCTARGZLinkExtractor(pmcId):
+    response = requests.get(f"https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC{pmcId}")
+    soup = BeautifulSoup(response.text, "html.parser")
+    # if there is no pdf link, skip
+    if soup.find('link', format='tgz') is None:
+        return None
+    link = soup.find('link', format='tgz')['href'].replace('ftp://', 'https://')
+    return link
+
 
 
 def get_journal_pmcids(dateRange):
