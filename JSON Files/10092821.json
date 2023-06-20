@@ -1,0 +1,2030 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12819" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36264005</article-id>
+      <article-id pub-id-type="pmc">10092821</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12819</article-id>
+      <article-id pub-id-type="publisher-id">JNU12819</article-id>
+      <article-id pub-id-type="other">JNU-04-22-248.R1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Original Manuscript</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Clinical Scholarship</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Clinical indicators of acute deterioration in persons who reside in residential aged care facilities: A rapid review</article-title>
+        <alt-title alt-title-type="right-running-head">Acute deterioration&#x2010;clinical indicators</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12819-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Chambers</surname>
+            <given-names>Shirley</given-names>
+          </name>
+          <degrees>BHlthSc(Hons), PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9652-9440</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>se.connell@qut.edu.au</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12819-cr-0002" contrib-type="author">
+          <name>
+            <surname>Spooner</surname>
+            <given-names>Amy</given-names>
+          </name>
+          <degrees>BNurs, GradCert (ICU Nrs), GradDip (ICU Nrs), PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1830-1851</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0003" contrib-type="author">
+          <name>
+            <surname>Parker</surname>
+            <given-names>Christina</given-names>
+          </name>
+          <degrees>BNurs, PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3834-205X</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0004" contrib-type="author">
+          <name>
+            <surname>Jack</surname>
+            <given-names>Leanne</given-names>
+          </name>
+          <degrees>BNurs, GradCert (ICU Nrs), GradDip (ICU Nrs), PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7154-4721</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12819-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0005" contrib-type="author">
+          <name>
+            <surname>Schnitker</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <degrees>PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1157-2277</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12819-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0006" contrib-type="author">
+          <name>
+            <surname>Beattie</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <degrees>PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9779-0605</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12819-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0007" contrib-type="author">
+          <name>
+            <surname>Yates</surname>
+            <given-names>Patsy</given-names>
+          </name>
+          <degrees>DipAppSc, BA, MSocSc, PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8946-8504</contrib-id>
+          <xref rid="jnu12819-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12819-cr-0008" contrib-type="author">
+          <name>
+            <surname>MacAndrew</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <degrees>DipApplSc(Nursing), BApplSc (Nursing), GradCertAcadPract, GradCert Nurs(Ageing &amp; Dementia), PhD, RN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3724-9980</contrib-id>
+          <xref rid="jnu12819-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12819-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12819-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing</named-content>
+<institution>Queensland University of Technology</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12819-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing, Midwifery and Social Sciences</named-content>
+<institution>Central Queensland University</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12819-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Bolton Clarke</institution>
+<city>Kelvin Grove</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12819-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Dementia Collaborative Research Centre</named-content>
+<institution>Queensland University of Technology</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12819-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Health, Office of the Executive Dean</named-content>
+<institution>Queensland University of Technology</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Shirley Chambers, School of Nursing, Queensland University of Technology, Brisbane, QLD, Australia.<break/>
+Email: <email>se.connell@qut.edu.au</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>55</volume>
+      <issue seq="360">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>365</fpage>
+      <lpage>377</lpage>
+      <history>
+<date date-type="rev-recd"><day>29</day><month>7</month><year>2022</year></date>
+<date date-type="received"><day>08</day><month>4</month><year>2022</year></date>
+<date date-type="accepted"><day>14</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-365.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12819-sec-0001">
+          <title>Purpose</title>
+          <p>To identify the clinical indicators of acute deterioration in residents and the factors that influence residential aged care facility staff's identification of these.</p>
+        </sec>
+        <sec id="jnu12819-sec-0002">
+          <title>Design</title>
+          <p>Rapid review and narrative synthesis.</p>
+        </sec>
+        <sec id="jnu12819-sec-0003">
+          <title>Methods</title>
+          <p>The WHO and Cochrane Rapid Review Methods Group recommendations guided the review processes. CINAHL, Medline, PubMed, and the Cochrane Library were searched from 2000 to January 2022. Data related to clinical indicators of deterioration were categorized using the Airway, Breathing, Circulation, Disability, Exposure assessment framework, and factors influencing detection were grouped as consumer (resident and family), aged care workforce, and organization factors.</p>
+        </sec>
+        <sec id="jnu12819-sec-0004">
+          <title>Results</title>
+          <p>Twenty publications were included of which 14 informed clinical indicators; nine highlighted factors that influence staff's identification of these and three informed both. Included article were collectively below moderate quality. Most clinical indicators were grouped into the &#x2018;Disability&#x2019; category with altered level of consciousness, behavior, and pain identified most frequently. Few studies reported more traditional indicators of deterioration used in the general population &#x2013; changes in vital signs. The most common factors influencing the detection of acute deterioration were organizational and workforce&#x2010;related including resource, knowledge, and confidence deficits.</p>
+        </sec>
+        <sec id="jnu12819-sec-0005">
+          <title>Conclusion</title>
+          <p>Findings suggest subtle changes in resident's health status, rather than focusing primarily on physiologic parameters used in early warning tools for acute care settings, should be recognized and considered in the design of early warning tools for residential aged care facilities.</p>
+        </sec>
+        <sec id="jnu12819-sec-0006">
+          <title>Clinical Relevance</title>
+          <p>Early warning tools sensitive to the unique needs of residents and support for aged care facility staff are recommended to improve the capacity of aged care facility care staff to identify and manage acute deterioration early to avoid hospitalization.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12819-kwd-0001">aged specific care</kwd>
+        <kwd id="jnu12819-kwd-0002">clinical assessment tools</kwd>
+        <kwd id="jnu12819-kwd-0003">clinical deterioration</kwd>
+        <kwd id="jnu12819-kwd-0004">clinical indicator</kwd>
+        <kwd id="jnu12819-kwd-0005">early warning score</kwd>
+        <kwd id="jnu12819-kwd-0006">rapid review</kwd>
+        <kwd id="jnu12819-kwd-0007">residential care</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>
+            <institution-wrap>
+              <institution>Health Innovation, Investment and Research Office
+</institution>
+              <institution-id institution-id-type="doi">10.13039/100011334</institution-id>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+        <award-group id="funding-0002">
+          <funding-source>
+            <institution-wrap>
+              <institution>Queensland University of Technology
+</institution>
+              <institution-id institution-id-type="doi">10.13039/501100001793</institution-id>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="2"/>
+        <page-count count="13"/>
+        <word-count count="8621"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:12.04.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12819-cit-2001">
+<string-name>
+<surname>Chambers</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Spooner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jack</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schnitker</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Beattie</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>, <given-names>P.</given-names>
+</string-name> &amp; <string-name>
+<surname>MacAndrew</surname>, <given-names>M.</given-names>
+</string-name> (<year>2023</year>). <article-title>Clinical indicators of acute deterioration in persons who reside in residential aged care facilities: A rapid review</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>365</fpage>&#x2013;<lpage>377</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12819</pub-id>
+<pub-id pub-id-type="pmid">36264005</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12819-body-0001">
+    <sec id="jnu12819-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>Persons who live in residential aged care facilities (residents) are often frail and have complex physical, cognitive and social care needs, multiple morbidities, high&#x2010;symptom burden, and reduced quality of life (Eagar et al.,&#xA0;<xref rid="jnu12819-bib-0017" ref-type="bibr">2020</xref>). In Australia, these residents have a greater likelihood of being transferred to emergency departments and hospitalized compared to their non&#x2010;residential aged care residing counterparts (Australian Institute of Health and Welfare,&#xA0;<xref rid="jnu12819-bib-0007" ref-type="bibr">2019</xref>). Individuals aged &gt;50&#x2009;years not living in residential aged care facilities, in 2016&#x2013;17, had fewer emergency department presentations (14%) and fewer hospital admissions (31%) than their residential aged care facilities&#x2010;residing counterparts (almost 32% and 37%, respectively) (Australian Institute of Health and Welfare,&#xA0;<xref rid="jnu12819-bib-0007" ref-type="bibr">2019</xref>). However, there is evidence that around 13&#x2013;40% of hospital admissions involving residents could be avoided (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>) and that a transfer of residents to an emergency department and/or hospital admission place them at higher risk of developing delirium and other hospital&#x2010;acquired adverse events (Fox et al.,&#xA0;<xref rid="jnu12819-bib-0019" ref-type="bibr">2020</xref>). The early detection of acute deterioration, a sudden change in health status &#x2018;to the point where a medical or nursing review may be needed&#x2019; (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>, p. e993), provides an opportunity to intervene early, thus preventing further/severe physiological derangement and subsequent adverse outcomes (Campbell et al.,&#xA0;<xref rid="jnu12819-bib-0012" ref-type="bibr">2020</xref>). Detecting early warning signs of acute deterioration and implementing appropriate management plans in the residential aged care facilities (in&#x2010;house), are therefore essential to prevent further deterioration that can result in a transfer to hospital (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>).</p>
+      <p>Early warning scoring systems (EWSSs) are tools that assign a numeric value to physiological parameters (e.g., heart rate) to derive a score and identify whether a person is deteriorating (Smith et al.,&#xA0;<xref rid="jnu12819-bib-0041" ref-type="bibr">2014</xref>). These tools use the principles of the primary survey of airways (clear airway), breathing (respiratory rate and effort), circulation (pulse rate and blood pressure), disability (level of consciousness), and exposure (temperature and injury) and have been implemented internationally and in Australian tertiary care hospitals to improve the detection of acute deterioration (Australian Commission on Safety and Quality in Health Care,&#xA0;<xref rid="jnu12819-bib-0004" ref-type="bibr">2019</xref>). The impacts of using these tools include improvements in vital sign documentation, culminating in fewer unplanned intensive care unit admissions and hospital deaths (Mitchell et al.,&#xA0;<xref rid="jnu12819-bib-0030" ref-type="bibr">2010</xref>). An example of an early warning scoring system commonly used in tertiary care hospitals is the modified early warning score (MEWS) (Downey et al.,&#xA0;<xref rid="jnu12819-bib-0016" ref-type="bibr">2017</xref>), which is also used to predict the length of stay, in&#x2010;hospital outcomes, critical care admissions, and mortality.</p>
+      <p>However, early warning score systems rely on monitoring trends in clinical parameters (blood pressure, temperature, pulse, respiratory rate, and oxygen saturation) to be tracked and documented daily (Downey et al.,&#xA0;<xref rid="jnu12819-bib-0016" ref-type="bibr">2017</xref>). Physiological changes that occur with aging alter the presentation of acute illness in the older person and changes in these clinical parameters may only occur once the disease is well advanced, if at all (Jarvis,&#xA0;<xref rid="jnu12819-bib-0023" ref-type="bibr">2016</xref>). Further, unlike tertiary care settings, residential aged care provides residents with a more home&#x2010;like environment with greater emphasis on supporting health, wellbeing, social life, and safety (Australian Government: My Aged Care,&#xA0;<xref rid="jnu12819-bib-0006" ref-type="bibr">n.d.</xref>) and daily monitoring of clinical parameters is not routine care for all residents. Finally, the unique skill mix of the aged care workforce can be problematic as the majority of the workforce do not have the skills to conduct this level of assessment (Australian Royal Commission into Aged Care Quality and Safety,&#xA0;<xref rid="jnu12819-bib-0008" ref-type="bibr">2021</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>). These factors are barriers to the acceptability, feasibility, and validity of using existing early warning score systems in residential aged care.</p>
+      <p>The aged care workforce comprises regulated (e.g., nurse practitioners, registered nurses, and enrolled nurses/licensed vocational nurses) and unregulated care staff (personal care workers/assistants; assistants in nursing), and other non&#x2010;clinical personnel (Australian College of Nursing,&#xA0;<xref rid="jnu12819-bib-0003" ref-type="bibr">2020</xref>). Between 2003 and 2016, the number of registered nurses (21%&#x2013;14.4%) and enrolled nurses (14.4%&#x2013;9.3%) declined and the number of personal care workers/assistants in nursing increased from 56.5% to over 70% of residential aged care staff (Eagar et al.,&#xA0;<xref rid="jnu12819-bib-0018" ref-type="bibr">2019</xref>), a trend that is being seen internationally (OECDiLibrary,&#xA0;<xref rid="jnu12819-bib-0032" ref-type="bibr">2019</xref>). Only regulated nursing staff have adequate training to comprehensively assess for the signs and symptoms of deterioration (Eagar et al.,&#xA0;<xref rid="jnu12819-bib-0018" ref-type="bibr">2019</xref>) and to use validated early warning assessment tools. However, unregulated staff, who spend most time with residents, are better positioned to detect the early warning signs of acute deterioration, though do not have training to detect variation in clinical parameters, including monitoring vital signs. This may arguably contribute to the failure to detect signs of deterioration which delays initiating appropriate action (Australian Royal Commission into Aged Care Quality and Safety,&#xA0;<xref rid="jnu12819-bib-0008" ref-type="bibr">2021</xref>). To inform the development of an acceptable and feasible early warning system for residential aged care and support for the aged care workforce in a timely manner, a rapid review of literature was conducted that aimed to identify the clinical indicators of acute deterioration in residents and to identify the factors that influence residential aged care facility staff's identification of these.</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12819-sec-0008">
+      <title>METHODS</title>
+      <p>Due to the current crisis in aged care, as declared by the Australian Royal Commission into Aged Care Quality and Safety&#xA0;(<xref rid="jnu12819-bib-0008" ref-type="bibr">2021</xref>), a rapid review was undertaken to expediate the process to allow findings to inform the other phases of work being done by authors; to develop an early warning tool specifically designed for use in residential aged care settings to detect the early clinical indicators of acute deterioration in residents. The rapid processes used for this review were underpinned by the WHO rapid review guidelines (Tricco et al.,&#xA0;<xref rid="jnu12819-bib-0045" ref-type="bibr">2017</xref>) and the Cochrane Rapid Reviews Methods Group recommendations (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). The review is reported against the Preferred Reporting Items for Systematic Reviews and Meta&#x2010;Analysis (PRIMSA) guidelines (Moher et al.,&#xA0;<xref rid="jnu12819-bib-0031" ref-type="bibr">2009</xref>). The review protocol is registered with PROSPERO; registration number: CRD42021226996 (revised September 29, 2021). For the review purpose, it was assumed that nursing homes, care homes, skilled nursing facilities, long stay care homes, and special homes for institutionalized older persons are comparable to Australian residential aged care facilities.</p>
+      <sec id="jnu12819-sec-0009">
+        <title>Search strategy</title>
+        <p>The review's eligibility criteria were formulated applying the mnemonic Condition, Context and Population (CoCoPop) system for review protocols (Joanna Briggs Institute,&#xA0;<xref rid="jnu12819-bib-0024" ref-type="bibr">2020</xref>). The condition of interest for this rapid review was to identify the clinical indicators that flag early deterioration of persons who reside in residential aged care settings (the context). The population of interest included persons who reside in residential aged care facilities and nursing and other care staff of such facilities.</p>
+        <p>Preliminary searches were undertaken in the CINAHL database using the relevant basic search terms &#x201C;aged care&#x201D;, &#x201C;nursing home&#x201D;, &#x201C;residential aged care&#x201D;, &#x201C;deterioration&#x201D;, clinical, and &#x201C;early warning score&#x201D;. The search strategy was then established with university health librarian assistance and the collective opinions of experts in the field. Search strings of keywords and index terms identified in the preliminary search results, together with relevant Medical Subject Heading (MeSH) terms, such as &#x201C;Age Specific Care&#x201D;, &#x201C;Nursing Homes+&#x201D;, &#x201C;Residential Care+&#x201D;, &#x201C;Clinical Deterioration&#x201D;, and &#x201C;Early Warning Score&#x201D; were used. This strategy was then tested in CINAHL and reviewed by peers (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>) and modified accordingly. The final search strategy was adapted slightly to suit the other databases searched (Medline, PubMed, and Cochrane Library). Searches were undertaken using the latest database and citation searching technologies (SC and MM) (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). See Appendix&#xA0;<xref rid="jnu12819-supitem-0001" ref-type="supplementary-material">S1</xref> for search strategy examples for each database.</p>
+        <p>The reference lists of the accepted papers (upon full text review) were searched for additional studies by two authors (S. C. and A. S.).</p>
+      </sec>
+      <sec id="jnu12819-sec-0010">
+        <title>Eligibility criteria</title>
+        <p>Included articles were those reporting original research findings, relevant reviews (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>), and PhD or Masters Dissertations (only gray literature included) published between 2000 and January 2022 (to account for changes in technologies and aged care population trends). These publications reported outcomes related to the clinical indicators of acute deterioration of residents living in residential aged care settings, and factors that impact on and influence the identification of these. Excluded publications were those with populations not living or working in residential aged care settings, not published in English, single case studies or case reports, non&#x2010;peer reviewed papers, editorials, letters, discussion and expert opinion pieces, and other gray literature.</p>
+      </sec>
+      <sec id="jnu12819-sec-0011">
+        <title>Study selection</title>
+        <p>Records were de&#x2010;duplicated via automated processes in EndNote (X9.3.1). Two authors (S. C. and A. S.) independently screened all identified titles. A tailored abstract screening tool was developed (by S. C.) and piloted across 20 abstracts by two authors (S. C., A. S.), and was revised accordingly (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). All remaining abstracts were dual screened independently by two authors (S. C. screened all abstracts and the other authors were allocated a selection of consecutive abstracts for the second review). The full&#x2010;text of selected records from the abstract screening process were independently reviewed by two authors (using the same methods as per abstract review) using a tailored full&#x2010;text review excel spreadsheet as a guide. Disagreements were resolved via discussion between the two reviewing authors, or with input from a third author as necessary.</p>
+      </sec>
+      <sec id="jnu12819-sec-0012">
+        <title>Data extraction</title>
+        <p>Relevant data were extracted from all included studies by S. C. and entered into the full&#x2010;text review excel spreadsheet. Other authors were each allocated a selection of publications to check extracted data for correctness and completeness (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). To reach consensus, disagreements were discussed, and a third author consulted, as necessary (C. P. or M. M.). The data extracted included standard publication details, study purpose/aims, results relevant to this review (clinical indicators and factors that influence identification of these), details of interventions, and limitations.</p>
+      </sec>
+      <sec id="jnu12819-sec-0013">
+        <title>Quality assessment</title>
+        <p>Research publications were quality assessed using the 16&#x2010;item Quality Appraisal Tool in Studies with Diverse Designs (QATSDD) (Sirriyeh et al.,&#xA0;<xref rid="jnu12819-bib-0040" ref-type="bibr">2012</xref>) on a 4&#x2010;point scale (item addressed: 0&#x2010;not at all; 1&#x2010;very slightly; 2&#x2010;moderately; 3&#x2010;completely). The critical appraisal skills programme (CASP) (Critical Appraisal Skills Programme,&#xA0;<xref rid="jnu12819-bib-0015" ref-type="bibr">2018</xref>) systematic review checklist was used to assess quality of review papers. The quality of the included publications was assessed by S. C. and a second author independently verified all judgments (and supporting statements) (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). Percentage of inter&#x2010;rater agreements and an average quality score across all included records were computed (Sirriyeh et al.,&#xA0;<xref rid="jnu12819-bib-0040" ref-type="bibr">2012</xref>). Publications were not excluded if deemed to be of poor quality, rather the collective quality of the included papers was of interest.</p>
+      </sec>
+      <sec id="jnu12819-sec-0014">
+        <title>Synthesis</title>
+        <p>Due to the heterogeneity of study designs, a narrative analysis was used to synthesize study findings. As the primary survey (Airways, Breathing, Circulation, Disability, Exposure [ABCDE]) underpins the data collected by early warning scoring systems and is the gold standard approach to assessing acute deterioration globally (Resuscitation Council UK,&#xA0;<xref rid="jnu12819-bib-0039" ref-type="bibr">2014</xref>), the identified clinical indicators were categorized by clinically trained authors (all but S. C.), in a series of workshops, using this framework as a means of identifying and organizing the most common clinical indicators used in practice. An &#x2018;Other&#x2019; category captured indicators that did not fit within the Airways, Breathing, Circulation, Disability, Exposure categories, and were grouped logically. Factors that influence the identification of acute deterioration were categorized according to the source: consumers (residents and their families), workforce/others, and organization (Australian Government: Aged Care Quality and Safety Commission,&#xA0;<xref rid="jnu12819-bib-0005" ref-type="bibr">2021</xref>). Consensus of categories of factors was reached across all authors through a series of workshops.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12819-sec-0015">
+      <title>RESULTS</title>
+      <p>Of the 2127 records identified, 840 duplicates were removed, 1213 were excluded upon title and abstract screening and 74 papers were full text reviewed. Of these, 54 were excluded due to not meeting selection criteria; 20 records were included (19 research papers and one review paper). Reasons for exclusion were divided into six categories, the most common was not aligning to the review's aims (not relevant) (<italic toggle="yes">n</italic>&#xA0;=&#xA0;43), and not being based in residential aged care facilities (wrong setting) (<italic toggle="yes">n</italic>&#xA0;=&#xA0;8), e.g., hospital based. See full details in Figure&#xA0;<xref rid="jnu12819-supitem-0002" ref-type="supplementary-material">S2</xref>.</p>
+      <sec id="jnu12819-sec-0016">
+        <title>Quality assessment</title>
+        <p>Quality assessment interrater agreement of the 19 research publications and the review paper was 93% and 60% respectively. These 19 research publications were collectively rated to be less than moderate quality (median 1.7, range 0.8&#x2013;2.5) from a possible maximum score of 3 (higher quality). The review paper (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>) met six of the 10 CASP quality items (Critical Appraisal Skills Programme,&#xA0;<xref rid="jnu12819-bib-0015" ref-type="bibr">2018</xref>). Quality assessment scores can be found under author details in Tables&#xA0;<xref rid="jnu12819-tbl-0001" ref-type="table">1</xref> and <xref rid="jnu12819-tbl-0002" ref-type="table">2</xref>.</p>
+        <table-wrap position="float" id="jnu12819-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Matrix &#x2013; clinical indicators of acute deterioration of residents of residential aged care facilities</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Clinical indicators (quality score<xref rid="jnu12819-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Barker et al., <xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref> (1.9)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Little et al., <xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref> (1.8)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref> (0.9)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Stansfield, <xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref> (2.4)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref> (1.6)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref> (2.0)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Ouslander et al.&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref> (1.1)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Ashcraft &amp; Champion, <xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref> (1.1)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Ouslander et al. <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref> (1.1)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Cohen&#x2010;Mansfield &amp; Lipson, <xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref> (1.3)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Unroe et al., <xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref> (1.6)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Boockvar et al., <xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref> (1.9)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Boockvar &amp; Lachs, <xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref> (1.7)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Stocker et al., <xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref> (2.3)</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" colspan="14" valign="top" rowspan="1">Airway</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">New/changed cough</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dysphagia</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="15" valign="top" rowspan="1">Breathing</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Work of breathing</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Altered vital signs</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="15" valign="top" rowspan="1">Circulation</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Altered vital signs</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Altered circulation</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chest pain</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="15" valign="top" rowspan="1">Disability</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Altered LOC</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Seizure</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Changed behavior &amp; mood</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fatigue &amp; lethargy</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Pain</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="15" valign="top" rowspan="1">Exposure</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Infection</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Altered skin integrity</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Injury &amp; falls</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="15" valign="top" rowspan="1">Other</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Intake &amp; output</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change in weight</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Nausea &amp; vomiting</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Abnormal labs</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Self&#x2010;reported complaints</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Functional decline</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change in continence</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2713;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12819-ntgp-0001">
+            <fn id="jnu12819-note-0001">
+              <p>Abbreviation: LOC, Level of Consciousness.</p>
+            </fn>
+            <fn id="jnu12819-note-0002">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Quality Assessment Score: Quality assessment tool for studies with diverse designs (QATSDD) &#x2013; maximum score&#xA0;=&#xA0;3 (higher score&#xA0;=&#xA0;higher quality).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="jnu12819-tbl-0002" content-type="TABLE">
+          <label>TABLE 2</label>
+          <caption>
+            <p>Matrix &#x2010; factors that influence the identification of acute deterioration of residents of residential aged care facilities</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Factors (quality score<xref rid="jnu12819-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>, <xref rid="jnu12819-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref> (2.5)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>, <xref rid="jnu12819-note-0006" ref-type="table-fn">
+<sup>c</sup>
+</xref> (60%<xref rid="jnu12819-note-0007" ref-type="table-fn">
+<sup>d</sup>
+</xref>)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>, <xref rid="jnu12819-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref> (1.8)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>, <xref rid="jnu12819-note-0008" ref-type="table-fn">
+<sup>f</sup>
+</xref> (2.2)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>, <xref rid="jnu12819-note-0009" ref-type="table-fn">
+<sup>g</sup>
+</xref> (0.8)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>, <xref rid="jnu12819-note-0010" ref-type="table-fn">
+<sup>h</sup>
+</xref> (1.8)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>, <xref rid="jnu12819-note-0011" ref-type="table-fn">
+<sup>i</sup>
+</xref> (1.6)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>, <xref rid="jnu12819-note-0012" ref-type="table-fn">
+<sup>j</sup>
+</xref> (1.9)</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>, <xref rid="jnu12819-note-0013" ref-type="table-fn">
+<sup>k</sup>
+</xref> (2.3)</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" colspan="10" valign="top" rowspan="1">Consumer&#x2010;related factors</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Consumers' knowledge of resident</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Social pressures: Pressure on nurses to perform</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Undervalued: Lack confidence in nurses</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="10" valign="top" rowspan="1">Workforce/others&#x2010;related factors</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Communication issues</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Strength of relationships</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Confidence</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Knowledge and skills</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Undervalued: by work peers; stigma of working in RACF</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Role/scope of practice</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Social pressures: Response influenced by perceived expectations of others</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Knowing the resident</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Teamwork</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" colspan="10" valign="top" rowspan="1">Organization&#x2010;related factors</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Under resourced</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Care staff skill mix</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Managing workload</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Knowledge and skills</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Equipment</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Access to healthcare professionals/services</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RACF culture</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">RACF philosophy</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Undervalued: RN scope of practice minimized</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RACF structure/policy</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Role/scope of practice</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Policy</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Variation in services for RACFs</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Collaborate/communicate</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/P</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">N</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12819-ntgp-0002">
+            <fn id="jnu12819-note-0003">
+              <p>Abbreviations: N, Negative factor; N/P, Can be Negative or Positive, depends on circumstances, e.g., positive after hospital avoidance type intervention; P, Positive factor; RACF, Residential Aged Care Facility; RN, Registered Nurse.</p>
+            </fn>
+            <fn id="jnu12819-note-0004">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Quality Assessment Score: Quality assessment tool for studies with diverse designs (QATSDD) &#x2013; maximum score&#xA0;=&#xA0;3 (higher score&#xA0;=&#xA0;higher quality).</p>
+            </fn>
+            <fn id="jnu12819-note-0005">
+              <label>
+<sup>b</sup>
+</label>
+              <p>Context: Recognition and value of nursing assessment in nursing home setting.</p>
+            </fn>
+            <fn id="jnu12819-note-0006">
+              <label>
+<sup>c</sup>
+</label>
+              <p>Context: Synthesis of qualitative papers about nursing home staff's decision making to transfer resident to hospital.</p>
+            </fn>
+            <fn id="jnu12819-note-0007">
+              <label>
+<sup>d</sup>
+</label>
+              <p>Quality assessment using CASP percentage of agreement of quality items.</p>
+            </fn>
+            <fn id="jnu12819-note-0008">
+              <label>
+<sup>e</sup>
+</label>
+              <p>Context: Post introduction of hospital avoidance program (14&#x2013;15&#xA0;months) &#x2013; examined nursing staff's perceptions of managing deteriorating residents.</p>
+            </fn>
+            <fn id="jnu12819-note-0009">
+              <label>
+<sup>f</sup>
+</label>
+              <p>Context: Pre/post hospital avoidance program implementation &#x2013; study looking at factors that influence nursing staff's intentions with and without a hospital avoidance program. <bold>Target</bold> &#x2013;residents of residential aged care facilities. <sup>a</sup>Social pressure from residents and family &#x2010; Multiple regression analysis: this was the only significant predicator of staff intention toward the <bold>target action</bold> (the early detection of deterioration and providing subacute care): <bold>Time 1</bold> Standardized beta&#xA0;=&#xA0;0.0, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.05; <bold>Time 2</bold> Standardized beta&#xA0;=&#xA0;0.8, &lt;0.001 with nursing staff mostly strongly influenced by perceptions of residents, family members and colleagues.</p>
+            </fn>
+            <fn id="jnu12819-note-0010">
+              <label>
+<sup>g</sup>
+</label>
+              <p>Context: Question aimed to elicit common attitudes and beliefs about nursing staff management of the deteriorating resident using Theory of Planned Behavior Framework.</p>
+            </fn>
+            <fn id="jnu12819-note-0011">
+              <label>
+<sup>h</sup>
+</label>
+              <p>Context: Illness identification in acute infection.</p>
+            </fn>
+            <fn id="jnu12819-note-0012">
+              <label>
+<sup>i</sup>
+</label>
+              <p>Context: Nursing assistants' observation/assessment of nursing home residents &#x2010; early warning tool development and validation.</p>
+            </fn>
+            <fn id="jnu12819-note-0013">
+              <label>
+<sup>j</sup>
+</label>
+              <p>Context: Care home stakeholders, most care home senior care staff perspectives of National Early Warning Score (NEWS) implementation in COVID&#x2010;19 environment.</p>
+            </fn>
+            <fn id="jnu12819-note-0014">
+              <label>
+<sup>k</sup>
+</label>
+              <p>Context: Post quality improvement program &#x2013; introduction of Significant 7 (early warning tool).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12819-sec-0017">
+        <title>Characteristics of included studies</title>
+        <p>Included publications were from the USA, Australia, and from four European countries and 11 of the 20 were published between 2016 and 2021. One included paper is a PhD dissertation (Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>) and one a systematic review (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>). The findings of this rapid review are made up of evaluations of a range of hospital avoidance projects, warning tools, and minimum data sets within the context of care home settings. Full details of the included studies can be found in Tables&#xA0;<xref rid="jnu12819-supitem-0003" ref-type="supplementary-material">S3</xref>.1 and <xref rid="jnu12819-supitem-0003" ref-type="supplementary-material">S3</xref>.2.</p>
+      </sec>
+      <sec id="jnu12819-sec-0018">
+        <title>Clinical indicators of early deterioration of residents <italic toggle="no">(106 mentions across</italic>
+<italic toggle="no">n&#xA0;=&#x2009;14</italic>
+<italic toggle="no">publications)</italic>
+</title>
+        <p>No article specifically listed the clinical indicators of acute deterioration of residents. Clinical indicators were extrapolated from items within early warning tools (Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>), and specific variables within a minimum dataset used to screen residents (Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>). Other sources included reasons for/signs and symptoms exhibited by residents pre&#x2010;hospital transfer (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Ouslander et al.&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), non&#x2010;specific symptoms of residents during acute illness episodes (Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>), or what Stocker et al.&#xA0;(<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>) refer to as &#x2018;soft signs&#x2019; of deterioration, and from unregulated care staff's opinions of how resident deterioration is determined (Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>). Details of the data sources used to inform clinical indicators can be found in Table&#xA0;<xref rid="jnu12819-supitem-0004" ref-type="supplementary-material">S4</xref>.</p>
+        <p>The target users of the early warning tools and/or the participants of studies were residential aged care nurses generally (Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>) and more specifically unregulated care staff (personal care workers/assistants; assistants in nursing) (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>) and a variety of regulated nursing staff, such as enrolled nurses/licensed vocational nurses (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>), registered nurses (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), and nurse practitioners (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>). Two papers focused on physicians' perspectives of the signs and symptoms residents exhibit at time of hospital transfer (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>). One paper provided views of stakeholders including National Health Service staff relevant to residential aged care (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>). Table&#xA0;<xref rid="jnu12819-supitem-0003" ref-type="supplementary-material">S3</xref>.1 provides details of the studies that inform clinical indicators.</p>
+        <sec id="jnu12819-sec-0019">
+          <title>Early warning tools used in included studies</title>
+          <p>Early warning tools reported in the included publications include a purpose&#x2010;specific illness warning instrument (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>), from which the Stop and Watch tool used in the INTERACT program was adapted (Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>), the Significant 7 (Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>), and the National Early Warning Score (NEWS) (Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>). Boockvar et al.&#xA0;(<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>) report some validation statistics for their early warning instrument, however, there is no mention of the validation of the Stop and Watch tool in the INTERACT studies (Ouslander, et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>); this tool was only mentioned briefly; these tools are targeted for use by unregulated care staff. Table&#xA0;<xref rid="jnu12819-supitem-0004" ref-type="supplementary-material">S4</xref> provides more information about the early warning tools used in included studies.</p>
+          <p>Below is a summary of the priority indicators of clinical deterioration as grouped into the five categories of primary survey (Airway, Breathing, Circulation, Disability, Exposure) and &#x2018;Other&#x2019;. See Table&#xA0;<xref rid="jnu12819-tbl-0001" ref-type="table">1</xref> for a matrix of these indicators. Table&#xA0;<xref rid="jnu12819-supitem-0005" ref-type="supplementary-material">S5</xref> provides additional details.</p>
+        </sec>
+        <sec id="jnu12819-sec-0020">
+          <title>Airway</title>
+          <p>This category has the least number of identified clinical indicators (3%; 3/106) and comprises two subcategories; <italic toggle="yes">new/changed cough</italic> (Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>) and <italic toggle="yes">dysphagia</italic> (Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>), which includes aspiration.</p>
+        </sec>
+        <sec id="jnu12819-sec-0021">
+          <title>Breathing</title>
+          <p>Clinical indicators that fit within the &#x2018;Breathing&#x2019; category (14%; 15/106), consist of <italic toggle="yes">work of breathing</italic> (includes shortness of breath) and <italic toggle="yes">altered vital signs</italic> (such as oxygen saturation, respiratory rate, hypoxia), which were identified across 10 publications (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>).</p>
+        </sec>
+        <sec id="jnu12819-sec-0022">
+          <title>Circulation</title>
+          <p>Circulation related clinical indicators (15%; 16/106) included three subcategories; <italic toggle="yes">altered vital signs</italic> (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>) (e.g., pulse, blood pressure, temperature), <italic toggle="yes">altered circulation</italic> (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>) (such as bleeding, edema, arrhythmia) and <italic toggle="yes">chest pain</italic> (including chest tightness or pressure) (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>).</p>
+        </sec>
+        <sec id="jnu12819-sec-0023">
+          <title>Disability</title>
+          <p>The most prominent category identified (32%; 34/106) across all but two publications (Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>), &#x2018;Disability&#x2019;, included five subcategories. The most commonly identified &#x2018;Disability&#x2019; was <italic toggle="yes">altered level of consciousness</italic> (such as confusion, mental status change) (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), closely followed by <italic toggle="yes">changed behavior and mood</italic> related indicators (such as delirium, agitation, greeting change) (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), and <italic toggle="yes">pain</italic> (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Ouslander, Naharci, Engstrom, Shutes, Wolf, Alpert, et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016</xref>; Ouslander, Naharci, Engstrom, Shutes, Wolf, Rojido, et al.,&#xA0;<xref rid="jnu12819-bib-0038" ref-type="bibr">2016</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>).</p>
+        </sec>
+        <sec id="jnu12819-sec-0024">
+          <title>Exposure</title>
+          <p>Exposure related indicators (12%; 13/106) included <italic toggle="yes">infection</italic> (Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), <italic toggle="yes">altered skin integrity</italic> (Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>) and <italic toggle="yes">injury and falls</italic> (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>).</p>
+          <sec id="jnu12819-sec-0025">
+            <title>Other</title>
+            <p>This category (24%; 25/106), which encompasses clinical indicators that did not fit into the primary survey categories, were grouped into seven subcategories (see Table&#xA0;<xref rid="jnu12819-supitem-0005" ref-type="supplementary-material">S5</xref> for full details): <italic toggle="yes">intake and output</italic> (such as hydration, decreased food intake) (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>) was the most frequently found &#x2018;Other&#x2019; clinical indicator followed closely by <italic toggle="yes">functional decline</italic> (such as assistance required and weakness) (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>) and <italic toggle="yes">change in continence</italic> (including bloody stool, diarrhea, impaction) (Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>).</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="jnu12819-sec-0026">
+        <title>Factors that influence the identification of acute deterioration <italic toggle="no">(52 mentions across n&#xA0;=&#xA0;9 publications)</italic>
+</title>
+        <p>Factors that influence the identification of acute deterioration were inferred from a variety of study types reporting problems experienced by residential aged care staff when determining acute deterioration (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>), factors influencing the decision to transfer a resident to hospital (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>), and outcomes of hospital avoidance interventions (Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>). In addition, reported perceptions of the deteriorating resident, from the perspective of personnel (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>), using or developing early warning systems for aged care (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>), illness identification in the acute infection context (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>), and problems identified while developing and validating a standardized illness warning instrument informed factors (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>).</p>
+        <p>Targeted participants of the studies (e.g., a variety of aged care staff, residents and their family members) that informed factors that influence the identification of early clinical deterioration can be found in Table&#xA0;<xref rid="jnu12819-supitem-0003" ref-type="supplementary-material">3.2</xref>.</p>
+        <p>Table&#xA0;<xref rid="jnu12819-tbl-0002" ref-type="table">2</xref> summarizes the factors that influence the identification of acute deterioration of residents as grouped into three categories based on the origin of the issue: consumer, workforce and others, and organization&#x2010;related factors.</p>
+        <sec id="jnu12819-sec-0027">
+          <title>Consumer&#x2010;related factors</title>
+          <p>The term &#x2018;consumer&#x2019; refers to the residents and their families or significant others. Few factors that relate specifically to consumers were identified (6%; 3/52). Three subcategories within this grouping include <italic toggle="yes">consumers' knowledge of the resident</italic> which provides clues to the resident's deterioration (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>), <italic toggle="yes">social pressures</italic> placed on care staff from the consumers to detect early deterioration (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), and residential aged care facility staff's perception of being <italic toggle="yes">undervalued</italic> when consumers rate their expertise less than that of hospital staff (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>).</p>
+        </sec>
+        <sec id="jnu12819-sec-0028">
+          <title>Workforce/others&#x2010;related factors</title>
+          <p>The workforce included regulated and unregulated staff working in residential aged care. This grouping (38%; 20/52) comprises four subcategories. The most populated sub&#x2010;category was staff <italic toggle="yes">confidence</italic> which was related to staff's deficit of &#x2018;knowledge and skills&#x2019; to identify and manage acute deterioration (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>). Increased knowledge and skills, after participating in hospital avoidance type projects and training (Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>; Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>), improved the likelihood of identifying acute deterioration. &#x2018;Knowing the resident&#x2019; (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>; O'Neill, Reid&#x2010;Searl, et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017</xref>), which can aid the early identification of acute deterioration, was often expressed in relation to unregulated care staff due to their time spent with residents. Erosion of registered nurses' &#x2018;role and scope of practice&#x2019; (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>), &#x2018;social pressures&#x2019; from work peers (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), and feeling &#x2018;undervalued&#x2019; (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>), too, weaken care staff's confidence. Other subcategories in this grouping include s<italic toggle="yes">trength of relationships</italic> (between nurses and physicians) (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>), <italic toggle="yes">communication issues</italic> between unregulated care staff and registered nurses (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), and between registered nurses and physicians (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>), including the use of a common language by nursing home staff on use of the National Early Warning Score (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>), and <italic toggle="yes">teamwork</italic> between unregulated care staff and registered nurses, which improved upon participation in a hospital avoidance program (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>).</p>
+        </sec>
+        <sec id="jnu12819-sec-0029">
+          <title>Organization&#x2010;related factors</title>
+          <p>Organization refers to the care service specifically and/or the overarching governance of care practices. This grouping contains more than half of all the factors identified (56%; 29/52) across three subcategories. Being <italic toggle="yes">under resourced</italic> was the most frequently mentioned factor that can impact on the identification of deterioration in residents, in particular, &#x2018;care staff mix&#x2019; (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>; Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>) (ratio of regulated and unregulated care staff (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>)) and &#x2018;workload&#x2019; issues (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>, <xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), and inadequate/inconsistent staffing (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>). Factors related to <italic toggle="yes">residential aged care facility culture</italic> include &#x2018;residential aged care facility philosophy&#x2019;, which values organization regimes rather than addressing an individual resident's needs (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), and staff feeling <italic toggle="yes">&#x2018;undervalued&#x2019;</italic> by the organization evidenced by devolved responsibility to unregulated care staff (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>). <italic toggle="yes">Residential aged care facility structure/policy</italic>&#x2010;related factors include nursing staff's &#x2018;role/scope of practice&#x2019; being undermined by residential aged care facility organizations (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>) and upon delegation of duties to less educated/trained care staff (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>). Lack of opportunities to &#x2018;collaborate/communicate&#x2019; with peers and with outside healthcare services (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>) was viewed as problematic, in particular the lack of opportunity to directly communicate with physicians (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>).</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12819-sec-0030">
+      <title>DISCUSSION</title>
+      <p>Due to growing concerns of an increased incidence of avoidable hospitalizations of residents (Australian Royal Commission into Aged Care Quality and Safety,&#xA0;<xref rid="jnu12819-bib-0008" ref-type="bibr">2021</xref>) and associated risks, the impetus to detect acute deterioration of residents early and to provide them with more appropriate management in&#x2010;house is growing (Carter et al.,&#xA0;<xref rid="jnu12819-bib-0013" ref-type="bibr">2020</xref>) with further work pending (Hodge et al.,&#xA0;<xref rid="jnu12819-bib-0022" ref-type="bibr">2021</xref>). The Australian Commission on Safety and Quality in Health Care&#xA0;(<xref rid="jnu12819-bib-0004" ref-type="bibr">2019</xref>) states that &#x201C;recognising deterioration relies on detecting, understanding and interpreting abnormal vital signs and other observations&#x201D; (Intention of &#x2013; Responding to Acute Deterioration Standard), therefore, it is imperative that all care staff of residential aged care facilities can accurately identify early indicators of clinical deterioration. However, physical and psychological changes that occur with old age and impact all systems means that for even a well older person, the use of changes in vital signs and other assessment data collected during a primary survey is not a reliable indicator of acute deterioration. The validity of this method is further compromised when the older person has one or more chronic illness/es, which is true of the majority of older people in residential aged care (Australian Institute of Health and Wellbeing,&#xA0;<xref rid="jnu12819-bib-0007" ref-type="bibr">2019</xref>).</p>
+      <p>This review reports the common clinical indicators of deterioration of residents, as extrapolated from various sources. Of particular interest, few studies reported clinical indicators that align with the <italic toggle="yes">Airway</italic> category (Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), and <italic toggle="yes">Breathing</italic> or <italic toggle="yes">Circulation</italic> categories which suggests these indicators are either not commonly experienced by residents, not often assessed in this cohort, and/or not reported or researched as reasons for a transfer to acute care settings. Conversely, the many disability&#x2010;related clinical indicators, and those in the <italic toggle="yes">Other</italic> category, reflect important subtle changes that are frequently used in residential aged care as an indicator of acute deterioration. This was an interesting finding as these categories have few physiological indicators that are commonly used in the early warning scoring system but highlight several health status changes, such as the resident's mood and behavior (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>; Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>) and functional decline (Ashcraft &amp; Owen,&#xA0;<xref rid="jnu12819-bib-0002" ref-type="bibr">2014</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>; Stansfield,&#xA0;<xref rid="jnu12819-bib-0042" ref-type="bibr">2012</xref>) which can be detected without specialized skills or equipment. Similarly, Ouslander et al.&#xA0;(<xref rid="jnu12819-bib-0036" ref-type="bibr">2018</xref>) found that &#x2018;most acute changes in skilled nursing facility residents&#x2019; conditions' were nonspecific and multiple, highlighting the multifactorial nature of acute changes in this cohort&#x2019; (p. 2259). Therefore, to circumvent unnecessary transfer of residents to acute care settings, the need to look not only for obvious physiological signs of deterioration in residents, such as altered vital signs, but also for subtle changes in residents' health status, demeanor, behavior and functioning, that may indicate early clinical deterioration, cannot be underestimated. However, to detect these observable changes in the resident, an understanding that such &#x2018;soft&#x2019; signs could indicate the person is becoming acutely unwell (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>) and a familiarity with what the resident's usual state is, is necessary.</p>
+      <p>Some attempts have been made to develop and/or validate an early warning tool specifically to assist care staff of residential aged care facilities identify residents' acute clinical deterioration (Barker et al.,&#xA0;<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>). As part of the INTERACT program, the Stop and Watch tool has been used by certified nursing assistants since at least 2013 with some promising results, e.g., financial benefits and improved quality of life (Lee et al.,&#xA0;<xref rid="jnu12819-bib-0027" ref-type="bibr">2016</xref>, p. 108). In opposition to the views expressed by Barker et al.&#xA0;(<xref rid="jnu12819-bib-0009" ref-type="bibr">2020</xref>) that the National Early Warning Score is feasible, and useful (in the COVID&#x2010;19 context) (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>) in care home settings, the use of track and trigger tools to alert care staff of clinical deterioration in non&#x2010;acute settings has been criticized (Campbell et al.,&#xA0;<xref rid="jnu12819-bib-0012" ref-type="bibr">2020</xref>; Hodge et al.,&#xA0;<xref rid="jnu12819-bib-0021" ref-type="bibr">2019</xref>). Hodge et al.&#xA0;(<xref rid="jnu12819-bib-0021" ref-type="bibr">2019</xref>) &#x2018;query if the National Early Warning Score is the logical early warning tool to use in a resource constrained health and social care system&#x2019; (p. 5), particularly in light of the primary focus of the National Early Warning Score; hospital populations rather than frail nursing home residents. Similarly, others (Campbell et al.,&#xA0;<xref rid="jnu12819-bib-0012" ref-type="bibr">2020</xref>) have aired concerns that track and trigger systems &#x2018;have not been implemented with the same methodological rigor in non&#x2010;acute care setting as has been the case in acute care setting&#x2019; (p. 29). Even so, it is imperative that care staff are empowered to identify acute deterioration early in a consistent, structured, and evidence&#x2010;based manner, as residents with advanced deterioration will likely need more intense treatment and have a higher chance of being transferred to an acute care facility, which can result in poor outcomes (Fox et al.,&#xA0;<xref rid="jnu12819-bib-0019" ref-type="bibr">2020</xref>).</p>
+      <p>Few studies provide more than a cursory mention of the initial identification of signs and symptoms related to acute deterioration that results in a hospital transfer, e.g., use of the Stop and Watch tool (Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>), which possibly devalues this important first step in addressing such deterioration. In contrast, this review provides evidence to inform the development of an acute warning tool tailored to residential aged care settings to provide a consistent approach to the early identification of clinical deterioration by care staff, as clinical signs and symptoms that would normally trigger an early warning system alert in an acute care setting may not capture the subtle changes in condition of older and frail persons with multiple complex health conditions (Hodge et al.,&#xA0;<xref rid="jnu12819-bib-0021" ref-type="bibr">2019</xref>). These findings also highlight the need to monitor the health status of all residents daily to identify changing trends in the clinical indicators. For this to occur, key barriers to the early detection of acute deterioration: workforce knowledge and skill deficits and inadequate resourcing (Australian Royal Commission into Aged Care Quality and Safety,&#xA0;<xref rid="jnu12819-bib-0008" ref-type="bibr">2021</xref>), should be addressed.</p>
+      <p>Most factors that influence the identification of clinical deterioration in residential aged care facilities were related to organizations being under resourced (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>; Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>, <xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>). There were minimal consumer&#x2010;related factors that assisted with the identification of the deteriorating resident. Of interest, feeling undervalued by consumers, workplace colleagues (O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>) and the organization (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>) hindered residential aged care facility staff's ability to identify the deteriorating resident. Some factors positively influenced the identification of acute deterioration, such as the implementation of hospital avoidance projects (Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>) and for some the implementation of the National Early Warning Score (Stocker et al.,&#xA0;<xref rid="jnu12819-bib-0043" ref-type="bibr">2021</xref>) due to increased skills and confidence to work to their scope of practice and use of a common clinical language. Most factors however were reported negatively, such as communication failure (Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>), lack of access to outside health professionals (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>), care staff skill mix issues (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0025" ref-type="bibr">2015</xref>), limited scope of practice to be able to provide the necessary care to residents (and as limited by the organization) (Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>), and workload problems (Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Laging et al.,&#xA0;<xref rid="jnu12819-bib-0026" ref-type="bibr">2018</xref>; Longo et al.,&#xA0;<xref rid="jnu12819-bib-0029" ref-type="bibr">2004</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>, <xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>). Future programs should consider these factors when developing resources to improve the detection of the early warning signs of deterioration in residential aged care facilities.</p>
+      <p>Staff confidence within the residential aged care facility workforce was a prominent issue related to identifying acute deterioration in residents. Unregulated care staff of residential aged facilities (personal care workers/assistants; assistants in nursing) spend more time with residents than regulated nursing staff (registered nurses; enrolled nurses), making unregulated staff pivotal to the early identification of acute clinical deterioration. However, the expertise of regulated nurses, too, is paramount to provide comprehensive clinical assessments and to enact interventions early (Australian College of Nursing,&#xA0;<xref rid="jnu12819-bib-0003" ref-type="bibr">2020</xref>). As such, both the regulated and unregulated care staff of residential aged care facilities should have access to setting specific early warning tools, and related training, to increase their confidence and to ensure residents receive appropriate and timely care as needed.</p>
+      <p>Limitations related to rapid review methodology, that increase the risk of bias, may impact the integrity of the findings due to less transparency and reproducibility, exclusion of gray literature (except one PhD thesis included), and due to the search beginning at the year 2000 which increases the risk of excluding significant results (Garritty et al.,&#xA0;<xref rid="jnu12819-bib-0020" ref-type="bibr">2021</xref>). Furthermore, relevant studies may have been missed even though literature searches were undertaken using review&#x2010;specific strategies and due to the inclusion of English&#x2010;only publications; all included studies too were from developed countries. The variability of sample sizes and data sources, and the collated limitations of the included publications, further limit this review's findings, e.g., almost half of the studies were single site studies (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>; Boockvar et al.,&#xA0;<xref rid="jnu12819-bib-0010" ref-type="bibr">2000</xref>; Boockvar &amp; Lachs,&#xA0;<xref rid="jnu12819-bib-0011" ref-type="bibr">2003</xref>; Cohen&#x2010;Mansfield &amp; Lipson,&#xA0;<xref rid="jnu12819-bib-0014" ref-type="bibr">2006</xref>; Little et al.,&#xA0;<xref rid="jnu12819-bib-0028" ref-type="bibr">2019</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0033" ref-type="bibr">2017a</xref>, <xref rid="jnu12819-bib-0035" ref-type="bibr">2017b</xref>; O'Neill et al.,&#xA0;<xref rid="jnu12819-bib-0034" ref-type="bibr">2018</xref>; Tingstr&#xF6;m et al.,&#xA0;<xref rid="jnu12819-bib-0044" ref-type="bibr">2010</xref>). Clinical indicators sourced from health administrative data; hospital transfers (Ouslander et al.,&#xA0;<xref rid="jnu12819-bib-0037" ref-type="bibr">2016a</xref>, <xref rid="jnu12819-bib-0038" ref-type="bibr">2016b</xref>), chart notes (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>), and discharge summaries (Unroe et al.,&#xA0;<xref rid="jnu12819-bib-0046" ref-type="bibr">2018</xref>), were limited as these data were not collected, coded and recorded for research purposes, as such researchers had no control over data quality. The quality of the included publications, too, was low with the average scores across the original research publications equating to less than moderately meeting assessment criteria (Sirriyeh et al.,&#xA0;<xref rid="jnu12819-bib-0040" ref-type="bibr">2012</xref>). While papers were not excluded due to being assessed as being of low quality, the quality assessment exercise demonstrates that high quality, rigorous studies are needed in this topic area. Due to the subjective nature of a narrative synthesis, others may interpret and synthesize the information extrapolated from included studies differently. Despite these limitations, this review provides the important first step toward developing an evidence&#x2010;based early warning tool specifically tailored to residential aged care facilities.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12819-sec-0031">
+      <title>CONCLUSIONS</title>
+      <p>This review highlights the complex nature of identifying the early signs of acute deterioration in residents and the need for validated tools with associated education and training to help build capacity of aged care nurses to manage acute deterioration in&#x2010;house. Subtle changes in residents' health status, demeanor, behavior, and functioning are used more frequently in residential aged care as early signs of acute deterioration and should be the focus of an early warning scoring system for residential aged care. In addition, education and support to build the capacity of the residential aged care workforce to identify and manage acute deterioration confidently and competently is recommended. The limited number of publications included in this review highlights the need for more well&#x2010;designed studies to build a robust body of knowledge that aims to increase the capacity of residential aged care facility care staff to identify acute deterioration early and to improve the implementation of proactive, targeted interventions to avoid hospitalization. In particular, the need for additional research in consumer&#x2010;focused factors, to ensure that identification of acute deterioration remains resident&#x2010;centric, is irrefutable. While the identification of clinical deterioration early in an illness trajectory may help avoid resident transfer to an acute care setting, and decrease pressure and expense on healthcare systems, it more importantly circumvents the resident experiencing stress and unnecessary exposure to iatrogenic illnesses (Ashcraft &amp; Champion,&#xA0;<xref rid="jnu12819-bib-0001" ref-type="bibr">2012</xref>). Non&#x2010;regulated care staff, due to their more regular contact with residents, should be optimally trained to recognize and report the early signs of acute deterioration to promote the prompt response by regulated care staff who can enact appropriate interventions.</p>
+      <sec id="jnu12819-sec-0032">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<list list-type="bullet" id="jnu12819-list-0001"><list-item id="jnu12819-li-0001"><p>WHO: Aging and Health <ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/ageing-and-health" ext-link-type="uri">https://www.who.int/news&#x2010;room/fact&#x2010;sheets/detail/ageing&#x2010;and&#x2010;health</ext-link>
+</p></list-item><list-item id="jnu12819-li-0002"><p>WHO: Integrated care for older people: guidelines on community&#x2010;level interventions to manage declines in intrinsic capacity <ext-link xlink:href="https://www.who.int/publications/i/item/9789241550109" ext-link-type="uri">https://www.who.int/publications/i/item/9789241550109</ext-link>
+</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12819-sec-0034">
+      <title>CONFLICT OF INTEREST</title>
+      <p>There are no conflicts of interest to declare.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="jnu12819-supitem-0001" position="float" content-type="local-data">
+        <caption>
+          <p>
+Appendix S1
+</p>
+        </caption>
+        <media xlink:href="JNU-55-365-s003.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12819-supitem-0002" position="float" content-type="local-data">
+        <caption>
+          <p>
+Figure S2
+</p>
+        </caption>
+        <media xlink:href="JNU-55-365-s002.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12819-supitem-0003" position="float" content-type="local-data">
+        <caption>
+          <p>
+Table S3
+</p>
+        </caption>
+        <media xlink:href="JNU-55-365-s004.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12819-supitem-0004" position="float" content-type="local-data">
+        <caption>
+          <p>
+Table S4
+</p>
+        </caption>
+        <media xlink:href="JNU-55-365-s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12819-supitem-0005" position="float" content-type="local-data">
+        <caption>
+          <p>
+Table S5
+</p>
+        </caption>
+        <media xlink:href="JNU-55-365-s005.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12819-sec-0033">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>We acknowledge the Queensland University of Technology liaison librarian S. French (allocated to the School of Nursing) for assistance with setting up search strategies and assisting with automated processes in EndNote X9 to remove duplications. Furthermore, we appreciate the editing and other assistance provided by the Senior Research Assistants K. Wyles and D. Sriram. Open access publishing facilitated by Queensland University of Technology, as part of the Wiley &#x2010; Queensland University of Technology agreement via the Council of Australian University Librarians.</p>
+    </ack>
+    <sec sec-type="data-availability" id="jnu12819-sec-0036">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>Data sharing is not applicable to this article as no new data were created or analyzed in this study.</p>
+    </sec>
+    <ref-list content-type="cited-references" id="jnu12819-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12819-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0001">
+<string-name>
+<surname>Ashcraft</surname>, <given-names>A. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Champion</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Nursing home resident symptomatology triggering transfer: Avoiding unnecessary hospitalizations</article-title>. <source>Nursing Research and Practice</source>, <volume>2012</volume>, <elocation-id>495103</elocation-id>. <pub-id pub-id-type="doi">10.1155/2012/495103</pub-id>
+<pub-id pub-id-type="pmid">23091714</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0002">
+<string-name>
+<surname>Ashcraft</surname>, <given-names>A. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Owen</surname>, <given-names>D. C.</given-names>
+</string-name> (<year>2014</year>). <article-title>From nursing home to acute care: Signs, symptoms, and strategies used to prevent transfer</article-title>. <source>Geriatric Nursing</source>, <volume>35</volume>(<issue>4</issue>), <fpage>316</fpage>&#x2013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1016/j.gerinurse.2014.06.007</pub-id>
+<pub-id pub-id-type="pmid">25034223</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0003">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0003">
+<collab collab-type="authors">Australian College of Nursing</collab>
+. (<year>2020</year>). <article-title>
+Aged care worker regulation scheme consultation paper: Australian College of Nursing response to the Department of Health
+</article-title>. Aged Care Worker Regulation Scheme Consultation Paper (acn.edu.au).</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0004">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0004">
+<collab collab-type="authors">Australian Commission on Safety and Quality in Health Care</collab>
+. (<year>2019</year>). <article-title>
+Detecting and recognising acute deterioration, and escalting care
+</article-title>. <ext-link xlink:href="https://www.safetyandquality.gov.au/standards/nsqhs-standards/recognising-and-responding-acute-deterioration-standard" ext-link-type="uri">https://www.safetyandquality.gov.au/standards/nsqhs&#x2010;standards/recognising&#x2010;and&#x2010;responding&#x2010;acute&#x2010;deterioration&#x2010;standard</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0005">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0005">
+<collab collab-type="authors">Australian Government: Aged Care Quality and Safety Commission</collab>
+. (<year>2021</year>). <article-title>Guidance and Resources for Providers to Support the Aged Care Quality Standards</article-title>. <ext-link xlink:href="https://www.agedcarequality.gov.au/resources/guidance-and-resources-providers-support-aged-care-quality-standards" ext-link-type="uri">https://www.agedcarequality.gov.au/resources/guidance&#x2010;and&#x2010;resources&#x2010;providers&#x2010;support&#x2010;aged&#x2010;care&#x2010;quality&#x2010;standards</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0006">
+<collab collab-type="authors">Australian Government: My Aged Care</collab>
+. (n.d.). <article-title>
+What Aged Care Homes Provide
+</article-title>. <ext-link xlink:href="https://www.myagedcare.gov.au/aged-care-homes/what-do-aged-care-homes-provide" ext-link-type="uri">https://www.myagedcare.gov.au/aged&#x2010;care&#x2010;homes/what&#x2010;do&#x2010;aged&#x2010;care&#x2010;homes&#x2010;provide</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0007">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. (<year>2019</year>). <article-title>
+Interfaces between the aged care and health systems in Australia&#x2014;First results
+</article-title>. <ext-link xlink:href="https://www.aihw.gov.au/getmedia/1706e133-4b63-43b5-9872-800d7576cd41/aihw-age-99.pdf.aspx?inline%3Dtrue" ext-link-type="uri">https://www.aihw.gov.au/getmedia/1706e133&#x2010;4b63&#x2010;43b5&#x2010;9872&#x2010;800d7576cd41/aihw&#x2010;age&#x2010;99.pdf.aspx?inline=true</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0008">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0008">
+<collab collab-type="authors">Australian Royal Commission into Aged Care Quality and Safety</collab>
+. (<year>2021</year>). <article-title>
+Final Report &#x2010; List of Recommendations
+</article-title>. <ext-link xlink:href="https://agedcare.royalcommission.gov.au/publications/final-report-list-recommendations" ext-link-type="uri">https://agedcare.royalcommission.gov.au/publications/final&#x2010;report&#x2010;list&#x2010;recommendations</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0009">
+<string-name>
+<surname>Barker</surname>, <given-names>R. O.</given-names>
+</string-name>, <string-name>
+<surname>Stocker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kingston</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Adamson</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hanratty</surname>, <given-names>B.</given-names>
+</string-name> (<year>2020</year>). <article-title>Distribution of the National Early Warning Score (NEWS) in care home residents</article-title>. <source>Age and Ageing</source>, <volume>49</volume>(<issue>1</issue>), <fpage>141</fpage>&#x2013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1093/ageing/afz130</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0010">
+<string-name>
+<surname>Boockvar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Brodie</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lachs</surname>, <given-names>M.</given-names>
+</string-name> (<year>2000</year>). <article-title>Nursing assistants detect behavior changes in nursing home residents that preceded acute illness: Development and validation of an illness warning instrument</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>48</volume>(<issue>9</issue>), <fpage>1086</fpage>&#x2013;<lpage>1091</lpage>.<pub-id pub-id-type="pmid">10983908</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0011">
+<string-name>
+<surname>Boockvar</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lachs</surname>, <given-names>M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Predictive value of nonspecific symptoms for acute illness in nursing home residents</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>51</volume>(<issue>8</issue>), <fpage>1111</fpage>&#x2013;<lpage>1115</lpage>.<pub-id pub-id-type="pmid">12890074</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0012">
+<string-name>
+<surname>Campbell</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Conway</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Carey</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gifford</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McLanders</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Edelson</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Churpek</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Predicting clinical deterioration with Q&#x2010;ADDS compared to NEWS, between the flags, and eCART track and trigger tools</article-title>. <source>Resuscitation</source>, <volume>153</volume>, <fpage>28</fpage>&#x2013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1016/j.resuscitation.2020.05.027</pub-id>
+<pub-id pub-id-type="pmid">32504769</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0013">
+<string-name>
+<surname>Carter</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jeffrey</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Parkinson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Osborne</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Reid&#x2010;Searl</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Graves</surname>, <given-names>N.</given-names>
+</string-name> (<year>2020</year>). <article-title>The effectiveness and cost effectiveness of a hospital avoidance program in a residential aged care facility: A prospective cohort study and modelled decision analysis</article-title>. <source>BMC Geriatrics</source>, <volume>20</volume>(<issue>1</issue>), <elocation-id>527</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12877-020-01904-1</pub-id>
+<pub-id pub-id-type="pmid">33287716</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0014">
+<string-name>
+<surname>Cohen&#x2010;Mansfield</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lipson</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>). <article-title>To hospitalize or not to hospitalize? That is the question: An analysis of decision making in the nursing home</article-title>. <source>Behavioral Medicine</source>, <volume>32</volume>(<issue>2</issue>), <fpage>64</fpage>&#x2013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.3200/BMED.32.2.64-70</pub-id>
+<pub-id pub-id-type="pmid">16903616</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0015">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0015">
+<collab collab-type="authors">Critical Appraisal Skills Programme</collab>
+. (<year>2018</year>). <article-title>CASP (systematic review) checklist</article-title>. <ext-link xlink:href="https://casp-uk.net/wp-content/uploads/2018/03/CASP-Systematic-Review-Checklist-2018_fillable-form.pdf" ext-link-type="uri">https://casp&#x2010;uk.net/wp&#x2010;content/uploads/2018/03/CASP&#x2010;Systematic&#x2010;Review&#x2010;Checklist&#x2010;2018_fillable&#x2010;form.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0016">
+<string-name>
+<surname>Downey</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Tahir</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Randell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jayne</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Strengths and limitations of early warning scores: A systematic review and narrative synthesis</article-title>. <source>International Journal of Nursing Studies</source>, <volume>76</volume>, <fpage>106</fpage>&#x2013;<lpage>119</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2017.09.003</pub-id>
+<pub-id pub-id-type="pmid">28950188</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0017">
+<string-name>
+<surname>Eagar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Westera</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kobel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>). <article-title>Australian residential aged care is understaffed</article-title>. <source>Medical Journal of Australia</source>, <volume>212</volume>(<issue>11</issue>), <fpage>507</fpage>&#x2013;<lpage>508</lpage>. <pub-id pub-id-type="doi">10.5694/mja2.50615</pub-id>
+<pub-id pub-id-type="pmid">32474934</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0018">
+        <mixed-citation publication-type="book" id="jnu12819-cit-0018">
+<string-name>
+<surname>Eagar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Westera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Snoek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kobel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Loggie</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gordon</surname>, <given-names>R.</given-names>
+</string-name> (<year>2019</year>). <source>How Australian residential aged care staffing levels compare with international and national benchmarks</source>. <publisher-name>Centre for Health Service Development, Australian Health Services Research Institute</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0019">
+<string-name>
+<surname>Fox</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>MacAndrew</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ramis</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Health outcomes of patients with dementia in acute care settings&#x2010;a systematic review</article-title>. <source>International Journal of Older People Nursing</source>, <volume>15</volume>(<issue>3</issue>), <elocation-id>e12315</elocation-id>. <pub-id pub-id-type="doi">10.1111/opn.12315</pub-id>
+<pub-id pub-id-type="pmid">32207886</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0020">
+<string-name>
+<surname>Garritty</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gartlehner</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Nussbaumer&#x2010;Streit</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Hamel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Affengruber</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Stevens</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Cochrane rapid reviews methods group offers evidence&#x2010;informed guidance to conduct rapid reviews</article-title>. <source>Journal of Clinical Epidemiology</source>, <volume>130</volume>, <fpage>13</fpage>&#x2013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclinepi.2020.10.007</pub-id>
+<pub-id pub-id-type="pmid">33068715</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0021">
+<string-name>
+<surname>Hodge</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gordon</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2019</year>). <article-title>National early warning scores in care homes: Do policy imperatives reflect a genuine need?</article-title>
+<source>Age and Ageing</source>, <volume>49</volume>(<issue>1</issue>), <fpage>5</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/ageing/afz149</pub-id>
+<pub-id pub-id-type="pmid">31838509</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0022">
+<string-name>
+<surname>Hodge</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name>
+<surname>Ali</surname>, <given-names>M. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gordon</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Recognizing and responding to deterioration in care homes: A scoping review protocol</article-title>. <source>JBI Evidence Synthesis</source>, <volume>19</volume>(<issue>2</issue>), <fpage>447</fpage>&#x2013;<lpage>453</lpage>. <pub-id pub-id-type="doi">10.11124/JBISRIR-D-19-00413</pub-id>
+<pub-id pub-id-type="pmid">33230017</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0023">
+        <mixed-citation publication-type="book" id="jnu12819-cit-0023">
+<string-name>
+<surname>Jarvis</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <source>Physical Examination &amp; Health Assessment</source> (<edition designator="7">7th ed.</edition>). <publisher-name>Elsevier</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0024">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0024">
+<collab collab-type="authors">Joanna Briggs Institute</collab>
+. (<year>2020</year>). <article-title>Manual for evidence synthesis</article-title>. <ext-link xlink:href="http://wiki.jbi.global/dispaly/MANUAL/5.4.3%2BInclusion%2Bcriteria" ext-link-type="uri">http://wiki.jbi.global/dispaly/MANUAL/5.4.3+Inclusion+criteria</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0025">
+<string-name>
+<surname>Laging</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nay</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>A meta&#x2010;synthesis of factors influencing nursing home staff decisions to transfer residents to hospital</article-title>. <source>Journal of Advanced Nursing</source>, <volume>71</volume>(<issue>10</issue>), <fpage>2224</fpage>&#x2013;<lpage>2236</lpage>. <pub-id pub-id-type="doi">10.1111/jan.12652</pub-id>
+<pub-id pub-id-type="pmid">25818343</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0026">
+<string-name>
+<surname>Laging</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kenny</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nay</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Recognition and assessment of resident&#x2019; deterioration in the nursing home setting: A critical ethnography</article-title>. <source>Journal of Clinical Nursing</source>, <volume>27</volume>(<issue>7&#x2013;8</issue>), <fpage>1452</fpage>&#x2013;<lpage>1463</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.14292</pub-id>
+<pub-id pub-id-type="pmid">29396884</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0027">
+<string-name>
+<surname>Lee</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gruss</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Stuercke</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ryan</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Relation of stop and watch tool use in a skilled nursing facility to 30&#x2010;day hospital transfer rates</article-title>. <source>Journal of Nursing Home Research</source>, <volume>2</volume>, <fpage>104</fpage>&#x2013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.14283/jnhrs.2016.16</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0028">
+<string-name>
+<surname>Little</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Fitzpatrick</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Managing deterioration in older adults in care homes: A quality improvement project to introduce an early warning tool</article-title>. <source>British Journal of Community Nursing</source>, <volume>24</volume>(<issue>2</issue>), <fpage>58</fpage>&#x2013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.12968/bjcn.2019.24.2.58</pub-id>
+<pub-id pub-id-type="pmid">30698477</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0029">
+<string-name>
+<surname>Longo</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mehr</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lindbloom</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Salerno</surname>, <given-names>L. D.</given-names>
+</string-name> (<year>2004</year>). <article-title>Barriers to timely care of acute infections in nursing homes: A preliminary qualitative study</article-title>. <source>Journal of American Medical Directors Assocation</source>, <volume>5</volume>(<issue>Supplement</issue>), <fpage>S5</fpage>&#x2013;<lpage>S10</lpage>. <pub-id pub-id-type="doi">10.1016/s1525-8610(04)70080-8</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0030">
+<string-name>
+<surname>Mitchell</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Van Leuvan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Berry</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>McCutcheon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Avard</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Slater</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Neeman</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lamberth</surname>, <given-names>P.</given-names>
+</string-name> (<year>2010</year>). <article-title>A prospective controlled trial of the effect of a multi&#x2010;faceted intervention on early recognition and intervention in deteriorating hospital patients</article-title>. <source>Resuscitation</source>, <volume>81</volume>(<issue>6</issue>), <fpage>658</fpage>&#x2013;<lpage>666</lpage>. <pub-id pub-id-type="doi">10.1016/j.resuscitation.2010.03.001</pub-id>
+<pub-id pub-id-type="pmid">20378235</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0031">
+<string-name>
+<surname>Moher</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Liberati</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tetzlaff</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>, <given-names>D. G.</given-names>
+</string-name>, &amp; <collab collab-type="authors">PRISMA Group</collab>
+. (<year>2009</year>). <article-title>Preferred reporting items for systematic reviews and meta&#x2010;analyses: The PRISMA statement</article-title>. <source>PLoS Medicine</source>, <volume>6</volume>(<issue>7</issue>), <elocation-id>e1000097</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pmed.1000097</pub-id>
+<pub-id pub-id-type="pmid">19621072</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0032">
+        <mixed-citation publication-type="book" id="jnu12819-cit-0032">
+<collab collab-type="authors">OECDiLibrary</collab>
+. (<year>2019</year>). <source>Health at a glance 2019: OECD indicators</source>. <publisher-name>Long term care workers</publisher-name>. <ext-link xlink:href="https://www.oecd-ilibrary.org/sites/4dd50c09-en/1/2/11/9/index.html?itemId%3D/content/publication/4dd50c09-en%26mimeType%3Dtext/html%26_csp_%3D82587932df7c06a6a3f9dab95304095d%26itemIGO%3Doecd%26itemContentType%3Dbook%26_ga%3D2.136733360.1860005524.1631840290-2119688437.1631840290" ext-link-type="uri">https://www.oecd&#x2010;ilibrary.org/sites/4dd50c09&#x2010;en/1/2/11/9/index.html?itemId=/content/publication/4dd50c09&#x2010;en&amp;mimeType=text/html&amp;_csp_=82587932df7c06a6a3f9dab95304095d&amp;itemIGO=oecd&amp;itemContentType=book&amp;_ga=2.136733360.1860005524.1631840290&#x2010;2119688437.1631840290</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0033">
+<string-name>
+<surname>O'Neill</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Reid&#x2010;Searl</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Parkinson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Managing the deteriorating nursing home resident after the introduction of a hospital avoidance programme: A nursing perspective</article-title>. <source>Scandinavian Journal of Caring Sciences</source>, <volume>31</volume>(<issue>2</issue>), <fpage>312</fpage>&#x2013;<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1111/scs.12349</pub-id>
+<pub-id pub-id-type="pmid">27327142</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0034">
+<string-name>
+<surname>O'Neill</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Reid&#x2010;Searl</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Parkinson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Nursing staff intentions towards managing deteriorating health in nursing homes: A convergent parallel mixed&#x2010;methods study using the theory of planned behaviour</article-title>. <source>Journal of Clinical Nursing</source>, <volume>27</volume>(<issue>5&#x2013;6</issue>), <fpage>e992</fpage>&#x2013;<lpage>e1003</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.14119</pub-id>
+<pub-id pub-id-type="pmid">29052282</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0035">
+<string-name>
+<surname>O'Neill</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Reid&#x2010;Searl</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Parkinson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>The deteriorating resident in residential aged care: A focus group study</article-title>. <source>Collegian</source>, <volume>24</volume>(<issue>6</issue>), <fpage>563</fpage>&#x2013;<lpage>570</lpage>. <pub-id pub-id-type="doi">10.1016/j.colegn.2016.10.010</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0036">
+<string-name>
+<surname>Ouslander</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Engstrom</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Reyes</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tappen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rojido</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gray&#x2010;Miceli</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Management of acute changes in condition in skilled nursing facilities</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>66</volume>(<issue>12</issue>), <fpage>2259</fpage>&#x2013;<lpage>2266</lpage>. <pub-id pub-id-type="doi">10.1111/jgs.15632</pub-id>
+<pub-id pub-id-type="pmid">30451275</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0037">
+<string-name>
+<surname>Ouslander</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Naharci</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Engstrom</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Shutes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<surname>Alpert</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Rojido</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tappen</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Newman</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Root cause analyses of transfers of skilled nursing facility patients to acute hospitals: Lessons learned for reducing unnecessary hospitalizations</article-title>. <source>Journal of the American Medical Directors Association</source>, <volume>17</volume>(<issue>3</issue>), <fpage>256</fpage>&#x2013;<lpage>262</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2015.11.018</pub-id>
+<pub-id pub-id-type="pmid">26777066</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0038">
+<string-name>
+<surname>Ouslander</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Naharci</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Engstrom</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Shutes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<surname>Rojido</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tappen</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Newman</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Hospital transfers of skilled nursing facility (SNF) patients within 48 hours and 30&#x2009;days after SNF admission</article-title>. <source>Journal of the American Medical Directors Association</source>, <volume>17</volume>(<issue>9</issue>), <fpage>839</fpage>&#x2013;<lpage>845</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2016.05.021</pub-id>
+<pub-id pub-id-type="pmid">27349621</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0039">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0039">
+<collab collab-type="authors">Resuscitation Council UK</collab>
+. (<year>2014</year>) <article-title>The ABCDE approach</article-title>. <ext-link xlink:href="https://www.resus.org.uk/library/abcde-approach" ext-link-type="uri">https://www.resus.org.uk/library/abcde&#x2010;approach</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0040">
+<string-name>
+<surname>Sirriyeh</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lawton</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Armitage</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Reviewing studies with diverse designs: The development and evaluation of a new tool</article-title>. <source>Journal of Evaluation in Clinical Practice</source>, <volume>18</volume>(<issue>4</issue>), <fpage>746</fpage>&#x2013;<lpage>752</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2753.2011.01662.x</pub-id>
+<pub-id pub-id-type="pmid">21410846</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0041">
+<string-name>
+<surname>Smith</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Chiovaro</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>O'Neil</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kansagara</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Quinones</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Freeman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Motu'apuaka</surname>, <given-names>M. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Slatore</surname>, <given-names>C. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Early warning system scores for clinical deterioration in hospitalized patients: A systematic review</article-title>. <source>Annals of the American Thoracic Society</source>, <volume>11</volume>(<issue>9</issue>), <fpage>1454</fpage>&#x2013;<lpage>1465</lpage>. <pub-id pub-id-type="doi">10.1513/AnnalsATS.201403-102OC</pub-id>
+<pub-id pub-id-type="pmid">25296111</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0042">
+        <mixed-citation publication-type="miscellaneous" id="jnu12819-cit-0042">
+<string-name>
+<surname>Stansfield</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>
+The efficacy of a nurse practitioner consultative program to support care&#x2010;in&#x2010;place for the nursing home resident experiencing a change in condition
+</article-title>. [PhD, State University of new York]. Buffalo. <ext-link xlink:href="https://gateway.library.qut.edu.au/login?url%3Dhttps://search.ebscohost.com/login.aspx?direct%3Dtrue%26db%3Dc8h%26AN%3D109860268%26site%3Dehost-live%26scope%3Dsite" ext-link-type="uri">https://gateway.library.qut.edu.au/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=c8h&amp;AN=109860268&amp;site=ehost&#x2010;live&amp;scope=site</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0043">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0043">
+<string-name>
+<surname>Stocker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liddle</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>, <given-names>R. O.</given-names>
+</string-name>, <string-name>
+<surname>Remmer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Adamson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Experiences of a National Early Warning Score (NEWS) intervention in care homes during the COVID&#x2010;19 pandemic: A qualiative interview study</article-title>. <source>BMJ Open</source>, <volume>11</volume>(<issue>7</issue>), <elocation-id>e045469</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-045469</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0044">
+<string-name>
+<surname>Tingstr&#xF6;m</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Milberg</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sund&#x2010;Levander</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Early nonspecific signs and symptoms of infection in institutionalized elderly persons: Perceptions of nursing assistants</article-title>. <source>Scandinavian Journal of Caring Sciences</source>, <volume>24</volume>(<issue>1</issue>), <fpage>24</fpage>&#x2013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-6712.2008.00680.x</pub-id>
+<pub-id pub-id-type="pmid">19954493</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0045">
+        <mixed-citation publication-type="book" id="jnu12819-cit-0045">
+<string-name>
+<surname>Tricco</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Langlois</surname>, <given-names>E. V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Straus</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <source>Rapid Reviews to Strengthen Health Policy and Systems: A Practical Guide</source>. <publisher-name>World Health Organization</publisher-name> Licence: CC BY&#x2010;NC&#x2010;SA3.0 IGO.</mixed-citation>
+      </ref>
+      <ref id="jnu12819-bib-0046">
+        <mixed-citation publication-type="journal" id="jnu12819-cit-0046">
+<string-name>
+<surname>Unroe</surname>, <given-names>K. T.</given-names>
+</string-name>, <string-name>
+<surname>Carnahan</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Hickman</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Sachs</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Hass</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Arling</surname>, <given-names>G.</given-names>
+</string-name> (<year>2018</year>). <article-title>The complexity of determining whether a nursing home transfer is avoidable at time of transfer</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>66</volume>(<issue>5</issue>), <fpage>895</fpage>&#x2013;<lpage>901</lpage>. <pub-id pub-id-type="doi">10.1111/jgs.15286</pub-id>
+<pub-id pub-id-type="pmid">29437221</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

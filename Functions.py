@@ -186,3 +186,27 @@ def write_to_csv(dois, data_types):
 
         for doi, data_type in zip(dois, data_types):
             writer.writerow([doi, data_type])
+
+
+def download_json_files(pmcid_list):
+    output_folder = "JSON Files"
+
+    # Create the output folder if it doesn't exist
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    jsonNum = 0
+
+    for pmcid in pmcid_list:
+        url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC{pmcid}&retmode=json"
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            file_path = os.path.join(output_folder, f"{pmcid}.json")
+            with open(file_path, "wb") as file:
+                file.write(response.content)
+            print(f"Downloaded {pmcid}.json")
+            jsonNum += 1
+        else:
+            print(f"Failed to download {pmcid}.json")
+
+    print(f"Downloaded {jsonNum} JSON files")

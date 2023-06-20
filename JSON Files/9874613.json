@@ -1,0 +1,1140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12816" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36218245</article-id>
+      <article-id pub-id-type="pmc">9874613</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12816</article-id>
+      <article-id pub-id-type="publisher-id">JNU12816</article-id>
+      <article-id pub-id-type="other">JNU-05-22-369.R1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Special Issue</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Socioeconomic and ethnic disparities along five waves of the COVID&#x2010;19 pandemic: Lessons we have not yet learnt</article-title>
+        <alt-title alt-title-type="right-running-head">Sociodemographic disparities in COVID&#x2010;19</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12816-cr-0001" contrib-type="author">
+          <name>
+            <surname>Luxenburg</surname>
+            <given-names>Osnat</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref rid="jnu12816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12816-cr-0002" contrib-type="author">
+          <name>
+            <surname>Singer</surname>
+            <given-names>Clara</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12816-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12816-cr-0003" contrib-type="author">
+          <name>
+            <surname>Kaim</surname>
+            <given-names>Arielle</given-names>
+          </name>
+          <degrees>MPH</degrees>
+          <xref rid="jnu12816-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="jnu12816-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12816-cr-0004" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Saban</surname>
+            <given-names>Mor</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6869-0907</contrib-id>
+          <xref rid="jnu12816-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>mors@gertner.health.gov.il</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12816-cr-0005" contrib-type="author">
+          <name>
+            <surname>Wilf&#x2010;Miron</surname>
+            <given-names>Rachel</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8112-8721</contrib-id>
+          <xref rid="jnu12816-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="jnu12816-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12816-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Medical Technology</named-content>
+<named-content content-type="organisation-division">Health Information and Research Directorate</named-content>
+<institution>Ministry of Health</institution>
+<city>Jerusalem</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12816-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>The Gertner Institute for Epidemiology and Health Policy Research</institution>
+<city>Ramat Gan</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12816-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Emergency Management and Disaster Medicine</named-content>
+<named-content content-type="organisation-division">School of Public Health</named-content>
+<named-content content-type="organisation-division">Sackler Faculty of Medicine</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12816-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Promotion</named-content>
+<named-content content-type="organisation-division">School of Public Health</named-content>
+<named-content content-type="organisation-division">Sackler Faculty of Medicine</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Saban Mor, RN, MA, MPH, MEM, PhD, The Gertner Institute for Epidemiology and Health Policy Research, Ramat&#x2010;Gan, Israel 526,210.<break/>
+Email: <email>mors@gertner.health.gov.il</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="80">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>45</fpage>
+      <lpage>55</lpage>
+      <history>
+<date date-type="rev-recd"><day>30</day><month>7</month><year>2022</year></date>
+<date date-type="received"><day>30</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>16</day><month>8</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12816-sec-0001">
+          <title>Purpose</title>
+          <p>The COVID&#x2010;19 pandemic, now in its third year, has served as a magnifying glass, exposing the inequitable impact of the outbreak. The study aims to analyze the relationships between the socioeconomic and ethnic characteristics of the population and COVID&#x2010;19 testing, infection, and vaccination throughout the first five pandemic waves.</p>
+        </sec>
+        <sec id="jnu12816-sec-0002">
+          <title>Design</title>
+          <p>A secondary analysis of an existing national database was conducted in Israel from March 2020 to May 2022. During the study period, Israel underwent 5 pandemic peaks or waves (March&#x2013;April 2020, September&#x2013;October 2020, January&#x2013;February 2021, September 2021, and January&#x2013;February 2022).</p>
+        </sec>
+        <sec id="jnu12816-sec-0003">
+          <title>Methods</title>
+          <p>Data on tests performed, confirmed COVID&#x2010;19 cases, and uptake of vaccine doses one through four during the study period, were analyzed by the socioeconomic (SE) cluster (scale of 1 to 10) and ethnicity (Jewish, Arab, mixed Jewish&#x2010; Arab ethnicity) of the residents' local authority.</p>
+        </sec>
+        <sec id="jnu12816-sec-0004">
+          <title>Results</title>
+          <p>COVID&#x2010;19 testing rate gradually increased from the lowest to the highest SE clusters, with rates 3.2 times higher in the second highest, compared with the lowest cluster. People living in Jewish localities were tested twice more than those in Arab or mixed localities. The rate of confirmed cases was 1.9, 3.0, 6.3, and 4.3 times higher, respectively, among cluster 1 (the lowest) compared with cluster 9 (second highest) in the first, second, third, and fourth pandemic waves, respectively. Rates among people living in Arab or mixed localities were higher compared with those living in Jewish localities in 3 of the 5 waves. Vaccine uptake revealed a clear social gradient, with the percentage of the population being vaccinated gradually increasing from cluster 1 (the lowest) to the higher clusters. The relative difference between the lowest and highest SE clusters increased from 2.4 in the first vaccine dose to 5.5 in the third and fourth doses. Ethnic disparities also grew with vaccine dose, with a Jewish to an Arab rate ratio of 1.1, 1.2, 1.6, and 4.5 for vaccine doses 1,2,3, and 4, respectively.</p>
+        </sec>
+        <sec id="jnu12816-sec-0005">
+          <title>Conclusions</title>
+          <p>Covering 26 consecutive months of the COVID&#x2010;19 pandemic at the national level, the current study demonstrates that despite high accessibility of tests and vaccines to the entirety of the population and tailored outreach efforts, socioeconomic, and ethnic disparities not only failed to diminish, but they even widened along the five pandemic waves.</p>
+        </sec>
+        <sec id="jnu12816-sec-0006">
+          <title>Clinical relevance</title>
+          <p>The pandemic exposed the vulnerability of the weakest segments of the population. Therefore, the combined action of the Ministry of Health, health providers, and local authorities is required to further adapt health messages to the cultural characteristics of diverse populations, to equip the health professionals with practical tools to promote healthy choices among the vulnerable populations, and to build communities that promote healthy lifestyles. The pandemic has highlighted the importance of reducing health disparities and building trust between vulnerable populations and the healthcare system during &#x201C;normal&#x201D; or routine times, to better prepare for times of emergencies, such as the current pandemic.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12816-kwd-0001">COVID&#x2010;19</kwd>
+        <kwd id="jnu12816-kwd-0002">disparity</kwd>
+        <kwd id="jnu12816-kwd-0003">ethnicity</kwd>
+        <kwd id="jnu12816-kwd-0004">health policy</kwd>
+        <kwd id="jnu12816-kwd-0005">infection</kwd>
+        <kwd id="jnu12816-kwd-0006">socioeconomic</kwd>
+        <kwd id="jnu12816-kwd-0007">vaccination</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="1"/>
+        <page-count count="11"/>
+        <word-count count="6704"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:25.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12816-cit-2001">
+<string-name>
+<surname>Luxenburg</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaim</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Saban</surname>, <given-names>M.</given-names>
+</string-name> &amp; <string-name>
+<surname>Wilf&#x2010;Miron</surname>, <given-names>R.</given-names>
+</string-name> (<year>2023</year>). <article-title>Socioeconomic and ethnic disparities along five waves of the COVID&#x2010;19 pandemic: Lessons we have not yet learnt</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>45</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12816</pub-id>
+<pub-id pub-id-type="pmid">36218245</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12816-body-0001">
+    <sec id="jnu12816-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>The COVID&#x2010;19 pandemic, now in its third year, has served as a magnifying glass, exposing the inequitable impact of the outbreak with implications for policymakers on strengthening health equities.</p>
+      <p>As early as September 2020, Richard Horton, the editor&#x2010;in&#x2010;chief of the Lancet journal, commented that &#x201C;COVID&#x2010;19 is not a pandemic,&#x201D; but a <italic toggle="yes">syndemic</italic>, or the interaction of two disease categories &#x2010; SARS&#x2010;CoV&#x2010;2 and non&#x2010;communicable diseases (NCDs) &#x2010; within certain populations. The interaction of biological and social factors in the most vulnerable populations worsens their health outcomes (Horton,&#xA0;<xref rid="jnu12816-bib-0011" ref-type="bibr">2020</xref>). The pandemic hit the most deprived populations harder. In Victoria, Australia, the incidence of COVID infection was higher in areas with larger proportions of unemployment, larger housing density, and a higher proportion of people who spoke a language other than English at home (Roder et al.,&#xA0;<xref rid="jnu12816-bib-0034" ref-type="bibr">2022</xref>).</p>
+      <p>During the first pandemic wave in Sweden, income gradients were evident in Covid hospitalizations, intensive care admissions, and death (Gustafsson et al.,&#xA0;<xref rid="jnu12816-bib-0010" ref-type="bibr">2022</xref>). The effect of income inequalities on health exists despite universal healthcare coverage and low out&#x2010;of&#x2010;pocket patient fees in Swedish healthcare (Gustafsson et al.,&#xA0;<xref rid="jnu12816-bib-0010" ref-type="bibr">2022</xref>). In western countries, African American and Hispanic communities were disproportionately infected and demonstrated a higher ratio of hospitalization and death, compared to Caucasians (Mude et al.,&#xA0;<xref rid="jnu12816-bib-0026" ref-type="bibr">2021</xref>). In the US, African Americans, and adults with lower levels of education demonstrated higher COVID&#x2010;19 cases and deaths (Khanijahani,&#xA0;<xref rid="jnu12816-bib-0017" ref-type="bibr">2020</xref>). In England and Wales, age&#x2010;adjusted COVID&#x2010;19 mortality was higher among ethnic minority groups. Those differences were largely explained by location, living conditions, working exposure, and health status (Ayoubkhani et al.,&#xA0;<xref rid="jnu12816-bib-0002" ref-type="bibr">2021</xref>). In Lazio Region, Italy, lower education was associated with not getting the COVID vaccine. In Israel, vaccine uptake was lower among the lower socioeconomic (SE) groups and among the Arab population (Saban et al.,&#xA0;<xref rid="jnu12816-bib-0037" ref-type="bibr">2021</xref>).</p>
+      <p>Israel is a multicultural, multiethnic nation with large social disparities. The Arab minority comprises 21% of the population and generally lives in more deprived, rural communities, with more crowded housing and higher rates of unemployment (Chernichovsky et al.,&#xA0;<xref rid="jnu12816-bib-0007" ref-type="bibr">2017</xref>). The Arab population, residing in homogenous Arab localities or localities of mixed Jewish&#x2010;Arab ethnicity, demonstrates a higher prevalence of smoking, obesity, and diabetes, compared with the Jewish population (Jaffe et al.,&#xA0;<xref rid="jnu12816-bib-0014" ref-type="bibr">2017</xref>; Minister of Health,&#xA0;<xref rid="jnu12816-bib-0024" ref-type="bibr">2020</xref>).</p>
+      <p>In Israel, healthcare is perceived as a basic right. A national health insurance system provides universal coverage. Every citizen or permanent resident of Israel can choose one of the four Health Maintenance Organizations (HMOs) who provide their members with a health benefits package (Rosen et al.,&#xA0;<xref rid="jnu12816-bib-0036" ref-type="bibr">2015</xref>). During the pandemic, COVID&#x2010;19 testing and the Pfizer BNT162b2 COVID&#x2010;19 vaccines were available without cost to all citizens, permanent residents, foreign worker, and asylum seekers. Vaccines were distributed concomitantly to the entire country, utilizing tailored outreach efforts to encourage Israelis to get the vaccine and overcome &#x201C;pockets&#x201D; of vaccine hesitancy (Rosen et al.,&#xA0;<xref rid="jnu12816-bib-0035" ref-type="bibr">2021</xref>).</p>
+      <p>During the first four pandemic waves (March 2020 through November 2021) in Israel, the COVID&#x2010;19 burden demonstrated a socioeconomic gradient, with the more deprived and minority populations experiencing greater infection and hospitalization, though disparities in mortality were less <italic toggle="yes">evident</italic> (Luxenburg et al.,&#xA0;<xref rid="jnu12816-bib-0022" ref-type="bibr">2022</xref>). As the pandemic continues to be an ongoing, relevant global issue for an undefined period, it is of value to extend previous studies (Luxenburg et al.,&#xA0;<xref rid="jnu12816-bib-0022" ref-type="bibr">2022</xref>) well into the fifth pandemic wave and the fourth vaccine dose (up to May 2022). in order to gain a broader perspective of the trends in disparities, as well as its policy implications.</p>
+      <p>The objectives of this study were to analyze the relationships between socioeconomic and ethnic characteristics of the population and COVID&#x2010;19 testing, infection, and vaccination throughout the first five pandemic waves.</p>
+    </sec>
+    <sec id="jnu12816-sec-0008">
+      <title>STUDY DESIGN</title>
+      <p>A secondary analysis of an existing national dataset was conducted in Israel on May 11&#x2013;12, 2022. Data on COVID testing and confirmed cases ranged from March 11, 2020 to May 1, 2022, while data on COVID vaccination ranged from December 20, 2020 to April 1, 2022. During the study period, Israel experienced 5 pandemic waves, with the first, second, third, fourth, and fifth wave peaking in March&#x2013;April 2020, September&#x2013;October 2020, January&#x2013;February 2021, September 2021, and January&#x2013;February 2022, respectively (Israel Ministry of Health COVID&#x2010;19 Dashboard,&#xA0;<xref rid="jnu12816-bib-0043" ref-type="bibr">2021</xref>). Data were obtained from the Israeli Ministry of Health's (MOH) open COVID&#x2010;19 database (The Israeli Ministry of Health,&#xA0;<xref rid="jnu12816-bib-0043" ref-type="bibr">2021</xref>), which includes information on 280 medium or large (1493 inhabitants or more) localities. In Israel, national COVID&#x2010;19 information is not available at the individual level and therefore was analyzed by localities of residence, as an acceptable proxy for SE and ethnic characteristics. This ecologic approach in COVID&#x2010;related research has been adopted by others (Gorelik et al, <xref rid="jnu12816-bib-0044" ref-type="bibr">2022</xref>; Luxenburg et al.,&#xA0;<xref rid="jnu12816-bib-0022" ref-type="bibr">2022</xref>; Muhsen et al.,&#xA0;<xref rid="jnu12816-bib-0027" ref-type="bibr">2017</xref>). The analysis included all 280 localities, which include 9,183,559 million residents, comprising 97.2% of the total 9.449 million residents (CBS, <xref rid="jnu12816-bib-0030" ref-type="bibr">2022</xref>).</p>
+    </sec>
+    <sec sec-type="materials-and-methods" id="jnu12816-sec-0009">
+      <title>MATERIALS AND METHODS</title>
+      <p>The database contains national data on the number of COVID&#x2010;19 diagnostic tests performed (real&#x2010;time quantitative reverse&#x2010;transcriptase polymerase&#x2010;chain&#x2010;reaction [qRT&#x2010;PCR] assay or an Authorized Antigen Test), confirmed cases (i.e., those that tested positive by one of the above&#x2010;mentioned tests), number of hospitalizations, number of deaths (the last two variables were not included in the current analysis), and rates of vaccination with 1, 2, 3, or 4 doses of the Pfizer BNT162b2 COVID&#x2010;19 vaccine. Figures were presented as positivity rate (Figure&#xA0;<xref rid="jnu12816-fig-0001" ref-type="fig">1</xref>) or rates per population (Figures&#xA0;<xref rid="jnu12816-fig-0002" ref-type="fig">2</xref> and <xref rid="jnu12816-fig-0003" ref-type="fig">3</xref>).</p>
+      <fig position="float" fig-type="FIGURE" id="jnu12816-fig-0001">
+        <label>FIGURE 1</label>
+        <caption>
+          <p>Monthly rate of confirmed COVID&#x2010;19 diagnostic tests by socioeconomic (SE) cluster and ethnicity, March 11, 2020 to May 1, 2022. (a) Monthly rate of confirmed tests by socioeconomic (SE) cluster. (b) Monthly rate of confirmed tests by ethnicity.</p>
+        </caption>
+        <graphic xlink:href="JNU-55--g004" position="anchor" id="jats-graphic-1"/>
+      </fig>
+      <fig position="float" fig-type="FIGURE" id="jnu12816-fig-0002">
+        <label>FIGURE 2</label>
+        <caption>
+          <p>Cumulative Proportion of the Population Receiving COVID&#x2010;19 Vaccine Dose 1&#x2010;4, by Month and socioeconomic (SE) Cluster, December 20, 2020 &#x2010; April 1, 2022. (a) Vaccine dose 1, by month and SE cluster. (b) Vaccine dose 2, by month and SE cluster. (c) Vaccine dose 3, by month and SE cluster. (d) Vaccine dose 4, by month and SE cluster.</p>
+        </caption>
+        <graphic xlink:href="JNU-55--g003" position="anchor" id="jats-graphic-3"/>
+      </fig>
+      <fig position="float" fig-type="FIGURE" id="jnu12816-fig-0003">
+        <label>FIGURE 3</label>
+        <caption>
+          <p>Cumulative proportion of the population receiving COVID&#x2010;19 vaccine dose 1&#x2013;4, by month and ethnicity, December 20, 2020&#x2013;April 1, 2022. (a) Vaccine dose 1, by month and ethnicity. (b) Vaccine dose 2, by month and ethnicity. (c) Vaccine dose 3, by month and ethnicity. (d) Vaccine dose 4, by month and ethnicity.</p>
+        </caption>
+        <graphic xlink:href="JNU-55--g001" position="anchor" id="jats-graphic-5"/>
+      </fig>
+      <p>We linked each locality in the MOH database to its socioeconomic (SE) cluster. SE clusters are homogenous units on a scale of 1 (lowest) to 10 (highest) that are determined by the Central Bureau of Statistics (CBS) according to population demography, education, employment, and standard of living (CBS,&#xA0;<xref rid="jnu12816-bib-0013" ref-type="bibr">2017</xref>). The data sources for CBS clusters include, in addition to the CBS, numerous sources like the National Insurance Institute and the Ministry of Finance. Multivariate analysis of demographic, social, and economic characteristics calculated from these administrative sources for the population residing in the geographical units yielded an index (continuous value) that reflects the socio&#x2010;economic level of the population. Afterward, the cluster analysis was carried out to classify the local authorities into 10 homogeneous groups based on the socio&#x2010;economic index of their population (CBS,&#xA0;<xref rid="jnu12816-bib-0013" ref-type="bibr">2017</xref>).</p>
+      <p>Since only 0.06% of the entire study population live in localities that belong to cluster 10, relative rate differences were compared between SE cluster 9 (second highest), instead of 10 (highest cluster), and 1 (lowest cluster). However, all 10 SE clusters were presented in all exhibits (Figures and Table).</p>
+      <p>For comparison between the Jewish and Arab populations, localities with homogenous ethnic composition (more than 90% of the population either Jewish or Arab), were defined as &#x201C;Jewish&#x201D; or &#x201C;Arab&#x201D; localities. Localities, where Arab residents constitute a minority but are at least 10% of the residents, were defined as &#x201C;localities of mixed ethnicity&#x201D;. Out of 9,183,559 citizens (97.2% of the total population) for whom residence is specified, 6,518,109 (70.9%) reside in Jewish localities, 1,343,787 (14.6%) in Arab localities, and 1,321,663 (14.4%) in six localities of mixed Jewish&#x2010;Arab ethnicity.</p>
+      <sec id="jnu12816-sec-0010">
+        <title>Data analysis</title>
+        <p>MOH data on confirmed cases were analyzed by SE cluster and ethnicity for each month of the pandemic, from March 2020 to May 2022. Analysis of the cumulative proportion of the population receiving vaccine doses from December 2020 to May 2022 was performed by the SE cluster for the overall population. Pearson correlation test examined the association between the proportion of positive tests and the SE cluster.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12816-sec-0011">
+      <title>RESULTS</title>
+      <sec id="jnu12816-sec-0012">
+        <title>Testing for COVID&#x2010;19</title>
+        <p>The average number of COVID&#x2010;19 diagnostic tests per person performed during the entire study period (March 11, 2020, to May 1, 2022) gradually increased from the lowest to the highest SE cluster, with the lowest SE cluster having the lowest testing rate and the highest SE cluster having the highest testing rate. Rates among cluster 9 were 3.2 higher compared with cluster 1. Rates among people living in Jewish localities were 1.7 and 2.2 times higher compared with those living in Arab and localities of mixed ethnicity, respectively (Table&#xA0;<xref rid="jnu12816-tbl-0001" ref-type="table">1</xref>).</p>
+        <table-wrap position="float" id="jnu12816-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Average number of COVID&#x2010;19 diagnostic tests<xref rid="jnu12816-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref> per person, by socioeconomic (SE) cluster and ethnicity, between March 11, 2020 to May 1, 2022</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">SE cluster</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Diagnostic tests performed</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Population</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Tests per person</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">901,722</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">407,265</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.21</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">7,814,900</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,992,608</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.92</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3,714,848</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">762,182</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4.87</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2,509,895</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">497,818</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5.04</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">6,126,533</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,186,465</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5.16</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4,317,504</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">781,845</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5.52</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">9,564,568</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,710,909</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5.59</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">10,890,041</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,714,015</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">6.35</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">882,867</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">125,157</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">7.05</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">46,570</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5295</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">8.80</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Overall</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">9,183,559</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Ethnicity</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Jewish</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">35,774,779</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">6,518,109</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5.49</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Arab</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5,302,661</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,343,787</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.95</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Mixed Jewish&#x2010;Arab</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5,692,008</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1,321,663</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4.31</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Overall</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">9,183,559</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12816-ntgp-0001">
+            <fn id="jnu12816-note-0001">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Both polymerase&#x2010;chain&#x2010;reaction (PCR) and Institutional Antigen tests are included in the analysis.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12816-sec-0013">
+        <title>Confirmed cases</title>
+        <p>During the study period (March 11, 2020 to May 3, 2022), 46,769,448 diagnostic tests were performed, and 3,705,777 were confirmed positive for COVID&#x2010;19 (overall positive rate&#xA0;=&#xA0;7.92%). The positivity rate was similar in the first 3 waves (peaking in March&#x2013;April 2020, September&#x2013;October 2020, and January&#x2013;February 2021), lowest in the fourth wave (September 2021), and highest in the fifth wave (January&#x2013;February 2022) (Figure&#xA0;<xref rid="jnu12816-fig-0001" ref-type="fig">1</xref>).</p>
+        <p>The rate of confirmed cases was higher among the lowest, compared with the highest SE clusters (Figure&#xA0;<xref rid="jnu12816-fig-0004" ref-type="fig">A1</xref>). A clear social gradient was evident throughout the pandemic waves, except for the very beginning of the first wave (March 2020, when only 762 tests were performed with 96 of them confirmed positive) and the second peak of the fifth wave (April 2022). During the peak of the first, second, third, and fourth waves, rates of confirmed cases were 1.9, 3.0, 6.3, and 4.3 times higher, respectively, among cluster 1 compared with cluster 9. Pearson test demonstrated a negative correlation between the proportion of confirmed cases and SE cluster in most study months, except for March 2020, July&#x2013;August 2021, and April&#x2013;May 2022. Those correlations were statistically significant in most months.</p>
+        <p>During the second, third, and fourth waves, people living in Arab or mixed localities experienced higher rates of confirmed cases compared with those living in Jewish localities. At the beginning of the first pandemic wave and the second part of the fifth wave, rates were higher among Jews, compared with Arab residents. (Figure&#xA0;<xref rid="jnu12816-fig-0001" ref-type="fig">1b</xref>).</p>
+      </sec>
+      <sec id="jnu12816-sec-0014">
+        <title>Vaccine uptake</title>
+        <p>Overall vaccine uptake by the population included in the study decreased from dose 1 to dose 4. As of April 1, 2022, 6,012,002; 5,494,172; 4,003,943 and 699,350 people have received vaccine dose 1,2,3 and 4, respectively. Analysis of COVID&#x2010;19 vaccine uptake by the SE cluster reveals a clear social gradient, with the percentage of the population being vaccinated gradually increasing from cluster 1 to the higher clusters. In all four vaccine doses, vaccination is higher in the highest, compared with the lowest, clusters (Figure&#xA0;<xref rid="jnu12816-fig-0002" ref-type="fig">2</xref>). The relative difference between the least (cluster 9) and most deprived (cluster 1) populations increases with vaccine dose: 2.45, 3.24, and 5.50 in the first, second and third vaccine dose, respectively. In the fourth dose, rates were compared between clusters 9 and 2 (16% and 3%, respectively, or a relative difference of 5.33) since vaccination rate in cluster 1 was 0%. It should be noted that the range of the Y (vertical) axis in Figures&#xA0;<xref rid="jnu12816-fig-0002" ref-type="fig">2</xref> and <xref rid="jnu12816-fig-0003" ref-type="fig">3</xref> are identical for doses 1&#x2013;3 and different for dose 4, where a smaller percent range was applied to allow for better visualization of the SE and ethnic differences in the face of much lower vaccination rates in the fourth dose</p>
+        <p>Figure&#xA0;<xref rid="jnu12816-fig-0003" ref-type="fig">3</xref> shows higher rates of COVID&#x2010;19 vaccination in Jewish, compared with Arab localities. Localities of mixed ethnicity demonstrate the lowest rates in the first two vaccine doses and intermediate rates in vaccine doses 3 and 4. Ethnic disparities grew with vaccine dose, with a Jewish to an Arab rate ratio of 1.11, 1.21, 1.6, and 4.5 for vaccine doses 1,2,3, and 4, respectively.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12816-sec-0015">
+      <title>DISCUSSION</title>
+      <p>The current analysis encompasses more than 2&#x2009;years of pandemic activity. Israel was among the first Western countries to rapidly vaccinate large proportions of its population (Our World in Data,&#xA0;<xref rid="jnu12816-bib-0012" ref-type="bibr">2022</xref>), enabling the analysis of trends in disparities both in disease burden and in the uptake of four vaccine doses.</p>
+      <p>The current analysis demonstrated socioeconomic and ethnic disparities in testing, as well as widening disparities in infection and vaccination over time.</p>
+      <sec id="jnu12816-sec-0016">
+        <title>Disparities in testing</title>
+        <p>The overall number of COVID&#x2010;19 tests performed during the entire study period demonstrated a clear social gradient, with the number of tests per resident gradually increasing from the lowest to the highest SE clusters. Ethnic disparities were also demonstrated, with higher testing among Jewish localities, compared to Arab localities and localities of mixed Jewish&#x2010;Arab ethnicity.</p>
+        <p>Less testing cannot be explained by access issues, since testing was available without cost via the four HMOs throughout the country with long operating hours, allowing also essential and contract workers to be tested before or after work. Less testing among the more deprived Israeli population may be related to lower awareness of the importance of early testing, following suspected close contact, due to potential lower health literacy. Health literacy, defined as &#x201C;the motivation and ability of individuals to gain access to, understand and use information in ways that promote and maintain health&#x201D; (Nutbeam,&#xA0;<xref rid="jnu12816-bib-0028" ref-type="bibr">2015</xref>, p. 451), was significantly associated with education and income in a national adult survey in Israel. (REF). Less testing among the Arab population was evident despite targeted efforts, such as a dedicated Arab call center organized within the Israeli emergency medical services, to allow people to for the reporting of symptoms or exposure to known cases and requesting of testing. Health instructions were culturally tailored, recruiting religious leaders, physicians, politicians, and Arab influencers to convey an effective message to relevant audiences (Saban et al.,&#xA0;<xref rid="jnu12816-bib-0038" ref-type="bibr">2020</xref>).</p>
+        <p>It is important to compare the finding of the current study with the international experience. In New York City, ethnic differences in COVID&#x2010;19 testing were demonstrated (Lieberman&#x2010;Cribbin et al.,&#xA0;<xref rid="jnu12816-bib-0019" ref-type="bibr">2020</xref>), however, SE differences in testing were not observed in this study (Lieberman&#x2010;Cribbin et al.,&#xA0;<xref rid="jnu12816-bib-0019" ref-type="bibr">2020</xref>). Findings from Switzerland indicated that more tests were conducted among the higher, compared with the lower, SE neighborhoods (Riou et al.,&#xA0;<xref rid="jnu12816-bib-0033" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12816-sec-0017">
+        <title>Disparities in infection</title>
+        <p>Socioeconomic disparities in confirmed cases among those tested, enlarged along the pandemic waves, from 1.9 in the first wave to 6.3 and 4.3 in the third and fourth waves, respectively. In the first days of the first wave and the second half of the fifth wave, higher infection rates among the wealthiest population might be related to the higher proportion of travel among those populations, &#x201C;importing&#x201D; the disease from abroad (CBS,&#xA0;<xref rid="jnu12816-bib-0006" ref-type="bibr">2019</xref>). Higher infection rates among the lower SE clusters have been attributed to more crowded living, more essential work that requires contact with many people, and less opportunities to work from home. Additional contributing factors are lower health literacy and lower digital literacy, in times when public health messages are distributed on diverse media platforms, including social media and the MOH's internet site.</p>
+        <p>Ethnic differences in infection rates between Arab/mixed localities and Jewish localities, also enlarged from the second to the third pandemic wave, with slightly higher rates among the Jewish population at the beginning of the first wave and the second half of the fifth wave. This pattern of trend reversal has been previously discussed regarding the earlier waves of the pandemic in Israel. From late February to late June 2020, the rate of confirmed cases was lower among the Arabs, compared with the Jews. Lower use of nursing homes and effective leadership which led to the early closure of mosques and high adherence to social distancing measures, even during the month of Ramadan, could explain this phenomenon (Saban et al.,&#xA0;<xref rid="jnu12816-bib-0038" ref-type="bibr">2020</xref>).</p>
+        <p>It was suggested that the more deprived populations tend to get tested only when they are symptomatic, resulting in a higher positivity rate (Riou et al.,&#xA0;<xref rid="jnu12816-bib-0033" ref-type="bibr">2021</xref>). A higher incidence of confirmed cases was reported in the US among the highest SE groups in the first period of the pandemic (Clouston et al.,&#xA0;<xref rid="jnu12816-bib-0008" ref-type="bibr">2021</xref>). When public health measures were introduced, this trend reversed. The authors suggested that individuals from high SE positions were more able to engage in health protective measures, including social distancing and mask&#x2010;wearing (Clouston et al.,&#xA0;<xref rid="jnu12816-bib-0008" ref-type="bibr">2021</xref>). In England and Wales, people living in the most deprived areas reported higher exposure to vehicle sharing, public transport, work, or education outside of the household, essential shops, and non&#x2010;household contacts during the pandemic, compared with people in the least deprived neighborhoods (Beale et al.,&#xA0;<xref rid="jnu12816-bib-0004" ref-type="bibr">2022</xref>). In California, positivity rates were 2.13, 2.23, and 4.39 higher among Asian, African American, and Hispanics, compared with Caucasian members, respectively (Escobar et al.,&#xA0;<xref rid="jnu12816-bib-0009" ref-type="bibr">2021</xref>).</p>
+        <p>A similar phenomenon of a higher incidence of confirmed cases per day was reported in the US among the highest SE groups in the first period of the pandemic (Clouston et al.,&#xA0;<xref rid="jnu12816-bib-0008" ref-type="bibr">2021</xref>). When the public health measures were introduced, this trend reversed. The authors suggested that individuals from high SE positions were more able to engage in health protective measures, including social distancing and mask&#x2010;wearing (Clouston et al.,&#xA0;<xref rid="jnu12816-bib-0008" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12816-sec-0018">
+        <title>Disparities in vaccine uptake</title>
+        <p>SE and ethnic disparities in vaccine uptake have been demonstrated in the current study. Moreover, those disparities enlarged with subsequent vaccine doses. The combination of considerably lower vaccination rates in doses 3 and 4, with enlarging SE and ethnic disparities, left the vulnerable populations with overall waning immunity, exposing them to higher rates of COVID&#x2010;19 infection.</p>
+        <p>Given the higher pandemic burden among the vulnerable populations (Luxenburg et al.,&#xA0;<xref rid="jnu12816-bib-0022" ref-type="bibr">2022</xref>), one would expect that those population groups would be more willing to receive the vaccine, once offered to the Israeli population. Since December 2020, the Pfizer vaccine was offered, first to the populations considered to be at risk followed by the rapid opening in early February to all 16&#x2009;+&#xA0;years old. The organizational and technological capacities of the Israeli HMOs contributed to the rapid rollout of the vaccines to the entire, relatively small, country (Rosen et al.,&#xA0;<xref rid="jnu12816-bib-0035" ref-type="bibr">2021</xref>) and overall high national coverage. To further improve national coverage, outreach efforts of the health providers to communities with low rates, for example, through recruiting opinion leaders (Saban et al.,&#xA0;<xref rid="jnu12816-bib-0037" ref-type="bibr">2021</xref>) were adopted. In order to tailor the health messages to the Arab population, a dedicated &#x201C;situation room&#x201D; was established, to coordinate between the Ministries and the Arab community. Interviews conducted by Karkabi with Arab&#x2010;Israeli respondents showed that COVID vaccine hesitancy was explained by perceptions of conspiracy, reduced access to health services in peripheral localities, and lower utilization of the digital platforms designed to schedule vaccination appointments (Raz et al.,&#xA0;<xref rid="jnu12816-bib-0031" ref-type="bibr">2021</xref>).</p>
+        <p>The COVID&#x2010;19 pandemic has hit the weakest segments of the populations harder a (Kluge et al.,&#xA0;<xref rid="jnu12816-bib-0018" ref-type="bibr">2020</xref>), and yet, vulnerable segments of the Israeli population&#x2014;the lower SE clusters and the Arab ethnic minorities&#x2014;demonstrated the lowest rates of vaccination. The <italic toggle="yes">inverse care law</italic>, originally coined by Tudor Hart in 1971, states that &#x201C;the availability of good medical care tends to vary inversely with the need for it in the population served&#x201D; (Tudor Hart,&#xA0;<xref rid="jnu12816-bib-0041" ref-type="bibr">1971</xref>, p. 405). The COVID&#x2010;19 pandemic proved that four decades following its first articulation, the inverse care law is still very relevant. The low SE clusters and the Arab minority, with higher rates of NCDs (Jaffe et al.,&#xA0;<xref rid="jnu12816-bib-0014" ref-type="bibr">2017</xref>; Muhsen et al.,&#xA0;<xref rid="jnu12816-bib-0027" ref-type="bibr">2017</xref>), exposing them to more severe disease and death, could benefit the most from the ultimate preventive care, i.e., the COVID&#x2010;19 vaccine.</p>
+        <p>In the United States, during the first months of the vaccination drive, disparities in vaccination uptake by the social vulnerability index increased as vaccine eligibility expanded (Barry et al.,&#xA0;<xref rid="jnu12816-bib-0003" ref-type="bibr">2021</xref>). Lower vaccination coverage was associated with living in counties with lower per capita income, less education, a higher percentage of children, more people with disabilities, and single&#x2010;parent households. In 43 of 45 US states examined, Black racial disparities in vaccine uptake were demonstrated (Siegel et al.,&#xA0;<xref rid="jnu12816-bib-0040" ref-type="bibr">2021</xref>).</p>
+        <p>In the <italic toggle="yes">COVID&#x2010;19 Marmot Review</italic>, the authors indicated that the current levels of societal inequality in the United Kingdom were damaging health and well&#x2010;being. They suggested that we must &#x201C;Build Back Fairer,&#x201D; i.e., reconstruct our society in a more just and, equitable way (Marmot et al.,&#xA0;<xref rid="jnu12816-bib-0023" ref-type="bibr">2020</xref>). Indeed, the social determinants of health (SDH), defined as &#x201C;the conditions in which people are born, grow, live, work and age&#x201D; relate to the effect of socioeconomic factors such as education and income, that influence many health outcomes (Braveman &amp; Gottlieb,&#xA0;<xref rid="jnu12816-bib-0005" ref-type="bibr">2014</xref>). For example, neighborhood disadvantage (low walkability, less access to healthy foods and recreational areas) had a strong impact on obesity prevalence, contributing to a higher prevalence of NCDs like diabetes (Ludwig et al.,&#xA0;<xref rid="jnu12816-bib-0021" ref-type="bibr">2011</xref>) who, in turn, is associated with more severe COVID&#x2010;19 course (Kluge et al.,&#xA0;<xref rid="jnu12816-bib-0018" ref-type="bibr">2020</xref>). Health literacy, previously discussed as a factor in populations' compliance with public health measures, might be seen as an independent social determinant of health (Nutbeam &amp; Lloyd,&#xA0;<xref rid="jnu12816-bib-0029" ref-type="bibr">2021</xref>). Understanding the effects of education, income, and living conditions on health behaviors and health outcomes might provide an invaluable framework for both policymakers and frontline members of the healthcare system.</p>
+        <p>Health inequities documented in Israel between communities, populations, and regions, influence the ability of all citizens to gain optimal health. Efforts should be directed to encourage healthier behaviors among all populations with a focus on deprived populations, by making the healthy choice the &#x201C;easy choice&#x201D;, creating healthier environments near home, for example encouraging active transportation (cycling or waking), establishing community gardens near residential neighborhoods, or prohibiting smoking in any outdoor area open to the public (Ashe et al.,&#xA0;<xref rid="jnu12816-bib-0001" ref-type="bibr">2011</xref>). Improving health&#x2010;promoting behaviors might reduce the prevalence of NCDs and increase resilience in the current pandemic or future health disasters alike.</p>
+        <p>An important move in this direction was done by the MOH who in 2019&#x2013;2020 initiated a process of reaching a consensus on a defined set of national equity indicators. Among the leading indicators were diabetes care, childhood obesity, adult obesity, and cigarette smoking, all related to the prevalence of NCD (Wilf&#x2010;Miron et al.,&#xA0;<xref rid="jnu12816-bib-0042" ref-type="bibr">2021</xref>) Those indicators will guide governmental decision&#x2010;making, furthering the pursuit of a more equitable healthcare system.</p>
+        <p>The MOH, the health plans, and the local authorities (who proved to be an important stakeholders in confronting the pandemic in Israel), must combine their capacities to improve early COVID&#x2010;19 testing and complying with the full vaccination scheme among those populations who lag, despite considerable outreach efforts. This can be done by improving the adaptation of the health messages to the social and cultural characteristics of the vulnerable populations, using kiosks, replacing the digital dialogue with the health provider, for people who are not digitally literate, or arranging local tailor&#x2010;made events attracting people in the neighborhood to take the shot (Linder,&#xA0;<xref rid="jnu12816-bib-0020" ref-type="bibr">2021</xref>).</p>
+        <p>At the level of the healthcare staff, it is the role of the physicians, nurses, and other healthcare professionals to ask (&#x201C;Have you taken the vaccine&#x201D;?), to explore (the reasons for vaccine hesitancy) and advise on vaccination, in a way that is respecting the patients' values and culture. Primary care physicians and nurses are encouraged to utilize their encounters with patients and families, to actively hearten them to adopt protective decision&#x2010;making concerning testing and vaccine uptake.</p>
+        <p>Nurses are the largest and most trusted healthcare force (Reinhart,&#xA0;<xref rid="jnu12816-bib-0032" ref-type="bibr">2020</xref>). Together with physicians, they are an important link between the patient and the healthcare system and can help to recognize and act to reduce health disparities. Both nurses and physicians are the &#x201C;perfect agents&#x201D; of their patients since they know the unique needs of patients with diverse backgrounds and could advise on the optimal tailoring of the health measures to those needs. We expect health professionals to serve as role models for their patients. In a national survey, Israeli nurses, particularly hospital&#x2010;based, non&#x2010;Jewish, and immigrants from the Former Soviet Union, reported unfavorable health behaviors (Kagan et al.,&#xA0;<xref rid="jnu12816-bib-0015" ref-type="bibr">2021</xref>). Israeli physicians demonstrated similar, unfavorable health behaviors (Miron et al.,&#xA0;<xref rid="jnu12816-bib-0025" ref-type="bibr">2019</xref>). This might reduce their motivation and effectiveness as role models and health educators. To improve compliance of the public, it is essential that uptake of health&#x2010;protective behavior among healthcare providers is considerably improved to serve as exemplars throughout society.</p>
+      </sec>
+      <sec id="jnu12816-sec-0019">
+        <title>Limitations of the study</title>
+        <p>(1) Analysis is based on the Open Database of the Israeli Ministry of Health, which contains aggregated data. In the absence of individual&#x2010;level data, analyses and conclusions are purely ecological. (2) The analysis included repeated COVID&#x2010;19 tests as some people conduct multiple tests before being identified as &#x201C;confirmed.&#x201D; Indeed, this may create an underestimation of the true rate of confirmed tests, however, since the national method of data collection and reporting has been stable throughout the months of the pandemic, and since, at the time of the study, COVID testing was free of charge for the entire Israeli population, we believe that this should not create a bias, i.e., weak populations unable to afford exams. (3) Considerably lower rates of testing among the vulnerable populations might create an underestimation of true disparities since more people in the lowest clusters and the Arab communities may go undiagnosed.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12816-sec-0020">
+      <title>CONCLUSIONS</title>
+      <p>The current study is unique in the scope of its analysis&#x2014;a nation&#x2010;wide analysis of three pandemic&#x2010;related variables (testing, confirmed cases, and vaccination), encompassing all 26 consecutive months and 5 pandemic waves.</p>
+      <p>The COVID&#x2010;19 pandemic, like other disasters, is exposing social, economic, and health care inequalities. However, despite public awareness of the increased risk for the most vulnerable populations, (Karuss,&#xA0;<xref rid="jnu12816-bib-0016" ref-type="bibr">2022</xref>; Sadeh,&#xA0;<xref rid="jnu12816-bib-0039" ref-type="bibr">2020</xref>), our analysis demonstrates that socioeconomic and ethnic disparities in the rate of confirmed COVID&#x2010;19 cases and vaccine uptake, not only failed to diminish but even enlarged along the subsequent pandemic waves.</p>
+      <p>The combined action of the MOH, the health providers, and the local authorities are required to further invest efforts to tailor health messages to the cultural characteristics of diverse populations, to equip the health professionals with practical tools to promote healthy choices among the vulnerable populations, and to build communities that make the healthy choice the easy one. Moreover, the pandemic has highlighted the importance of improving those efforts to increase health equity during &#x201C;normal&#x201D; or routine times, thus constructing the infrastructure required for better healthcare&#x2010;population dialogue during emergency situations, like the current pandemic.</p>
+    </sec>
+    <sec id="jnu12816-sec-0021">
+      <title>CLINICAL RESOURCES</title>
+      <p>Marmot M. Nursing staff play an important role in building a fairer society. Royal College of Nursing Bulletin, September 20, 2021. Available at <ext-link xlink:href="https://www.rcn.org.uk/magazines/people/2021/september/professor-sir-michael-marmot-health-equity-keynote-speech" ext-link-type="uri">https://www.rcn.org.uk/magazines/people/2021/september/professor&#x2010;sir&#x2010;michael&#x2010;marmot&#x2010;health&#x2010;equity&#x2010;keynote&#x2010;speech</ext-link>
+</p>
+      <p>World Health Organization. Health inequity and the effects of COVID&#x2010;19 (2020). Assessing, responding to, and mitigating the socioeconomic impact on health to build a better future. <ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/338199/WHO-EURO-2020-1744-41495-56594-eng.pdf" ext-link-type="uri">https://apps.who.int/iris/bitstream/handle/10665/338199/WHO&#x2010;EURO&#x2010;2020&#x2010;1744&#x2010;41495&#x2010;56594&#x2010;eng.pdf</ext-link>
+</p>
+      <p>Center for Disease Control and Prevention. Health Equity Considerations and Racial and Ethnic Minority Groups. <ext-link xlink:href="https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html" ext-link-type="uri">https://www.cdc.gov/coronavirus/2019&#x2010;ncov/community/health&#x2010;equity/race&#x2010;ethnicity.html</ext-link>. Updated Jan. 25, 2022</p>
+    </sec>
+    <sec id="jnu12816-sec-0022">
+      <title>Funding information</title>
+      <p>This research received no specific grant from any funding agency in the public, commercial, or not&#x2010;for&#x2010;profit sectors.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12816-sec-0023">
+      <title>CONFLICTS OF INTEREST</title>
+      <p>None of the authors has any conflicts of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list content-type="cited-references" id="jnu12816-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12816-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0001">
+<string-name>
+<surname>Ashe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Graff</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Spector</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Changing places: Policies to make a healthy choice the easy choice</article-title>. <source>Public Health</source>, <volume>125</volume>(<issue>12</issue>), <fpage>889</fpage>&#x2013;<lpage>895</lpage>. <pub-id pub-id-type="doi">10.1016/J.PUHE.2011.04.010</pub-id>
+<pub-id pub-id-type="pmid">21917279</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0002">
+<string-name>
+<surname>Ayoubkhani</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nafilyan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Goldblatt</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gaughan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Blackwell</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Banerjee</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Khunti</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Glickman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Humberstone</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Diamond</surname>, <given-names>I.</given-names>
+</string-name> (<year>2021</year>). <article-title>Ethnic&#x2010;minority groups in England and Wales&#x2014;Factors associated with the size and timing of elevated COVID&#x2010;19 mortality: A retrospective cohort study linking census and death records</article-title>. <source>International Journal of Epidemiology</source>, <volume>49</volume>(<issue>6</issue>), <fpage>1951</fpage>&#x2013;<lpage>1962</lpage>. <pub-id pub-id-type="doi">10.1093/IJE/DYAA208</pub-id>
+<pub-id pub-id-type="pmid">33349855</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0003">
+<string-name>
+<surname>Barry</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Dasgupta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Weller</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Kriss</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Cadwell</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pingali</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Musial</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sharpe</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Flores</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Greenlund</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Qualters</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>L. T.</given-names>
+</string-name>, <string-name>
+<surname>Barbour</surname>, <given-names>K. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Black</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Patterns in COVID&#x2010;19 vaccination coverage, by social vulnerability and urbanicity &#x2014; United States, December 14, 2020&#x2013;may 1, 2021</article-title>. <source>Morbidity and Mortality Weekly Report</source>, <volume>70</volume>(<issue>22</issue>), <fpage>818</fpage>&#x2013;<lpage>824</lpage>. <pub-id pub-id-type="doi">10.15585/MMWR.MM7022E1</pub-id>
+<pub-id pub-id-type="pmid">34081685</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0004">
+<string-name>
+<surname>Beale</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Braithwaite</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Navaratnam</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Hardelid</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rodger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Aryee</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name>
+<surname>Fong</surname>, <given-names>E. W. L.</given-names>
+</string-name>, <string-name>
+<surname>Fragaszy</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Geismar</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kovar</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shrotri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aldridge</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hayward</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Deprivation and exposure to public activities during the COVID&#x2010;19 pandemic in England and Wales</article-title>. <source>Journal of Epidemiology and Community Health</source>, <volume>76</volume>(<issue>4</issue>), <fpage>319</fpage>&#x2013;<lpage>326</lpage>. <pub-id pub-id-type="doi">10.1136/JECH-2021-217076</pub-id>
+<pub-id pub-id-type="pmid">34642240</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0005">
+<string-name>
+<surname>Braveman</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gottlieb</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>The social determinants of health: It's time to consider the causes of the causes</article-title>. <source>Public Health Reports</source>, <volume>129</volume>(<issue>SUPPL. 2</issue>), <fpage>19</fpage>&#x2013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1177/00333549141291s206</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0006">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0006">
+<collab collab-type="authors">Central Bureau of Statistics (CBS)</collab>
+. (<year>2019</year>). <source>Selected data from the 2019 social survey: Travel of Israelis abroad</source>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0030">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0030">
+<collab collab-type="authors">Centrel Bureau of Satatistics (CBS)</collab>
+. (<year>2022</year>). <article-title>Population of Israel on the eve of 2022</article-title>. Media release, December 30, 2022. Retrieved May 22, 2022, from <ext-link xlink:href="https://www.cbs.gov.il/en/mediarelease/pages/2021/population-of-israel-on-the-eve-of-2022.aspx" ext-link-type="uri">https://www.cbs.gov.il/en/mediarelease/pages/2021/population&#x2010;of&#x2010;israel&#x2010;on&#x2010;the&#x2010;eve&#x2010;of&#x2010;2022.aspx</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0007">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0007">
+<string-name>
+<surname>Chernichovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bisharat</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sharoni</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>). <source>The health of the Arab Israeli population</source>. <publisher-name>Taub Center for Social Policy Studies in Israel</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0008">
+<string-name>
+<surname>Clouston</surname>, <given-names>S. A. P.</given-names>
+</string-name>, <string-name>
+<surname>Natale</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Link</surname>, <given-names>B. G.</given-names>
+</string-name> (<year>2021</year>). <article-title>Socioeconomic inequalities in the spread of coronavirus&#x2010;19 in the United States: A examination of the emergence of social inequalities</article-title>. <source>Social Science &amp; Medicine</source>, <volume>268</volume>, <elocation-id>113554</elocation-id>. <pub-id pub-id-type="doi">10.1016/J.SOCSCIMED.2020.113554</pub-id>
+<pub-id pub-id-type="pmid">33308911</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0009">
+<string-name>
+<surname>Escobar</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>V. X.</given-names>
+</string-name>, <string-name>
+<surname>Soltesz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y. F. I.</given-names>
+</string-name>, <string-name>
+<surname>Parodi</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>, <given-names>G. T.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Ramaprasad</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Dlott</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lee</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Racial disparities in COVID&#x2010;19 testing and outcomes: Retrospective cohort study in an integrated health system</article-title>. <source>Annals of Internal Medicine</source>, <volume>174</volume>(<issue>6</issue>), <fpage>786</fpage>&#x2013;<lpage>793</lpage>. <pub-id pub-id-type="doi">10.7326/M20-6979</pub-id>
+<pub-id pub-id-type="pmid">33556278</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0044">
+<string-name>
+<surname>Gorelik</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Anis</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Edelstein</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Inequalities in initiation of COVID19 vaccination by age and population group in Israel&#x2010;December 2020&#x2010;July 2021</article-title>. <source>The Lancet Regional Health&#x2010;Europe</source>, <volume>12</volume>, <elocation-id>100234</elocation-id>.<pub-id pub-id-type="pmid">34746908</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0010">
+<string-name>
+<surname>Gustafsson</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name>
+<surname>San Sebastian</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fonseca&#x2010;Rodriguez</surname>, <given-names>O.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Fors Connolly</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Inequitable impact of infection: Social gradients in severe COVID&#x2010;19 outcomes among all confirmed SARS&#x2010;CoV&#x2010;2 cases during the first pandemic wave in Sweden</article-title>. <source>Journal of Epidemiology and Community Health</source>, <volume>76</volume>(<issue>3</issue>), <fpage>261</fpage>&#x2013;<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1136/JECH-2021-216778</pub-id>
+<pub-id pub-id-type="pmid">34526373</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0011">
+<string-name>
+<surname>Horton</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Offline: COVID&#x2010;19 is not a pandemic</article-title>. <source>The lancet</source>, <volume>396</volume>(<issue>10255</issue>), <fpage>874</fpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)32000-6</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0012">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0012">
+<article-title>Coronavirus (COVID&#x2010;19) Vaccinations &#x2010; Statistics and Research &#x2010; Our World in Data</article-title>. Retrieved February 26, 2021, from <ext-link xlink:href="https://www.ourworldindata.org/covid-vaccinations" ext-link-type="uri">https://www.ourworldindata.org/covid&#x2010;vaccinations</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0013">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0013">
+<article-title>
+<italic toggle="yes">Characterization and Classification of Geographical Units by the Socio&#x2010;Economic Level of the Population</italic> 2017</article-title>. (<year>2017</year>). <ext-link xlink:href="https://www.cbs.gov.il/en/mediarelease/Pages/2020/Characterization-Classification-GeographicalUnitsby-Socio-Economic-Level-Population2017.aspx" ext-link-type="uri">https://www.cbs.gov.il/en/mediarelease/Pages/2020/Characterization&#x2010;Classification&#x2010;Geographical%20Unitsby&#x2010;%20Socio&#x2010;Economic&#x2010;Level&#x2010;Population%202017.aspx</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0014">
+<string-name>
+<surname>Jaffe</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Giveon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wulffhart</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Oberman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Baidousi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ziv</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kalter&#x2010;Leibovici</surname>, <given-names>O.</given-names>
+</string-name> (<year>2017</year>). <article-title>Adult Arabs have higher risk for diabetes mellitus than Jews in Israel</article-title>. <source>PLoS One</source>, <volume>12</volume>(<issue>5</issue>), <elocation-id>e0176661</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0176661</pub-id>
+<pub-id pub-id-type="pmid">28481942</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0015">
+<string-name>
+<surname>Kagan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Ziv</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Murad</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Valinsky</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Asman</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Tabak</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wilf Miron</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Effect of ethnicity, country of origin and workplace on health behaviors and health perception among nurses: Cross&#x2010;sectional study</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>54</volume>, <fpage>535</fpage>&#x2013;<lpage>545</lpage>. <pub-id pub-id-type="doi">10.1111/JNU.12759</pub-id>
+<pub-id pub-id-type="pmid">34951740</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0016">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0016">
+<string-name>
+<surname>Karuss</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2022</year>). <source>9000 deaaths: COVID kills more people in the weakest segment</source>. <publisher-name>Makor Rishon</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0017">
+<string-name>
+<surname>Khanijahani</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Racial, ethnic, and socioeconomic disparities in confirmed COVID&#x2010;19 cases and deaths in the United States: A county&#x2010;level analysis as of November 2020</article-title>. <volume>26</volume>(<issue>1</issue>), <fpage>22</fpage>&#x2013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1080/13557858.2020.1853067</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0018">
+<string-name>
+<surname>Kluge</surname>, <given-names>H. H. P.</given-names>
+</string-name>, <string-name>
+<surname>Wickramasinghe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Rippin</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>Mendes</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>, <given-names>D. H.</given-names>
+</string-name>, <string-name>
+<surname>Kontsevaya</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Breda</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Prevention and control of non&#x2010;communicable diseases in the COVID&#x2010;19 response</article-title>. <source>The Lancet</source>, <volume>395</volume>(<issue>10238</issue>), <fpage>1678</fpage>&#x2013;<lpage>1680</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)31067-9</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0019">
+<string-name>
+<surname>Lieberman&#x2010;Cribbin</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Tuminello</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Flores</surname>, <given-names>R. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Taioli</surname>, <given-names>E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Disparities in COVID&#x2010;19 testing and positivity in New York City</article-title>. <source>American Journal of Preventive Medicine</source>, <volume>59</volume>(<issue>3</issue>), <fpage>326</fpage>&#x2013;<lpage>332</lpage>. <pub-id pub-id-type="doi">10.1016/J.AMEPRE.2020.06.005</pub-id>
+<pub-id pub-id-type="pmid">32703702</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0020">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0020">
+<string-name>
+<surname>Linder</surname>
+<given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>
+The original incentive for vaccination in the city of Bnei Berak
+</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0021">
+<string-name>
+<surname>Ludwig</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sanbonmatsu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gennetian</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Adam</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Kessler</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Kling</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Lindau</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Whitaker</surname>, <given-names>R. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McDade</surname>, <given-names>T. W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Neighborhoods, obesity, and diabetes&#x2014;A randomized social experiment</article-title>. <source>New England Journal of Medicine</source>, <volume>365</volume>(<issue>16</issue>), <fpage>1509</fpage>&#x2013;<lpage>1519</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMSA1103216</pub-id>
+<pub-id pub-id-type="pmid">22010917</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0022">
+<string-name>
+<surname>Luxenburg</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Wilf&#x2010;Miron</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Saban</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Sociodemographic disparities in COVID&#x2010;19 burden: Changing patterns over four pandemic waves in Israel</article-title>. <source>Journal of Epidemiology and Community Health</source>, <volume>76</volume>(<issue>7</issue>), <fpage>653</fpage>&#x2013;<lpage>659</lpage>. <pub-id pub-id-type="doi">10.1136/JECH-2021-217993</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0023">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0023">
+<string-name>
+<surname>Marmot</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Goldblatt</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Herd</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Morrison</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <source>Build Back fairer: The COVID&#x2010;19 Marmot review. The pandemic, socioeconomic and health inequalities in England</source>. <publisher-name>Institute of Health Equity</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0024">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0024">
+<collab collab-type="authors">Minister of Health</collab>
+. (<year>2020</year>). <article-title>The minister of health yearly report on smoking</article-title>. Jerusalem, November 2021.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0025">
+<string-name>
+<surname>Miron</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Malatskey</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rosen</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Health&#x2010;related behaviours and perceptions among physicians: Results from a cross&#x2010;sectional study in Israel</article-title>. <source>BMJ Open</source>, <volume>9</volume>(<issue>9</issue>), <elocation-id>e031353</elocation-id>. <pub-id pub-id-type="doi">10.1136/BMJOPEN-2019-031353</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0026">
+<string-name>
+<surname>Mude</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Oguoma</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Nyanhanda</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mwanri</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Njue</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Racial disparities in COVID&#x2010;19 pandemic cases, hospitalisations, and deaths: A systematic review and meta&#x2010;analysis</article-title>. <source>Journal of Global Health</source>, <volume>11</volume>, <fpage>1</fpage>&#x2013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.7189/JOGH.11.05015</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0027">
+<string-name>
+<surname>Muhsen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Soskolne</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Neumark</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2017</year>). <article-title>Inequalities in non&#x2010;communicable diseases between the major population groups in Israel: Achievements and challenges</article-title>. <source>The Lancet</source>, <volume>389</volume>(<issue>10088</issue>), <fpage>2531</fpage>&#x2013;<lpage>2541</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0028">
+<string-name>
+<surname>Nutbeam</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Defining, measuring and improving health literacy</article-title>. <source>&#x7DCF;&#x5408;&#x5065;&#x8A3A;</source>, <volume>42</volume>(<issue>4</issue>), <fpage>450</fpage>&#x2013;<lpage>456</lpage>. <pub-id pub-id-type="doi">10.7143/JHEP.42.450</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0029">
+<string-name>
+<surname>Nutbeam</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lloyd</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Understanding and responding to health literacy as a social determinant of health</article-title>. <source>Annual Review of Public Health</source>, <volume>42</volume>, <fpage>159</fpage>&#x2013;<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1146/ANNUREV-PUBLHEALTH-090419-102529</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0031">
+<string-name>
+<surname>Raz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Keshet</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Popper&#x2010;Giveon</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Karkabi</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2021</year>). <article-title>One size does not fit all: Lessons from Israel's Covid&#x2010;19 vaccination drive and hesitancy</article-title>. <source>Vaccine</source>, <volume>39</volume>(<issue>30</issue>), <fpage>4027</fpage>&#x2013;<lpage>4028</lpage>.<pub-id pub-id-type="pmid">34120767</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0032">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0032">
+<string-name>
+<surname>Reinhart</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Nurses continue to rate highest in honesty, Ethics</article-title>. <ext-link xlink:href="https://news.gallup.com/poll/274673/nurses-continue-rate-highest-honesty-ethics.aspx" ext-link-type="uri">https://news.gallup.com/poll/274673/nurses&#x2010;continue&#x2010;rate&#x2010;highest&#x2010;honesty&#x2010;ethics.aspx</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0033">
+<string-name>
+<surname>Riou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Panczak</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Althaus</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Junker</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Perisa</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Criscuolo</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Egger</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Socioeconomic position and the COVID&#x2010;19 care cascade from testing to mortality in Switzerland: A population&#x2010;based analysis</article-title>. <source>The Lancet Public Health</source>, <volume>6</volume>(<issue>9</issue>), <fpage>e683</fpage>&#x2013;<lpage>e691</lpage>. <pub-id pub-id-type="doi">10.1016/S2468-2667(21)00160-2</pub-id>
+<pub-id pub-id-type="pmid">34252364</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0034">
+<string-name>
+<surname>Roder</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maggs</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mcnamara</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>O'brien</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wade</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pasco</surname>, <given-names>J. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Athan</surname>, <given-names>E.</given-names>
+</string-name> (<year>2022</year>). <article-title>Area&#x2010;level social and economic factors and the local incidence of SARS&#x2010;CoV&#x2010;2 infections in Victoria during 2020</article-title>. <source>Wiley Online Library</source>, <volume>216</volume>(<issue>7</issue>), <fpage>349</fpage>&#x2013;<lpage>356</lpage>. <pub-id pub-id-type="doi">10.5694/mja2.51436</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0035">
+<string-name>
+<surname>Rosen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Waitzberg</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Israeli</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Israel's rapid rollout of vaccinations for COVID&#x2010;19</article-title>. <source>Israel Journal of Health Policy Research</source>, <volume>10</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1186/s13584-021-00440-6</pub-id>
+<pub-id pub-id-type="pmid">33397435</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0036">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0036">
+<string-name>
+<surname>Rosen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Waitzberg</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Merkur</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <source>Health Systems in Transition</source>. <publisher-name>Health system review</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0037">
+<string-name>
+<surname>Saban</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ben&#x2010;Shetrit</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wilf&#x2010;Miron</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Socioeconomic gradient in COVID&#x2010;19 vaccination: Evidence from Israel</article-title>. <source>International Journal for Equity in Health</source>, <volume>20</volume>(<issue>1</issue>), <fpage>242</fpage>. <pub-id pub-id-type="doi">10.1186/S12939-021-01566-4</pub-id>
+<pub-id pub-id-type="pmid">34749718</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0038">
+<string-name>
+<surname>Saban</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wilf&#x2010;Miron</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Coping with the COVID&#x2010;19 pandemic &#x2010; the role of leadership in the Arab ethnic minority in Israel</article-title>. <source>International Journal for Equity in Health</source>, <volume>19</volume>(<issue>1</issue>), <fpage>154</fpage>. <pub-id pub-id-type="doi">10.1186/s12939-020-01257-6</pub-id>
+<pub-id pub-id-type="pmid">32907581</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0039">
+        <mixed-citation publication-type="book" id="jnu12816-cit-0039">
+<string-name>
+<surname>Sadeh</surname>
+<given-names>Z.</given-names>
+</string-name> (<year>2020</year>). <source>Corona against the weakest: Most localities under quarantine are in the lowest SE clusters</source>. <publisher-name>Yediot Hacharonot digital</publisher-name>. Retrieved September 9, 2020. <ext-link xlink:href="https://www.ynet.co.il/economy/article/Syrc5k" ext-link-type="uri">https://www.ynet.co.il/economy/article/Syrc5k</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0040">
+<string-name>
+<surname>Siegel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Critchfield&#x2010;Jain</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Boykin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Owens</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Muratore</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nunn</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Oh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Racial/ethnic disparities in state&#x2010;level COVID&#x2010;19 vaccination rates and their association with structural racism</article-title>. <source>Journal of Racial and Ethnic Health Disparities</source>, <fpage>1</fpage>&#x2013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">33104967</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0043">
+        <mixed-citation publication-type="miscellaneous" id="jnu12816-cit-0043">
+<collab collab-type="authors">The Israeli Ministry of Health</collab>
+. (<year>2021</year>). <article-title>COVID&#x2010;10 dashboard. General snapshot</article-title>. <ext-link xlink:href="https://datadashboard.health.gov.il/COVID-19/general" ext-link-type="uri">https://datadashboard.health.gov.il/COVID&#x2010;19/general</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0041">
+<string-name>
+<surname>Tudor Hart</surname>, <given-names>J.</given-names>
+</string-name> (<year>1971</year>). <article-title>The inverse care law</article-title>. <source>The Lancet</source>, <volume>297</volume>(<issue>7696</issue>), <fpage>405</fpage>&#x2013;<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(71)92410-X</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12816-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12816-cit-0042">
+<string-name>
+<surname>Wilf&#x2010;Miron</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Avni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Valinsky</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ziv</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Peretz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Luxenburg</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Saban</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Feder&#x2010;Bubis</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Developing a National set of health equity indicators using a consensus building process</article-title>. <source>International Journal of Health Policy and Management</source>, <volume>11</volume>(<issue>8</issue>), <fpage>1522</fpage>&#x2013;<lpage>1532</lpage>. <pub-id pub-id-type="doi">10.34172/IJHPM.2021.54</pub-id>
+<pub-id pub-id-type="pmid">34273926</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <app-group>
+      <app id="jnu12816-app-0001" content-type="APPENDIX">
+        <fig position="anchor" fig-type="FIGURE" id="jnu12816-fig-0004">
+          <label>FIGURE A1</label>
+          <caption>
+            <p>Pearson correlation coefficient between the proportion of diagnostic tests that were found positive and SE cluster, by month, March 13, 2020 to May 1, 2022. *Correlation is significant at the 0.05 level (2&#x2010;tailed). **Correlation is significant at the 0.01 level (2&#x2010;tailed).</p>
+          </caption>
+          <graphic xlink:href="JNU-55--g002" position="anchor" id="jats-graphic-7"/>
+        </fig>
+      </app>
+    </app-group>
+  </back>
+</article>
+</pmc-articleset>

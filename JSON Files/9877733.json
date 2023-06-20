@@ -1,0 +1,1694 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12850" xml:lang="en" article-type="other">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36480159</article-id>
+      <article-id pub-id-type="pmc">9877733</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12850</article-id>
+      <article-id pub-id-type="publisher-id">JNU12850</article-id>
+      <article-id pub-id-type="other">JNU-05-22-390.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An analysis of the policy participation of field response nurses in South Korea: <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response guidelines and the infectious disease act revision</article-title>
+        <alt-title alt-title-type="right-running-head">Analysis of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response health and nursing policy involvement case of field response nurses in South Korea</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12850-cr-0001" contrib-type="author">
+          <name>
+            <surname>Kang</surname>
+            <given-names>Sunjoo</given-names>
+          </name>
+          <degrees>LLD, PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1633-2558</contrib-id>
+          <xref rid="jnu12850-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12850-cr-0002" contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Younjoo</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5879-1704</contrib-id>
+          <xref rid="jnu12850-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12850-cr-0003" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Jinhyun</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7141-1606</contrib-id>
+          <xref rid="jnu12850-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <address>
+            <email>jinhyun@snu.ac.kr</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12850-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Yonsei University Graduate School of Public Health</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff>
+      <aff id="jnu12850-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Daegu Center for Infectious Diseases Control and Prevention</institution>
+<city>Daegu</city>
+<country country="KR">South Korea</country>
+</aff>
+      <aff id="jnu12850-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">The Research Institute of Nursing Science/College of Nursing</named-content>
+<institution>Seoul National University</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jinhyun Kim, The Research Institute of Nursing Science/College of Nursing, Seoul National University, Seoul, 03080, South Korea.<break/>
+Email: <email>jinhyun@snu.ac.kr</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>08</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="230">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>202</fpage>
+      <lpage>214</lpage>
+      <history>
+<date date-type="rev-recd"><day>02</day><month>11</month><year>2022</year></date>
+<date date-type="received"><day>07</day><month>6</month><year>2022</year></date>
+<date date-type="accepted"><day>04</day><month>11</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-202.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12850-sec-0001">
+          <title>Introduction</title>
+          <p>The Republic of Korea's response to Coronavirus disease 2019 was divided before and after global vaccine development at the end of 2020. It also varied according to the size of confirmed patients in the non&#x2010;pharmaceutical intervention. Therefore, this study aimed to analyze the contribution of frontline nurses to the policy and law revision on infectious diseases and suggest health and nursing policies for emerging infectious diseases in the future.</p>
+        </sec>
+        <sec id="jnu12850-sec-0002">
+          <title>Design</title>
+          <p>This case evaluation study analyzed the significant policy decisions that nurses' roles brought on changes in the infectious disease response system in the Republic of Korea and applying the health system model and those capacities on resilience under emerging infectious diseases.</p>
+        </sec>
+        <sec id="jnu12850-sec-0003">
+          <title>Methods</title>
+          <p>Objective data that contributed directly to the revision of infectious disease&#x2010;related Acts and policies in 2020 were collected and analyzed through literature search and information disclosure claims from the first to third waves of Coronavirus disease 2019 in one city.</p>
+        </sec>
+        <sec id="jnu12850-sec-0004">
+          <title>Results</title>
+          <p>With the rapid outbreak of COVID&#x2010;19 confirmed cases at the end of February 2020, a pan&#x2010;government support group was formed and dispatched to D City. In addition, central quarantine officials worked with local quarantine officials to share real&#x2010;time situations and find out on&#x2010;site difficulties and support requests. As a result, inquiry of opinions to working staff before changing the &#x201C;response guidelines to Coronavirus disease 2019&#x201D; was reflected in major contents on the revision of &#x201C;policy on infectious disease response&#x201D; and &#x201C;Infectious Disease Prevention and Management Act.&#x201D; With the establishment of an epidemiological investigation team in September 2020, the number of new nurses in 17 cities and provinces increased by 19.1% compared to the previous year, the most significant increase compared to doctors (&#x2212;2.3), dentists (&#x2212;1.6), and health workers (3.7).</p>
+        </sec>
+        <sec id="jnu12850-sec-0005">
+          <title>Conclusion</title>
+          <p>The experience of responding to Coronavirus was a reminder that the curriculum needed to be improved so that nurses will be recognized to have leadership competencies and as field experts regarding social determinants of health for population groups in the decision&#x2010;making process. In the initial COVID&#x2010;19 response process, nurses showed excellence in analyzing patient interviews and various information as field epidemiological investigation response personnel, making comprehensive judgments, and solving problems in cooperation with related agencies and severe patients' bedside nursing care. Continuous primary care and management of infectious diseases for the vulnerable should be prepared on an ongoing basis to assure the quality of care.</p>
+        </sec>
+        <sec id="jnu12850-sec-0006">
+          <title>Clinical Relevance</title>
+          <p>Action strategies for developing leadership to enable nurses to have participated in the social determinants of health and the nursing policy formation for health equity should be applied in nursing education and practice, and global monitoring efforts were accelerated.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12850-kwd-0001">COVID&#x2010;19</kwd>
+        <kwd id="jnu12850-kwd-0002">emerging infectious disease</kwd>
+        <kwd id="jnu12850-kwd-0003">health system</kwd>
+        <kwd id="jnu12850-kwd-0004">leadership</kwd>
+        <kwd id="jnu12850-kwd-0005">nursing education</kwd>
+        <kwd id="jnu12850-kwd-0006">nursing policy</kwd>
+        <kwd id="jnu12850-kwd-0007">nursing practice</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="6"/>
+        <page-count count="13"/>
+        <word-count count="7407"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12850-cit-2001">
+<string-name>
+<surname>Kang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.</given-names>
+</string-name> &amp; <string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name> (<year>2023</year>). <article-title>An analysis of the policy participation of field response nurses in South Korea: <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response guidelines and the infectious disease act revision</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>202</fpage>&#x2013;<lpage>214</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12850</pub-id>
+<pub-id pub-id-type="pmid">36480159</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12850-body-0001">
+    <sec id="jnu12850-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>Human coronaviruses, which cause severe acute respiratory infections in humans with beta coronavirus, are acute respiratory syndrome coronavirus, Middle East respiratory syndrome (MERS), and acute respiratory syndrome (Kim &amp; Lee,&#xA0;<xref rid="jnu12850-bib-0017" ref-type="bibr">2020</xref>). The causes of emerging infectious diseases are due to destruction of ecosystems due to activation of travel, trade activation between countries and reckless development, and new types of infectious diseases, and these are expected to continue in the future (Nkengasong &amp; Mankoula,&#xA0;<xref rid="jnu12850-bib-0027" ref-type="bibr">2020</xref>; Walker et al.,&#xA0;<xref rid="jnu12850-bib-0041" ref-type="bibr">2020</xref>). Coronavirus disease 2019 (COVID&#x2010;19) has threatened global health security and has eased since the development of vaccines in early 2021. However, many countries have been suffering from mutations such as Delta and Omikron and lack of medical resources and the latest information technology (Blumenthal et al.,&#xA0;<xref rid="jnu12850-bib-0004" ref-type="bibr">2020</xref>; Figueras &amp; Muscat,&#xA0;<xref rid="jnu12850-bib-0009" ref-type="bibr">2021</xref>; Hynes et al.,&#xA0;<xref rid="jnu12850-bib-0013" ref-type="bibr">2020</xref>; Walker et al.,&#xA0;<xref rid="jnu12850-bib-0041" ref-type="bibr">2020</xref>).</p>
+      <p>The World Health Organization (WHO) recommends at any member state can respond to infectious diseases. Each country has the accountability to prevent the spread to other countries by establishing a system to respond within its own country (WHO,&#xA0;<xref rid="jnu12850-bib-0044" ref-type="bibr">2008</xref>). An infectious disease response system in member states includes governance, healthcare personnel, health information system, service delivery system, essential medicines, vaccines, and health finance, among the six building blocks of the health system proposed by the WHO (WHO,&#xA0;<xref rid="jnu12850-bib-0045" ref-type="bibr">2017</xref>). In terms of national crisis management, accessibility and guarantee of healthcare services to all citizens, safety, and quality of healthcare services provided, and ultimately, the ability to manage the national infectious disease response system should be provided (Figueras &amp; Muscat,&#xA0;<xref rid="jnu12850-bib-0009" ref-type="bibr">2021</xref>; Hynes et al.,&#xA0;<xref rid="jnu12850-bib-0013" ref-type="bibr">2020</xref>; Wernli et al.,&#xA0;<xref rid="jnu12850-bib-0043" ref-type="bibr">2021</xref>).</p>
+      <p>Research on how the functions and roles of national health systems have been actively conducted since 2014 and it should be continuously flexible in dealing with public health crises. Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>) presented absorption, adaptation, and transformation capabilities as the capacity to manage resilience for external situational factors (Blanchet et al.,&#xA0;<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>).</p>
+      <p>The Republic of Korea's (RoK) COVID&#x2010;19 response was divided before and after global vaccine development at the end of 2020, and the stage before vaccine development changed according to the size of the outbreak of confirmed patients (Seong et al.,&#xA0;<xref rid="jnu12850-bib-0035" ref-type="bibr">2021</xref>). Until 2020, on&#x2010;site epidemiological investigations were strengthened within the national infectious disease response system with non&#x2010;pharmaceutical intervention. The focus was on quarantine, epidemiological investigation, isolation, and treatment of confirmed patients (Ahn,&#xA0;<xref rid="jnu12850-bib-0001" ref-type="bibr">2021</xref>). In 2020, the surge in COVID&#x2010;19 patients was divided into three waves: the first wave was from February to April, the second wave was from 13 August to 18 September, and the third wave was from 4 November to 25 December (Seong et al.,&#xA0;<xref rid="jnu12850-bib-0035" ref-type="bibr">2021</xref>). In this regard, research questions on how frontline nurses contribute to the revision of infectious disease response policies arose.</p>
+      <p>This study aimed to analyze the contributions of frontline nurses to the policy and law revision on infectious diseases based on the WHO's six building blocks and Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>)'s management of the resilience capacity of the health system, and suggest the challenges of health and nursing policies for emerging infectious disease in the future.</p>
+    </sec>
+    <sec id="jnu12850-sec-0008">
+      <title>DESIGN</title>
+      <p>This is an evaluation study that analyzed significant policy decisions that nurses' roles brought on changes in the infectious disease response system in RoK. The research model was presented by reorganizing the WHO's six building blocks (2017) and Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>)'s capacity for the health system's resilience, as shown in Figure&#xA0;<xref rid="jnu12850-fig-0001" ref-type="fig">1</xref>.</p>
+      <fig position="float" fig-type="FIGURE" id="jnu12850-fig-0001">
+        <label>FIGURE 1</label>
+        <caption>
+          <p>Research model.</p>
+        </caption>
+        <graphic xlink:href="JNU-55-202-g001" position="anchor" id="jats-graphic-1"/>
+      </fig>
+    </sec>
+    <sec sec-type="materials-and-methods" id="jnu12850-sec-0009">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="jnu12850-sec-0010">
+        <title>Research subject</title>
+        <p>In 2020, objective data of one Center for Infectious Disease Control and Prevention that contributed directly to the revision of infectious disease&#x2010;related acts and policies were collected and analyzed through literature search and information disclosure claims from the first to third waves of COVID&#x2010;19 in D city.</p>
+      </sec>
+      <sec id="jnu12850-sec-0011">
+        <title>Data collection</title>
+        <p>First, the field response to COVID&#x2010;19 and policy&#x2010;related literature of Korean nurses related to COVID&#x2010;19 were searched and collected. Second, data were collected using legal information from the Ministry of Government Legislation for major legal revisions and reasons for the revision since March 2020 for 1&#x2009;year related to the COVID&#x2010;19 infectious disease response system. Third, data on nurse personnel among COVID&#x2010;19 local governments, city, and county epidemiological investigators were collected through the information disclosure system (IDS) of the Ministry of Public Administration and Security of Korea. Data on 17 cities and provinces were also collected from the IDS.</p>
+      </sec>
+      <sec id="jnu12850-sec-0012">
+        <title>Data analysis</title>
+        <p>The D City's Center for Infectious Disease Control and Prevention responded to epidemiological investigations from the end of February to the end of August 2020. It analyzed the contribution to the revision of response guidelines and the revision of the Infectious Disease Prevention and Management (IDPM) Act on&#x2010;site cases. The principal Act on IDPM was analyzed by focusing on epidemiological investigations of cities, provinces, and cities, counties and districts, focusing on the Act of IDPM and the Enforcement Rules of the Act of IDPM. The analysis of epidemiological investigation personnel with a nurse license focused on the status of health center personnel and the status of possession and significant tasks of the Center of infectious disease control and prevention.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12850-sec-0013">
+      <title>RESULTS</title>
+      <sec id="jnu12850-sec-0014">
+        <title>Field response case&#x2010;based analysis of one center of infectious disease control and prevention</title>
+        <sec id="jnu12850-sec-0015">
+          <title>The process of establishment</title>
+          <p>The D City Center for Infectious Disease Control and Prevention was established in September 2017 with 11 personnel, including two doctors as part&#x2010;time employees. The director is a doctor and professor of infectious medicine at the National University, and the vice director is also a doctor and professor of preventive medicine. In addition, there are nine full&#x2010;time employees, of which six are licensed nurses, including one nurse vice director who has Ph.D. in Public Health Science. The center monitors and analyzes data related to infectious diseases, supports epidemiological investigations, and provides education and advice on infectious disease management for vulnerable groups.</p>
+        </sec>
+        <sec id="jnu12850-sec-0016">
+          <title>First wave of COVID&#x2010;19</title>
+          <sec id="jnu12850-sec-0017">
+            <title>Governing COVID&#x2010;19 from the field</title>
+            <p>At the end of February 2020, the surge outbreak of COVID&#x2010;19 confirmed patients marked a turning point in all quarantine policies. In order to respond to the exponentially increasing number of confirmed patients in D city, the Central Disaster Management Headquarters and Disaster and Safety Countermeasures Headquarters formed a pan&#x2010;government support group. They dispatched them to D city (RoK Policy Briefing,&#xA0;<xref rid="jnu12850-bib-0032" ref-type="bibr">2020</xref>). Central quarantine officials worked with local quarantine officials to discover on&#x2010;site difficulties and support requests through active communication and immediately reflected new quarantine policy ideas on the site. As a result, the main contents of &#x201C;Response Guidelines to COVID&#x2010;19,&#x201D; &#x201C;Policy on Infectious Diseases' Response,&#x201D; and the revision of the Infectious Disease Prevention and Management Act are reflected in Table&#xA0;<xref rid="jnu12850-tbl-0001" ref-type="table">1</xref>.</p>
+            <table-wrap position="float" id="jnu12850-tbl-0001" content-type="TABLE">
+              <label>TABLE 1</label>
+              <caption>
+                <p>Major contribution of provincial Center for Infectious Disease Control and Prevention to the revision of the Act and COVID&#x2010;19 response manual</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Frontline nurses role</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Result of contribution</th>
+                  </tr>
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Act No amendment and enforcement date Article<xref rid="jnu12850-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Content</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Raising tests for the suspected to prevent dissemination of COVID&#x2010;19</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No.18507 2020.3.42020.8.11</p>
+<p>Paragraph 2 of Article 13</p>
+<p>Article 80, subparagraph 2&#x2013;2</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0001"><list-item id="jnu12850-li-0001"><p>Persons suspected of contracting Class 1 infectious disease should undergo infectious pathogen testing</p></list-item><list-item id="jnu12850-li-0002"><p>Penalty provision to the person who refuses the required testing</p></list-item></list>
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Raising personal protective equipment shortage</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No.17067 2020.3.4. 2020.6.5</p>
+<p>Paragraph (2) subparagraph 2&#x2013;2 Article 7, Article 40&#x2013;4</p>
+<p>Act No.17067 2020.3.4. 2020.9.5.</p>
+<p>Article 40&#x2013;3</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0002"><list-item id="jnu12850-li-0003"><p>The stockpile of essential medicine and PPE at the provincial level</p></list-item><list-item id="jnu12850-li-0004"><p>Export embargoes</p></list-item></list>
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Raising the issue of patient privacy</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No.17491 2020.9.292020.9.29</p>
+<p>The proviso to paragraph 1 of Article 34&#x2013;2,</p>
+<p>Paragraph 2 and 3 of Article 34&#x2013;2</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0003"><list-item id="jnu12850-li-0005"><p>Application of principles of privacy protection, objection to disclosure information and request for correction, etc.</p></list-item></list>
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Raising the issue of unnecessary patient isolation and their families' difficulties</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No.17491 2020.9.292020.9.29</p>
+<p>Article 70&#x2013;6</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0004"><list-item id="jnu12850-li-0006"><p>Protection of confirmed patients and their families</p></list-item><list-item id="jnu12850-li-0007"><p>Setting the reinfection period can remove the inconvenience of repeating the isolation of patients and reduce the burden on respondents</p></list-item></list>
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Raising the issue of countermeasure for the vulnerable</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No17642 2020.12.152021.6.16</p>
+<p>Paragraph 2 of Article 49&#x2013;2</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0005"><list-item id="jnu12850-li-0008"><p>Protection measures for persons vulnerable to infection</p></list-item></list>
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Raising the issue of support for the frontline nurses</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Act No17491 2020.9.292020.9.29</p>
+<p>Article 65, Article 70&#x2013;6</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12850-list-0006"><list-item id="jnu12850-li-0009"><p>Support expenses for psychological support</p></list-item></list>
+</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0001">
+                <fn id="jnu12850-note-0001">
+                  <label>
+<sup>
+<bold>a</bold>
+</sup>
+</label>
+                  <p>Available from <ext-link xlink:href="https://www.law.go.kr/" ext-link-type="uri">https://www.law.go.kr/</ext-link> (Accessed on 14 April, 2022).</p>
+                </fn>
+                <fn id="jnu12850-note-0050">
+                  <p>
+<italic toggle="yes">Source</italic>: <xref rid="jnu12850-bib-0025" ref-type="bibr">Ministry of Government Legislation. Korean Law Information Center</xref>.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="jnu12850-sec-0018">
+            <title>Proactive local patient referral and admission service policy modification</title>
+            <p>From the end of February to early March 2020, rapid tests were needed as the number of confirmed cases of COVID&#x2010;19 in the religious facilities in D city exploded, and all members were classified as COVID&#x2010;19 contacts. Accordingly, various test screening clinics (walk&#x2010;thru, drive&#x2010;thru) were introduced. However, there were cases in which a person suspected of being infected refused the test. A mobile sample team was also formed to increase participation in the test. The D city encouraged testing through administrative orders, and these activities were presented to the Central Disease Control Headquarters. As a revision of Act of IDPM, the mayor, governor, and head of a district or county, can request test and do penalty provision to those refuse to test for infectious diseases (See Table&#xA0;<xref rid="jnu12850-tbl-0001" ref-type="table">1</xref>). In D city, the number of confirmed patients surged every day, and doctors and nurses volunteered nationwide. However, in the guidelines for responding to infectious diseases, infected patients were previously treated in one negative pressure room per person. Therefore, an increase in confirmed patients led to a shortage of state&#x2010;designated negative pressure beds. According to the suggestion of front&#x2010;line response personnel, D city's quarantine headquarters requested the government to change the response guidelines (Policy briefing,&#xA0;<xref rid="jnu12850-bib-0032" ref-type="bibr">2020</xref>). They also designated additional infectious disease control institutions to treat confirmed patients in unfavorable pressure rooms on February 21, 2020, and the Act was revised (See Table&#xA0;<xref rid="jnu12850-tbl-0001" ref-type="table">1</xref>). As the first wave of COVID&#x2010;19 at the end of February 2020 caused an exponential increase in the number of confirmed patients waiting for hospitalization, the patient classified as mild patients through the patient classification group was hospitalized and operated on at D City on March 2, 2020 (Policy briefing,&#xA0;<xref rid="jnu12850-bib-0032" ref-type="bibr">2020</xref>).</p>
+          </sec>
+          <sec id="jnu12850-sec-0019">
+            <title>Strengthening policy for secure essential personal protective equipment and countermeasure</title>
+            <p>In the early days of the COVID&#x2010;19 pandemic, most nurses on the frontline worked in an urgent environment and suffered from lack of protective gear and hospital safety environment such as to include the reusing of personal protective equipment (PPE). They could not easily replace protective clothing and protective equipment, resulting in longer working hours and increased work intensity. The difficulties faced by on&#x2010;site nurses were conveyed through the Quarantine Countermeasures Headquarters, and the need to stockpile medicines and equipment for infectious diseases emerged. As a result, the Act of IDPM was revised to allow local government heads to take necessary measures when establishing plans for preventing and managing infectious diseases. In addition, the Act has been revised to temporarily prohibit exports or overseas shipments of PPE items that are insufficient for quarantine sites of on&#x2010;site medical staff, such as masks (See Table&#xA0;<xref rid="jnu12850-tbl-0001" ref-type="table">1</xref>).</p>
+          </sec>
+          <sec id="jnu12850-sec-0020">
+            <title>Supporting policy to the over&#x2010;burdened healthcare personnel</title>
+            <p>In a severe infectious disease crisis, the infection prevention of patients and medical personnel and securing personal protective equipment are critical. To back up the insufficient human resources at the site due to the spread of COVID&#x2010;19, the Korean Nurses Association and the Central Disease Control Headquarters recruited temporary nursing personnel. They dispatched 500 voluntary nurses to D City on March 1, 2020 (Kang &amp; Shin,&#xA0;<xref rid="jnu12850-bib-0015" ref-type="bibr">2020</xref>). However, there was still a workforce shortage, and wearing protective clothing and taking care of infected patients physically exhausted nursing personnel. Furthermore, during invasive procedures, nurses had to be exposed to pathogens due to sharp needles or damage to PPE. In addition, taking care of COVID&#x2010;19 patients caused pain and anxiety to family members. Some nurses lived away from their families and in temporary dormitories while they care for patients, accumulating mental and psychological fatigue. Despite the high physical risk and psychological fatigue, the government and local governments are responsible for protecting professionals in preventing and managing infectious diseases and providing financial and psychological support (Lee &amp; Choi,&#xA0;<xref rid="jnu12850-bib-0022" ref-type="bibr">2021</xref>; Shin,&#xA0;<xref rid="jnu12850-bib-0037" ref-type="bibr">2021</xref>). As a result, the Act of IDPC was revised to define the protection of health professionals who performed the caring of COVID&#x2010;19 patients as the responsibility of the state and local governments and to provide financial and psychological support (See Table&#xA0;<xref rid="jnu12850-tbl-0001" ref-type="table">1</xref>).</p>
+          </sec>
+        </sec>
+        <sec id="jnu12850-sec-0021">
+          <title>Before the third wave</title>
+          <sec id="jnu12850-sec-0022">
+            <title>Advocating the patient right to health</title>
+            <p>When responding to COVID&#x2010;19 in the early stages, excessive disclosure of information on the confirmed cases had been made. Information that can specify or infer an individual, such as the gender, age, and movement path of the confirmed patient was disclosed, resulting in side effects of disclosing the personal life of the confirmed patient without filtration. In addition, indiscriminate criticism or branding of the confirmed patient occurred, and businesses that suffered business damage also occurred due to the disclosure of the confirmed patient's movements, resulting in self&#x2010;employed people in danger of survival.<xref rid="jnu12850-note-0011" ref-type="fn">
+<sup>1</sup>
+</xref> In addition to responding to COVID&#x2010;19, D city's field response personnel had to deal with complaints about the disclosure of their movements, including parents who complained of mental damage to themselves and their families, and their COVID&#x2010;19 response work. Difficulties of on&#x2010;site response personnel were delivered to the KCDC through the June 30, 2020 &#x201C;Information Disclosure Guide (3rd edition)&#x201D; to prevent disclosing specific information such as gender, age, nationality, and residence of confirmed patients. In addition, when it was not necessary to disclose the information due to the purpose of disclosure, the disclosed information was deleted without delay. If the disclosed information was different from the facts or if there was an opinion, it was reflected in the revision of the Act.</p>
+            <p>Meanwhile, in the case of COVID&#x2010;19 confirmed patients, there were many cases of re&#x2010;positive during the COVID&#x2010;19 test for about 90&#x2009;days after confirmation. About 4&#x2009;months after the large number of COVID&#x2010;19 confirmed cases, the number of re&#x2010;positive patients began to increase, complaining of inconvenience and psychological fear. The response force struggled with repeated epidemiological investigations and patient management (Donga Science, 2020).<xref rid="jnu12850-note-0012" ref-type="fn">
+<sup>2</sup>
+</xref> Therefore, the KCDC, which collected voices from the field experts, and nurses, reviewed various papers and listened to the opinions of experts and working&#x2010;level officials through an advisory meeting on how to manage COVID&#x2010;19 re&#x2010;positive patients to set a re&#x2010;infection period. This policy change eliminates the inconvenience of continuous self&#x2010;isolation for patients, and response personnel can also reduce administrative overload.</p>
+          </sec>
+          <sec id="jnu12850-sec-0023">
+            <title>Community care for the elderly and vulnerable</title>
+            <p>On September 5, 2020, an epidemiological investigation team was established in Si, Gun, and Gu (City, County, and Districts) with a population of more than 100,000. As a result, the infectious disease control support group became more faithful to its original work, allowing it to focus on protecting the rights of the vulnerable in the community. The high&#x2010;risk group due to COVID&#x2010;19 was the elderly aged 65 or older and those with underlying diseases. In order to protect them, the head of the KCDC, the Mayor/Gun/Gu, may order disinfection or other necessary measures for social welfare facilities used by vulnerable groups when a crisis warning is issued under Article 38 (2) of the Framework Act on Disaster and Safety. In particular, homeless people and residents of small rooms among low&#x2010;income families suffered from poor housing conditions and underlying diseases or economic problems. It was often challenging to follow quarantine rules due to the unsanitary, cramped, and dense space. In addition, despite being more vulnerable when exposed to infectious diseases such as COVID&#x2010;19, there was no support system in place. In some cases, the government did not receive emergency disaster support funds due to the lack of ID cards or addresses. In November 2021, group infection occurred in D city through free meals related to homeless people, and contact could not be classified quickly because personal information of homeless people was not quickly secured. Moreover, even if contact was classified, there was no contact space, and lack of contact isolation facilities. Therefore, it has reminded us that it requires policy improvement to guarantee health equity and primary health services by improving complex infectious diseases responsible for the vulnerable population.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="jnu12850-sec-0024">
+        <title>Major changes in the infectious disease response system</title>
+        <sec id="jnu12850-sec-0025">
+          <title>Before the COVID&#x2010;19 outbreak</title>
+          <sec id="jnu12850-sec-0026">
+            <title>Revision of infectious disease&#x2010;related laws</title>
+            <p>RoK's infectious disease response organization and workforce system easily understand COVID&#x2010;19 response only when the MERS response from May to December 2015 is identified in advance. Not only the KCDC but also local governments had to take charge of critical competencies such as epidemiological investigations, data collection, and analysis in 2015, but most local governments, except for the Gyeong&#x2010;gi Infectious Disease Control Headquarters, did not have the necessary competencies (Lee &amp; Ki,&#xA0;<xref rid="jnu12850-bib-0021" ref-type="bibr">2015</xref>; Sung et al.,&#xA0;<xref rid="jnu12850-bib-0039" ref-type="bibr">2018</xref>). It took 10&#x2009;days to diagnose the indicator patient, and even the fourth infection occurred, with a total of 186 confirmed patients and 217&#x2009;days of final termination. After the termination of MERS in 2015, the RoK government derived 48 improvement tasks from ministries and reflected them in the standard manual (December 2018) for infectious disease disaster crisis management (KCDC,&#xA0;<xref rid="jnu12850-bib-0019" ref-type="bibr">2019</xref>).</p>
+            <p>To strengthen the infectious disease response system, the Act on IDPM was revised on July 6, 2015, to have two or more epidemiologists in the city, county, and district, at the discretion of the governor, and came into effect on January 7, 2016 (See Table&#xA0;<xref rid="jnu12850-tbl-0002" ref-type="table">2</xref>). On March 27, 2018, the revision of the Act of IDPM includes at least one of the epidemiological investigators in the city and province was appointed as a doctor. In the revision on March 4, 2020, the number of epidemiological investigators belonging to the Ministry of Health and Welfare increased from 30 to more than 100, and it was revised to have one or more epidemiological investigators in cities, counties, and districts of a specific size in consideration of the population. In addition, the Enforcement Rules of the Act of IDPM were revised on June 4, 2020. As it took effect on September 5, 2020, epidemiological investigators were mandatory in cities and counties with a population of more than 100,000. However, when COVID&#x2010;19 occurred in January 2020, only two epidemiological investigators were in the city.</p>
+            <table-wrap position="float" id="jnu12850-tbl-0002" content-type="TABLE">
+              <label>TABLE 2</label>
+              <caption>
+                <p>Major revision of Infectious Disease Prevention and Management (IDPM) Act related to epidemiological investigation team</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.13392 2015.7.62016.1.7<xref rid="jnu12850-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.15534 2018.3.272018.9.28<xref rid="jnu12850-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.17067 2020.3.42020.3.5<xref rid="jnu12850-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">The same act, enforcement rules ordinance No. 74 of the Ministry of Health and Welfare No743 2020.6.4. 2020. 9.5<xref rid="jnu12850-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>]</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Article 60&#x2010;2(Epidemiological Investigation Officers) (1) Epidemiological investigation officers shall be composed of at least 30 public officials of the Ministry of Health and Welfare and at least two public officials of a City/Do, respectively, to deal with affairs concerning epidemiological investigations. In such cases, at least one of the City/Do epidemiological investigation officers shall be a physician, among the medical personnel referred to in Article 2 (1) of the Medical Service Act.</p>
+<p>Where necessary for dealing with affairs concerning epidemiological investigations, the head of a Si/Gun/Gu may have epidemiological investigation officers as public officials of said Si/Gun/Gu: Provided.</p>
+<p>(2) Epidemiological investigation officers shall be appointed, from among any of the following persons who have completed the course of education and training on epidemiological investigations under Article 18&#x2013;3: &lt;Amended on Mar. 4, 2020&gt;</p>
+<p>1. Public officials in charge of affairs of disease control, epidemiological investigation, or vaccination;</p>
+<p>2. Medical personnel prescribed in Article 2 (1) of the Medical Service Act;</p>
+<p>3. Other experts in fields related to infectious diseases and epidemiology, such as pharmacists prescribed in subparagraph 2 of Article 2 of the Pharmaceutical Affairs Act and veterinarians prescribed in subparagraph 1 of Article 2 of the Veterinarians Act.</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Article 60&#x2010;2(Epidemiological Investigation Officers)</bold> (1) Epidemiological investigation officers shall be composed of at least 30 public officials of the Ministry of Health and Welfare and at least two public officials of a City/Do, respectively, to deal with affairs concerning epidemiological investigations. In such cases, at least one of the City/Do epidemiological investigation officers shall be a physician, among the medical personnel referred to in Article 2 (1) of the Medical Service Act.</p>
+<p>Where necessary for dealing with affairs concerning epidemiological investigations, the head of a Si/Gun/Gu may have epidemiological investigation officers as public officials of said Si/Gun/Gu: Provided.</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Article 60&#x2010;2(Epidemiological Investigation Officers)</bold> (1) Epidemiological investigation officers shall be composed of at least 100 public officials of the Korea Disease Control and Prevention Agency and at least two public officials of a City/Do, respectively, to deal with affairs concerning epidemiological investigations. In such cases, at least one of the City/Do epidemiological investigation officers shall be a physician, among the medical personnel referred to in Article 2 (1) of the Medical Service Act.</p>
+<p>(2) Where necessary for dealing with affairs concerning epidemiological investigations, the head of a Si/Gun/Gu may have epidemiological investigation officers as public officials of said Si/Gun/Gu: Provided, That the head of a Si/Gun/Gu that meets the criteria prescribed by Ordinance of the Ministry of Health and Welfare in consideration of the population, etc., shall have at least one epidemiological investigation officer as a public official of said Si/Gun/Gu.</p>
+</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Article 42&#x2010;2(Si/Gun/Gu may have epidemio&#x2010;logical investigation officers)</bold> The term &#x201C;Si/Gun/Gu that meets the standards prescribed by Ordinance of the Ministry of Health and Welfare&#x201D; in the proviso to Article 60&#x2013;2 of the Act means a Si/Gun/Gu with a population of at least 100,000</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0002">
+                <fn id="jnu12850-note-0002">
+                  <p>
+<italic toggle="yes">Note</italic>: Available from <ext-link xlink:href="https://www.law.go.kr/" ext-link-type="uri">https://www.law.go.kr/</ext-link> (Accessed on 15 April, 2022).</p>
+                </fn>
+                <fn id="jnu12850-note-0003">
+                  <label>
+<sup>a</sup>
+</label>
+                  <p>Amendment Date Enforcement Date in order.</p>
+                </fn>
+                <fn id="jnu12850-note-0052">
+                  <p>
+<italic toggle="yes">Source</italic>: <xref rid="jnu12850-bib-0025" ref-type="bibr">Ministry of Government Legislation. Korean Law Information Center</xref>.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="jnu12850-sec-0027">
+            <title>Expanding the organization and human resources of local governments to respond to infectious diseases</title>
+            <p>The legal basis for establishing private organizations to support the affairs of local governments' response to infectious diseases was prepared in Article 8 through the revision of the Act on the IDPM on December 29, 2009. This Act was a law that integrated the Parasite Disease Prevention Act and the Communicable Disease Prevention and Management Act on December 29, 2009. Therefore, there was no legal basis for establishing a specialized private organization to support local governments' response to infectious diseases. However, the first infectious disease control and management institutions were established in Seoul City (Seoul Metropolitan City, <xref rid="jnu12850-bib-0036" ref-type="bibr">2018</xref>) and Gyeonggi province in early 2014 (Gyeonggi&#x2010;do Infectious Disease Control Headquarters,&#xA0;<xref rid="jnu12850-bib-0007" ref-type="bibr">2014</xref>). Furthermore, from the outbreak of MERS in May 2015 to the confirmation of MERS patients on September 8, 2018, six centers for infectious disease control and management were expanded to local governments in Busan, Jeju, Jeonbuk, Daegu, Incheon, and Jeonnam (See Table&#xA0;<xref rid="jnu12850-tbl-0003" ref-type="table">3</xref>). As a result, when MERS occurred in September 2018, one patient was confirmed within a day, which was dramatically fast compared to 38&#x2009;days for the first case confirmation in 2015 (KCDC,&#xA0;<xref rid="jnu12850-bib-0019" ref-type="bibr">2019</xref>).</p>
+            <table-wrap position="float" id="jnu12850-tbl-0003" content-type="TABLE">
+              <label>TABLE 3</label>
+              <caption>
+                <p>Major revision of Infectious Disease Prevention and Management (IDPM) Act related to Center for Infectious Diseases Control and Prevention</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.9847 2010.12.292010.12.30<xref rid="jnu12850-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.9932 2010.1.182010.12.30<xref rid="jnu12850-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Act No.17472 2020.8.112022.3.22<xref rid="jnu12850-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Article 8 (Operation of Organizations Supporting Infectious Disease Control Projects) (1) The Minister of Health, Welfare and Family Affairs and a Mayor/Do Governor may establish an organization supporting infectious disease control projects which consists of private professionals, in order to support the implementation of master plans and implementation plans under Article 7 and international cooperation affairs, etc.</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Article 8 (Operation of Organizations Supporting Infectious Disease Control Projects)</bold> (1) The Minister of Health and Welfare and a Mayor/Do Governor may establish an organization supporting infectious disease control projects which consists of private professionals, in order to support the implementation of master plans and implementation plans under Article 7 and international cooperation affairs, etc.</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Article 8 (Operation of Organizations Supporting Infectious Disease Control Projects)</bold> (1) The Commissioner of the Korea Disease Control and Prevention Agency and a Mayor/Do Governor may establish an organization supporting infectious disease control projects which consists of private professionals, in order to support the implementation of master plans and implementation plans under Article 7 and international cooperation affairs, etc.</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0003">
+                <fn id="jnu12850-note-0004">
+                  <p>
+<italic toggle="yes">Note</italic>: Available from <ext-link xlink:href="https://www.law.go.kr/" ext-link-type="uri">https://www.law.go.kr/</ext-link> (Accessed on 15 April, 2022).</p>
+                </fn>
+                <fn id="jnu12850-note-0005">
+                  <label>
+<sup>
+<bold>a</bold>
+</sup>
+</label>
+                  <p>Amendment Date Enforcement Date in order.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+            <p>The Centers for Infectious Disease Control and Prevention consisted of not more than eight people, one head and one vice&#x2010;president each, an infectious disease control team, an epidemiological investigation team, and an administrative support team except for Seoul and Gyong&#x2010;gi Centers. The head was a professor of internal medicine or preventive medicine, and the vice&#x2010;head was mainly a master's and doctorate&#x2010;level nurse or health&#x2010;related major. Currently, eight (47%) vice&#x2010;head of the support group were nurses (See Table&#xA0;<xref rid="jnu12850-tbl-0005" ref-type="table">5</xref>). Nurses who were team leaders, senior researchers, or researchers were in&#x2010;charge of infectious disease management, monitoring, education, and epidemiological investigations. Except for Seoul and Gyeonggi Province, 15 centers fulltime personnel were 138, and 51 (37%) licensed nurses, with an average of 3.4 personnel per each center. After responding to MERS in 2018, it was installed in Gyeongbuk and Gyeongnam.</p>
+          </sec>
+        </sec>
+        <sec id="jnu12850-sec-0028">
+          <title>After the COVID&#x2010;19 outbreak</title>
+          <sec id="jnu12850-sec-0029">
+            <title>Epidemiological investigators and epidemiological investigations team of the lower&#x2010;level local governments</title>
+            <p>Since September 2020, with establishing an epidemiological investigation team in the city, county, and district, the number of new nurses has been adjusted, insufficient to input nurses from public health centers, health posts, and community health posts into the epidemiological investigation team. As a result, according to statistics on the human resources status of 17 cities and provinces in Table&#xA0;<xref rid="jnu12850-tbl-0004" ref-type="table">4</xref>, the growth rate of the nurse workforce compared to the previous year, 2019, was 19.1% high, the most significant increase compared to doctors (&#x2212;2.3), dental doctors (2.4), oriental medicine doctors (&#x2212;1.6), and health workers (3.7) (National Statistical Database,&#xA0;<xref rid="jnu12850-bib-0026" ref-type="bibr">n.d.</xref>).<xref rid="jnu12850-note-0013" ref-type="fn">
+<sup>3</sup>
+</xref> As of the end of August 2021, 134 cities, counties, and districts had a population of 100,000 or more, but 111 (82.83%) had 211 epidemiologists (Health Chosun, <xref rid="jnu12850-bib-0012" ref-type="bibr">2021</xref>). According to the data received from the Korea Disease Control and Prevention Agency (KDCA) as shown in Table&#xA0;<xref rid="jnu12850-tbl-0005" ref-type="table">5</xref>, as of the end of April 2022, there were a total of 239 epidemiological investigators in cities, counties, and districts with a population of 100,000 or more, 135 nurses (56.5%), 26 doctors (10.9%), and 78 other personnel such as dental doctor, oriental doctor, physical therapist, clinical laboratory technologist, radiologist (32.6%).<xref rid="jnu12850-note-0014" ref-type="fn">
+<sup>4</sup>
+</xref>
+</p>
+            <table-wrap position="float" id="jnu12850-tbl-0004" content-type="TABLE">
+              <label>TABLE 4</label>
+              <caption>
+                <p>Status of human resources of public health center by seventeen Si&#x2010;Do (City&#x2010;Province) (2020)</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <col align="char" char="(" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1"/>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Total</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Doctor &#x2010; other than head</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Dental doctor&#x2010;general</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Oriental medical doctor</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Nurse</th>
+                    <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Administrative job</th>
+                  </tr>
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Original data</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Change (%) from the previous year</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Total<xref rid="jnu12850-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">18,153</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1501 (9.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">686</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;16 (&#x2212;2.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">303</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">7 (2.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">300</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;5 (&#x2212;1.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">7085</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1136 (19.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1532</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">54 (3.7)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Seoul</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3420</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">87 (2.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">158</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">9 (6.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (4.2)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">22</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1028</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">89 (9.5)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">380</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">14 (3.8)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Busan</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1147</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">123 (12.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">28</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;6.7)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (25.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">539</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">95 (21.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">91</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">6 (7.1)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Daegu</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">540</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">26 (5.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">19</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (5.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (50.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">10</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3 (42.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">212</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">30 (16.5)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">68</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;15 (&#x2212;18.1)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Incheon</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">833</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">147 (21.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">18</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;1 (&#x2212;5.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">13</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (8.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">12</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">396</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">95 (31.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">70</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">10 (16.7)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gwangju</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">438</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">129 (41.7)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">11</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (10.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">4</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;1 (&#x2212;20.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">196</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">90 (84.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">35</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">4 (12.9)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Daejeon</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">304</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">30 (10.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">7</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">126</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">13 (11.5)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">19</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;4 (&#x2212;17.4)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Ulsan</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">302</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">18 (6.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;1 (&#x2212;10.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">4</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (33.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">141</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">14 (11.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">16</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (6.7)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Sejong</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">74</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">10 (15.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (4.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">2 (66.7)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeonggi</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3095</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">280 (9.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">91</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">2 (2.2)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;7.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">34</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;3 (&#x2212;8.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1326</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">177 (15.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">246</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">30 (13.9)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gangwon</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">990</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">141 (16.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">53</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (1.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">22</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;8.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">21</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (5.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">385</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">110 (40.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">90</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;2.2)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Chungbuk</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">806</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">99 (14.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">17</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (6.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">16</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;11.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">288</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">61 (26.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">62</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;3 (&#x2212;4.6)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Chungnam</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1146</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">83 (7.8)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">44</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;3 (&#x2212;6.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">35</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (2.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">28</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;6.7)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">465</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">64 (16.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">84</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;4 (&#x2212;4.5)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeonbuk</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">907</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">46 (5.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">59</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;6 (&#x2212;9.2)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">32</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">2 (6.7)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">34</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3 (9.7)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">313</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">61 (24.2)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">61</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;3.2)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeonnam</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1029</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">18 (1.8)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">54</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;4 (&#x2212;6.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">33</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">35</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;2 (&#x2212;5.4)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">374</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">31 (9.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">55</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5 (10.0)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeongbuk</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1501</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">113 (8.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">60</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;6 (&#x2212;9.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3 (8.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">32</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;3 (&#x2212;8.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">587</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">98 (20.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">126</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">3 (2.4)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeonnam</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1422</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">141 (11.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;7 (&#x2212;14.9)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">35</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">31</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;1 (&#x2212;3.1)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">606</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">99 (19.5)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">106</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">5 (5.0)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeju</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">199</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">10 (5.3)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">1 (12.5)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">77</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">8 (11.6)</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">18</td>
+                    <td align="char" valign="top" rowspan="1" colspan="1">4 (28.6)</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0004">
+                <fn id="jnu12850-note-0006">
+                  <p>
+<italic toggle="yes">Note</italic>: Available from <ext-link xlink:href="https://kostat.go.kr/portal/eng/index.action/" ext-link-type="uri">https://kostat.go.kr/portal/eng/index.action/</ext-link> (Accessed on 16 April, 2022).</p>
+                </fn>
+                <fn id="jnu12850-note-0007">
+                  <label>
+<sup>a</sup>
+</label>
+                  <p>Other personnel such as a pharmacist, nurse assistant, medical technologist, physical therapist, nutritionist, and health educator is omitted from the table.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+            <table-wrap position="float" id="jnu12850-tbl-0005" content-type="TABLE">
+              <label>TABLE 5</label>
+              <caption>
+                <p>Status of epidemiological investigators in Si&#x2010;Gun&#x2010;Gu (City&#x2010;County&#x2010;District) by license with population of 100,000 or more N(%)</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Year and month</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Doctor</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Nurse</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Other Personnel<xref rid="jnu12850-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Total</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">April 2022</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">26(10.9)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">135(56.5)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">78(32.6)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">239(100.0)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">September 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">19(19.0)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">44(44.0)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">37(37.0)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">100(100.0z)</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0005">
+                <fn id="jnu12850-note-0008">
+                  <p>
+<italic toggle="yes">Note</italic>: Data were extracted from KDCA Disclosure of information (10 May 2022).</p>
+                </fn>
+                <fn id="jnu12850-note-0009">
+                  <label>
+<sup>
+<bold>a</bold>
+</sup>
+</label>
+                  <p>Dentist, Oriental doctor, Physical therapist, Laboratory technologist, Radiologist.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="jnu12850-sec-0030">
+            <title>Expanding the organization of local governments to respond to infectious diseases</title>
+            <p>From mid&#x2010;February to the end of August, 2020, in the event of a surge in COVID&#x2010;19 patients in D city, there were no epidemiological investigators in the city and county other than two epidemiological investigators, so the personnel from the center for infectious disease control and management had no choice but to support. Since May 2020, Gwangju, Daejeon, Chungbuk, Ulsan, Sejong, and Gangwon were sequentially established with their own center for infectious disease control and prevention (See Table&#xA0;<xref rid="jnu12850-tbl-0006" ref-type="table">6</xref>).</p>
+            <table-wrap position="float" id="jnu12850-tbl-0006" content-type="TABLE">
+              <label>TABLE 6</label>
+              <caption>
+                <p>Year of establishment and number of nurses for 17 Centers for Infectious Disease Control and Prevention</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <col align="left" span="1"/>
+                <thead valign="bottom">
+                  <tr style="border-bottom:solid 1px #000000">
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">No</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Local government</th>
+                    <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Year of center establishment</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Number of nurses</th>
+                    <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Total number of personnel*</th>
+                    <th align="left" valign="bottom" rowspan="1" colspan="1">Higher position as vice&#x2010;director</th>
+                  </tr>
+                </thead>
+                <tbody valign="top">
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Seoul</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jan 2013</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">14</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeonggi</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">April 2014</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Busan</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Oct 2016</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeju</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2016</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeonbuk</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Sep 2016</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Daegu</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Sep 2017</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Incheon</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2017</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Jeonnam</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Oct 2018</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Chungnam</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2018</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeongbuk</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2019</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gyeongnam</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2019</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gwangju</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">May 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">13</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Daejeon</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">June 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">14</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Chungbuk</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">July 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">15</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Ulsan</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Aug 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">16</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Sejong</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Sep 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1">17</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Gangwon</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Oct 2020</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    <td align="left" valign="top" rowspan="1" colspan="1">Mean (%) of Nurses among 15 Centers (excluding Seoul &amp; Gyeonggi Centers)</td>
+                    <td align="left" colspan="2" valign="top" rowspan="1">3.4(37.0)</td>
+                    <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    <td align="left" valign="top" rowspan="1" colspan="1">&#x2014;</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot id="jnu12850-ntgp-0006">
+                <fn id="jnu12850-note-0010">
+                  <p>
+<italic toggle="yes">Note</italic>: Available from <ext-link xlink:href="https://www.kdca.go.kr/contents.es?mid%3Da20301130000" ext-link-type="uri">https://www.kdca.go.kr/contents.es?mid=a20301130000</ext-link> (Accessed on 17 April, 2022, *As of March 1st) and extracted data on the number of personnel from 17 Local Government Disclosure of information (from 15 March to 21 April 2022).</p>
+                </fn>
+                <fn id="jnu12850-ntgp-0060">
+                  <p>
+<xref rid="jnu12850-bib-0030" ref-type="bibr">Republic of Korea. Disclosure of Information</xref>.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12850-sec-0031">
+      <title>DISCUSSION</title>
+      <p>As a result of applying Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>)'s health system resilience to the RoK's response on infectious diseases and health system resilience capacity, it was inevitable to review the infectious disease response system after MERS in 2015.</p>
+      <sec id="jnu12850-sec-0032">
+        <title>Before the first wave of COVID&#x2010;19: transformation from MERS lessons</title>
+        <p>The principal evaluation of MERS was insufficient in a systematic infectious disease response system, such as early diagnosis and rapid tracking of indicator patients between the central and local governments (KCDC,&#xA0;<xref rid="jnu12850-bib-0019" ref-type="bibr">2019</xref>). Since MERS, six Centers for Infectious Disease Control and Management have been established in local governments. The D City Center for Infectious Disease Control and Prevention opened in September 2017 and the vice&#x2010;director in the D city center met all the qualifications for the vice&#x2010;director position. She also had more than 10&#x2009;years of clinical nursing experience with a doctoral degree in public health.</p>
+        <p>An epidemiological investigation support system was applied to overcome the limitations of epidemiological investigation based on subjective memory of patients (Kim &amp; Lee,&#xA0;<xref rid="jnu12850-bib-0017" ref-type="bibr">2020</xref>; Seong et al.,&#xA0;<xref rid="jnu12850-bib-0035" ref-type="bibr">2021</xref>) following the rapid revision of the Act of IDPM to operate it (KCDC,&#xA0;<xref rid="jnu12850-bib-0019" ref-type="bibr">2019</xref>).</p>
+      </sec>
+      <sec id="jnu12850-sec-0033">
+        <title>During the first wave of COVID&#x2010;19: Absorption</title>
+        <p>The dispatching of a pan&#x2010;government particular countermeasure support group to D city to manage the rapidly increasing number of confirmed cases in D city at the end of February 2020 in the RoK constituted governance for rapid decision&#x2010;making of infectious disease response policies (Wernli et al.,&#xA0;<xref rid="jnu12850-bib-0043" ref-type="bibr">2021</xref>). In addition, to deal with nursing personnel and PPE that a city cannot afford, the opinions of on&#x2010;site response personnel, such as 500 nursing staffs (Kang &amp; Shin,&#xA0;<xref rid="jnu12850-bib-0015" ref-type="bibr">2020</xref>) and a ban on the export of PPE were reflected in policy decision&#x2010;making. It also caused the revision of the Infectious Disease Prevention Act. Although there was no significant number of critical patients in the MERS response, nurses were the person who took care of critical patients and vulnerable people in the community on the front line in a disaster or health crisis. Unfortunately, until now, excessive investment in the treatment of diseases has been concentrated rather than investment in practical education on how nurses respond to improve the health rights of subjects in times of disaster and health crisis (Wakefield et al.,&#xA0;<xref rid="jnu12850-bib-0040" ref-type="bibr">2021</xref>). The most representative example of primary health care was school health teachers. In the United States, about 25% of schools do not have nurse health teachers (Wakefield et al.,&#xA0;<xref rid="jnu12850-bib-0040" ref-type="bibr">2021</xref>). In contrast, in RoK, health teachers are deployed to connect community resources, guide teachers, students, and parents to prevent infection, and prevent students from spreading (Kwon et al.,&#xA0;<xref rid="jnu12850-bib-0020" ref-type="bibr">2021</xref>).</p>
+        <p>Due to the exponential occurrence of COVID&#x2010;19 confirmed patients, the existing national designated pressure isolation rooms and community medical institutions were insufficient to accommodate overflowing patients. As a result, nursing officials in charge of bed allocation strongly requested the need to expand beds. As a result, the criteria for admission to negative pressure rooms were adjusted by patient severity, and additional designation of local designated hospitals for COVID&#x2010;19 confirmed patients and a residential treatment center for the life and treatment of mild patients were opened and operated (Doctors News,&#xA0;<xref rid="jnu12850-bib-0008" ref-type="bibr">2020</xref>)<xref rid="jnu12850-note-0015" ref-type="fn">
+<sup>5</sup>
+</xref> All the nurses' field response capabilities correspond to absorption capabilities adjusted within the existing health care system proposed by Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>) (Wernli et al.,&#xA0;<xref rid="jnu12850-bib-0043" ref-type="bibr">2021</xref>).</p>
+        <p>Through the COVID&#x2010;19 response, it was experienced that judgment on medical supplies consumed in intensive care nursing and epidemiological investigations can be prepared practically when used and managed by nurses. In addition, nurses were able to play a prominent role in community epidemiological investigations by expanding their coverage at their clinical nursing sites because they could monitor, investigate, and analyze infectious diseases through their education and training courses on epidemiological investigations. These competencies are essential for nurses working in the community sector in the future and should be reflected in undergraduate education, master's degree courses, and continuing education (Rosa et al.,&#xA0;<xref rid="jnu12850-bib-0034" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12850-sec-0034">
+        <title>After the first wave and before the third wave of COVID&#x2010;19: Adaptation</title>
+        <p>After the first wave of COVID&#x2010;19 patients, nurses who participated in the epidemiological investigation were asked to actively disclose only minimal information of confirmed patients as advocates. This was done to minimize personal information infringement in the discloure of information using information and communication technology to block radio waves. However, after September 2020, when the second wave passed, the local government's Center for Infectious Disease Control and Prevention focused on managing the vulnerable in the community, monitoring the infection status and education, providing daily necessities, and conducted a full inspection in November 2020.</p>
+        <p>The UK has provided and cared for homeless people since the first wave period in February 2020 (Healy, <xref rid="jnu12850-bib-0047" ref-type="bibr">2020</xref>). It has shifted from the existing dormitory&#x2010;style to single&#x2010;room accommodation (Lewer et al.,&#xA0;<xref rid="jnu12850-bib-0024" ref-type="bibr">2020</xref>). Ontario of Long&#x2010;Term Care, Canada, concluded that long&#x2010;term care facilities are easier to stay in and better to work in, confirming that COVID&#x2010;19 has led to infirm care, hiring more people, and improving working conditions (Webster,&#xA0;<xref rid="jnu12850-bib-0042" ref-type="bibr">2021</xref>). In February 2020, a nursing leadership group was organized for government advice to provide safe nursing for the elderly. Australia maintained a cooperative system between long&#x2010;term care facilities and acute hospitals and reduced unnecessary hospital admissions by 19% and 31% (Carter et al.,&#xA0;<xref rid="jnu12850-bib-0005" ref-type="bibr">2020</xref>). Singapore was also the first to prioritize health policies to prevent elderly care facilities from being affected by COVID&#x2010;19 (Jackson et al.,&#xA0;<xref rid="jnu12850-bib-0014" ref-type="bibr">2021</xref>).</p>
+        <p>Like advanced foreign countries, as model cases, Korean nursing professional groups should participate in infection control policies for vulnerable populations as a lesson and promote their ability to lead change and policies to pursue health equity as an advocate for vulnerable groups (Wakefield et al.,&#xA0;<xref rid="jnu12850-bib-0040" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12850-sec-0035">
+        <title>After the third wave of COVID&#x2010;19: Adaptation</title>
+        <p>As the number of critically ill patients increased due to the third outbreak of COVID&#x2010;19, the RoK government issued the first administrative order to secure treatment beds for COVID&#x2010;19 patients at 45 advanced general hospitals and 10 national university hospitals on December 19, 2020 (YTN, December 19, 2020). Since then, executive orders have been repeated several times.</p>
+        <p>However, administrative orders and the increasing number of severely ill COVID&#x2010;19 patients increased in proportion to the input of nursing staff for severe COVID&#x2010;19 patients at clinical sites, adding to the shortage of nursing staff in general wards, eventually returning to the burden on nurses (Kang &amp; Shin,&#xA0;<xref rid="jnu12850-bib-0015" ref-type="bibr">2020</xref>; Lee &amp; Lee,&#xA0;<xref rid="jnu12850-bib-0023" ref-type="bibr">2020</xref>). As of 2020, the average number of patients per nurse in South Korea is 19.4, about four times higher than 5.7 in the United States, 5.4 in Sweden, and 3.7 in Norway in OECD countries (Korea Statistical Yearbook, 2021). In addition, most hospitals where COVID&#x2010;19 patients are hospitalized require nurses to take care of all the tasks, including bedding, food distribution, and ward cleaning to minimize exposure to infected patients by the first half of 2020 (Kang &amp; Shin,&#xA0;<xref rid="jnu12850-bib-0015" ref-type="bibr">2020</xref>; Lee &amp; Lee,&#xA0;<xref rid="jnu12850-bib-0023" ref-type="bibr">2020</xref>). This phenomenon was also reported in nursing practice in developed countries (Jackson et al.,&#xA0;<xref rid="jnu12850-bib-0014" ref-type="bibr">2021</xref>; WHO,&#xA0;<xref rid="jnu12850-bib-0046" ref-type="bibr">2021</xref>).</p>
+        <p>Emerging infectious diseases are expected to occur in the future, and health policies that force sacrifices to nursing professionals with the most significant number of female workers should be avoided. Furthermore, nursing professionals must participate in the policy&#x2010;making process proactively. It is necessary to ensure a healthy working environment for nurses, patient safety, and quality of service based on scientific evidence and strengthening clinical and community response systems. (Bartosiewicz et al.,&#xA0;<xref rid="jnu12850-bib-0002" ref-type="bibr">2021</xref>; Jackson et al.,&#xA0;<xref rid="jnu12850-bib-0014" ref-type="bibr">2021</xref>; Kennedy,&#xA0;<xref rid="jnu12850-bib-0016" ref-type="bibr">2021</xref>; Stewart et al.,&#xA0;<xref rid="jnu12850-bib-0038" ref-type="bibr">2021</xref>).</p>
+        <sec id="jnu12850-sec-0036">
+          <title>Preparing for upcoming EID: What should be the health system transformation</title>
+          <p>The transformation of the health system for responding to COVID&#x2010;19 was to revise the Government Organization and promote the former KCDC, a center under the Ministry of Health and Welfare, to the Korea Disease Control and Prevention Agency, a central administrative agency.</p>
+          <p>The Korean government revised and promulgated the Government Organization Act on August 11, 2020, to expand its policy and enforcement functions as a disease control tower and implemented it on September 12, the same year. As a result, it had independent personnel rights, budget rights, new regional headquarters, and 569 people were reinforced. Excluding the relocated personnel, 384 people were net reinforcement personnel. As a result, the Korea Disease Control and Prevention Agency was able to open five disease response centers in the Seoul metropolitan area, Chungcheong, Honam, Gyeongbuk, and Gyeongnam (RoK,&#xA0;<xref rid="jnu12850-bib-0031" ref-type="bibr">2020</xref>). In addition, the Infectious Disease Research Center in the National Institute of Health, which conducts infectious disease research, was expanded and reorganized into the Infectious Disease Research Institute to establish three centers in the institute.</p>
+          <p>The COVID&#x2010;19 pandemic has helped all nurses realize that they have an in&#x2010;depth understanding of social, economic, and environmental factors that affect health and well&#x2010;being. Therefore, in 2021, the American Association of Colleges of Nursing revised its core competencies for professional nursing education (Giddens et al.,&#xA0;<xref rid="jnu12850-bib-0010" ref-type="bibr">2022</xref>). In addition, it is their responsibility to do a timely updating understanding of socioeconomic determinants and cultures to suit demographic changes (Wakefield et al.,&#xA0;<xref rid="jnu12850-bib-0040" ref-type="bibr">2021</xref>). Therefore, nurses play various roles within diverse organizations to ensure health equity, so related educational institutions should be revised to reflect pandemic&#x2010;related nursing competencies to meet the population's health needs.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12850-sec-0037">
+      <title>CONCLUSION</title>
+      <p>Health system resilience, especially on emerging infectious disease was analyzed using Blanchet et al.&#xA0;(<xref rid="jnu12850-bib-0003" ref-type="bibr">2017</xref>) and WHO's health system model It identified the frontline nurses' practical involvement in the infectious disease response guidelines and other related infectious disease management Acts. The frontline nurses' role was essential in surveillance, raising awareness of the community, patient safety, and advocacy for both in practice and policy change levels.</p>
+      <p>It is needed to prepare continuous primary care and management of infectious diseases for the vulnerable. Action strategies for developing leadership to enable nurses to participate in the social determinants of health and the nursing policy formation for health equity should be applied in nursing education and practice.</p>
+      <p>The experience of responding to COVID&#x2010;19 in the Republic of Korea reminded us that nurses were recognized with leadership competencies and as field experts in the social determinants of health for population groups in the policy decision&#x2010;making process related to infectious diseases. In particular, nurses showed excellence in analyzing patient interviews and various information collection as field response personnel, making comprehensive judgments, and solving problems in cooperation with related agencies during the initial COVID&#x2010;19 response process and critical care providers in the negative pressure isolated wards. It is needed to prepare the continuous primary care and management of infectious diseases for the vulnerable. Action strategies for developing leadership to enable nurses to participate in the social determinants of health and the nursing policy formation for health equity should be applied in nursing education and practices.</p>
+      <sec id="jnu12850-sec-0038">
+        <title>CLINICAL RESOURCES</title>
+        <p>Pan American Health Organization and World Health Organization website.</p>
+        <p>
+<ext-link xlink:href="https://www.paho.org/en/campaigns/international-nurses-day-12-may-2022" ext-link-type="uri">https://www.paho.org/en/campaigns/international&#x2010;nurses&#x2010;day&#x2010;12&#x2010;may&#x2010;2022</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12850-sec-0039">
+      <title>CONFLICT OF INTEREST</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec id="jnu12850-sec-0043">
+      <title>ETHICAL STATEMENT</title>
+      <p>This study was not a human study but a study on the analysis of legal policies to cope with infectious diseases, mainly using administrative information data and various literature data released by the Korean government; therefore, is not subject to IRB review.</p>
+    </sec>
+    <sec id="jnu12850-sec-0044">
+      <title>SIGMA THETA TAU INTERNATIONAL CHAPTER</title>
+      <p>Sunjoo Kang has been a member of the STTI Lambda Alpha at Large Chapter since 1996. Membership number is 0251710.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12850-sec-0040">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>We gratefully acknowledge the efforts of all the medical staff worldwide at the COVID&#x2010;19 response sites.</p>
+    </ack>
+    <fn-group id="jnu12850-ntgp-0007">
+      <title>Endnotes</title>
+      <fn id="jnu12850-note-0011">
+        <label>
+<sup>1</sup>
+</label>
+        <p>
+<ext-link xlink:href="https://www.opengirok.or.kr/4815?category%3D218086%5b" ext-link-type="uri">https://www.opengirok.or.kr/4815?category=218086</ext-link> Accessed on 18 April 2022.</p>
+      </fn>
+      <fn id="jnu12850-note-0012">
+        <label>
+<sup>2</sup>
+</label>
+        <p>Donga Science. <ext-link xlink:href="https://www.dongascience.com/news.php?idx%3D36499" ext-link-type="uri">https://www.dongascience.com/news.php?idx=36499</ext-link>. Accessed on 18 April 2022.</p>
+      </fn>
+      <fn id="jnu12850-note-0013">
+        <label>
+<sup>3</sup>
+</label>
+        <p>Available at <ext-link xlink:href="https://kosis.kr/statHtml/statHtml.do?orgId%3D117%26tblId%3DDT_11719N_001%26conn_path%3DI3" ext-link-type="uri">https://kosis.kr/statHtml/statHtml.do?orgId=117&amp;tblId=DT_11719N_001&amp;conn_path=I3</ext-link>. Access on 18 April 2022.</p>
+      </fn>
+      <fn id="jnu12850-note-0014">
+        <label>
+<sup>4</sup>
+</label>
+        <p>Crisis Response Division of KDCA. Notice of decision to disclose information (2022.05.10) Request for disclosure information (2022.04.18).</p>
+      </fn>
+      <fn id="jnu12850-note-0015">
+        <label>
+<sup>5</sup>
+</label>
+        <p>Doctors News. <ext-link xlink:href="http://www.doctorsnews.co.kr/news/articleView.html?idxno%3D133561" ext-link-type="uri">http://www.doctorsnews.co.kr/news/articleView.html?idxno=133561</ext-link>. Accessed on 20 April 2022.</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="data-availability" id="jnu12850-sec-0042">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>The datasets analyzed during the current study are available from the following public domain resources: [Ministry of Government Legislation. Korean Law Information Center, https:<ext-link xlink:href="http://www.law.go.kr" ext-link-type="uri" specific-use="software is-supplemented-by">www.law.go.kr</ext-link>], [South Korea statistics, <ext-link xlink:href="https://kostat.go.kr/portal/eng/index.action/" ext-link-type="uri" specific-use="software is-supplemented-by">https://kostat.go.kr/portal/eng/index.action/</ext-link>], [Provincial Infectious Disease Control Centers under KDCA, <ext-link xlink:href="https://www.kdca.go.kr/contents.es?mid%3Da20301130000" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.kdca.go.kr/contents.es?mid=a20301130000</ext-link>]. Some data extracted from the &#x201C;Government Disclosure of information&#x201D; can be shared by the first author on request.</p>
+    </sec>
+    <ref-list content-type="cited-references" id="jnu12850-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12850-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0001">
+<string-name>
+<surname>Ahn</surname>, <given-names>D. I.</given-names>
+</string-name> (<year>2021</year>). <article-title>Lessons from non&#x2010;pharmaceutical interventions on the first wave of COVID&#x2010;19 in the Asia Pacific region</article-title>. <source>Journal of Global Health Science</source>, <volume>3</volume>(<issue>1</issue>), <elocation-id>e3</elocation-id>. <pub-id pub-id-type="doi">10.35500/jghs.2021.3.e3</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0002">
+<string-name>
+<surname>Bartosiewicz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Harpula</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>&#x141;uszczki</surname>, <given-names>E.</given-names>
+</string-name> (<year>2021</year>). <article-title>The year of the nurse during the COVID&#x2010;19 pandemic</article-title>. <source>Nursing Reports</source>, <volume>11</volume>(<issue>4</issue>), <fpage>753</fpage>&#x2013;<lpage>757</lpage>. <ext-link xlink:href="https://mdpi-res.com/d_attachment/nursrep/nursrep-11-00071/article_deploy/nursrep-11-00071.pdf?version%3D1632914320" ext-link-type="uri">https://mdpi&#x2010;res.com/d_attachment/nursrep/nursrep&#x2010;11&#x2010;00071/article_deploy/nursrep&#x2010;11&#x2010;00071.pdf?version=1632914320</ext-link>
+<pub-id pub-id-type="pmid">34968265</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0003">
+<string-name>
+<surname>Blanchet</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Ramalingam</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pozo&#x2010;Martin</surname>, <given-names>F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Governance and capacity to manage resilience of health systems: Towards a new conceptual framework</article-title>. <source>International Journal of Health Policy and Management</source>, <volume>6</volume>(<issue>8</issue>), <fpage>431</fpage>&#x2013;<lpage>435</lpage>. <pub-id pub-id-type="doi">10.15171/ijhpm.2017.36</pub-id>
+<pub-id pub-id-type="pmid">28812842</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0004">
+<string-name>
+<surname>Blumenthal</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Abrams</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Collins</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Covid&#x2010;19&#x2013;implications for the health care system</article-title>. <source>The New England Journal of Medicine</source>, <volume>383</volume>(<issue>15</issue>), <fpage>1483</fpage>&#x2013;<lpage>1488</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMsb2021088</pub-id>
+<pub-id pub-id-type="pmid">32706956</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0005">
+<string-name>
+<surname>Carter</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jeffrey</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Parkinson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Osborne</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Reid&#x2010;Searl</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Graves</surname>, <given-names>N.</given-names>
+</string-name> (<year>2020</year>). <article-title>The effectiveness and cost effectiveness of a hospital avoidance program in a residential aged care facility: A prospective cohort study and modelled decision analysis</article-title>. <source>BMC Geriatrics</source>, <volume>20</volume>(<issue>1</issue>), <fpage>527</fpage>. <pub-id pub-id-type="doi">10.1186/s12877-020-01904-1</pub-id>
+<pub-id pub-id-type="pmid">33287716</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0007">
+<string-name>
+<given-names>Gyeonggi</given-names>
+<surname>Do</surname>
+</string-name>. <collab collab-type="authors">Infectious Disease Control Center</collab>
+. (<year>2014</year>). <article-title>Weekly News on Infectious Disease. Thirty Weeks (2015.07.19&#x2013;07.25)</article-title>. [Accessed 15 March 2022].</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0008">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0008">
+<collab collab-type="authors">Doctors News</collab>
+. (<year>2020</year>). <ext-link xlink:href="https://www.doctorsnews.co.kr" ext-link-type="uri">https://www.doctorsnews.co.kr</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0009">
+        <mixed-citation publication-type="book" id="jnu12850-cit-0009">
+<string-name>
+<surname>Figueras</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Muscat</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2021</year>). <source>Health systems resilience during COVID&#x2010;19: Lessons for building back better</source> (p. <fpage>108</fpage>). <publisher-name>European Journal of Public Health</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0010">
+<string-name>
+<surname>Giddens</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Douglas</surname>, <given-names>J. P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Conroy</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>). <article-title>The revised AACN essentials: Implications for nursing regulation</article-title>. <source>Journal of Nursing Regulation</source>, <volume>12</volume>(<issue>4</issue>), <fpage>16</fpage>&#x2013;<lpage>22</lpage>. <ext-link xlink:href="https://www.sciencedirect.com/science/article/pii/S2155825622000096?via%3Dihub" ext-link-type="uri">https://www.sciencedirect.com/science/article/pii/S2155825622000096?via%3Dihub</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0012">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0012">
+<collab collab-type="authors">Health Chosun</collab>
+. (<year>2021</year>). <ext-link xlink:href="https://health.chosun.com" ext-link-type="uri">https://health.chosun.com</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0047">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0047">
+<string-name>
+<surname>Healy</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>It&#x2019;s an opportunity to improve homeless people&#x2019;s health</article-title>. <ext-link xlink:href="https://www.rcn.org.uk/magazines/bulletin/2020/june/homeless-health-nursing-during-covid-19-pandemic" ext-link-type="uri">https://www.rcn.org.uk/magazines/bulletin/2020/june/homeless&#x2010;health&#x2010;nursing&#x2010;during&#x2010;covid&#x2010;19&#x2010;pandemic</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0013">
+<string-name>
+<surname>Hynes</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Trump</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Love</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Linkov</surname>, <given-names>I.</given-names>
+</string-name> (<year>2020</year>). <article-title>Bouncing forward: A resilience approach to dealing with COVID&#x2010;19 and future systemic shocks</article-title>. <source>Environ Syst Decis</source>, <volume>40</volume>(<issue>2</issue>), <fpage>174</fpage>&#x2013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1007/s10669-020-09776-x</pub-id>
+<pub-id pub-id-type="pmid">32837818</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0014">
+        <mixed-citation publication-type="book" id="jnu12850-cit-0014">
+<string-name>
+<surname>Jackson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Commodore&#x2010;Mensah</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Dale</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Logsdon</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Morin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Noyes</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <source>International nurses day 2021: A vision for increased social justice in future healthcare</source> (Vol. <volume>77</volume>, pp. <fpage>e13</fpage>&#x2013;<lpage>e15</lpage>). <publisher-name>Wiley Online Library</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0015">
+<string-name>
+<surname>Kang</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shin</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19: Korean nurses' experiences and ongoing tasks for the pandemic's second wave</article-title>. <source>International Nursing Review</source>, <volume>67</volume>(<issue>4</issue>), <fpage>445</fpage>&#x2013;<lpage>449</lpage>. <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013366/pdf/INR-67-445.pdf" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013366/pdf/INR&#x2010;67&#x2010;445.pdf</ext-link>
+<pub-id pub-id-type="pmid">33428228</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0016">
+<string-name>
+<surname>Kennedy</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2021</year>). <article-title>On the road again to Nursing's future</article-title>. <source>American Journal of Nursing</source>, <volume>121</volume>(<issue>7</issue>), <fpage>7</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/01.NAJ.0000758408.66564.be</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0017">
+<string-name>
+<surname>Kim</surname>, <given-names>E.&#x2010;J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lee</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>). <article-title>Coronaviruses: Sars, Mers and Covid&#x2010;19</article-title>. <source>Korean Journal of Clinical Laboratory Science</source>, <volume>52</volume>(<issue>4</issue>), <fpage>297</fpage>&#x2013;<lpage>309</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0019">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0019">
+<collab collab-type="authors">Korea Disease Control Agency</collab>
+. (<year>2019</year>). <article-title>MERS White paper</article-title>. <ext-link xlink:href="https://www.kdca.go.kr/cdc/cms/content/mobile/39/70039_view.html" ext-link-type="uri">https://www.kdca.go.kr/cdc/cms/content/mobile/39/70039_view.html</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0020">
+<string-name>
+<surname>Kwon</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kim</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2021</year>). <article-title>School&#x2010;based participatory response for reopening during the COVID&#x2010;19 pandemic: A case study of a metropolitan high school implementing the health promoting school</article-title>. <source>Frontiers in Public Health</source>, <volume>9</volume>, <fpage>276</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0021">
+<string-name>
+<surname>Lee</surname>, <given-names>C. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ki</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Strengthening epidemiologic investigation of infectious diseases in Korea: Lessons from the Middle East respiratory syndrome outbreak</article-title>. <source>Journal of the Korean Medical Association</source>, <volume>58</volume>(<issue>8</issue>), <fpage>706</fpage>&#x2013;<lpage>713</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0022">
+<string-name>
+<surname>Lee</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Choi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nurse fighting at the forefront of COVID&#x2010;19</article-title>. <source>Perspectives in Nursing Science</source>, <volume>18</volume>(<issue>1</issue>), <fpage>33</fpage>&#x2013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.16952/pns.2021.18.1.33</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0023">
+<string-name>
+<surname>Lee</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lee</surname>, <given-names>H.&#x2010;J.</given-names>
+</string-name> (<year>2020</year>). <article-title>South Korean nurses' experiences with patient care at a COVID&#x2010;19&#x2010;designated hospital: Growth after the frontline battle against an infectious disease pandemic</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>17</volume>(<issue>23</issue>), <fpage>9015</fpage>. <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7729510/pdf/ijerph-17-09015.pdf" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7729510/pdf/ijerph&#x2010;17&#x2010;09015.pdf</ext-link>
+<pub-id pub-id-type="pmid">33287343</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0024">
+<string-name>
+<surname>Lewer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Braithwaite</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bullock</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Eyre</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Aldridge</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Story</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hayward</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19 among people experiencing homelessness in England: A modelling study</article-title>. <source>The Lancet Respiratory Medicine</source>, <volume>8</volume>(<issue>12</issue>), <fpage>1181</fpage>&#x2013;<lpage>1191</lpage>. <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7511167/pdf/main.pdf" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7511167/pdf/main.pdf</ext-link>
+<pub-id pub-id-type="pmid">32979308</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0025">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0025">
+<collab collab-type="authors">Ministry of Government Legislation. Korean Law Information Center</collab>
+. <ext-link xlink:href="http://www.law.go.kr" ext-link-type="uri">https://www.law.go.kr</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0026">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0026">
+<collab collab-type="authors">National Statistical Database</collab>
+<ext-link xlink:href="https://kostat.go.kr/portal/eng/index.action" ext-link-type="uri">https://kostat.go.kr/portal/eng/index.action</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0027">
+<string-name>
+<surname>Nkengasong</surname>, <given-names>J. N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mankoula</surname>, <given-names>W.</given-names>
+</string-name> (<year>2020</year>). <article-title>Looming threat of COVID&#x2010;19 infection in Africa: Act collectively, and fast</article-title>. <source>Lancet</source>, <volume>395</volume>(<issue>10227</issue>), <fpage>841</fpage>&#x2013;<lpage>842</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(20)30464-5</pub-id>
+<pub-id pub-id-type="pmid">32113508</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0030">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0030">
+<collab collab-type="authors">Republic of Korea. Disclosure of Information</collab>
+. <ext-link xlink:href="https://www.open.go.kr/" ext-link-type="uri">https://www.open.go.kr/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0031">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0031">
+<collab collab-type="authors">Republic of Korea. Ministry of Interior and Safety. A press release</collab>
+. (<year>2020</year>). <article-title>The launch KDCA and the multiple vice&#x2010;ministerial system of the Ministry of Health and Welfaer</article-title>. Accessed on 15 March 2022.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0032">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0032">
+<collab collab-type="authors">Republic of Korea. Policy briefing</collab>
+. (<year>2020</year>). Accessed on 18 March 2022. <ext-link xlink:href="https://www.korea.kr/news/policyNewsView.do?newsId%3D148869369" ext-link-type="uri">https://www.korea.kr/news/policyNewsView.do?newsId=148869369</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0033">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0033">
+<collab collab-type="authors">Republic of Korea. Policy briefing</collab>
+. <ext-link xlink:href="https://www.korea.kr/news/policyNewsView.do" ext-link-type="uri">https://www.korea.kr/news/policyNewsView.do</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0034">
+        <mixed-citation publication-type="book" id="jnu12850-cit-0034">
+<string-name>
+<surname>Rosa</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Hannaway</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>McArdle</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Alharashsheh</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Marmot</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <source>Nurses for health equity: Guidelines for tackling the social determinants of health</source>. <publisher-name>World Innovation Summit for Health</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0035">
+<string-name>
+<surname>Seong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hyun</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Yun</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Noh</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheong</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>W. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Song</surname>, <given-names>J. Y.</given-names>
+</string-name> (<year>2021</year>). <article-title>Comparison of the second and third waves of the COVID&#x2010;19 pandemic in South Korea: Importance of early public health intervention</article-title>. <source>International Journal of Infectious Diseases</source>, <volume>104</volume>, <fpage>742</fpage>&#x2013;<lpage>745</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijid.2021.02.004</pub-id>
+<pub-id pub-id-type="pmid">33556610</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0036">
+        <mixed-citation publication-type="book" id="jnu12850-cit-0036">
+<collab collab-type="authors">Seoul Metropolitan City</collab>
+. (<year>2018</year>). <source>Facilities related to living health</source>. <publisher-name>Seoul City News</publisher-name>. <ext-link xlink:href="https://news.seoul.go.kr/welfare/archives/252153" ext-link-type="uri">https://news.seoul.go.kr/welfare/archives/252153</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0037">
+<string-name>
+<surname>Shin</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 counter measures and action plan for improvement of nursing treatment</article-title>. <source>Health Insurance Review &amp; Assessment Service Research</source>, <volume>1</volume>(<issue>1</issue>), <fpage>103</fpage>&#x2013;<lpage>107</lpage>. <pub-id pub-id-type="doi">10.52937/hira.21.1.1.103</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0038">
+<string-name>
+<surname>Stewart</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Burton</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Catton</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fokeladeh</surname>, <given-names>H. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Parish</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nurses: A voice to Lead: A vision for future healthcare</article-title>. <source>International Council of Nurses</source>, <fpage>2021</fpage>&#x2013;<lpage>2005</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0039">
+<string-name>
+<surname>Sung</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.&#x2010;E.</given-names>
+</string-name>, <string-name>
+<surname>Ki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>B. Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hong</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Airflow as a possible transmission route of Middle East respiratory syndrome at an initial outbreak hospital in Korea</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>15</volume>(<issue>12</issue>), <fpage>2757</fpage>. <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6313554/pdf/ijerph-15-02757.pdf" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6313554/pdf/ijerph&#x2010;15&#x2010;02757.pdf</ext-link>
+<pub-id pub-id-type="pmid">30563206</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0040">
+<string-name>
+<surname>Wakefield</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>D. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Le Menestrel</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>The future of nursing 2020&#x2010;2030: Charting a path to achieve health equity: National Academy of Sciences</article-title>. <source>Donga Science</source>, <fpage>247</fpage>&#x2013;<lpage>267</lpage>. <ext-link xlink:href="https://www.dongascience.com/news.php?idx%3D36499" ext-link-type="uri">https://www.dongascience.com/news.php?idx=36499</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0041">
+<string-name>
+<surname>Walker</surname>, <given-names>P. G. T.</given-names>
+</string-name>, <string-name>
+<surname>Whittaker</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>, <given-names>O. J.</given-names>
+</string-name>, <string-name>
+<surname>Baguelin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Winskill</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hamlet</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Djafaara</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Cucunub&#xE1;</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Mesa</surname>, <given-names>D. O.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nayagam</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ainslie</surname>, <given-names>K. E. C.</given-names>
+</string-name>, <string-name>
+<surname>Bhatia</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Boonyasiri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Brazeau</surname>, <given-names>N. F.</given-names>
+</string-name>, <string-name>
+<surname>Cattarino</surname>, <given-names>L.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Ghani</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2020</year>). <article-title>The impact of COVID&#x2010;19 and strategies for mitigation and suppression in low&#x2010; and middle&#x2010;income countries</article-title>. <source>Science</source>, <volume>369</volume>(<issue>6502</issue>), <fpage>413</fpage>&#x2013;<lpage>422</lpage>. <pub-id pub-id-type="doi">10.1126/science.abc0035</pub-id>
+<pub-id pub-id-type="pmid">32532802</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12850-cit-0042">
+<string-name>
+<surname>Webster</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 highlights Canada's care home crisis</article-title>. <source>Lancet</source>, <volume>397</volume>(<issue>10270</issue>), <fpage>183</fpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(21)00083-0</pub-id>
+<pub-id pub-id-type="pmid">33453769</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0043">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0043">
+<string-name>
+<surname>Wernli</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Antulov&#x2010;Fantulin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Berezowski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Biller&#x2010;Andorno</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>B&#xF6;ttcher</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Burton&#x2010;Jeangros</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Clausin</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Escher</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Flahault</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Flahault</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Governance in the age of complexity: Building resilience to COVID&#x2010;19 and future pandemics</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0044">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0044">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2008</year>). <article-title>International health regulations (2005)</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0045">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0045">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2017</year>). <article-title>Tracking universal health coverage: 2017 global monitoring report: Executive summary</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12850-bib-0046">
+        <mixed-citation publication-type="miscellaneous" id="jnu12850-cit-0046">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2021</year>). <article-title>State of the world's nursing 2020</article-title>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

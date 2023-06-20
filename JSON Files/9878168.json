@@ -1,0 +1,1122 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12855" xml:lang="en" article-type="other">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36464814</article-id>
+      <article-id pub-id-type="pmc">9878168</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12855</article-id>
+      <article-id pub-id-type="publisher-id">JNU12855</article-id>
+      <article-id pub-id-type="other">JNU-10-22-786.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Clinical Scholarship</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Care&#x2010;home Nurses' responses to the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic: Managing ethical conundrums at personal cost: A qualitative study</article-title>
+        <alt-title alt-title-type="right-running-head">
+<styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 nursing in care&#x2010;homes</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12855-cr-0001" contrib-type="author">
+          <name>
+            <surname>Birt</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4527-4414</contrib-id>
+          <xref rid="jnu12855-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12855-curr-0001" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12855-cr-0002" contrib-type="author">
+          <name>
+            <surname>Lane</surname>
+            <given-names>Kathleen</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0759-6321</contrib-id>
+          <xref rid="jnu12855-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12855-cr-0003" contrib-type="author">
+          <name>
+            <surname>Corner</surname>
+            <given-names>Jason</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3850-0417</contrib-id>
+          <xref rid="jnu12855-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12855-cr-0004" contrib-type="author">
+          <name>
+            <surname>Sanderson</surname>
+            <given-names>Kristy</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3132-2745</contrib-id>
+          <xref rid="jnu12855-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12855-cr-0005" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Bunn</surname>
+            <given-names>Diane</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7809-7100</contrib-id>
+          <xref rid="jnu12855-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>d.bunn@uea.ac.uk</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12855-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Health Sciences</named-content>
+<institution>University of East Anglia</institution>
+<city>Norfolk</city>
+<country country="GB">UK</country>
+</aff>
+      <aff id="jnu12855-curr-0001"><label>
+<sup>2</sup>
+</label>Present address:
+<named-content content-type="organisation-division">School of Healthcare</named-content>
+<institution>University of Leicester</institution>
+<city>Leicester</city>
+<country country="GB">UK</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Diane Bunn, School of Health Sciences, University of East Anglia, Norfolk. NR4 7TJ, UK.<break/>
+Email: <email>d.bunn@uea.ac.uk</email>
+<break/>
+<ext-link xlink:href="https://research-portal.uea.ac.uk/en/persons/diane-bunn" ext-link-type="uri">https://research&#x2010;portal.uea.ac.uk/en/persons/diane&#x2010;bunn</ext-link>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>04</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="250">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>226</fpage>
+      <lpage>238</lpage>
+      <history>
+<date date-type="rev-recd"><day>17</day><month>11</month><year>2022</year></date>
+<date date-type="received"><day>12</day><month>10</month><year>2022</year></date>
+<date date-type="accepted"><day>18</day><month>11</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x2010;commercial and no modifications or adaptations are made.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-226.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12855-sec-0001">
+          <title>Introduction</title>
+          <p>The COVID&#x2010;19 pandemic had an unprecedented effect on those living and working in care&#x2010;homes for older people, as residents were particularly vulnerable to contracting the SARS&#x2010;CoV&#x2010;2 virus, associated with high morbidity and mortality. Often undervalued, care&#x2010;home nurses (RNs) are leaders, managing complex care while working in isolation from their professional peers. The pandemic made this more apparent, when care and treatments for COVID&#x2010;19 were initially unknown, isolation increased due to withdrawal of many professional health services, accompanied by staff shortages.</p>
+        </sec>
+        <sec id="jnu12855-sec-0002">
+          <title>Objective</title>
+          <p>To explore RNs' experiences of working in older people's care&#x2010;homes during the COVID&#x2010;19 pandemic.</p>
+        </sec>
+        <sec id="jnu12855-sec-0003">
+          <title>Design</title>
+          <p>Qualitative interview study.</p>
+        </sec>
+        <sec id="jnu12855-sec-0004">
+          <title>Setting</title>
+          <p>Care&#x2010;homes for older people in England and Scotland, UK.</p>
+        </sec>
+        <sec id="jnu12855-sec-0005">
+          <title>Methods</title>
+          <p>Recruitment via direct contact with care&#x2010;homes, social media, and links provided by national partners, then purposive sampling for age, gender, type of care&#x2010;home, and location. Data collected through one&#x2010;to&#x2010;one online interviews using topic guide developed collaboratively with care&#x2010;home nurses, focusing on how COVID&#x2010;19 impacted on nurses' resilience and mental wellbeing. Data analyzed thematically using Tronto's ethics of care framework to guide development of interpretative themes.</p>
+        </sec>
+        <sec id="jnu12855-sec-0006">
+          <title>Results</title>
+          <p>Eighteen nurses (16 female; 16 adult, and two mental health nurses) were interviewed March&#x2013;June 2021; majority aged 46&#x2013;55&#x2009;years; mean time registered with Nursing and Midwifery Council: 19&#x2009;years; 17 had nursed residents with COVID&#x2010;19. RNs' experiences resonated with Tronto's five tenets of ethical care: attentiveness, responsibility, competence, responsiveness, and solidarity. All nurses described being attentive to needs of others, but were less attentive to their own needs, which came at personal cost. RNs were aware of their professional and leadership responsibilities, being as responsive as they could be to resident needs, processing and sharing rapidly changing guidance and implementing appropriate infection control measures, but felt that relatives and regulatory bodies were not always appreciative. RNs developed enhanced clinical skills, increasing their professional standing, but reported having to compromise care, leading to moral distress. Broadly, participants reported a sense of solidarity across care&#x2010;home staff and working together to cope with the crisis.</p>
+        </sec>
+        <sec id="jnu12855-sec-0007">
+          <title>Conclusion</title>
+          <p>Care&#x2010;home nurses felt unprepared for managing the COVID&#x2010;19 pandemic, many experienced moral distress. Supporting care&#x2010;home nurses to recover from the pandemic is essential to maintain a healthy, stable workforce and needs to be specific to care&#x2010;home RNs, recognizing their unique pandemic experiences. Support for RNs will likely benefit other care&#x2010;home workers either directly through wider roll&#x2010;out, or indirectly through improved wellbeing of nurse leaders.</p>
+        </sec>
+        <sec id="jnu12855-sec-0008">
+          <title>Clinical relevance</title>
+          <p>The COVID&#x2010;19 pandemic, an international public health emergency, created many challenges for Registered Nurses (RNs) working in long&#x2010;term care facilities for older people, as residents were particularly vulnerable to the impact of the SARS&#x2010;CoV&#x2010;2 virus. Care&#x2010;home RNs faced challenges distinct from their hospital&#x2010;based nursing peers and non&#x2010;nursing social care colleagues due to their isolation, leadership roles, professional legal obligations, and ethical responsibilities, leading to psychological distress on the one hand, but also a newly found confidence in their existing and newly developed skills, and increased recognition by the wider health community of their specialisms.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12855-kwd-0001">aged</kwd>
+        <kwd id="jnu12855-kwd-0002">COVID&#x2010;19</kwd>
+        <kwd id="jnu12855-kwd-0003">ethics</kwd>
+        <kwd id="jnu12855-kwd-0004">homes for the aged</kwd>
+        <kwd id="jnu12855-kwd-0005">Nurse's role</kwd>
+        <kwd id="jnu12855-kwd-0006">nursing</kwd>
+        <kwd id="jnu12855-kwd-0007">nursing care</kwd>
+        <kwd id="jnu12855-kwd-0008">post&#x2010;traumatic</kwd>
+        <kwd id="jnu12855-kwd-0009">psychological</kwd>
+        <kwd id="jnu12855-kwd-0010">stress&#x2010;disorders</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>
+            <institution-wrap>
+              <institution>Burdett Trust for Nursing
+</institution>
+              <institution-id institution-id-type="doi">10.13039/501100000386</institution-id>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <page-count count="13"/>
+        <word-count count="9933"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12855-cit-2001">
+<string-name>
+<surname>Birt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Corner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sanderson</surname>, <given-names>K.</given-names>
+</string-name> &amp; <string-name>
+<surname>Bunn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2023</year>). <article-title>Care&#x2010;home Nurses' responses to the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic: Managing ethical conundrums at personal cost: A qualitative study</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>226</fpage>&#x2013;<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12855</pub-id>
+<pub-id pub-id-type="pmid">36464814</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12855-body-0001">
+    <sec sec-type="background" id="jnu12855-sec-0009">
+      <title>BACKGROUND</title>
+      <p>Registered nurses (RNs), as leaders in care&#x2010;homes with responsibility for both residents and staff, have borne the brunt of the COVID&#x2010;19 pandemic response in seeking to protect those in their care and to minimize the impact of the pandemic.</p>
+      <p>Across the world, older people needing support with personal and social care frequently move into long&#x2010;term care facilities, such as care&#x2010;homes, where care is provided 24/7 by a care assistant workforce, many of whom have minimal clinical qualifications (Backhaus et al.,&#xA0;<xref rid="jnu12855-bib-0004" ref-type="bibr">2021</xref>; Ibrahim &amp; Aitken,&#xA0;<xref rid="jnu12855-bib-0022" ref-type="bibr">2021</xref>). Where additional, specialist nursing care is required, these facilities are often designated as nursing homes, staffed by RNs. RNs working in care&#x2010;homes and nursing homes (together called &#x201C;care&#x2010;homes&#x201D; in this paper) have an expertise and skill set distinct from other specialities, often practising as autonomous practitioners in contexts very different from acute and community care settings (Douglas,&#xA0;<xref rid="jnu12855-bib-0014" ref-type="bibr">2022</xref>). Care&#x2010;home nursing encompasses clinical, regulatory, administrative, and managerial roles and RNs are specialists in managing complex chronic conditions, including coordinating services, while providing social support and home care in an institutional setting (Aloisio et al.,&#xA0;<xref rid="jnu12855-bib-0002" ref-type="bibr">2021</xref>; Cornes &amp; Manthorpe,&#xA0;<xref rid="jnu12855-bib-0013" ref-type="bibr">2022</xref>; Spilsbury et al.,&#xA0;<xref rid="jnu12855-bib-0039" ref-type="bibr">2015</xref>; Thompson et al.,&#xA0;<xref rid="jnu12855-bib-0041" ref-type="bibr">2018</xref>). Often, RNs are in leadership roles in care&#x2010;homes, working in isolation from other health professionals, with variable support from wider healthcare support systems, while continuing to provide care in a largely underfunded environment (Langins et al.,&#xA0;<xref rid="jnu12855-bib-0025" ref-type="bibr">2020</xref>; Wild &amp; Szczepura,&#xA0;<xref rid="jnu12855-bib-0046" ref-type="bibr">2021</xref>). The complexity and specialism of care&#x2010;home RNs is often unrecognized and undervalued by their nursing and medical colleagues, with this area of nursing frequently viewed as an unattractive career option, leading to issues around recruitment and retention (Aloisio et al.,&#xA0;<xref rid="jnu12855-bib-0002" ref-type="bibr">2021</xref>; Astle et al.,&#xA0;<xref rid="jnu12855-bib-0003" ref-type="bibr">2021</xref>; Backhaus et al.,&#xA0;<xref rid="jnu12855-bib-0004" ref-type="bibr">2021</xref>; Embregts et al.,&#xA0;<xref rid="jnu12855-bib-0015" ref-type="bibr">2020</xref>; Szczepura,&#xA0;<xref rid="jnu12855-bib-0040" ref-type="bibr">2021</xref>; Wild &amp; Szczepura,&#xA0;<xref rid="jnu12855-bib-0046" ref-type="bibr">2021</xref>). It has also been suggested that the perceived unattractiveness of care&#x2010;home nursing is related to ageism and the way in which societies view older generations (McGilton et al.,&#xA0;<xref rid="jnu12855-bib-0029" ref-type="bibr">2020</xref>). These issues are global, so it is not surprising that the arrival of the COVID&#x2010;19 pandemic in 2020, which brought with it a new set of pressures, compounding the existing ones, had such a devastating effect in care&#x2010;homes and on its workforce (Langins et al.,&#xA0;<xref rid="jnu12855-bib-0025" ref-type="bibr">2020</xref>), creating an international public health emergency (Fernandez et al.,&#xA0;<xref rid="jnu12855-bib-0016" ref-type="bibr">2020</xref>; Ibrahim &amp; Aitken,&#xA0;<xref rid="jnu12855-bib-0022" ref-type="bibr">2021</xref>). Apart from a few exemplars (such as Hong Kong and New Zealand), most countries failed to adequately protect their nursing home populations, exemplified in severe cases in countries such as Italy (Bilal et al.,&#xA0;<xref rid="jnu12855-bib-0005" ref-type="bibr">2020</xref>; Brady et al.,&#xA0;<xref rid="jnu12855-bib-0007" ref-type="bibr">2021</xref>; Calcaterra et al.,&#xA0;<xref rid="jnu12855-bib-0010" ref-type="bibr">2022</xref>; Ibrahim &amp; Aitken,&#xA0;<xref rid="jnu12855-bib-0022" ref-type="bibr">2021</xref>; Langins et al.,&#xA0;<xref rid="jnu12855-bib-0025" ref-type="bibr">2020</xref>; Palese et al.,&#xA0;<xref rid="jnu12855-bib-0032" ref-type="bibr">2022</xref>; Rocard et al.,&#xA0;<xref rid="jnu12855-bib-0035" ref-type="bibr">2021</xref>; Sarabia&#x2010;Cobo et al.,&#xA0;<xref rid="jnu12855-bib-0036" ref-type="bibr">2021</xref>). Care&#x2010;homes for older adults were disproportionately affected by the pandemic with increased resident mortality and staff distress (Langins et al.,&#xA0;<xref rid="jnu12855-bib-0025" ref-type="bibr">2020</xref>; Palese et al.,&#xA0;<xref rid="jnu12855-bib-0032" ref-type="bibr">2022</xref>; Rocard et al.,&#xA0;<xref rid="jnu12855-bib-0035" ref-type="bibr">2021</xref>). Typically accounting for less than 1% of the population, residents of long&#x2010;term care facilities represented 41% of all COVID&#x2010;19 related deaths in 22 high&#x2010;income countries by January 2021 (mid&#x2010;pandemic) (Comas&#x2010;Herrera et al.,&#xA0;<xref rid="jnu12855-bib-0012" ref-type="bibr">2020</xref>).</p>
+      <p>As a result of circumstances well beyond their immediate control, care&#x2010;home RNs were at the forefront of the pandemic response in care&#x2010;homes, and as clinical leaders, found themselves dealing with a novel, unpredictable infectious disease, where cause, prevention, management, and impacts were initially unknown, but high morbidity and mortality soon became apparent, particularly among their older vulnerable residents, although staff were also severely affected (Brady et al.,&#xA0;<xref rid="jnu12855-bib-0007" ref-type="bibr">2021</xref>; Wild &amp; Szczepura,&#xA0;<xref rid="jnu12855-bib-0046" ref-type="bibr">2021</xref>). For those in management positions, many of whom were RNs, there were added responsibilities of keeping abreast of constantly changing guidelines, acquiring personal protective equipment (PPE), liaising with relatives, managing residents with complex clinical needs, and rapidly acquiring acute&#x2010;care skills but without wider healthcare support and access to diagnostic testing and equipment, as well as supporting depleted and exhausted staff (Rocard et al.,&#xA0;<xref rid="jnu12855-bib-0035" ref-type="bibr">2021</xref>; Sarabia&#x2010;Cobo et al.,&#xA0;<xref rid="jnu12855-bib-0036" ref-type="bibr">2021</xref>). RNs were called upon to make ethical &#x201C;high&#x2010;stakes, decision&#x2010;making&#x201D; as the principles guiding practice shifted from patient&#x2010;centered to public health&#x2010;centered care (Hossain &amp; Clatty,&#xA0;<xref rid="jnu12855-bib-0021" ref-type="bibr">2021</xref>).</p>
+      <p>At all times nurses, as a profession, are accountable for their practice to their professional organizations and possibly other regulatory bodies. In the UK, the Nursing and Midwifery Council regulates nursing to ensure &#x201C;safe, effective and kind nursing&#x201D; (<ext-link xlink:href="https://www.nmc.org.uk/" ext-link-type="uri">https://www.nmc.org.uk/</ext-link>), aiming to protect the public when this does not occur. It may be that the emergency&#x2010;care practices caused by the pandemic created ethical challenges for care&#x2010;home nurses.</p>
+      <p>Ibrahim and Aitkin suggested that the pandemic led to a breakdown in the political and social frameworks at macro (national), meso (regional), and micro (care&#x2010;home) levels which led to the well&#x2010;documented crisis in care&#x2010;homes globally, impacting on nurses' abilities to adapt and provide safe and effective care, compromising their ethical and professional beliefs (Ibrahim &amp; Aitken,&#xA0;<xref rid="jnu12855-bib-0022" ref-type="bibr">2021</xref>). Similar findings were reported by Scrymgeour et al. in their qualitative enquiry into care&#x2010;home nurses' responses to natural disasters (pre&#x2010;COVID&#x2010;19, mainly earthquakes and bush fires) in Australia and New Zealand (Scrymgeour et al.,&#xA0;<xref rid="jnu12855-bib-0038" ref-type="bibr">2020</xref>). Nurses working during natural disasters, including COVID&#x2010;19, have found themselves facing moral distress, affecting mental wellbeing and resilience (Brady et al.,&#xA0;<xref rid="jnu12855-bib-0007" ref-type="bibr">2021</xref>; Fernandez et al.,&#xA0;<xref rid="jnu12855-bib-0016" ref-type="bibr">2020</xref>; Zipf et al.,&#xA0;<xref rid="jnu12855-bib-0047" ref-type="bibr">2022</xref>). This is unlikely to be a short&#x2010;term consequence. Rather, recovery from the pandemic, particularly for those who develop longer&#x2010;term mental health issues, moral injury, and post&#x2010;traumatic stress disorder will take years, and it has been suggested that pandemic recovery for care workers should be framed by an ethic of care (Gary &amp; Berlinger,&#xA0;<xref rid="jnu12855-bib-0018" ref-type="bibr">2020</xref>). &#x201C;Moral distress&#x201D; arises when someone acts in a way that is contrary to their moral or ethical values, often as a result of external pressures, whereas &#x201C;moral injury&#x201D; is the longer&#x2010;lasting psychological effects of these sustained actions (Hossain &amp; Clatty,&#xA0;<xref rid="jnu12855-bib-0021" ref-type="bibr">2021</xref>).</p>
+      <p>The aim of this research was to understand RNs' experiences of working in care&#x2010;homes for older people during the COVID&#x2010;19 pandemic, how this impacted on resilience, mental health, and wellbeing, and to collaboratively develop theory&#x2010;informed approaches for ongoing and future support in this professional group.</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12855-sec-0010">
+      <title>METHODS</title>
+      <p>The study was registered on the LTC Responses to COVID&#x2010;19 website (<ext-link xlink:href="https://ltccovid.org/" ext-link-type="uri">https://ltccovid.org/</ext-link>) 16/03/2021.</p>
+      <sec id="jnu12855-sec-0011">
+        <title>Design</title>
+        <p>The THRIVE Study (UndersTanding the distinct challenges for Nurses in Care&#x2010;Homes: LeaRnIng from CoVid&#x2010;19 to support resiliencE and mental wellbeing) was conducted in two phases. In this paper we report on Phase 1, where we interviewed care&#x2010;home nurses about their COVID&#x2010;19 experiences and impact on wellbeing. In the second phase we took points raised from the interviews into workshops to support discussions with a different group of RNs on how practice and policy might address the challenges experienced by care&#x2010;home nurses during COVID&#x2010;19 pandemic. A publicly accessible report on this phase is available online on the <ext-link xlink:href="https://www.uea.ac.uk/about/school-of-health-sciences/research/projects/understanding-the-distinct-challenges-for-nurses-in-care-homes-learning-from-covid-19-to-support-resilience-and-mental-wellbeing" ext-link-type="uri">THRIVE</ext-link> website.</p>
+      </sec>
+      <sec id="jnu12855-sec-0012">
+        <title>Inclusive approaches</title>
+        <p>Our underpinning approach throughout was one of collaboration and inclusivity, working alongside care&#x2010;home RNs in the planning, design, and conduct of this study, including a nurse&#x2010;manager as a co&#x2010;applicant, and involving an Advisory Group of Registered Nurses currently working in care&#x2010;homes. The Advisory Group worked with the research team, providing insights from their own experience, ensuring that the study methods were appropriate, and findings would be applicable to practice. In Phase 1, their involvement included co&#x2010;designing the interview Topic Guide (Supplementary File&#xA0;<xref rid="jnu12855-supitem-0001" ref-type="supplementary-material">S1</xref>), advising on recruitment, and participating in discussions around the interpretation and validity of the findings. Advisory Group members have reported separately on their experiences in this role (Chapman&#x2010;Wright et al., <xref rid="jnu12855-bib-0011" ref-type="bibr">2022</xref>).</p>
+      </sec>
+      <sec id="jnu12855-sec-0013">
+        <title>Ethics</title>
+        <p>The THRIVE study was approved by (University of East Anglia Faculty of Medicine and Health Sciences Research Ethics Committee (reference: 2020/21&#x2010;096) and registered on the <ext-link xlink:href="https://ltccovid.org/project/understanding-the-distinct-challenges-for-nurses-in-care-homes-learning-from-covid-19-to-support-resilience-and-mental-well-being-thrive/" ext-link-type="uri">Long&#x2010;Term Care Responses to Covid Website</ext-link>. Phase 1 is reported in&#x2010;line with COREQ guidelines (Supplementary File&#xA0;<xref rid="jnu12855-supitem-0002" ref-type="supplementary-material">S2</xref>; Tong et al.,&#xA0;<xref rid="jnu12855-bib-0042" ref-type="bibr">2012</xref>).</p>
+      </sec>
+      <sec id="jnu12855-sec-0014">
+        <title>Recruitment and data collection</title>
+        <p>In Phase 1, we recruited and interviewed RNs March&#x2013;June 2021 to explore their lived experiences of care&#x2010;home nursing during the COVID&#x2010;19 pandemic and how these impacted on their mental wellbeing.</p>
+        <p>Recruitment was via posts on our university's social media accounts (Twitter and Facebook), direct mail, and email contact with care&#x2010;homes in the east of England, UK, professional and practitioner email distribution lists and eNewsletters targeted at care&#x2010;home nurses across the UK. Those expressing interest were emailed information and a consent form and were asked to complete an online form to confirm eligibility for the study. This provided demographics for our purposive sampling. We purposively sampled for age, gender, type of care&#x2010;home and location. All interviewees were unknown to the research team prior to study participation. RNs were interviewed one&#x2010;to&#x2010;one using online platforms (Zoom or Microsoft Teams) by two authors (LB, KL) using a topic guide to ensure that issues of how COVID&#x2010;19 impacted on nurses' resilience and mental wellbeing were discussed.</p>
+        <p>The interview Topic Guide, developed collaboratively with the Advisory Group, included questions about how the pandemic had impacted on nurses' work and their professional roles, effects on the people they were responsible for (residents, families, and junior staff), their personal lives and how they coped with the challenges they faced, including sources of support available to staff. We adopted an iterative approach during the data&#x2010;collection period to reflect current practice and potential challenges due to ongoing changes in the pandemic and consequent public health policies, occurring both nationally and internationally. For example, within the UK, the emergence of the Delta variant April/May 2021 led to a further peak in COVID&#x2010;19 cases and the announcement 16/06/2021 of compulsory vaccinations for UK care&#x2010;home staff (Supplementary File&#xA0;<xref rid="jnu12855-supitem-0003" ref-type="supplementary-material">S3</xref>). All interview participants were offered a &#xA3;20 Amazon e&#x2010;voucher.</p>
+        <p>Interviews lasted between 30 and 65&#xA0;min, were recorded, professionally transcribed verbatim, checked for accuracy, identifying details removed, and interviewers' reflective notes included. Each participant (if they consented) received a summary of their interview transcript within 1&#x2013;2&#x2009;weeks to feedback any comments. Responses to this participation validation were minimal and no changes were made to the data. Reasons for low involvement in validation were likely the pressures of work and staff shortages.</p>
+      </sec>
+      <sec id="jnu12855-sec-0015">
+        <title>Data analysis</title>
+        <p>Preliminary data analysis was concurrent with recruitment and interviews and continued until data saturation was achieved. All anonymized transcripts were uploaded into NVivo 14 to aid data organization and analysis. Interview data were analyzed using reflexive thematic methods (Braun &amp; Clarke,&#xA0;<xref rid="jnu12855-bib-0008" ref-type="bibr">2019</xref>). All transcripts were coded line&#x2010;by&#x2010;line by a member of the research team, with four transcripts coded in duplicate to guide reflective discussions between researchers enhancing dependability of results. Analysis discussions within the research team and Advisory Group took place regularly to review, refine, and develop codes, categories, and sub&#x2010;themes. As we moved through the process of analysis it became evident that nurses were raising ethical issues related to their practice which resonated with Tronto's ethics of care (Tronto,&#xA0;<xref rid="jnu12855-bib-0043" ref-type="bibr">1993</xref>, <xref rid="jnu12855-bib-0045" ref-type="bibr">2013</xref>). This framework guided the interpretive development of final themes.</p>
+        <p>Tronto's framework describes care as both a psychological and practical approach: those in caring roles should have a mental disposition to care, as well as the appropriate knowledge to fulfill that care need (Tronto,&#xA0;<xref rid="jnu12855-bib-0044" ref-type="bibr">1998</xref>). Tronto described five ethical dimensions of care: attentiveness, responsibility, competence, responsiveness, and solidarity. Attentiveness refers to being attentive and noticing care needs; responsibility is the ethical and moral approach to ensure care needs are met, and is closely associated with obligation, which encompasses a contractual element; competence ensures that the caregiver has appropriate skills and knowledge; responsiveness relates to how the recipient of care, often from a position of vulnerability, responds to the care given, and solidarity acknowledges the plurality of care, not just a team approach from those closely associated with care delivery, but the wider social and political influences on frameworks which support an individual practitioner's caring practices (Tronto,&#xA0;<xref rid="jnu12855-bib-0043" ref-type="bibr">1993</xref>, <xref rid="jnu12855-bib-0045" ref-type="bibr">2013</xref>).</p>
+      </sec>
+      <sec id="jnu12855-sec-0016">
+        <title>Research team</title>
+        <p>The authorship team included Adult (LB, DB) and Mental Health (JC) nurses, expertise in workplace mental health research (KS), care&#x2010;home research expertise (LB, DB, KL, JC), care&#x2010;home nursing experience (LB, JC), and inclusive involvement (all). All have PhDs and were employed as researchers on this project. The Advisory Group were all current care&#x2010;home nurses.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12855-sec-0017">
+      <title>FINDINGS</title>
+      <p>Interviews took place March&#x2013;June 2021: during a time of rapidly changing public health care policies in the UK (including the announcement of compulsory vaccinations for care&#x2010;home staff) and the emergence of the Delta variant which led to a further peak in COVID&#x2010;19 cases (Supplementary File&#xA0;<xref rid="jnu12855-supitem-0003" ref-type="supplementary-material">S3</xref>: timeline of events).</p>
+      <p>Twenty&#x2010;five care&#x2010;home RNs expressed initial interest requesting further study information, seven declined or failed to respond to emails regarding booking interview dates, and eighteen care&#x2010;home RNs were interviewed (16 female, 2 male). Interviews lasted between 30 and 65&#xA0;min and were professionally transcribed.</p>
+      <p>Interviewees reflected all ages and were geographically spread across England and Scotland. Mean length of care&#x2010;home nursing experience was 19&#x2009;years (range: 2&#x2013;40&#x2009;years). Interviewees worked in a variety of care&#x2010;homes representing a range of ownership and size: some were part of national companies, others worked in independent or privately owned homes; number of beds ranged from 40 to 82. All but one interviewee had experience of caring for residents with COVID&#x2010;19. Two interviewees were mental&#x2010;health trained nurses and the remaining 16 were adult&#x2010;trained.</p>
+      <p>The results are presented under the five core principles of Tronto's ethics of care framework (Tronto,&#xA0;<xref rid="jnu12855-bib-0045" ref-type="bibr">2013</xref>). Illustrative quotes are identified by length of time qualified as a registered nurse. Any names or places used are pseudonyms.</p>
+      <sec id="jnu12855-sec-0018">
+        <title>Attentiveness</title>
+        <p>Being attentive to the needs of others and taking action to meet those needs is a core principle of ethical care (Tronto,&#xA0;<xref rid="jnu12855-bib-0043" ref-type="bibr">1993</xref>, <xref rid="jnu12855-bib-0045" ref-type="bibr">2013</xref>). All nurses interviewed were attentive to the needs of others: residents, colleagues, and their families, often describing this as &#x201C;being what nurses do.&#x201D; However, they appeared less attentive to their own needs, and this came at some personal cost:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0001"><p>&#x201C;I think being a manager is always a lonely occupation because you can't have friendships in your workplace. And your job role is to actually support everybody else but it's very hard to get the support you need.&#x201D; <named-content content-type="attribution">(#8, RN for 25&#x2013;29&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>For some nurses, their moral obligations of caring for family meant deciding whose needs should be prioritized, leading to ethical tensions, and accompanying emotions of guilt. A few nurses described only seeing their children through car windows or not entering the family home. Where there were dual obligations to provide care, choices had to be made:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0002"><p>&#x201C;I'm also a key&#x2010;worker and the main care&#x2010;worker for my granddad. During those two weeks [Covid in care&#x2010;home] I couldn't get to him. We had a service going in and looking after him.&#x201D; <named-content content-type="attribution">(#16, RN for 25&#x2013;29&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>As restrictions on social contact receded for the public, nurses spoke of a continuing need to be attentive to their responsibilities of protecting residents from infection, but this impacted on their life outside of the workplace:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0003"><p>&#x201C;We were making sure that we don't go out. &#x2026; we were focusing on not doing anything else apart from going home, coming back.&#x201D; <named-content content-type="attribution">(#3, RN for 5&#x2013;9&#x2009;yers).</named-content>
+</p></disp-quote>
+</p>
+        <p>The attentiveness of these nurses to the needs of others was also seen in their understanding of the emotional turmoil experienced by relatives who were not &#x201C;allowed&#x201D; to see their resident relative, &#x201C;It's just so tragic, &#x2026;&#x2010;relatives were distraught&#x201D; (#17, RN for 40&#x2013;44&#x2009;years). Some nurses made an autonomous decision to mediate between guidelines and the moral right of people to be with a dying resident. One nurse described this in terms of their nurse training:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0004"><p>&#x201C;I suppose as nurses you are always taught that end&#x2010;of&#x2010;life is about, you know, the inclusion of family members.&#x201D; <named-content content-type="attribution">(#17, RN for 40&#x2013;44&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>This led to decisions on which aspect was more important: family or infection control, &#x201C;it was a big decision.&#x201D; (#17, RN for 40&#x2013;44&#x2009;years).</p>
+        <p>A few nurses decided that the need for infection&#x2010;control measures was greater than relatives' needs, and they stated they always refused relative visiting. This stance led to distress among relatives, with some focusing their frustration at nurses and threatening litigation, to such an extent that some nurses described how they felt &#x2018;abused&#x2019; by relatives. However, one nurse described how over time there was acknowledgment that their attentiveness to good infection&#x2010;control practices was the right course of action:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0005"><p>&#x201C;At the end of it they [relatives] all said, thank you for keeping them [residents] safe and now I understand why you had to be so strict with visitors, so strict with your PPE, so strict in telling everybody off &#x2026;. So, they understood at the end.&#x201D; <named-content content-type="attribution">(#3, RN for 5&#x2013;9&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>The constant need to balance decisions on whose needs to prioritize and the responsibility to protect others from infection led to several nurses explaining they were mentally and physically exhausted:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0006"><p>&#x201C;The pressure has been there throughout from the minute we were preparing, just in case we had a COVID case, to even now, we are constantly testing, constantly aware. My emotions are, we have been hung out to dry and totally forgotten.&#x201D; <named-content content-type="attribution">(#16, RN for 25&#x2013;29&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>In summary, there was evidence of nurses drawing on their innate sense of being attentive to the needs of others often above their own needs. As professionals they made complex ethical decisions over whose needs to prioritize: reducing risk of infection to protect residents or enabling families to be together during end of life. All of this came at an emotional cost for many of the nurses.</p>
+      </sec>
+      <sec id="jnu12855-sec-0019">
+        <title>Responsibility</title>
+        <p>The second tenet of Tronto's ethic of care was evident in nurses' accounts of statutory obligations to provide care in line with pandemic guidance to ensure records and reporting complied with new policies. They also expressed personal and professional responsibilities to be accountable for the wellbeing of residents, and several referred to these activities being the essence of nursing. The personal and professional responsibilities, for example, to work extra shifts were seen as tiring but &#x201C;what I do as a nurse&#x201D; whereas the obligated activities of reporting to outside bodies were less well tolerated.</p>
+        <p>Care&#x2010;home nurses in senior positions have a statutory, obligated role that extends beyond patient care into recording and documenting care. COVID&#x2010;19, however, imposed additional responsibilities such as reading and interpreting infection&#x2010;control guidance which was continually updated from multiple sources and this was accompanied by additional reporting demands. One nurse described another aspect of the new range of responsibilities:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0007"><p>&#x201C;You're being all things to all people, as the manager, but it's usually, drip feed, you have one problem, you deal with it, you have another problem you deal with it. I've got 137 staff, 75 residents, probably about 500 relatives, plus you've now got the staff's families and they're all looking to this single point to keep everyone safe, keep everyone well, keep everyone communicated.&#x201D; <named-content content-type="attribution">(#22, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>Many nurses worked with only a couple of senior nurse colleagues and due to the constantly&#x2010;shifting care and policy landscape they were frequently the key information point on and off duty. They described being called for advice when they were off duty and not being &#x201C;<italic toggle="yes">left alone</italic>.&#x201D; Several reported a sense of responsibility to remain at work especially as a few staff felt unsafe and were absent from work in the early days of the pandemic, and later as staff went off sick with COVID&#x2010;19. The situation was exacerbated by government guidance on non&#x2010;transfer of staff across care settings which meant care&#x2010;homes could not draw on agency staff, leading to continuous shifts:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0008"><p>&#x201C;Friday Bank Holiday I worked, and then on Easter Sunday, my night nurse rang me at home [to say she couldn't come in], and I came into work at lunchtime on a Sunday and I didn't leave until the Wednesday morning.&#x201D; <named-content content-type="attribution">(#18, RN for 5&#x2013;9&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>This was in part accompanied by a sense of obligation to colleagues as well as responsibility to care for residents:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0009"><p>&#x201C;We need to cover a lot of shifts &#x2026;we need to work more than usual, a lot of extras. It's really hard because it became like a mental thing, feeling obliged to the rest of the staff and the manager.&#x201D; <named-content content-type="attribution">(#5, RN for 5&#x2013;9&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>Obligations and moral responsibilities are intrinsically entwined within the essence of nursing as seen in this extract highlighting a sense of duty:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0010"><p>&#x201C;I remember sitting at my desk phoning him [husband], crying, saying, &#x201C;If I've got to stay here and get sick, then you can't go to work because the children need you.&#x201D; God, saying that actually makes me feel quite teary, even then being really quite upset and a bit overwhelmed by the enormity of that, I can't leave my residents and as a nurse I have to do my duty, that's the word I'd use, and that was coming above my children.&#x201D; <named-content content-type="attribution">(#22, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>In summary, during the COVID&#x2010;19 pandemic the usual boundaries of statutory obligations and professional responsibilities were dismantled, and these nurses appeared to become morally obligated to give of themselves 24&#xA0;h a day, often at a personal emotional cost. This raises ethical considerations around boundaries of how much nurses may be expected to work in emergency situations.</p>
+      </sec>
+      <sec id="jnu12855-sec-0020">
+        <title>Competence</title>
+        <p>The training and registration processes in nursing are designed to ensure RNs are competent to provide care, the third aspect of Tronto's framework. The worldwide restrictions on social distancing in place during the pandemic changed the ways in which residents' care was delivered. Nurses explained that instead of being one of a team of healthcare professionals supporting residents in the care&#x2010;home they became the only healthcare professional. Now when a resident's health declined, they needed to make judgments on severity of symptoms, relay this to doctors or other health professionals through virtual mediums, and then give the resident complex treatments that might more usually have been provided by specialist external professionals. This increase in clinical activities was welcomed by most of the nurses as a way of enhancing others' awareness of their skills, &#x201C;<italic toggle="yes">It empowers you, I think the pandemic has empowered nurses</italic>&#x201D; (#9, RN for 10&#x2013;14&#x2009;years). They explained the new ways of working in the pandemic had provided an opportunity to increase their clinical competency to better provide holistic care:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0011"><p>&#x201C;It just makes you a better practitioner, &#x2026; that will improve your nursing knowledge, your nursing skills&#x2026;you look at the bigger picture more &#x2026;. you're looking at the resident on a more holistic approach [including] mental health &#x2026;. I'm not a mental health nurse, I would have never thought about monitoring that because that's not my area, but now you do.&#x201D; <named-content content-type="attribution">(#6, RN for 5&#x2013;9&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>During the interviews, nurses reflected on learning they had gained, although in the moment it had not been evident to them. Learning on the job due to the &#x201C;newness&#x201D; of the COVID&#x2010;19 illness caused some to question their competence to care and their professional responsibility:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0012"><p>&#x201C;We weren't aware of how the breathing would change and how much that individual would struggle &#x2026;when you can't support someone you almost start to feel inadequate yourself, because you always want to do something to relieve.&#x201D; <named-content content-type="attribution">(#17, RN for 40&#x2013;44&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>At end of life the absence of family carers was highly emotive for some nurses. One nurse explained how the usual end&#x2010;of&#x2010;life care would involve sitting with a resident and family and holding the resident's hands, but COVID&#x2010;19 restrictions inhibited that usual care:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0013"><p>&#x201C;I'm having to speak to these loving children of this man &#x2026;where they're having their last conversation on the phone&#x2026;and that's still with me, a year later.&#x201D; <named-content content-type="attribution">(#4, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>Several nurses explained that they had increased their awareness of end&#x2010;of&#x2010;life care and now the whole staff team had received training. For a few it had prompted them to have earlier conversations with family about what end&#x2010;of&#x2010;life might look like.</p>
+        <p>A small number of nurses voiced concerns that decisions made about treatment of older residents may not have been ethical, and they questioned their professional and moral role in this:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0014"><p>&#x201C;Some decisions were made during that time which, I think, were questionable &#x2026; some treatments that did not occur due to COVID&#x2026;. and I have no doubt that some people died that could have been prevented. My professional role, me as a nurse&#x2026; I was faced with the conundrum, I could understand why people were making clinical decisions not to admit to hospital but I couldn't agree with that &#x2026; did I fail as an advocate for that person? Should I have tried harder, should I have explained more, should I have fought harder? &#x2026; Or do I accept it that for the good of majority, some decisions were made that affected the minority? <named-content content-type="attribution">(#8, RN for 25&#x2013;29&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>The complexities of providing competent care to residents are at the core of nursing, but within a care&#x2010;home environment the registered nurse is often the only clinically qualified person on duty and the majority of nurses interviewed said they took responsibilities for ensuring the wellbeing and staff of colleagues as well as residents.</p>
+        <p>Part of the responsibility to colleagues was being able to competently assimilate and transfer into action the changing guidance on infection control and ensure the staff enacted the guidance. This went beyond direct care staff:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0015"><p>&#x201C;I wouldn't have taken any notice before to what cleaners were doing. I didn't really care what they were doing&#x2026;. Whereas now, sort of wondering what they're doing, what is the guidance.&#x201D; <named-content content-type="attribution">(#12, RN for 10&#x2013;14&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>In summary, these nurses fulfilled their ethical responsibility to provide care, but the restrictions and uncertainty of how the disease would progress, especially in the oldest old, led some to state they gave care that did not meet their personal and professional standards. A consequence of these potential limitations on competence to care appears to have been a desire to improve practice and conversation about end&#x2010;of&#x2010;life care. For some there is a legacy of doubt about whether residents suffered due to decisions made about management of healthcare resources and the priority to prevent infection; leading some nurses to experience moral injury.</p>
+      </sec>
+      <sec id="jnu12855-sec-0021">
+        <title>Responsiveness</title>
+        <p>Nurses in care&#x2010;homes provide care to some of the most vulnerable people in the community. This study did not collect residents' accounts of how they received the care and in the interview data there were few accounts of how residents responded to nurses' care. Rather, what was recounted was how others including relatives, care&#x2010;home managers, and mandatory inspection agencies responded to the care these nurses provided to vulnerable residents.</p>
+        <p>During the pandemic there was a shift in how relatives responded to the care given by the nurses. In the early weeks everyone thought the restrictions would be short&#x2010;term and there was a general feeling that nurses were &#x201C;doing the right thing&#x201D; keeping residents safe. However, as the pandemic and associated care&#x2010;home visiting restrictions continued there was an emotional shift in the way restrictions to protect residents were viewed by relatives, leading to some expressions of mistrust. Frustration and anger at not seeing residents escalated for some relatives as restrictions on visiting continued after public social contact increased. Here the nurses often experienced extreme, negative responses from relatives. This caused angst in many of the nurses:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0016"><p>&#x201C;I had relatives shouting down the phone, shouting at the door. I got blamed for COVID at one point. And even though you wanted to scream at them not nice things you had to kind of stay professional, and some of the things that people were saying to you, it was just awful.&#x201D; <named-content content-type="attribution">(#19, RN for 15&#x2013;19&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>Relatives' lack of understanding of the demands on care&#x2010;home nurses and their staff was also evident in nurses' accounts of the responses they received from regulatory inspection bodies. Nurses explained that rather than solidarity with external bodies they felt they were frequently criticized rather than supported. Each time there was COVID&#x2010;19 infection in the home this was reported, and inspections took place. Here, one nurse explains how they challenged an inspection report where there was a lack of insight into the difficult circumstances staff were working through. She wanted recognition for her staff and respect for the work they were doing:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0017"><p>&#x201C;I had to phone them up [the regulatory body] and say look, my staff are upset with the way that you're conducting this investigation, what they need to be told is that they are brilliant, that they are wonderful, and they are working very hard. And bless him, he did send an email to say thank you for everything you're doing, and I thought good. I felt I really had to defend my staff.&#x201D; <named-content content-type="attribution">(#1, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>In many accounts it appears that nurses, the care&#x2010;givers, might also have needed to be care&#x2010;receivers but that this was rarely available. Many spoke to the harrowing nature of their work and while their accounts of residents dying were varied, all had aspects of grief which at the time of the interview appeared unresolved:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0018"><p>&#x201C;Twenty&#x2010;two residents died and the one weekend where we lost something like eight or nine it was traumatic, it was harrowing.&#x201D; <named-content content-type="attribution">(#13, RN, years of experience not disclosed)</named-content>
+</p></disp-quote>
+</p>
+        <p>In summary, while the ways in which care was received by residents was not formally considered in this emergency situation, nurses reported working to do their best for residents. Additionally, nurses reported the needs of relatives conflicted with the nurses, making those nurses vulnerable to criticism. These conflicts resulted in, and exacerbated, the nurses' emotional turmoil from unresolved experiences of grief on residents' and colleagues' deaths.</p>
+      </sec>
+      <sec id="jnu12855-sec-0022">
+        <title>Solidarity</title>
+        <p>In 2013, Tronto revised her ethics of care to include solidarity which encompasses collective responsibility situated within communication, trust, and respect (Tronto,&#xA0;<xref rid="jnu12855-bib-0045" ref-type="bibr">2013</xref>). Solidarity was seen within individual care&#x2010;homes, but there was an absence of solidarity with other healthcare organizations and in the public narrative which focused on hospital care.</p>
+        <p>The majority of nurses interviewed spoke of the ethos of staff in the care&#x2010;home being to: &#x201C;Work together, stick together, pulling together.&#x201D; (#3, RN for 5&#x2013;9&#x2009;years). However, it was noted that in the early stage of the pandemic fear for one's own safety led to some staff being absent.</p>
+        <p>Being able to talk to colleagues and friends who were also nurses was important for all, nurse interviewees explaining that family and lay people would not understand:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0019"><p>&#x201C;My partner would not understand what it's like to be in here on a Saturday afternoon when the sixth person in one day dies. Nurses would understand; they were here, they felt the same.&#x201D; <named-content content-type="attribution">(#12, RN for 10&#x2013;14&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>For some the need to work as a team with collective responsibility was increased. This flattened management structures and improved communication between qualified staff and unqualified staff, direct care staff, and administrative colleagues.<disp-quote content-type="quotation" id="jnu12855-blkfxd-0020"><p>&#x201C;There was this glue that was holding us all together which was the desire to do the best by our residents. We had to become resident's families. We had to become each other's families because we weren't seeing our own families. We were all in it together, the hierarchy got smashed. Yes, I'm the one at the computer, reading the data, working out what we've got to do next but actually in the same breath, I was the one in a carer's uniform, dealing with personal care and helping people have drinks in the midst of it.&#x201D; <named-content content-type="attribution">(#22, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>The solidarity experienced within the home was not acknowledged by wider society. Within the UK there was government&#x2010;led campaign to recognize the National Health Service (NHS) with a weekly public clap (Bowman,&#xA0;<xref rid="jnu12855-bib-0006" ref-type="bibr">2020</xref>). Several weeks elapsed before this public acknowledgment was extended beyond NHS staff in hospitals to all people providing care, leading participants to feel an already&#x2010;undervalued nursing role was now forgotten:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0021"><p>&#x201C;Like I said, there's a lot of us nurses out there but there's a few of us that have been forgotten&#x2026;.I'm not looking for a massive thank you or anything. It would have been nice to have been remembered.&#x201D; <named-content content-type="attribution">(#15, RN for 30&#x2013;34&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>The pandemic illustrated the way that each care&#x2010;home functioned as a distinct small community. Although nurses predominantly spoke of pulling together, with flattening of hierarchical structures, this was not experienced universally among our study participants. One nurse who was not in a management position felt isolated as they were moved from their usual place of work to avoid cross&#x2010;infection. Furthermore, a minority of nurses explained that they felt unsupported and for some the consequences were a lack of understanding of the demands they faced. A couple said this led to them considering leaving the care&#x2010;home sector.<disp-quote content-type="quotation" id="jnu12855-blkfxd-0022"><p>&#x201C;My main reason for leaving is because I felt so unprotected and I felt that my wellbeing wasn't considered or taken into account, not necessarily by my boss but external processes&#x201D; <named-content content-type="attribution">(#1, RN for 20&#x2013;24&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>However, despite the personal and professional ethical demands, the majority felt a sense of pride in the care they had provided:<disp-quote content-type="quotation" id="jnu12855-blkfxd-0023"><p>&#x201C;This pandemic's taught us as nurses just regardless of our status or how long we've been a nurse, we've nursed in the pandemic, and I think that's something to be proud of.&#x201D; <named-content content-type="attribution">(#9, RN for 10&#x2013;14&#x2009;years)</named-content>
+</p></disp-quote>
+</p>
+        <p>In summary, nurses stated all levels of staff in the care&#x2010;home worked together. There was a collective responsibility to care for residents and each other, but the registered nurse was the leader of the team. Nurses repeatedly spoke of being abandoned by other professionals and for a few this absence of collective responsibility led to them becoming disillusioned in the role of care&#x2010;home nurse.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12855-sec-0023">
+      <title>DISCUSSION</title>
+      <p>Our results provide detailed experiences of RNs working in older people's care&#x2010;homes during the COVID&#x2010;19 pandemic. Drawing on Tronto's ethics of care framework enabled us to characterize in novel ways what it meant to be a qualified RN with statutory professional responsibility and accountability, when working in a care&#x2010;home during a time of international crisis or disaster, described as &#x201C;a destructive event that overwhelms resources&#x201D; (Ibrahim &amp; Aitken,&#xA0;<xref rid="jnu12855-bib-0022" ref-type="bibr">2021</xref>). RNs experiencing professional and personal ethical challenges drew on their essential professional ethical stance to negotiate work practices during a complex public health humanitarian emergency, resulting in personal cost for their mental health and wellbeing (Gray et al.,&#xA0;<xref rid="jnu12855-bib-0019" ref-type="bibr">2021</xref>). Pre&#x2010;COVID&#x2010;19, there was little research exploring the effect of pandemics on care&#x2010;home nurses or care&#x2010;home workers' wellbeing, although a qualitative enquiry about care&#x2010;home RNs' experiences during natural disasters (mainly earthquakes) observed that RNs preserved a robust professional sense of duty, obligation and responsibility (Scrymgeour et al.,&#xA0;<xref rid="jnu12855-bib-0038" ref-type="bibr">2020</xref>). Previous research exploring health workers' distress in respiratory pandemics, such as the 2003 SARS and 2012 MERS pandemics, indicates that mental health disorders are common in the immediate aftermath, but the long&#x2010;term effects are poorly understood (Allan et al.,&#xA0;<xref rid="jnu12855-bib-0001" ref-type="bibr">2020</xref>), although it is generally agreed that ongoing mental health support is essential (Gray et al.,&#xA0;<xref rid="jnu12855-bib-0019" ref-type="bibr">2021</xref>; Greenberg,&#xA0;<xref rid="jnu12855-bib-0020" ref-type="bibr">2020</xref>; Maben &amp; Bridges,&#xA0;<xref rid="jnu12855-bib-0027" ref-type="bibr">2020</xref>). This previous research tended to focus on hospital&#x2010;based workforces, mainly because in previous pandemics, numbers affected were lower and those affected were more likely to be treated in hospitals. This is in contrast to the higher numbers seen in the COVID&#x2010;19 pandemic coupled with higher transmissibility, increased vulnerability in older people, and in the UK at least, early government policy of discharging infectious patients into care&#x2010;homes to increase hospital bed&#x2010;space (Rajan et al.,&#xA0;<xref rid="jnu12855-bib-0034" ref-type="bibr">2020</xref>). Thus, care&#x2010;homes, as well as hospitals, were on the frontline (Bunn et al.,&#xA0;<xref rid="jnu12855-bib-0009" ref-type="bibr">2021</xref>; Zipf et al.,&#xA0;<xref rid="jnu12855-bib-0047" ref-type="bibr">2022</xref>). There is a growing body of work on the effects of the COVID&#x2010;19 pandemic on the care&#x2010;home workforce, and our study adds to this. By using the lens of Tronto's framework of ethical care we are able to distinctly examine and report on the micro (personal), meso (care&#x2010;home) and macro national polices and public discourses in relation to attentiveness and responsibility to provide good care and the consequences of when this was not possible; the demand and willingness to extend professional competencies; the responsiveness of relatives and care regulators to care provision and the way in which the care&#x2010;home workforce worked together. We now explore each component drawing on literature to situate our discussion in a registered nurses' professional sense of duty, obligation, and responsibility (Fletcher et al.,&#xA0;<xref rid="jnu12855-bib-0017" ref-type="bibr">2022</xref>).</p>
+      <p>When striving to be attentive to residents' needs and fulfill responsibilities to deliver high&#x2010;quality care, the two areas of greatest concern to nurses in our study were providing end&#x2010;of&#x2010;life care and imposing visiting restrictions. RNs reported being conflicted, finding themselves providing &#x201C;unfinished care&#x201D; and prioritizing professional care over relational care (Molterer et al.,&#xA0;<xref rid="jnu12855-bib-0030" ref-type="bibr">2020</xref>). Unfinished care, a phenomenon described pre&#x2010;pandemic, is where limited resources mean that some care is missed, rationed or left undone (Jones et al.,&#xA0;<xref rid="jnu12855-bib-0023" ref-type="bibr">2015</xref>). This is of particular relevance in times of crisis where many of the underpinning causes, such as staff shortages, underfunding and prioritizing increased complexity of care, are exacerbated (Norful et al.,&#xA0;<xref rid="jnu12855-bib-0031" ref-type="bibr">2022</xref>). Mantovan et al., in their hospital&#x2010;based qualitative study, linked nurses' experiences of unfinished care with moral distress because of the accentuated gap between the ideal of nursing care and what is possible given the circumstances, especially when technical aspects of care are prioritized over relational aspects (Mantovan et al.,&#xA0;<xref rid="jnu12855-bib-0028" ref-type="bibr">2020</xref>; Molterer et al.,&#xA0;<xref rid="jnu12855-bib-0030" ref-type="bibr">2020</xref>). This was no different for RNs working in care&#x2010;homes although additional burdens of isolated working, greater scarcity of resources and lack of recognition regarding their specialist skills led to greater risk of moral distress. Nurses in our study reported all these issues, identifying that their ability to provide high&#x2010;quality, personalized care at the micro level was impacted by decisions made at meso and macro levels, over which they had no or little power, thus feeling disempowered by the process. Further, care&#x2010;home RNs found themselves making decisions and relying on guidance that had a limited evidence&#x2010;base (Palese et al.,&#xA0;<xref rid="jnu12855-bib-0032" ref-type="bibr">2022</xref>). Regulatory bodies created policies and guidelines, often generic rather than care&#x2010;home specific, and not always aligned with each other, so care&#x2010;home staff had to interpret and apply to local need, and justify decision&#x2010;making to regulatory bodies when one guideline or policy was favored over another. Moral distress and the toll on mental wellbeing were perpetuated and ongoing.</p>
+      <sec id="jnu12855-sec-0024">
+        <title>Strengths and Limitations</title>
+        <p>Throughout this study, we worked alongside our Advisory Group, a group of care&#x2010;home RNs currently working in care&#x2010;homes (separate from any that interviewees were working in). The group were able to provide additional and deeper insights to the development of the study and the interpretation of findings, as well as confirming the validity of findings. The Advisory Group were in a distinct position of being advisors on a study entirely relevant to themselves and the work they were involved in (Chapman&#x2010;Wright et al., <xref rid="jnu12855-bib-0011" ref-type="bibr">2022</xref>).</p>
+        <p>Although advertised nationally, participants in this study came from two of the four devolved nations of the UK (England and Scotland), and some had trained overseas. The Scottish healthcare system, while very similar to the English system, operates independently. Participating nurses represented a range of care&#x2010;home roles, such as staff nurses, managers, and senior management. Even so, themes were germane, and no differences surfaced that specifically related to role, country of work or training, or timing of the interview. Interviews commenced prior to, and during, the Delta wave in the UK, although we were into the second year of the pandemic. The context of timing is crucial to understanding the sustained impact of working during a period of a prolonged and ongoing crisis. Internationally, while timings of waves may have differed, many countries experienced similar issues within their care&#x2010;home systems, with care&#x2010;home workers, and RNs in particular, having to compromise on their care and be accountable for that to their professional bodies, with the concomitant effect on mental wellbeing as this impacted on their ethical belief systems (Calcaterra et al.,&#xA0;<xref rid="jnu12855-bib-0010" ref-type="bibr">2022</xref>; Laher et al.,&#xA0;<xref rid="jnu12855-bib-0024" ref-type="bibr">2022</xref>; Molterer et al.,&#xA0;<xref rid="jnu12855-bib-0030" ref-type="bibr">2020</xref>; Savage et al.,&#xA0;<xref rid="jnu12855-bib-0037" ref-type="bibr">2022</xref>), thus findings are likely transferable. Further value could have been added to this study if we were able to re&#x2010;interview participants at ongoing stages of the pandemic, including during the recovery period, to determine longer&#x2010;term impacts on well&#x2010;being and coping mechanisms. Due to time and funding constraints, we were unable to interview care&#x2010;workers, residents, or relatives about how nursing roles were perceived, although this would have provided additional insights.</p>
+        <p>We addressed Guba and Lincoln's four criteria of credibility, transferability, dependability, and confirmability to ensure trustworthiness and rigor in this qualitative study (Lincoln &amp; Guba,&#xA0;<xref rid="jnu12855-bib-0026" ref-type="bibr">1985</xref>). The characteristics of the research team are described in methods, Section&#xA0;<xref rid="jnu12855-sec-0016" ref-type="sec">2.6</xref>, and we provided detailed accounts of our methods including recruitment, purposive sampling, data collection, and analysis. We sampled until data saturation was reached, undertook respondent validation with interviewees, and triangulated accounts between interviewees. We undertook a code&#x2010;recode strategy, duplicated coding on four transcripts, and met regularly for analytic discussions. Our Advisory Group of care&#x2010;home nurses were involved in the interpretation of findings. These steps ensured that the interpretation of findings were clearly derived from the data and the thus findings are transferable.</p>
+        <p>Using Tronto's ethics of care framework, which sees care as action and a practical expression of interdependency (Tronto,&#xA0;<xref rid="jnu12855-bib-0043" ref-type="bibr">1993</xref>), we have highlighted the narratives of care&#x2010;home RNs who experienced first&#x2010;hand the failings at the macro, and in some cases the meso levels, in preparing and supporting RNs to take on the responsibilities expected of them at the micro level. RNs strove to fulfill their professional responsibilities, but at a personal cost.</p>
+        <p>Effective support for care&#x2010;home RNs in their recovery will come from a deep understanding of the factors which impacted on their mental wellbeing and the ways they were affected, so that theory&#x2010;informed approaches for ongoing and future support in this distinct professional group can be developed (Queen's Nursing Institute,&#xA0;<xref rid="jnu12855-bib-0033" ref-type="bibr">2020</xref>), as well as ensuring that planning and preparedness for possible future disasters are tailored to care&#x2010;home environments (Zumla,&#xA0;<xref rid="jnu12855-bib-0048" ref-type="bibr">2022</xref>).</p>
+      </sec>
+      <sec id="jnu12855-sec-0025">
+        <title>Lessons learned from the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic for informing future policy</title>
+        <p>This study highlighted that RNs who were working in care&#x2010; homes were unprepared for the extraordinary situation they found themselves in during the COVID&#x2010;19 pandemic, and that this impacted their mental health and wellbeing. RNs had to manage a highly infectious novel disease, associated with high mortality, in residents already living with complex clinical conditions. They did this alongside staff shortages, constantly changing and conflicting guidelines and with minimal external health professional support. There are many lessons to be learnt to support recovery from the current pandemic and ensure appropriate policies are in place in preparedness for the next pandemic. These include:
+<list list-type="bullet" id="jnu12855-list-0001"><list-item id="jnu12855-li-0001"><p>bespoke mental health and wellbeing strategy for RNs working in care homes in the current pandemic recovery period, and ensuring that this is ongoing and adaptable for future pandemics and disasters</p></list-item><list-item id="jnu12855-li-0002"><p>wider professional and government recognition of the specialist skills required of care home RNs</p></list-item><list-item id="jnu12855-li-0003"><p>consideration of the possible impact of future pandemics and disasters on care homes</p></list-item><list-item id="jnu12855-li-0004"><p>involvement of care&#x2010;home RNs in the development of disaster&#x2010;response policies in care homes</p></list-item><list-item id="jnu12855-li-0005"><p>consistency of guidelines and research&#x2010;informed methods for effective communication of guidelines</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12855-sec-0026">
+      <title>CONCLUSIONS</title>
+      <p>Drawing on Tronto's ethics of care framework, this study highlights the impact of the pandemic, a public health crisis, on care&#x2010;home RNs and how care was impacted. Pre&#x2010;pandemic, care&#x2010;homes were already known to be disadvantaged, with care&#x2010;home RNs experiencing a range of adverse mental health conditions. The pandemic exacerbated both the adverse mental health conditions and moral distress experienced by care&#x2010;home RNs, and the contributing factors causing these conditions, in particular professional isolation and lack of preparedness. Care&#x2010;homes are distinct institutions, where older people with personal and nursing care needs live together in environments where these needs can be met by paid carers in &#x201C;homely&#x201D; environments, often for lengthy periods. Thus, residents and their carers form close personal bonds, with many often describing the relationships as akin to those of family. Understanding the distinct nature of care&#x2010;home nursing and the impact of a crisis on care&#x2010;home nurses' wellbeing is helpful for ensuring preparedness for future crises, particularly those caused by infection, which experts believe are inevitable. Most importantly, support for care&#x2010;home nurses should be tailored for their particular needs and circumstances, rather than being included (if at all) in general healthcare support.</p>
+      <sec id="jnu12855-sec-0027">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<list list-type="order" id="jnu12855-list-0002"><list-item id="jnu12855-li-0006"><p>Queens Nursing Institute Care Home Nurses Information Hub: <ext-link xlink:href="https://qni.org.uk/nursing-in-the-community/care-home-nurses-network/care-home-nurses-information-hub/" ext-link-type="uri">https://qni.org.uk/nursing&#x2010;in&#x2010;the&#x2010;community/care&#x2010;home&#x2010;nurses&#x2010;network/care&#x2010;home&#x2010;nurses&#x2010;information&#x2010;hub/</ext-link>
+</p></list-item><list-item id="jnu12855-li-0007"><p>Agency for Healthcare Research and Quality (AHRQ): <ext-link xlink:href="https://www.ahrq.gov/nursing-home/resources/search.html" ext-link-type="uri">https://www.ahrq.gov/nursing&#x2010;home/resources/search.html</ext-link>
+</p></list-item><list-item id="jnu12855-li-0008"><p>THRIVE Website: <ext-link xlink:href="https://www.uea.ac.uk/about/school-of-health-sciences/research/projects/understanding-the-distinct-challenges-for-nurses-in-care-homes-learning-from-covid-19-to-support-resilience-and-mental-wellbeing" ext-link-type="uri">https://www.uea.ac.uk/about/school&#x2010;of&#x2010;health&#x2010;sciences/research/projects/understanding&#x2010;the&#x2010;distinct&#x2010;challenges&#x2010;for&#x2010;nurses&#x2010;in&#x2010;care&#x2010;homes&#x2010;learning&#x2010;from&#x2010;covid&#x2010;19&#x2010;to&#x2010;support&#x2010;resilience&#x2010;and&#x2010;mental&#x2010;wellbeing</ext-link>
+</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12855-sec-0029">
+      <title>CONFLICT OF INTEREST</title>
+      <p>None of the authors declared any conflict of interests.</p>
+    </sec>
+    <sec id="jnu12855-sec-0030">
+      <title>SIGMA THETA TAU INTERNATIONAL CHAPTER</title>
+      <p>Not applicable.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="jnu12855-supitem-0001" position="float" content-type="local-data">
+        <caption>
+          <p>
+File S1.
+</p>
+        </caption>
+        <media xlink:href="JNU-55-226-s003.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12855-supitem-0002" position="float" content-type="local-data">
+        <caption>
+          <p>
+File S2.
+</p>
+        </caption>
+        <media xlink:href="JNU-55-226-s002.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="jnu12855-supitem-0003" position="float" content-type="local-data">
+        <caption>
+          <p>
+File S3.
+</p>
+        </caption>
+        <media xlink:href="JNU-55-226-s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12855-sec-0028">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>This is a summary of research funded by Burdett Trust for Nursing. The National Institute of Health Research Applied Research Collaboration, East of England (NIHR ARC (EoE)) supported the time of Linda Birt, Diane Bunn and Kristy Sanderson. The views expressed are those of the authors and not necessarily those of the Burdett Trust for Nursing or the NIHR ARC (EoE). This study took place during the COVID&#x2010;19 pandemic, and we asked Registered Nurses to give us their time to share their experiences of what they were living through at that time. We recognize that this was difficult for many, especially as we were asking about their own ways of coping with the many challenges they were facing. Despite that, those who took part were optimistic for the future and keen to let others know, through this research, so that we could learn from them to support those in the future. We would also like to thank our co&#x2010;applicant, Advisory Group care&#x2010;home nurses, and those who supported recruitment for this study, including the National Institute of Health Research Enabling Research in Care Homes Group (NIHR ENRICH).</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12855-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12855-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0001">
+<string-name>
+<surname>Allan</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Bealey</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Birch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cushing</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Parke</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sergi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bloomfield</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Meiser&#x2010;Stedman</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>The prevalence of common and stress&#x2010;related mental health disorders in healthcare workers based in pandemic&#x2010;affected hospitals: A rapid systematic review and meta&#x2010;analysis</article-title>. <source>European Journal of Psychotraumatology</source>, <volume>11</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1080/20008198.2020.1810903</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0002">
+<string-name>
+<surname>Aloisio</surname>, <given-names>L. D.</given-names>
+</string-name>, <string-name>
+<surname>Coughlin</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Squires</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Individual and organizational factors of nurses' job satisfaction in long&#x2010;term care: A systematic review</article-title>. <source>International Journal of Nursing Studies</source>, <volume>123</volume>, <elocation-id>104073</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2021.104073</pub-id>
+<pub-id pub-id-type="pmid">34536909</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0003">
+<string-name>
+<surname>Astle</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jack</surname>, <given-names>K.</given-names>
+</string-name> (<year>2021</year>). <article-title>Raising the profile of care home nursing through collaborative working</article-title>. <source>Nurse Education in Practice</source>, <volume>53</volume>(<issue>April</issue>), <elocation-id>103054</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.nepr.2021.103054</pub-id>
+<pub-id pub-id-type="pmid">34051489</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0004">
+<string-name>
+<surname>Backhaus</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jochem</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Reijnders&#x2010;Paffen</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Meijers</surname>, <given-names>J. M. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>How to position, attract and retain registered nurses in nursing homes: A qualitative, explorative study</article-title>. <source>Journal of Long Term Care</source>, <volume>2021</volume>, <fpage>192</fpage>&#x2013;<lpage>200</lpage>. <pub-id pub-id-type="doi">10.31389/jltc.80</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0005">
+<string-name>
+<surname>Bilal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Saeed</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yousafzai</surname>, <given-names>T.</given-names>
+</string-name> (<year>2020</year>). <article-title>Elderly care in the time of coronavirus: Perceptions and experiences of care home staff in Pakistan</article-title>. <source>International Journal of Geriatric Psychiatry</source>, <volume>35</volume>(<issue>12</issue>), <fpage>1442</fpage>&#x2013;<lpage>1448</lpage>. <pub-id pub-id-type="doi">10.1002/gps.5386</pub-id>
+<pub-id pub-id-type="pmid">32748399</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12855-cit-0006">
+<string-name>
+<surname>Bowman</surname>, <given-names>V.</given-names>
+</string-name> (<year>2020</year>). <article-title>
+<italic toggle="yes">Clap For Our Carers: How Britons thanked NHS with nationwide round of applause</italic>, <italic toggle="yes">The Telegraph</italic> (<italic toggle="yes">online</italic>)</article-title>. <ext-link xlink:href="https://www.telegraph.co.uk/news/2020/03/27/thank-nhs-clap-carers/" ext-link-type="uri">https://www.telegraph.co.uk/news/2020/03/27/thank&#x2010;nhs&#x2010;clap&#x2010;carers/</ext-link> (Accessed: 14 September 2022)</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0007">
+<string-name>
+<surname>Brady</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fenton</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Loughran</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hennessy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Leroi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Shanagher</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McLoughlin</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nursing home staff mental health during the COVID&#x2010;19 pandemic in the Republic of Ireland</article-title>. <source>International Journal of Geriatric Psychiatry</source>, <volume>37</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1002/gps.5648</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0008">
+<string-name>
+<surname>Braun</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Clarke</surname>, <given-names>V.</given-names>
+</string-name> (<year>2019</year>). <article-title>Reflecting on reflexive thematic analysis</article-title>. <source>Qualitative Research in Sport, Exercise and Health</source>, <volume>11</volume>(<issue>4</issue>), <fpage>589</fpage>&#x2013;<lpage>597</lpage>. <pub-id pub-id-type="doi">10.1080/2159676X.2019.1628806</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0009">
+<string-name>
+<surname>Bunn</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Brainard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Salter</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lake</surname>, <given-names>I.</given-names>
+</string-name> (<year>2021</year>). <article-title>The lived experience of implementing infection control measures in care homes during two waves of the COVID&#x2010;19 pandemic. A mixed&#x2010;methods study</article-title>. <source>Journal of Long&#x2010;Term Care</source>, <fpage>386</fpage>&#x2013;<lpage>400</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0010">
+<string-name>
+<surname>Calcaterra</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cesari</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lim</surname>, <given-names>W. S.</given-names>
+</string-name> (<year>2022</year>). <article-title>Long&#x2010;term care facilities (LTCFs) during the COVID&#x2010;19 pandemic&#x2014;Lessons from the Asian approach: A narrative review</article-title>. <source>Journal of the American Medical Directors Association</source>, <volume>23</volume>(<issue>3</issue>), <fpage>399</fpage>&#x2013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2022.01.049</pub-id>
+<pub-id pub-id-type="pmid">35085508</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0011">
+<string-name>
+<surname>Chapman&#x2010;Wright</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Parnell</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Birt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bunn</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lane</surname>, <given-names>K.</given-names>
+</string-name> (<year>2022</year>). <article-title>Perspectives: Nurses in care homes as advisors in research: Benefits for all?</article-title>
+<source>Journal of Research in Nursing</source>, <volume>27</volume>(<issue>4</issue>), <fpage>401</fpage>&#x2013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">35832884</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0012">
+        <mixed-citation publication-type="book" id="jnu12855-cit-0012">
+<string-name>
+<surname>Comas&#x2010;Herrera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zalaka&#xED;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lemmon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Litwin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Arling</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Fern&#xE1;ndez</surname>, <given-names>J.&#x2010;L.</given-names>
+</string-name> (<year>2020</year>). <source>Mortality assoiated with COVID&#x2010;19 in care homes: International evidence</source>. <publisher-name>LTcovid, International Long&#x2010;Term Care Policy Network, CPEC&#x2010;LSE</publisher-name>
+<ext-link xlink:href="https://ltccovid.org/wp-content/uploads/2020/10/Mortality-associated-with-COVID-among-people-living-in-care-homes-14-October-2020-3.pdf" ext-link-type="uri">https://ltccovid.org/wp&#x2010;content/uploads/2020/10/Mortality&#x2010;associated&#x2010;with&#x2010;COVID&#x2010;among&#x2010;people&#x2010;living&#x2010;in&#x2010;care&#x2010;homes&#x2010;14&#x2010;October&#x2010;2020&#x2010;3.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0013">
+        <mixed-citation publication-type="miscellaneous" id="jnu12855-cit-0013">
+<string-name>
+<surname>Cornes</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Manthorpe</surname>, <given-names>J.</given-names>
+</string-name> (<year>2022</year>) <article-title>
+The role and contribution of registered nurses in social care: A rapid evidence review
+</article-title>. <pub-id pub-id-type="doi">10.18742/pub01-071</pub-id>. (Accessed 14 July 2022).</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0014">
+        <mixed-citation publication-type="book" id="jnu12855-cit-0014">
+<string-name>
+<surname>Douglas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2022</year>). <source>Hearing the nursing voice: Listening to Independent Sector social care nurses. A Scottish Care Inights Report</source>. <publisher-name>Ayr</publisher-name>
+<ext-link xlink:href="https://scottishcare.org/new-insights-report-on-nursing-in-social-care-12-may/" ext-link-type="uri">https://scottishcare.org/new&#x2010;insights&#x2010;report&#x2010;on&#x2010;nursing&#x2010;in&#x2010;social&#x2010;care&#x2010;12&#x2010;may/</ext-link> (Accessed 14 July 2022)</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0015">
+<string-name>
+<surname>Embregts</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Van Oorsouw</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nijs</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of infection outbreak on long&#x2010;term care staff: A rapid review on psychological well&#x2010;being</article-title>. <source>Journal of Long&#x2010;Term Care</source>, (<issue>2020</issue>), <fpage>70</fpage>. <pub-id pub-id-type="doi">10.31389/jltc.40</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0016">
+<string-name>
+<surname>Fernandez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lord</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Moxham</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alananzeh</surname>, <given-names>I.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ellwood</surname>, <given-names>L.</given-names>
+</string-name> (<year>2020</year>). <article-title>Implications for COVID&#x2010;19: A systematic review of nurses' experiences of working in acute care hospital settings during a respiratory pandemic</article-title>. <source>International Journal of Nursing Studies</source>, <volume>111</volume>, <elocation-id>103637</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2020.103637</pub-id>
+<pub-id pub-id-type="pmid">32919358</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0017">
+<string-name>
+<surname>Fletcher</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Reddin</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tait</surname>, <given-names>D.</given-names>
+</string-name> (<year>2022</year>). <article-title>The history of disaster nursing: From nightingale to nursing in the 21st century</article-title>. <source>Journal of Research in Nursing</source>, <volume>27</volume>(<issue>3</issue>), <fpage>257</fpage>&#x2013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1177/17449871211058854</pub-id>
+<pub-id pub-id-type="pmid">35813173</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0018">
+<string-name>
+<surname>Gary</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Berlinger</surname>, <given-names>N.</given-names>
+</string-name> (<year>2020</year>). <article-title>Interdependent citizens: The ethics of care in pandemic recovery</article-title>. <source>Hastings Center Report</source>, <volume>50</volume>(<issue>3</issue>), <fpage>56</fpage>&#x2013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1002/hast.1134</pub-id>
+<pub-id pub-id-type="pmid">32596904</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0019">
+<string-name>
+<surname>Gray</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Birtles</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Reichelt</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>James</surname>, <given-names>I. A.</given-names>
+</string-name> (<year>2021</year>). <article-title>The experiences of care home staff during the COVID&#x2010;19 pandemic: A systematic review</article-title>. <source>Aging and Mental Health</source>, <volume>26</volume>, <fpage>2080</fpage>&#x2013;<lpage>2089</lpage>. <pub-id pub-id-type="doi">10.1080/13607863.2021.2013433</pub-id>
+<pub-id pub-id-type="pmid">34967232</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0020">
+<string-name>
+<surname>Greenberg</surname>, <given-names>N.</given-names>
+</string-name> (<year>2020</year>). <article-title>Mental health of health&#x2010;care workers in the COVID&#x2010;19 era</article-title>. <source>Nature Reviews Nephrology</source>, <volume>16</volume>(<issue>8</issue>), <fpage>425</fpage>&#x2013;<lpage>426</lpage>. <pub-id pub-id-type="doi">10.1038/s41581-020-0314-5</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0021">
+<string-name>
+<surname>Hossain</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Clatty</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Self&#x2010;care strategies in response to nurses&#x2019; moral injury during COVID&#x2010;19 pandemic</article-title>. <source>Nursing Ethics</source>, <volume>28</volume>(<issue>1</issue>), <fpage>23</fpage>&#x2013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1177/0969733020961825</pub-id>
+<pub-id pub-id-type="pmid">33124492</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0022">
+<string-name>
+<surname>Ibrahim</surname>, <given-names>J. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Aitken</surname>, <given-names>G.</given-names>
+</string-name> (<year>2021</year>). <article-title>A proactive nursing home risk stratification model for disaster response: Lessons learned from COVID&#x2010;19 to optimize resource allocation</article-title>. <source>Journal of the American Medical Directors Association</source>, <volume>22</volume>(<issue>9</issue>), <fpage>1831</fpage>&#x2013;<lpage>1839</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2021.07.007</pub-id>
+<pub-id pub-id-type="pmid">34390677</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0023">
+<string-name>
+<surname>Jones</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Murry</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Unfinished nursing care, missed care, and implicitly rationed care: State of the science review</article-title>. <source>International Journal of Nursing Studies</source>, <volume>52</volume>(<issue>6</issue>), <fpage>1121</fpage>&#x2013;<lpage>1137</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2015.02.012</pub-id>
+<pub-id pub-id-type="pmid">25794946</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0024">
+<string-name>
+<surname>Laher</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Harrad&#x2010;Hyde</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jones</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Prevalence, predictors, and experience of moral suffering in nursing and care home staff during the COVID&#x2010;19 pandemic: A mixed&#x2010;methods systematic review</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>19</volume>(<issue>15</issue>), <fpage>2</fpage>&#x2013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.3390/ijerph19159593</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0025">
+<string-name>
+<surname>Langins</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Curry</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lorenz&#x2010;Dant</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Comas&#x2010;Herrera</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rajan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>The COVID&#x2010;19 pandemic and long&#x2010;term care: What can we learn from the first wave about how to protect care homes?</article-title>
+<source>Eurohealth</source>, <volume>26</volume>(<issue>2</issue>), <fpage>77</fpage>&#x2013;<lpage>82</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0026">
+        <mixed-citation publication-type="book" id="jnu12855-cit-0026">
+<string-name>
+<surname>Lincoln</surname>, <given-names>Y. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Guba</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>1985</year>). <source>Naturalistic enquiry</source>. <publisher-name>Sage</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0027">
+<string-name>
+<surname>Maben</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bridges</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Covid&#x2010;19: Supporting nurses' psychological and mental health</article-title>. <source>Journal of Clinical Nursing</source>, <volume>29</volume>(<issue>15&#x2013;16</issue>), <fpage>2742</fpage>&#x2013;<lpage>2750</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.15307</pub-id>
+<pub-id pub-id-type="pmid">32320509</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0028">
+<string-name>
+<surname>Mantovan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Muzzana</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schubert</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ausserhofer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>). <article-title>&#x201C;It's about how we do it, not if we do it&#x201D;. Nurses' experiences with implicit rationing of nursing care in acute care hospitals: A descriptive qualitative study</article-title>. <source>International Journal of Nursing Studies</source>, <volume>109</volume>, <fpage>1</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2020.103688</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0029">
+<string-name>
+<surname>McGilton</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Escrig&#x2010;Pinol</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Z&#xFA;&#xF1;iga</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name>
+<surname>Boscart</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Corazzini</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Jacinto</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Spilsbury</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Backman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Scales</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fagertun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Edvardsson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lepore</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>, <given-names>A. Y. M.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>E. O.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Bowers</surname>, <given-names>B.</given-names>
+</string-name> (<year>2020</year>). <article-title>Uncovering the devaluation of nursing home staff during COVID&#x2010;19: Are we Fuelling the next health care crisis?</article-title>
+<source>Journal of the American Medical Directors Association</source>, <volume>21</volume>(<issue>7</issue>), <fpage>962</fpage>&#x2013;<lpage>965</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2020.06.010</pub-id>
+<pub-id pub-id-type="pmid">32674829</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0030">
+<string-name>
+<surname>Molterer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hoyer</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Steyaert</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>). <article-title>A practical ethics of care: Tinkering with different &#x201C;goods&#x201D; in residential nursing homes</article-title>. <source>Journal of Business Ethics</source>, <volume>165</volume>(<issue>1</issue>), <fpage>95</fpage>&#x2013;<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1007/s10551-018-04099-z</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0031">
+<string-name>
+<surname>Norful</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Tucker</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Monturo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>O'Math&#xFA;na</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zadvinskis</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<surname>Zellefrow</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chipps</surname>, <given-names>E.</given-names>
+</string-name> (<year>2022</year>). <article-title>Nursing perspectives about the critical gaps in public health emergency response during the COVID&#x2010;19 pandemic</article-title>. <source>Journal of Nursing Scholarship</source>, (<issue>55</issue>), <fpage>22</fpage>&#x2013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12795</pub-id>
+<pub-id pub-id-type="pmid">35727078</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0032">
+<string-name>
+<surname>Palese</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chiappinotto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Peghin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turello</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Caporale</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tascini</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>What kind of interventions were perceived as effective against Coronavirus&#x2010;19 in nursing homes in Italy? A descriptive qualitative study</article-title>. <source>Risk Management and Healthcare Policy</source>, <volume>15</volume>(<issue>September</issue>), <fpage>1795</fpage>&#x2013;<lpage>1808</lpage>. <pub-id pub-id-type="doi">10.2147/RMHP.S377249</pub-id>
+<pub-id pub-id-type="pmid">36171870</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0033">
+        <mixed-citation publication-type="miscellaneous" id="jnu12855-cit-0033">
+<collab collab-type="authors">Queen's Nursing Institute</collab>
+. (<year>2020</year>). <article-title>
+The experience of care home staff during Covid&#x2010;19. A survey report by the QNI international community nursing observatory
+</article-title>. <ext-link xlink:href="https://www.qni.org.uk/wp-content/uploads/2020/08/The-Experience-of-Care-Home-Staff-During-Covid-19-2.pdf" ext-link-type="uri">https://www.qni.org.uk/wp&#x2010;content/uploads/2020/08/The&#x2010;Experience&#x2010;of&#x2010;Care&#x2010;Home&#x2010;Staff&#x2010;During&#x2010;Covid&#x2010;19&#x2010;2.pdf</ext-link> (Accessed 11 October 2020)</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0034">
+<string-name>
+<surname>Rajan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Comas&#x2010;Herrera</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mckee</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Did the UK government really throw a protective ring around care homes in the COVID&#x2010;19 pandemic?</article-title>
+<source>Journal of Long Term Care</source>, <fpage>185</fpage>&#x2013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.31389/jltc.53</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0035">
+        <mixed-citation publication-type="miscellaneous" id="jnu12855-cit-0035">
+<string-name>
+<surname>Rocard</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sillitti</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lena&#x2010;Nozal</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>
+COVID&#x2010;19 in long&#x2010;term care: Impact, policy responses and challenges, OECD health working papers
+</article-title>. <pub-id pub-id-type="doi">10.1787/b966f837-en</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0036">
+<string-name>
+<surname>Sarabia&#x2010;Cobo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>P&#xE9;rez</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Lorena</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hermosilla&#x2010;Grijalbo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>S&#xE1;enz&#x2010;Jal&#xF3;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#xE1;ndez&#x2010;Rodr&#xED;guez</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Alconero&#x2010;Camarero</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Experiences of geriatric nurses in nursing home settings across four countries in the face of the COVID&#x2010;19 pandemic</article-title>. <source>Journal of Advanced Nursing</source>, <volume>77</volume>(<issue>2</issue>), <fpage>869</fpage>&#x2013;<lpage>878</lpage>. <pub-id pub-id-type="doi">10.1111/jan.14626</pub-id>
+<pub-id pub-id-type="pmid">33150622</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0037">
+<string-name>
+<surname>Savage</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Titley</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>Thorne</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name>
+<surname>Spiers</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Estabrooks</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>This was my Crimean war: COVID&#x2010;19 experiences of nursing home leaders</article-title>. <source>Journal of the American Medical Directors Association</source>, <volume>23</volume>, <fpage>1827</fpage>&#x2013;<lpage>1832</lpage>. <pub-id pub-id-type="doi">10.1016/j.jamda.2022.08.001</pub-id>
+<pub-id pub-id-type="pmid">36084690</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0038">
+<string-name>
+<surname>Scrymgeour</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Maxwell</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Paton</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>). <article-title>Nurses working in healthcare facilities during natural disasters: A qualitative enquiry</article-title>. <source>International Nursing Review</source>, <volume>67</volume>(<issue>3</issue>), <fpage>427</fpage>&#x2013;<lpage>435</lpage>. <pub-id pub-id-type="doi">10.1111/inr.12614</pub-id>
+<pub-id pub-id-type="pmid">32761613</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0039">
+        <mixed-citation publication-type="miscellaneous" id="jnu12855-cit-0039">
+<string-name>
+<surname>Spilsbury</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hanratty</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mccaughan</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>). <article-title>
+Supporting nursing in care homes
+</article-title>. <ext-link xlink:href="https://rcnfoundation.rcn.org.uk/funded-projects/improving-patient-care/supporting-nursing-in-care-homes" ext-link-type="uri">https://rcnfoundation.rcn.org.uk/funded&#x2010;projects/improving&#x2010;patient&#x2010;care/supporting&#x2010;nursing&#x2010;in&#x2010;care&#x2010;homes</ext-link> (Accessed 5 June 2022)</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0040">
+<string-name>
+<surname>Szczepura</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Adult social care in England: More disappointment, delay, and distraction</article-title>. <source>BMJ</source>, <volume>374</volume>, <elocation-id>n2242</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.n2242</pub-id>
+<pub-id pub-id-type="pmid">34521644</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0041">
+<string-name>
+<surname>Thompson</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Duschinsky</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>&#x201C;I'm not sure I'm a nurse&#x201D;: A hermeneutic phenomenological study of nursing home nurses' work identity</article-title>. <source>Journal of Clinical Nursing</source>, <volume>27</volume>, <fpage>1049</fpage>&#x2013;<lpage>1062</lpage>.<pub-id pub-id-type="pmid">29052287</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0042">
+<string-name>
+<surname>Tong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Flemming</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>McInnes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Craig</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Enhancing transparency in reporting the synthesis of qualitative research: ENTREQ</article-title>. <source>BMC Medical Research Methodology</source>, <volume>12</volume>(<issue>181</issue>), <fpage>1</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">22214542</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0043">
+        <mixed-citation publication-type="book" id="jnu12855-cit-0043">
+<string-name>
+<surname>Tronto</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>). <source>Moral boundaries</source>. <publisher-name>Routledge</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0044">
+<string-name>
+<surname>Tronto</surname>, <given-names>J.</given-names>
+</string-name> (<year>1998</year>). <article-title>An ethic of care</article-title>. <source>Generations: Journal of the American society on Aging</source>, <volume>22</volume>(Fall)(3), <fpage>15</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/S0002-9343(99)80127-2</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0045">
+        <mixed-citation publication-type="book" id="jnu12855-cit-0045">
+<string-name>
+<surname>Tronto</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <source>Caring democracy: Markets, equality, and justice</source>. <publisher-name>New York University Press</publisher-name> ISBN 9780814782781.</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0046">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0046">
+<string-name>
+<surname>Wild</surname>, <given-names>D. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Szczepura</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Reimagining care homes: Can the COVID&#x2010;19 pandemic act as a catalyst for enhancing staff status and education?</article-title>
+<source>Nursing Older People</source>, <volume>33</volume>(<issue>5</issue>), <fpage>20</fpage>&#x2013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.7748/nop.2021.e1321</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0047">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0047">
+<string-name>
+<surname>Zipf</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Polifroni</surname>, <given-names>E. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Beck</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2022</year>). <article-title>The experience of the nurse during the COVID&#x2010;19 pandemic: A global meta&#x2010;synthesis in the year of the nurse</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>54</volume>(<issue>1</issue>), <fpage>92</fpage>&#x2013;<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12706</pub-id>
+<pub-id pub-id-type="pmid">34738314</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12855-bib-0048">
+        <mixed-citation publication-type="journal" id="jnu12855-cit-0048">
+<string-name>
+<surname>Zumla</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Future pandemics: Failing to prepare means preparing to fail</article-title>. <source>The Lancet Respiratory Medicine</source>, <volume>10</volume>(<issue>3</issue>), <fpage>221</fpage>&#x2013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1016/S2213-2600(22)00056-X</pub-id>
+<pub-id pub-id-type="pmid">35151375</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

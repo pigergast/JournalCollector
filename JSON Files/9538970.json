@@ -1,0 +1,1968 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12815" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36138561</article-id>
+      <article-id pub-id-type="pmc">9538970</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12815</article-id>
+      <article-id pub-id-type="publisher-id">JNU12815</article-id>
+      <article-id pub-id-type="other">JNU-05-22-315.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Profession and Society</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Profession and Society</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Cognitive appraisals and coping strategies of registered nurses in the emergency department combating <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A scoping review</article-title>
+        <alt-title alt-title-type="right-running-head">
+<styled-content style="fixed-case" toggle="no">EDRNs</styled-content>' Stress and Coping in <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12815-cr-0001" contrib-type="author">
+          <name>
+            <surname>Lin</surname>
+            <given-names>Chia&#x2010;Hung</given-names>
+          </name>
+          <degrees>MSN, NP</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1404-0305</contrib-id>
+          <xref rid="jnu12815-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12815-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12815-cr-0002" contrib-type="author">
+          <name>
+            <surname>Siao</surname>
+            <given-names>Shu&#x2010;Fen</given-names>
+          </name>
+          <degrees>MSN, RN</degrees>
+          <xref rid="jnu12815-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12815-cr-0003" contrib-type="author">
+          <name>
+            <surname>Lin</surname>
+            <given-names>You&#x2010;Jie</given-names>
+          </name>
+          <degrees>RN</degrees>
+          <xref rid="jnu12815-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12815-cr-0004" contrib-type="author">
+          <name>
+            <surname>Hsin</surname>
+            <given-names>Pin&#x2010;Hsien</given-names>
+          </name>
+          <degrees>MSN, RN</degrees>
+          <xref rid="jnu12815-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12815-cr-0005" contrib-type="author">
+          <name>
+            <surname>Shelley</surname>
+            <given-names>Mack</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12815-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12815-cr-0006" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Yen&#x2010;Han</given-names>
+          </name>
+          <degrees>MPH, PhD</degrees>
+          <xref rid="jnu12815-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <address>
+            <email>yil5050@bu.edu</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12815-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing, College of Medicine</named-content>
+<institution>National Taiwan University</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff>
+      <aff id="jnu12815-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nursing</named-content>
+<institution>Taipei Veterans General Hospital</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff>
+      <aff id="jnu12815-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Political Science, Department of Statistics</named-content>
+<institution>Iowa State University</institution>
+<city>Ames</city>
+<named-content content-type="country-part">Iowa</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12815-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Sciences, College of Health Professions and Sciences</named-content>
+<institution>University of Central Florida</institution>
+<city>Orlando</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yen&#x2010;Han Lee, MPH, PhD, Assistant Professor, Department of Health Sciences, College of Health Professions and Sciences, University of Central Florida, Orlando, FL 32816, USA.<break/>
+Email: <email>yil5050@bu.edu</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>22</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <elocation-id>10.1111/jnu.12815</elocation-id>
+      <history>
+<date date-type="rev-recd"><day>23</day><month>8</month><year>2022</year></date>
+<date date-type="received"><day>11</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>06</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2022 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-9999-0.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12815-sec-0001">
+          <title>Objective</title>
+          <p>Explore the relevant evidence about stress&#x2010;related cognitive appraisal and coping strategies among registered nurses in the emergency department (EDRNs) coping with the COVID&#x2010;19 pandemic.</p>
+        </sec>
+        <sec id="jnu12815-sec-0002">
+          <title>Methods</title>
+          <p>This scoping review followed the methodological framework of Arksey and O'Malley to map relevant evidence and synthesize the findings. We searched PubMed, EMBASE, CINAHL, Web of Science, and Scopus electronic databases for related studies from inception through February 2, 2022. This review further conducted study selection based on the PRISMA flow diagram and applied Lazarus and Folkman's Psychological Stress and Coping Theory to systematically organize, summarize, and report the findings.</p>
+        </sec>
+        <sec id="jnu12815-sec-0003">
+          <title>Findings</title>
+          <p>Sixteen studies were included for synthesis. Most of the studies showed that the majority of EDRNs were overwhelmed by the COVID&#x2010;19 pandemic. Depression, triaging distress, physical exhaustion, and intention to leave ED nursing were cited as major threats to their wellness. Additionally, comprehensive training, a modified triage system, a safe workplace, psychological support, promotion of resilience, and accepting responsibility may help EDRNs cope with pandemic&#x2010;related challenges effectively.</p>
+        </sec>
+        <sec id="jnu12815-sec-0004">
+          <title>Conclusion</title>
+          <p>The long&#x2010;lasting pandemic has affected the physical and mental health of EDRNs because they have increased their effort to respond to the outbreak with dynamically adjusted strategies. Future research should address a modified triage system, prolonged psychological issues, emergency healthcare quality, and solutions facing EDRNs during the COVID&#x2010;19 or related future pandemics.</p>
+        </sec>
+        <sec id="jnu12815-sec-0005">
+          <title>Clinical Relevance</title>
+          <p>EDRNs have experienced physical and psychological challenges during the pandemic. The ED administrators need to take action to ensure EDRNs' safety in the workplace, an up&#x2010;to&#x2010;date triage system, and mental health of frontline nurses to provide high&#x2010;quality emergency care for combating COVID&#x2010;19.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12815-kwd-0001">COVID&#x2010;19 pandemic</kwd>
+        <kwd id="jnu12815-kwd-0002">emergency triage</kwd>
+        <kwd id="jnu12815-kwd-0003">registered nurses in the emergency department (EDRNs)</kwd>
+        <kwd id="jnu12815-kwd-0004">stress and coping</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="2"/>
+        <page-count count="18"/>
+        <word-count count="7144"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>edited-state</meta-name>
+          <meta-value>corrected-proof</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12815-cit-2001">
+<string-name>
+<surname>Lin</surname>, <given-names>C&#x2010;H.</given-names>
+</string-name>, <string-name>
+<surname>Siao</surname>, <given-names>S&#x2010;F.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Y&#x2010;J.</given-names>
+</string-name>, <string-name>
+<surname>Hsin</surname>, <given-names>P&#x2010;H.</given-names>
+</string-name>, <string-name>
+<surname>Shelley</surname>, <given-names>M.</given-names>
+</string-name> &amp; <string-name>
+<surname>Lee</surname>, <given-names>Y&#x2010;H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Cognitive appraisals and coping strategies of registered nurses in the emergency department combating <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A scoping review</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>00</volume>, <fpage>1</fpage>&#x2013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12815</pub-id>
+</mixed-citation>
+</p>
+      <fn-group id="jnu12815-ntgp-0001">
+        <fn fn-type="equal" id="jnu12815-note-0001">
+          <p>You&#x2010;Jie Lin and Pin&#x2010;Hsien Hsin contributed equally to this research.</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body id="jnu12815-body-0001">
+    <sec id="jnu12815-sec-0006">
+      <title>INTRODUCTION</title>
+      <sec id="jnu12815-sec-0007">
+        <title>Challenge of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 outbreak in the emergency department</title>
+        <p>On March 11, 2020, the World Health Organization declared SARS&#x2010;CoV&#x2010;2 (COVID&#x2010;19) a pandemic emergency. As of May 9, 2022, multiple COVID&#x2010;19 waves had caused 515,192,979 human infections and 6,254,140 deaths worldwide (WHO,&#xA0;<xref rid="jnu12815-bib-0061" ref-type="bibr">2022</xref>). Emergency departments (EDs) have played an essential role in response to the COVID&#x2010;19 outbreak (Quah et al.,&#xA0;<xref rid="jnu12815-bib-0051" ref-type="bibr">2020</xref>). During the pandemic, the ED environment underwent significant turbulence, and the clinical care for COVID&#x2010;19 cases in the ED was challenging (Lockett et al.,&#xA0;<xref rid="jnu12815-bib-0042" ref-type="bibr">2021</xref>). Emergency transformation care includes fever screening, disposition of patients, and isolation care for confirmed and suspected COVID&#x2010;19 patients (Quah et al.,&#xA0;<xref rid="jnu12815-bib-0051" ref-type="bibr">2020</xref>). The ED setting had insufficient resources to manage the inevitable increase in demand for emergency healthcare (Alqu&#xE9;zar&#x2010;Arb&#xE9; et al.,&#xA0;<xref rid="jnu12815-bib-0003" ref-type="bibr">2020</xref>; Casalino et al.,&#xA0;<xref rid="jnu12815-bib-0012" ref-type="bibr">2022</xref>), and registered nurses in the emergency department (EDRNs) experienced a tension between their professional responsibility to patients and EDRNs' concerns for their own personal safety (Lockett et al.,&#xA0;<xref rid="jnu12815-bib-0042" ref-type="bibr">2021</xref>; McKenna,&#xA0;<xref rid="jnu12815-bib-0043" ref-type="bibr">2020</xref>; Turale et al.,&#xA0;<xref rid="jnu12815-bib-0058" ref-type="bibr">2020</xref>). Working in a totally new context with the physical strain of personal protective equipment (PPE) also led to overwhelming challenges (Hayirli et al.,&#xA0;<xref rid="jnu12815-bib-0026" ref-type="bibr">2021</xref>; Liu, Luo, et al.,&#xA0;<xref rid="jnu12815-bib-0039" ref-type="bibr">2020</xref>). Globally, the ED systems have nearly collapsed due to the burgeoning workload and psychological distress of frontline nurses (Hesselink et al.,&#xA0;<xref rid="jnu12815-bib-0027" ref-type="bibr">2021</xref>; Nie et al.,&#xA0;<xref rid="jnu12815-bib-0047" ref-type="bibr">2020</xref>).</p>
+      </sec>
+      <sec id="jnu12815-sec-0008">
+        <title>Emergency response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 by <styled-content style="fixed-case" toggle="no">EDRNs</styled-content>
+</title>
+        <p>EDRNs, as gatekeepers, are the frontline healthcare providers who view all patients as potentially infected with COVID&#x2010;19. According to the literature, there was an association between the COVID&#x2010;19 outbreak and the incidence of burnout, anxiety, and depression among frontline nurses (Hu et al.,&#xA0;<xref rid="jnu12815-bib-0030" ref-type="bibr">2020</xref>; Lasalvia et al.,&#xA0;<xref rid="jnu12815-bib-0034" ref-type="bibr">2021</xref>; Liu, Luo, et al.,&#xA0;<xref rid="jnu12815-bib-0039" ref-type="bibr">2020</xref>). During the pandemic, EDRNs confronted extreme challenges in triaging patients and determining the order in which they receive treatment (Lockett et al.,&#xA0;<xref rid="jnu12815-bib-0042" ref-type="bibr">2021</xref>). EDRNs must provide emergency care with PPE on a strict timeline for high&#x2010;risk patients. PPE would impede communication with patients in triaging as well (Hayirli et al.,&#xA0;<xref rid="jnu12815-bib-0026" ref-type="bibr">2021</xref>). Every time there was a greater record of COVID cases, the number of patients in the ED would increase but the workforce did not. Hence, for the unprepared and overburdened ED system, EDRNs have experienced more distress during primary care (Hesselink et al.,&#xA0;<xref rid="jnu12815-bib-0027" ref-type="bibr">2021</xref>). Besides routine workload, EDRNs constantly should update their knowledge and skills about COVID&#x2010;19 development to help them in emergency practice (Alzyoud et al.,&#xA0;<xref rid="jnu12815-bib-0004" ref-type="bibr">2021</xref>). Moreover, EDRNs have faced ethical dilemmas when prioritizing care for confirmed cases with life&#x2010;saving interventions instead of their own safety (Lockett et al.,&#xA0;<xref rid="jnu12815-bib-0042" ref-type="bibr">2021</xref>). Until now, EDRNs have consistently paid attention to providing emergency nursing care with their expertise, and are fighting for meaningful recognition as professionals on the frontline of this pandemic (Chipps et al.,&#xA0;<xref rid="jnu12815-bib-0016" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12815-sec-0009">
+        <title>Psychological stress and coping framework during the pandemic</title>
+        <p>Compared with the pre&#x2010;pandemic period, there were higher levels of emotional exhaustion/burnout among healthcare workers (HCWs) in ED (Rodriguez et al.,&#xA0;<xref rid="jnu12815-bib-0053" ref-type="bibr">2020</xref>). For the prolonged period of time in COVID&#x2010;19, EDRNs faced mental health problems resulting from their psychological distress (Hesselink et al.,&#xA0;<xref rid="jnu12815-bib-0027" ref-type="bibr">2021</xref>; Nie et al.,&#xA0;<xref rid="jnu12815-bib-0047" ref-type="bibr">2020</xref>). Fear is a significant factor influencing EDRNs' commitment to delivering safe and effective emergency care (Lockett et al.,&#xA0;<xref rid="jnu12815-bib-0042" ref-type="bibr">2021</xref>). To the best of our knowledge, several studies investigated the fixed and infection&#x2010;related factors linked to the distress of frontline HCWs (Sirois &amp; Owens,&#xA0;<xref rid="jnu12815-bib-0056" ref-type="bibr">2020</xref>; Uphoff et al.,&#xA0;<xref rid="jnu12815-bib-0059" ref-type="bibr">2021</xref>), but relatively fewer studies examined how modifiable factors focused only on EDRNs' stress and coping options during the COVID&#x2010;19 pandemic. According to Lazarus and Folkman's transactional theory of stress and coping (Lazarus &amp; Folkman,&#xA0;<xref rid="jnu12815-bib-0036" ref-type="bibr">1987</xref>), the primary appraisals of stress are concerned with the harm, threat, and challenge from environmental conditions; the secondary appraisals assess resources and coping strategies, which are crucial supplements to primary appraisals such as resilience and social support. Effective coping strategies could master the internal and external demands of a person&#x2013;environment transaction. Lazarus and Folkman&#xA0;(<xref rid="jnu12815-bib-0036" ref-type="bibr">1987</xref>) identify two styles of coping: problem&#x2010;focused (making efforts to solve the problem) and emotion&#x2010;focused (concentrating on one's own emotional experiences). During this long&#x2010;lasting pandemic, EDRNs are unique health care assets to control the epidemic. Therefore, we need to focus more on EDRNs' psychological stress and their coping strategies to manage the suffering from the current outbreak and deal with similar attacks in the future.</p>
+        <p>This study aimed to investigate the stress&#x2010;related cognitive appraisals and coping strategies of EDRNs during COVID&#x2010;19, and to provide synthesis of evidence for improving their abilities and countermeasures to cope with the pandemic.</p>
+      </sec>
+    </sec>
+    <sec sec-type="materials-and-methods" id="jnu12815-sec-0010">
+      <title>MATERIALS AND METHODS</title>
+      <p>This study adopted a scoping review approach to map or explore the extent of a field of research by searching systematically. A scoping review approach also makes it possible to summarize and disseminate research findings. This scoping review followed the five stages from the Arksey and O'Malley methodological framework (Arksey &amp; O'Malley,&#xA0;<xref rid="jnu12815-bib-0007" ref-type="bibr">2005</xref>).</p>
+      <sec id="jnu12815-sec-0011">
+        <title>Stage 1: Identifying research questions</title>
+        <p>The following questions guided this scoping review of the stress&#x2010;related cognitive appraisals and coping strategies of EDRNs during the COVID&#x2010;19 pandemic: What is the stress&#x2010;related primary appraisal of EDRNs? What is the stress&#x2010;related secondary appraisal of EDRNs? What is the problem&#x2010;focused coping of EDRNs? What is the emotion&#x2010;focused coping of EDRNs?</p>
+      </sec>
+      <sec id="jnu12815-sec-0012">
+        <title>Stage 2: Identifying relevant studies</title>
+        <p>After initial identification of key search terms developed by all authors of this study in consultation with expert librarians, we conducted a systematic search using PubMed, EMBASE, CINAHL, Web of Science, and Scopus electronic databases.</p>
+        <p>The inclusion criteria were as follows:</p>
+        <p>Population: We included studies focused on registered nurses working in the emergency department (EDRNs).</p>
+        <p>Concept: This study's concept was to report the stress&#x2010;related perceptions, manifestations, and coping processes of EDRNs.</p>
+        <p>Context: The context for the review was that of EDRNs dealing with the COVID&#x2010;19 pandemic.</p>
+        <p>Types of sources: The review included qualitative and quantitative research studies in English or Chinese.</p>
+        <p>A combination of the following controlled vocabularies (Emtree and MeSH) was used to search the databases: emergency ward, emergency health service, emergency service, hospital, emergency medical services, frontline nurse, licensed practical nurse, practical nurse, registered nurse, staff nurse, nurses, nursing, coronavirus disease 2019, severe acute respiratory syndrome coronavirus, COVID&#x2010;19, and SARS&#x2010;CoV&#x2010;2. The search was last updated on February 2, 2022. The detailed search strategy can be found in Appendix&#xA0;<xref rid="jnu12815-supitem-0001" ref-type="supplementary-material">S1</xref>. We excluded studies reporting the effects on non&#x2010;emergency nurses, conference abstracts, editorials, dissertations, opinion pieces, and gray literature.</p>
+      </sec>
+      <sec id="jnu12815-sec-0013">
+        <title>Stage 3: Study selection</title>
+        <p>Two authors (CH and SF) independently screened citation titles and abstracts, then reviewed all potentially relevant articles. We considered any article reporting original research on EDRNs during COVID&#x2010;19. If the two reviewers could not reach agreement on abstract or full article inclusion, an opinion was requested from a third reviewer (YH).</p>
+      </sec>
+      <sec id="jnu12815-sec-0014">
+        <title>Stage 4: Charting the data</title>
+        <p>Two reviewers (CH and SF) jointly developed a data&#x2010;charting electronic form to determine variable selection. We then extracted the following data items independently: general data (title, year of publication, purpose of study, author's name, country, journal), methodological data (research design, participants, sampling method), participants' characteristics (gender, age, marital status, working experience, measurement), and results. We did not perform a formal critical appraisal of primary studies for this scoping review.</p>
+      </sec>
+      <sec id="jnu12815-sec-0015">
+        <title>Stage 5: Collating, summarizing, and reporting the results</title>
+        <p>We conducted this review following the Preferred Reporting Items for Systematic Review and Meta&#x2010;Analysis (PRISMA) guidelines, which is an extension of scoping review (Page et al.,&#xA0;<xref rid="jnu12815-bib-0048" ref-type="bibr">2021</xref>). The PRISMA flow diagram shows the process of identification, screening, and selecting the studies (Figure&#xA0;<xref rid="jnu12815-fig-0001" ref-type="fig">1</xref>). To obtain a comprehensive understanding of the context of cognitive appraisals and coping strategies by EDRNs during the COVID&#x2010;19 outbreak, we applied Lazarus and Folkman's Psychological Stress and Coping Theory (Biggs et al.,&#xA0;<xref rid="jnu12815-bib-0008" ref-type="bibr">2017</xref>; Lazarus &amp; Folkman,&#xA0;<xref rid="jnu12815-bib-0035" ref-type="bibr">1984</xref>) to systematically explore, organize, and map all the literature in this review. Hence, we reported the findings under the following headings: primary appraisal, secondary appraisal, problem&#x2010;focused coping, and emotion&#x2010;focused coping by EDRNs.</p>
+        <fig position="float" fig-type="FIGURE" id="jnu12815-fig-0001">
+          <label>FIGURE 1</label>
+          <caption>
+            <p>PRISMA flow chart of the scoping review</p>
+          </caption>
+          <graphic xlink:href="JNU-9999-0-g001" position="anchor" id="jats-graphic-1"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12815-sec-0016">
+      <title>RESULTS</title>
+      <p>All selected literature (16 studies) for this review met the inclusion criteria and revealed the deployment of three key research designs, including cross&#x2010;sectional surveys (7 studies), qualitative approaches (8 studies), and action research (1 study). The reviewed findings were from developing and advanced healthcare systems and countries (or regions), including Australia, China, India, Indonesia, Iran, Italy, Taiwan, and Turkey. Table&#xA0;<xref rid="jnu12815-tbl-0001" ref-type="table">1</xref> outlines the general and methodological data of the reviewed studies, and the results of each study are reported in Appendix&#xA0;<xref rid="jnu12815-supitem-0001" ref-type="supplementary-material">S1</xref>. Furthermore, we applied Lazarus and Folkman's Psychological Stress and Coping Theory (Biggs et al.,&#xA0;<xref rid="jnu12815-bib-0008" ref-type="bibr">2017</xref>; Lazarus &amp; Folkman,&#xA0;<xref rid="jnu12815-bib-0035" ref-type="bibr">1984</xref>) to map all reviewed literature in this study (Figure&#xA0;<xref rid="jnu12815-fig-0002" ref-type="fig">2</xref>). There were four themes reported in the cognitive appraisals and coping strategies of EDRNs during the COVID&#x2010;19 pandemic: primary appraisal, secondary appraisal, problem&#x2010;focused coping, and emotion&#x2010;focused coping (Table&#xA0;<xref rid="jnu12815-tbl-0002" ref-type="table">2</xref>).</p>
+      <table-wrap position="float" id="jnu12815-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>The general and methodological data of the reviewed studies</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Author, year</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Purpose</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Country (or regions)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Journal</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Study design</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Participants</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Sampling method</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Gender (females) n (%)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Age (years) mean (SD)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Marital status n (%)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Working experience (years) mean (SD)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Measurement</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Ahorsu et al., <xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the mediation roles of burnout and job stress in the association between fear of COVID&#x2010;19 and mental health among EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Iran</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nursing Open</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">516 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Convenience sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">393 (76.16)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">41.18 (8.24)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">407 (78.9)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12.46 (10.35)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Fear of COVID&#x2010;19 scale, Occupational Stress Inventory&#x2010;Revised Edition, six subscales, Maslach Burnout Inventory Human Services Survey for Medical Professionals(fourth edition), Mental Component Summary under 12&#x2010;Item Short&#x2010;Form Health Survey</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">An et al.,&#xA0;<xref rid="jnu12815-bib-0005" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the prevalence of depressive symptoms and their correlates and the association between depression and quality of life in EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">China</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Affective Disorders</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">National, cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1103 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Snowball sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1001 (90.8)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">32.20 (7.61)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">710 (64.4)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10.72 (8.3)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Patient Health Questionnaire&#x2010;Chinese version (Depression), World Health Organization Quality of Life Questionnaire&#x2010;Brief Version</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Exploring the experience of Italian EDRNs engaged in caring for patients with COVID&#x2010;19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Italy</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Nursing Management</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A hermeneutic approach by Cohen</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7 (35)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">32.8 (7.79)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6 (33)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">9 (7.47)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the perceived stress and affecting factors related to the pandemic of EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Turkey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Nursing Management</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A cross&#x2010;sectional descriptive design</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">169 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Convenience sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">126 (74.4)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20&#x2013;25: 40 (23.2%); 25&#x2013;34: 72 (42.9%); &#x2265;35: 57 (33.9%)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">74 (43.5)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1&#x2013;4: 59 (35.3%); 5&#x2013;9: 37 (22.2%); &#x2265;10: 72 (42.5%)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Perceived Stress Scale, An information form (27 questions) that includes the socio&#x2010;demographic characteristics of nurses and the factors affecting their stress levels related to COVID&#x2010;19</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cornish et al.,&#xA0;<xref rid="jnu12815-bib-0018" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Exploring the intentions of the EDRNs to remain in or leave emergency nursing after the first year of the pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Melbourne, Victoria, Australia</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Emergency Medicine Australasia</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">398 eligible responses from EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Snowball sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">346 (86.9)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20&#x2013;29: 114 (28.6%); 30&#x2013;39: 127 (31.9%); 40&#x2013;49: 88 (22.1%); 50&#x2013;59: 58 (14.6%); &gt;60: 11 (2.8%)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0&#x2013;5: 161 (41.60%); 6&#x2013;10: 102 (26.36%); 11&#x2013;15: 62 (16.02%); 16&#x2013;20: 36 (9.30%); &gt;20: 25 (6.46%)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The survey instrument includes 69 items in six sections: participant characteristics, life at home, the work environment, nursing practice, career intentions, and perceptions of nursing &#x2013; with some adaptive questioning and free text options</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the impact of COVID&#x2010;19 on the mental health of EDRNs and identifying associated factors</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">China</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Risk Management and Healthcare Policy</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">453 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Snowball sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">437 (96.47)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">33.15 (8.38)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">312 (68.87)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">11.33 (9.25)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Self&#x2010;Rating Anxiety Scale, Perceived Stress Scale, Simplified Coping Style Questionnaire</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Exploration of the preparedness of the ED during the COVID&#x2010;19 outbreak from the nurses' perspectives, providing a reference and basis for the ED's response to public health emergencies</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">China</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Emergency Nursing</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Husserl descriptive phenomenological approach and Colaizzi method</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">9 (75)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">30.42 (3.64)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">9 (75)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;1: 2 (17%); 1&#x2013;3: 2 (17%); 4&#x2013;10: 5 (41%); &gt;10: 3 (25%)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Understanding the care experience and thoughts of EDRNs during the COVID&#x2010;19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Taiwan</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Healthcare</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Qualitative research methods</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16 EDRNs from a medical center</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">14 (87.50)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">29.87 (3.50)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7.25 (3.59)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the burnout and resilience among EDRNs of a tertiary care center during the pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">India</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Indian Journal of Critical Care Medicine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">120 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Simple random sampling method</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">88 (73.3)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">29 (4.44)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">54 (45)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5.6 (4)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Maslach Burnout Inventory &#x2010; Human Services Survey for Health Personnel, Connor&#x2013;Davidson Resilience Scale&#x2010;25</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Exploration of the changing roles and responsibilities, difficulties, feelings, and coping strategies of EDRNs during the COVID&#x2010;19 pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Turkey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Japan Journal of Nursing Science</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A qualitative study using a phenomenological approach</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10 (83.33)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">31.08 (6.36)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8 (66.67)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">9.67 (7.34)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the knowledge, preparedness, and experiences of emergency nurses, emergency physicians, and paramedics in managing COVID&#x2010; 19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">New South Wales, Australia</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Australasian Emergency Care</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cross&#x2010;sectional survey</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">159 ERNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Convenience sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15&#x2009;years [IQR: 8&#x2013;25]</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Self&#x2010;developed survey questionnaires examining the preparedness and experiences of healthcare workers during large&#x2010;scale infectious diseases outbreaks</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Mulyadi et al., <xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Exploring the experiences of EDRNs in selecting and triaging patients during the pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Indonesia</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Nursing Scholarship</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Descriptive phenomenology</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Snowball sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7 (70)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">31.50 (3.95)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6 (60)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6.05 (2.83)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Explore the experience of nurses in carrying out the management of triage in the ED during COVID&#x2010;19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Medan, Indonesia</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Indonesian Nursing Journal of Education and Clinic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Qualitative research with a phenomenological approach</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">25&#x2013;47&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2&#x2013;16&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Understanding of the work experience of COVID&#x2010;19 prevention and control among EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">China</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nursing of Integrated Traditional Chinese and Western Medicine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A phenomenological research</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16 EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">14 (87.50)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">26&#x2013;38&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">13 (81.25)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1&#x2013;18&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Understanding the working experience of triage nurses in the ED during the COVID&#x2010;19 epidemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Shenzhen (Guangdong province, China)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">International Emergency Nursing</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Qualitative research methods</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10 ED triage nurses</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Objective sampling method</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7 (70)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">32 (4.76)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8.50 (4.93)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Yang et al., <xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Evaluation of the effect of an emergency nurse&#x2010;led stress&#x2010;reduction project on reducing stress levels during the COVID&#x2010;19 pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Taipei, Taiwan</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Journal of Nursing Management</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">An action research</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs participating in the three&#x2010;time survey were 160, 166, and 160, respectively</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">purposive sampling</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Emergency nurses' COVID&#x2010;19 stress questionnaire(stress levels, causes of stress, and needs), developed based on the nursing supervisors' previous SARS experience</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <fig position="float" fig-type="FIGURE" id="jnu12815-fig-0002">
+        <label>FIGURE 2</label>
+        <caption>
+          <p>The map of stress and coping strategies among EDRNs combating COVID&#x2010;19</p>
+        </caption>
+        <graphic xlink:href="JNU-9999-0-g002" position="anchor" id="jats-graphic-3"/>
+      </fig>
+      <table-wrap position="float" id="jnu12815-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>The cognitive appraisals and coping strategies of EDRNs during the COVID&#x2010;19</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Author, year</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Primary appraisal</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Secondary appraisal</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Problem&#x2010;focused coping</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Emotion&#x2010;focused coping</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Ahorsu et al., <xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Fear of COVID&#x2212;19. Job Stress. Burnout. Mental health problem</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The financial implications associated with the consequences of burnout or mental illness among EDRNs alone are significant enough to threaten the smooth running of the health service</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hospital authorities should endeavor to provide adequate PPE and other necessary resources to allay the fears of EDRNs in treating all kinds of patients during this COVID&#x2010;19 pandemic</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">An et al.,&#xA0;<xref rid="jnu12815-bib-0005" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The overall prevalence of depression among ED nurses was 43.61%</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs working in tertiary hospitals, engaging in clinical services for COVID&#x2010;19 patients, and current smokers were significantly associated with a higher risk of depression</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Health authorities should organize regular screening targeting depression and develop preventive measures to alleviate the risk of depression. These strategies include providing timely support, online psychological counseling service, on&#x2010;site psychological guidance, and offering psychiatric treatment for vulnerable nurses directly engaged in the treatment and care of COVID&#x2010;19 patients</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Fear of the unknown</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Alteration in the perception of time and space. Attitude towards duty and responsibility</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Change the meaning of &#x2018;to care,&#x2019; the closeness, gestures of care and protection, and action despite the distance. Being an advocate to promote and protect the well&#x2010;being of human beings</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">It is changing in roles and relationships of EDRNs. Trust, cohesion and mutual solidarity between the different professions are essential. Psychological support in association with emergency training prevents stress and helps tackle compassion fatigue</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The significant factors that affect the perceived stress levels of EDRNs were applying respiratory isolation, changing the way of life, not being able to access PPE, insufficient EDRNs, and thinking that COVID&#x2010;19 will be transmitted to oneself</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Training and up&#x2010;to&#x2010;date information were provided through online platforms</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Effective infection control, an appropriate shift system, and increasing the number of EDRNs.</p>
+<p>A safe workplace for EDRNs.</p>
+<p>Changing EDRNs' lifestyle</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Provide psychological counseling and guidance support services for health professionals. ED managers' planning regarding pandemic management is vital in reducing the perceived stress on frontline nurses. Proper communication, training with virtual simulations, adequate resources, and meeting the basic requirements of EDRNs</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cornish et al.,&#xA0;<xref rid="jnu12815-bib-0018" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A year after the onset of the pandemic, an alarmingly high proportion of EDRNs intended to leave emergency nursing. Non&#x2010;clinical meetings essentially went online, and social interactions were severely constrained</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">PPE and physical distancing requirements have reduced the between&#x2010;colleague connectedness. The rapid change without the opportunity for collaborative implementation processes significantly changed the ED working environment and interrupted standard support systems</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Directed and strategic interventions to improve connectedness could assist retention of EDRNs. A positive workplace culture, expanded career opportunities, and nurses' well&#x2010;being activities are essential strategic organizational interventions to retain EDRNs</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Being female, having less rest time, having children, lacking confidence in fighting the pandemic, regretting being a nurse, and fearing infection in the family were risk factors for reporting anxiety. EDRNs' perceived stress was associated with regretting being a nurse, not receiving emergency protection training, fear of infecting family members, and more night shifts. The double burden from both family and work made them more anxious</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Confidence in fighting the spread of the disease. Professional attitudes. Attending infection prevention training</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The online and offline comprehensive training could improve the occupational protection skills among EDRNs. Hospitals should ensure an adequate amount of EDRNs, the appropriate frequency of night shifts, and getting sufficient rest for EDRNs. The stress&#x2010;coping capabilities were positively associated with the EDRNs with positive professional attitudes, trained in emergency preparedness, willingness to go to outbreak area for rescue, no regret of being a nurse, and no fear of infecting family members</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A better understanding of EDRNs' anxiety, stress, and coping mechanisms can help design intervention and training programs</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">NA</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">In responding to the COVID&#x2010;19 pandemic, multidisciplinary cooperation increased significantly, although the outbreak raised some problems of cross&#x2010;departmental collaboration</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The organizational preparedness in response to the COVID&#x2010;19 outbreak contained the timely adjustment of ED functions, updating workflows, providing adequate supplies, and strengthening multidisciplinary cooperation to make EDRNs feel trustworthy and safe at work. To make patients and their families realize and cooperate actively with the medical staff, the government should make great efforts to publicize facts about understanding COVID&#x2010;19 and the importance of self&#x2010;protection</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs need to make psychological adjustments to deal with moral distress, update the knowledge about COVID&#x2010;19, make constructive communication with patients and their families, and deliver professional value to combat the outbreak</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Gatekeepers in epidemic prevention. There were difficulties with equipment and the environment. Conflicting emotions: worrying about being Infected or transmitting the disease. EDRNs felt alienated and discriminated against</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs made lots of efforts to manage patients' and family members' emotions and bear with anxiety and impatience from the public. An insufficient workforce of care. Additional tasks during the epidemic were non&#x2010;emergency but essential, and they were even non&#x2010;nursing tasks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A sufficient workforce of care and protective equipment was available. Provide epidemic prevention incentives by the government</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs need effective support and empathy. The policies opened up and allowed childcare. The priority of childcare was assigned to frontline epidemic prevention staff. The respect and acknowledgment by the public towards healthcare workers are crucial supports for the EDRNs, such that they can increase their willingness to work and their self&#x2010;worth</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">More than half of the EDRNs reported a high level of burnout in emotional exhaustion. Emotional exhaustion was reported significantly more among EDRNs who feared infecting family members, had no confidence in self&#x2010;protection, and had felt poor safety in the workplace</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">EDRNs had a moderate to high level of resilience. The total score of resilience showed a significant negative relationship with emotional exhaustion and reduced professional efficacy. Personal accomplishment among EDRNs was significantly associated with gender(female) and the number of members in the household</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>More interventions are necessary to improve frontline nurses' mental health during a pandemic by building self&#x2010;efficacy and resilience through practical training and infection control classes and providing sufficient social support online.</p>
+<p>To improve the workplace safety</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">A high level of resilience helps EDRNs manage stress and positively deal with challenges in life and decision&#x2010;making, such as enhanced autonomy, personal growth, development optimism, and purpose in life. Effective interventions for improving resilience are needed to relieve nurses' burnout and workplace stressors</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Increasing roles and responsibilities as an EDRN: partial replacement of physicians' roles, meeting all self&#x2010;care needs of patients, informing and educating patients or their relatives, and protecting yourself and other patients</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The motivation of EDRNs increased with their professional satisfaction and sense of commitment in this period; they felt like heroes because they were on the frontline in the fight against this disease, and they were proud of their profession. A spirit of professional commitment is a crucial factor in overcoming their challenges during the COVID&#x2010;19 pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Planning the supply of good quality equipment to reduce the discomfort from the PPE. Additional incentive payments are fairly made to healthcare professionals during the pandemic</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Family and colleagues support. Positive thinking/belief. Positive feedback from patients. Monitoring nurses' mental problems and applying early intervention methods to prevent prolonged negative emotions</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The biggest challenge for EDRNs was around changes to workflow processes in the ED and the difficulty in isolating COVID&#x2010;19 patients. There were challenging to keep up&#x2010;to&#x2010;date knowledge on the treatment and management of COVID&#x2010;19. About 90% of EDRNs stated that they had not taken any annual leave. EDRNs had experienced racial or other discrimination at work due to the COVID&#x2010;19 outbreak</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">The constantly evolving information about COVID&#x2010;19. Varying levels of preparedness for COVID&#x2010;19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To keep up&#x2010;to&#x2010;date with 11 categories of COVID&#x2010;19 information: case definition, epidemiology, clinical presentation, laboratory testing, infection prevention and control measures, use of personal protective equipment, treatment &amp; management, isolation practices, contact tracing, travel advice &amp; restrictions, public health orders. Setting up the preparedness for COVID&#x2010;19 on an individual, workplace, and national level, such as providing clear and timely communication, guidelines from the workplace/organization, COVID&#x2010;19 related education, training, or instruction</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To initiate staff debriefings and offer other psychological support services</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Mulyadi et al., <xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">ED workplace changed radically. Mental exhaustion. Safe but uncomfortable with PPE</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Be diligent in obtaining comprehensive information. Family and fellow of the EDRNs were a source of strength. Concerns regarding personal and family health. Spirit of collaboration</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Straightforward and assertive education program. Adherence to public health policies. Community participation and empowerment in the control of COVID&#x2010;19 outbreaks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Sharing updated information with co&#x2010;workers could reduce EDRNs' fears. Seeking emotional support. Develop effective communication with patients and families</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Fear of COVID&#x2010;19 infection. The use of PPE is very uncomfortable to increase the sense of security. Social and working pressure. Physical and mental exhaustion. The available human resources were very insufficient</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Proud to be at the forefront of the noble job and the recognized profession by the public. Strength of a team</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Modifying the triage system by adding a COVID&#x2010;19 screening sheet. Efforts to prevent transmission after getting off work. Provide the right resources in the right quantity and the right place at the right time. Human resource management is needed to ensure that the ER has human resources with adequate numbers and competencies</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Give each other a sense of caring by providing moral and material support. Bring about meaningful recognition of nursing value in fighting against COVID&#x2010;19. Nursing managers should provide support and praise</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Inadequate knowledge of the epidemic.</p>
+<p>Increased workload and work stress.</p>
+<p>Physically and mentally exhausted</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Gratitude for the support from the hospital and community</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Epidemic control and prevention training.</p>
+<p>Planning for the epidemic prevention roadmap.</p>
+<p>Setting epidemic information and education billboard.</p>
+<p>Adjustment of emergency patients' admission process.</p>
+<p>Reserving and training more professional EDRNs</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Food and supplies support by the enterprise. Tracking the physical and mental health status of EDRNs. Providing psychological counseling and support. Affirming the professional self&#x2010;worth of the EDRNs</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fear of infection and transmission.</p>
+<p>Concern for the safety of oneself, family, and friends.</p>
+<p>The protective equipment was uncomfortable but increased the sense of security.</p>
+<p>High triage pressure from social and work fields.</p>
+<p>Physical and mental health of EDRNs was affected</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>A sense of occupational nobility, full of sense of accomplishment.</p>
+<p>Team strength in the ED</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Increase human resources.</p>
+<p>Increase training, education, and emergency drills on infectious disease protection.</p>
+<p>Hospital administrators support the work posts of ED triage by establishing a &#x201C;nursing task force&#x201D; and other forms of support during an epidemic period to ensure the normal development of triage work</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Pay attention to humanistic care: providing various types of support and care to frontline health care workers. Hospital managers should regularly affirm the value of triage nurses involved in the treatment of COVID&#x2010;19 patients, give commendations, and further mobilize nurses' enthusiasm</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Yang et al., <xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fear and uncertainty amid COVID&#x2010;19.</p>
+<p>A heavy workload.</p>
+<p>Physical and emotional distress</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Using group brainstorming strategies involving online surveys and group discussions in staff meetings could realize EDRNs' stress levels, causes of stress, and needs.</p>
+<p>Actively listening to EDRNs' experiences of COVID&#x2010;19 and inviting them to participate in group brainstorming sessions can help develop interventions that meet their needs and enhance communications between nurses and leadership</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Protection against infection by updating information and instructions for COVID&#x2010;19 care, providing high&#x2010;quality PPE and skincare products, maintaining a sterile environment, and using posters and small cards for nurses to educate and communicate with patients and families.</p>
+<p>Reducing heavy workload via providing hands&#x2010;on training, setting nurses' work schedules no more than two consecutive days in the critical area, increasing paramedical personnel, and arranging more doctors to assist in the triage assignment</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Reducing body&#x2013;mind&#x2010;social distress by arranging meal deliveries directly, giving incentives, enhancing communication between doctors and nurses, setting a forum for sharing experiences of COVID&#x2010;19 care, and implementing friendship activities to establish a warm working environment. Interventions about self&#x2010;compassion and compassion for others are necessary</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <sec id="jnu12815-sec-0017">
+        <title>Primary appraisal</title>
+        <p>During the pandemic, the overall prevalence of depression among EDRNs was 43.61% (An et al.,&#xA0;<xref rid="jnu12815-bib-0005" ref-type="bibr">2020</xref>). EDRNs experienced anxiety (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>), physical and psychological exhaustion (Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>), and profound stress (Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>), due to the radical workplace changes. They also suffered from burnout (Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>) and higher turnover (Ahorsu et al.,&#xA0;<xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>). After the COVID&#x2010;19 outbreak, 48.2% of EDRNs intended to leave emergency nursing within 5&#x2009;years (Cornish et al.,&#xA0;<xref rid="jnu12815-bib-0018" ref-type="bibr">2021</xref>). To control COVID&#x2010;19, EDRNs worried that triage errors would lead to the spread of the pandemic or cross&#x2010;infection (Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). The shortage of clear protocols for care, insufficient PPE, and poor separation of risk patients led EDRNs to work in a chaotic environment (Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>). Insufficient human resources, heavy workload, and exhausting dressing and undressing PPE procedures altered EDRNs' perception of space and time, resulting in an enormous physical strain (Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>).</p>
+      </sec>
+      <sec id="jnu12815-sec-0018">
+        <title>Secondary appraisal</title>
+        <p>The secondary appraisal to effectively handle and control the pandemic&#x2010;related challenges was that EDRNs proactively updated comprehensive information about COVID&#x2010;19 (Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>). EDRNs knew that the main barrier to triage management was the poor prevention and control knowledge of the epidemic because the situation of the COVID&#x2010;19 pandemic is unprecedented (Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). As part of their duty, EDRNs chose to stay with the high&#x2010;risk patients, despite the fear of contracting the infection and passing it on to their loved ones (Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). EDRNs' motivation and willingness increased with their professional satisfaction and commitment (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>). For EDRNs, their family, clinical fellows, and community support were sources of strength (Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>). The inter&#x2010;departmental cooperation allowed EDRNs to handle the dramatic changes better (Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Cornish et al.,&#xA0;<xref rid="jnu12815-bib-0018" ref-type="bibr">2021</xref>; Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>). Nurse managers could use group brainstorming to understand emergency nurses' stress and adress their needs (Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). Besides, the EDRNs' resilience in fostering a positive attitude towards COVID&#x2010;19 would mitigate burnout and increase professional efficacy (Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>). This process of developing personal strategies to manage suffering from the pandemic might empower them to persevere and stay in their profession.</p>
+      </sec>
+      <sec id="jnu12815-sec-0019">
+        <title>Problem&#x2010;focused coping</title>
+        <p>To enhance self&#x2010;efficacy and reduce stress, EDRNs needed more comprehensive and practical training for the pandemic (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). Understanding the COVID&#x2010;19 development, infection chain, and footprint of confirmed cases could enable EDRNs to enhance infection control measures (Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>). A modified triage by adding a COVID&#x2010;19 screening sheet that aims to separate the emergency care to be provided might help EDRNs identify high&#x2010;risk patients and implement quarantine properly (Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). In the modified triage, if the chest imaging showed abnormal findings or the patient had respiratory symptoms or risk factors, he or she was quarantined immediately. Moreover, strict countermeasures to stop infection spreading include wearing masks, washing hands, and maintaining physical and social distance (Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>).</p>
+        <p>At an organizational level, the challenges between ED and other departments must be pursued through a commitment to strengthen multidisciplinary cooperation (Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). The modified triage algorithm guided by the Centers for Disease Control and Prevention, prior preparation, and adequate PPE and human resources might provide EDRNs with a safe workplace (Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Cornish et al.,&#xA0;<xref rid="jnu12815-bib-0018" ref-type="bibr">2021</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>). Furthermore, the government should provide explicit precautions and infection control education for people so patients and their families would cooperate more actively with medical staff, such as by accurately reporting the history of travel, occupation, contact, and cluster (Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>). Additionally, changing lifestyle to ensure better sleep quality, hygiene, and healthy nutrition might be critical for the safety and well&#x2010;being of EDRNs (Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>).</p>
+      </sec>
+      <sec id="jnu12815-sec-0020">
+        <title>Emotion&#x2010;focused coping</title>
+        <p>Eleven of the sixteen studies included in this analysis revealed that psychological support might relieve EDRNs' emotional distress and tackle their compassion fatigue amidst the pandemic (Ahorsu et al.,&#xA0;<xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>; An et al.,&#xA0;<xref rid="jnu12815-bib-0005" ref-type="bibr">2020</xref>; Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). In the face of COVID&#x2010;19&#x2010;related adversity, EDRNs attempted to demonstrate resilience and psychological adjustment (An et al.,&#xA0;<xref rid="jnu12815-bib-0005" ref-type="bibr">2020</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>). Effective communication is essential to emotional resilience because such communication breeds positive emotions instead of negative ones and bridges the gap with patients or other professionals (Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>; Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). Besides, strengthening resilience may help EDRNs deal better with emotional exhaustion and depersonalization, and achieve their personal accomplishments (Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>).</p>
+        <p>The sense of personal accomplishment makes EDRNs more engaged in their work and more motivated to enhance the quality of care (Ahorsu et al.,&#xA0;<xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>). As COVID&#x2010;19 might put patients in the position of suffering from inevitable death, EDRNs accompanied them to express emotion, accept reality, experience loneliness, and share feelings (Arcadi et al.,&#xA0;<xref rid="jnu12815-bib-0006" ref-type="bibr">2021</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>). To handle grief and digest negative emotions, EDRNs' responsibility with empathy and compassion reinforce the degree of cohesion and collective solidarity (Ahorsu et al.,&#xA0;<xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>). Indeed, EDRNs' emotional expression and accepting responsibility may be natural parts of the nursing profession in tackling the pandemic (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>; Li et al.,&#xA0;<xref rid="jnu12815-bib-0037" ref-type="bibr">2021</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12815-sec-0021">
+      <title>DISCUSSION</title>
+      <p>This scoping review explored the pertinent published research on the perspectives of EDRNs on caring for patients during the COVID&#x2010;19 outbreak. This review presented evidence from 16 studies. Since the pandemic has rapidly changed the ED environment and interrupted normal support systems, the 16 studies included in this analysis and the subsequent critical comparison of the evidence revealed frontline nurses' related cognitive appraisal and coping strategies during the health emergency. We should point out some strategies motivating the present study. First, our research team was able to reach an agreement to select empirical studies for this scoping review. Without this step, the search results may have been biased. Second, because our team includes a nurse practitioner, a triage nurse, registered nurses, and public health scholars, one major advantage is that we were able to discuss more comprehensive strategies to help EDRNs combat the COVID&#x2010;19 pandemic from both clinical and public health perspectives. Similar strategies may be used for other infectious diseases in the future.</p>
+      <p>For the cognitive appraisals, EDRNs faced an overwhelming workload, especially given the long&#x2010;lasting nature of COVID&#x2010;19 (Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Liu, Luo, et al.,&#xA0;<xref rid="jnu12815-bib-0039" ref-type="bibr">2020</xref>). EDRNs not only suffered from challenges of triaging, uncomfortable PPE, and infection risk but also had to carry out all the procedures precisely in a fast&#x2010;paced setting (Liu et al.,&#xA0;<xref rid="jnu12815-bib-0040" ref-type="bibr">2021</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>). EDRNs' psychological distress was unique and different from other frontline HCWs, especially the triage nurses (Al&#x2010;Ashwal et al.,&#xA0;<xref rid="jnu12815-bib-0002" ref-type="bibr">2020</xref>; Lasalvia et al.,&#xA0;<xref rid="jnu12815-bib-0034" ref-type="bibr">2021</xref>; Liu, Zhai, et al.,&#xA0;<xref rid="jnu12815-bib-0041" ref-type="bibr">2020</xref>; Nie et al.,&#xA0;<xref rid="jnu12815-bib-0047" ref-type="bibr">2020</xref>). Previous studies have uncovered a difference in burnout risks for intensive care units and emergency nurses (Butera et al.,&#xA0;<xref rid="jnu12815-bib-0009" ref-type="bibr">2021</xref>; Lin et al.,&#xA0;<xref rid="jnu12815-bib-0038" ref-type="bibr">2021</xref>; Ruiz&#x2010;Fernandez et al.,&#xA0;<xref rid="jnu12815-bib-0054" ref-type="bibr">2020</xref>). Even though EDRNs must treat critically ill patients without delay, such as for emergency surgery, addressing acute myocardial infarction, or processing stroke patients, they have to administer a COVID&#x2010;19 test to patients before all other procedures (Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>). The dilemmas usually cause EDRNs mental distress, including depression, burnout, and secondary trauma. Besides dealing with these dilemmas, EDRNs showed their professional commitment and dedication to triaging and caring (Hou et al.,&#xA0;<xref rid="jnu12815-bib-0028" ref-type="bibr">2020</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Montgomery et al.,&#xA0;<xref rid="jnu12815-bib-0044" ref-type="bibr">2021</xref>). Additionally, such personal resources as resilience, self&#x2010;efficacy, and openness to collaboration are essential for frontline nurses to tackle stress, exhaustion, and frustrations during the pandemic (Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Penacoba et al.,&#xA0;<xref rid="jnu12815-bib-0050" ref-type="bibr">2021</xref>).</p>
+      <p>For coping strategies, the COVID&#x2010;19 pandemic significantly affected the psychological symptoms of HCWs along with different coping tendencies (Chen et al.,&#xA0;<xref rid="jnu12815-bib-0014" ref-type="bibr">2022</xref>; Munawar &amp; Choudhry,&#xA0;<xref rid="jnu12815-bib-0046" ref-type="bibr">2021</xref>). Effective coping strategies were associated with more perceived control and well&#x2010;being (Cabarkapa et al.,&#xA0;<xref rid="jnu12815-bib-0010" ref-type="bibr">2020</xref>; Dijkstra &amp; Homan,&#xA0;<xref rid="jnu12815-bib-0022" ref-type="bibr">2016</xref>). In COVID&#x2010;19&#x2010;related challenges, EDRNs need to break the chain of transmission and effectively improve their emergency response capability and psychological state. Comprehensive training programs are fundamental to developing strategies for infection control and reducing the gap between knowledge and practice (Alzyoud et al.,&#xA0;<xref rid="jnu12815-bib-0004" ref-type="bibr">2021</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>; Yang et al.,&#xA0;<xref rid="jnu12815-bib-0063" ref-type="bibr">2022</xref>). Through precisely identifying confirmed cases, a modified triage system to early screen for COVID&#x2010;19 and prevent nosocomial infection would help safeguard the most valuable asset for pandemic management&#x2014;the life and health of the medical teams (Kostadinov &amp; Atliev,&#xA0;<xref rid="jnu12815-bib-0033" ref-type="bibr">2021</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>). Moreover, adopting modified triage for medical referrals might contribute towards the preservation of emergency care system capacity.</p>
+      <p>Consistent with previous studies, we showed that a safe workplace under adequate awareness of the pandemic, self&#x2010;care interventions, and mental health services constitutes a feasible strategy to reduce COVID&#x2010;19&#x2010;related stress (Callus et al.,&#xA0;<xref rid="jnu12815-bib-0011" ref-type="bibr">2020</xref>; Catania et al.,&#xA0;<xref rid="jnu12815-bib-0013" ref-type="bibr">2021</xref>; Rahman,&#xA0;<xref rid="jnu12815-bib-0052" ref-type="bibr">2022</xref>). Besides, timely psychological support crucially enhances frontline nurses' mental health and affects their ability to handle the pandemic and manage emergency patients (Chen et al.,&#xA0;<xref rid="jnu12815-bib-0015" ref-type="bibr">2020</xref>; Goh et al.,&#xA0;<xref rid="jnu12815-bib-0024" ref-type="bibr">2021</xref>; Liu, Zhai, et al.,&#xA0;<xref rid="jnu12815-bib-0041" ref-type="bibr">2020</xref>). Accepting responsibility and emotional expression could mitigate negative emotions and improve well&#x2010;being among nurses (Montgomery et al.,&#xA0;<xref rid="jnu12815-bib-0044" ref-type="bibr">2021</xref>). &#xA0;In the same vein, improving professional recognition has the potential to enhance EDRNs' engagement and increase their satisfaction (Chipps et al.,&#xA0;<xref rid="jnu12815-bib-0016" ref-type="bibr">2021</xref>; Hsu et al.,&#xA0;<xref rid="jnu12815-bib-0029" ref-type="bibr">2021</xref>).</p>
+      <p>There are several components of the stress&#x2010;coping process pursued by EDRNs in dealing with COVID&#x2010;19. Sufficient PPE and clear guidelines are vital factors in maintaining a safe workplace for combating the pandemic (Chen et al.,&#xA0;<xref rid="jnu12815-bib-0015" ref-type="bibr">2020</xref>; Jose et al.,&#xA0;<xref rid="jnu12815-bib-0031" ref-type="bibr">2020</xref>; Liu, Luo, et al.,&#xA0;<xref rid="jnu12815-bib-0039" ref-type="bibr">2020</xref>). The worry and fear of contracting the virus and passing it on to family members were the most influential and predictive factors of anxiety, stress, and stress&#x2010;coping tendencies (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>; Garcia&#x2010;Hedrera et al.,&#xA0;<xref rid="jnu12815-bib-0023" ref-type="bibr">2021</xref>). The uncertainty about the pandemic increased EDRNs' job stress, emotional exhaustion, and depersonalization symptoms, and decreased their sense of personal accomplishment (Ahorsu et al.,&#xA0;<xref rid="jnu12815-bib-0001" ref-type="bibr">2022</xref>). Mainly, EDRNs with less work experience, lower educational background, less professional knowledge, those having children, and female nurses were under tremendous stress (Cinar et al.,&#xA0;<xref rid="jnu12815-bib-0017" ref-type="bibr">2021</xref>; Wei et al.,&#xA0;<xref rid="jnu12815-bib-0060" ref-type="bibr">2020</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). Their stress&#x2010;coping capabilities were positively associated with the professional attitude, fear of contagion, emergency preparedness, and confidence in confronting the COVID&#x2010;19 outbreak (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>). Additionally, similar to previous studies, higher resilience was associated with lower anxiety, depression, and burnout among frontline nurses during COVID&#x2010;19 (Hu et al.,&#xA0;<xref rid="jnu12815-bib-0030" ref-type="bibr">2020</xref>; Penacoba et al.,&#xA0;<xref rid="jnu12815-bib-0050" ref-type="bibr">2021</xref>; Sirois &amp; Owens,&#xA0;<xref rid="jnu12815-bib-0056" ref-type="bibr">2020</xref>).</p>
+      <p>A review exploring the psychological impact of COVID&#x2010;19 and other viral epidemics stated that the psychological implications to HCWs are variable, with several studies demonstrating increased risk of acquiring secondary trauma, depression, and anxiety; additionally, coping strategies varied among the contrasting socio&#x2010;cultural settings and appeared to differ among doctors, nurses, and other frontline HCWs (Cabarkapa et al.,&#xA0;<xref rid="jnu12815-bib-0010" ref-type="bibr">2020</xref>). Compared with related reviews, we provided profound insights into EDRNs' psychological status and coping strategies for combating COVID&#x2010;19 (Alanazi et al., <xref rid="jnu12815-bib-0064" ref-type="bibr">2022</xref>; Cabarkapa et al.,&#xA0;<xref rid="jnu12815-bib-0010" ref-type="bibr">2020</xref>; Pappa et al.,&#xA0;<xref rid="jnu12815-bib-0049" ref-type="bibr">2020</xref>; Rahman,&#xA0;<xref rid="jnu12815-bib-0052" ref-type="bibr">2022</xref>). In correspondence with prior research, comprehensive training, a safe workplace, psychological support, and enhancing resilience may help frontline HCWs address challenges during the pandemic (Cabarkapa et al.,&#xA0;<xref rid="jnu12815-bib-0010" ref-type="bibr">2020</xref>; Della Monica et al.,&#xA0;<xref rid="jnu12815-bib-0020" ref-type="bibr">2022</xref>; d'Ettorre et al.,&#xA0;<xref rid="jnu12815-bib-0021" ref-type="bibr">2021</xref>; Pappa et al.,&#xA0;<xref rid="jnu12815-bib-0049" ref-type="bibr">2020</xref>).</p>
+      <p>This scoping review has emphasized the need for a modified triage system to recognize and respond early to high&#x2010;risk patients, and improve patient safety during emergency care (Mulyadi et al.,&#xA0;<xref rid="jnu12815-bib-0045" ref-type="bibr">2022</xref>; Syapitri et al.,&#xA0;<xref rid="jnu12815-bib-0057" ref-type="bibr">2022</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). At the organizational level, hospitals should consider offering free COVID&#x2010;19 vaccines and testing for nurses and their families. This would reduce the psychological burden of EDRNs; hence, they can better commit themselves to work (Gualano et al.,&#xA0;<xref rid="jnu12815-bib-0025" ref-type="bibr">2021</xref>; Xu et al.,&#xA0;<xref rid="jnu12815-bib-0062" ref-type="bibr">2021</xref>). Actions to reduce intention to leave emergency care and illness resulting from psychological distress among nurses are vital to secure ED systems (Hesselink et al.,&#xA0;<xref rid="jnu12815-bib-0027" ref-type="bibr">2021</xref>). Early mental health interventions, including psychological counseling, humanistic care, and social support, will relieve the frontline HCWs' negative perceptions and improve their well&#x2010;being (Cui et al.,&#xA0;<xref rid="jnu12815-bib-0019" ref-type="bibr">2021</xref>; Kandemir et al.,&#xA0;<xref rid="jnu12815-bib-0032" ref-type="bibr">2021</xref>; Saladino et al.,&#xA0;<xref rid="jnu12815-bib-0055" ref-type="bibr">2021</xref>; Sirois &amp; Owens,&#xA0;<xref rid="jnu12815-bib-0056" ref-type="bibr">2020</xref>).</p>
+      <p>In terms of the evidence base, most of the studies reviewed were cross&#x2010;sectional, providing only a snapshot of quantitative or qualitative methods exploring EDRNs' perceptions during COVID&#x2010;19. This limits conclusions about the direction of causality in the stress and coping process. More research is needed to examine the potential long&#x2010;term effects of stress among EDRNs using follow&#x2010;up and time&#x2010;lagged designs. These would provide more empirical support for coping strategies concerning pandemic&#x2010;related distress. This review also identified available studies on stress&#x2010;coping strategies by EDRNs during COVID&#x2010;19, but the different approaches may allow searching for new findings. A limitation to the comprehensiveness of this study is that we excluded conference abstracts and gray literature, and included only published peer&#x2010;reviewed literature. This scoping review approach also lacks the articulation of biases that might reduce the reliability of the outcomes; however, the synthesis was based on the most recent COVID&#x2010;19 research. Additional studies could further explore the pandemic's lasting and dynamic impacts on the physical and psychological health of EDRNs and their family or co&#x2010;workers. Furthermore, applying evidence&#x2010;based coping strategies to reduce the severity of mental health problems for EDRNs in the early stage may prevent adverse short&#x2010;term and long&#x2010;term implications.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12815-sec-0022">
+      <title>CONCLUSION</title>
+      <p>In substantiating stress&#x2010;coping theory in our research, we found that EDRNs have faced various challenges in combating COVID&#x2010;19. Indeed, EDRNs have suffered from stress. EDRNs also need practical strategies to manage and prevent further transmission. COVID&#x2010;19 has changed triage practices in emergency care and profoundly affected nurses physically, mentally, and emotionally. This study indicates that EDRNs need comprehensive training, a modified triage system, a safe workplace, psychological support, and resources to strengthen their resilience. With that support, EDRNs may fulfill the demands of their increasing workloads and responsibilities on the frontlines to enhance emergency care quality during the current pandemic and beyond.</p>
+      <sec id="jnu12815-sec-0023">
+        <title>CLINICAL RESOURCES</title>
+        <p>COVID&#x2010;19 Information, Emergency Nurses Association <ext-link xlink:href="https://reurl.cc/VD854Y" ext-link-type="uri">https://reurl.cc/VD854Y</ext-link>
+</p>
+        <p>How to look after your mental health as a nurse <ext-link xlink:href="https://reurl.cc/p1LxLb" ext-link-type="uri">https://reurl.cc/p1LxLb</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12815-sec-0026">
+      <title>CONFLICT OF INTEREST</title>
+      <p>All authors declare no conflicts of interest.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="jnu12815-supitem-0001" position="float" content-type="local-data">
+        <caption>
+          <p>
+Appendix S1
+</p>
+        </caption>
+        <media xlink:href="JNU-9999-0-s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="data-availability" id="jnu12815-sec-0025">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>Because this research is a &#x201C;Scoping Review,&#x201D; there are no data involved in this present study. No human subjects and/or animals were involved in the study. Therefore, this study does not fall into the category of human subjects research.</p>
+    </sec>
+    <ref-list content-type="cited-references" id="jnu12815-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12815-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0001">
+<string-name>
+<surname>Ahorsu</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<surname>Marznaki</surname>, <given-names>Z. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pakpour</surname>, <given-names>H. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>The association between fear of COVID&#x2010;19 and mental health: The mediating roles of burnout and job stress among emergency nursing staff</article-title>. <source>Nursing Open</source>, <volume>9</volume>(<issue>2</issue>), <fpage>1147</fpage>&#x2013;<lpage>1154</lpage>. <pub-id pub-id-type="doi">10.1002/nop2.1154</pub-id>
+<pub-id pub-id-type="pmid">34881522</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0064">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0064">
+<string-name>
+<surname>Alanazi</surname>, <given-names>T. N. M.</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Buck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Alharbi</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2022</year>). <article-title>Reported effects of the COVID&#x2010;19 pandemic on the psychological status of emergency healthcare workers: A scoping review</article-title>. <source>Australasian Emergency Care</source>, <volume>25</volume>(<issue>3</issue>), <fpage>197</fpage>&#x2013;<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1016/j.auec.2021.10.002</pub-id>
+<pub-id pub-id-type="pmid">34802977</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0002">
+<string-name>
+<surname>Al&#x2010;Ashwal</surname>, <given-names>F. Y.</given-names>
+</string-name>, <string-name>
+<surname>Kubas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zawiah</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bitar</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name>
+<surname>Mukred Saeed</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sulaiman</surname>, <given-names>S. A. S.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>A. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ghadzi</surname>, <given-names>S. M. S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Healthcare workers' knowledge, preparedness, counselling practices, and perceived barriers to confront COVID&#x2010;19: A cross&#x2010;sectional study from a war&#x2010;torn country, Yemen</article-title>. <source>Plos One</source>, <volume>15</volume>(<issue>12</issue>), <elocation-id>e0243962</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0243962</pub-id>
+<pub-id pub-id-type="pmid">33306750</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0003">
+<string-name>
+<surname>Alqu&#xE9;zar&#x2010;Arb&#xE9;</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pi&#xF1;era</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;n</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jim&#xE9;nez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Llorens</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;n&#x2010;S&#xE1;nchez</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Burillo&#x2010;Putze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#xED;a&#x2010;Lamberechts</surname>, <given-names>E. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gonz&#xE1;lez Del Castillo</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of the COVID&#x2010;19 pandemic on hospital emergency departments: Results of a survey of departments in 2020&#x2010;the Spanish ENCOVUR study</article-title>. <source>Emergencias</source>, <volume>32</volume>(<issue>5</issue>), <fpage>320</fpage>&#x2013;<lpage>331</lpage>.<pub-id pub-id-type="pmid">33006832</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0004">
+<string-name>
+<surname>Alzyoud</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Albashtawy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Qaddumi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Al Omar</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hamadneh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bani Salameh</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Alkhawaldeh</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nurses knowledge regarding prevention protocol of COVID&#x2010;19 in emergency departments</article-title>. <source>Medico&#x2010;Legal Update</source>, <volume>21</volume>(<issue>3</issue>), <fpage>168</fpage>&#x2013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.37506/mlu.v21i3.2979</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0005">
+<string-name>
+<surname>An</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ungvari</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>M. Z.</given-names>
+</string-name>, <string-name>
+<surname>An</surname>, <given-names>F. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Xiang</surname>, <given-names>Y. T.</given-names>
+</string-name> (<year>2020</year>). <article-title>Prevalence of depression and its impact on quality of life among frontline nurses in emergency departments during the COVID&#x2010;19 outbreak</article-title>. <source>Journal of Affective Disorders</source>, <volume>276</volume>, <fpage>312</fpage>&#x2013;<lpage>315</lpage>. <pub-id pub-id-type="doi">10.1016/j.jad.2020.06.047</pub-id>
+<pub-id pub-id-type="pmid">32871661</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0006">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0006">
+<string-name>
+<surname>Arcadi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Simonetti</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ambrosca</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cicolini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Simeone</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pucciarelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Alvaro</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Vellone</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Durante</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nursing during the COVID&#x2010;19 outbreak: A phenomenological study</article-title>. <source>Journal of Nursing Management</source>, <volume>29</volume>(<issue>5</issue>), <fpage>1111</fpage>&#x2013;<lpage>1119</lpage>. <pub-id pub-id-type="doi">10.1111/jonm.13249</pub-id>
+<pub-id pub-id-type="pmid">33421209</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0007">
+<string-name>
+<surname>Arksey</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>O'Malley</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>). <article-title>Scoping studies: Towards a methodological framework</article-title>. <source>International Journal of Social Research Methodology</source>, <volume>8</volume>(<issue>1</issue>), <fpage>19</fpage>&#x2013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1080/1364557032000119616</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0008">
+        <mixed-citation publication-type="book" id="jnu12815-cit-0008">
+<string-name>
+<surname>Biggs</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brough</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Drummond</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <part-title>Lazarus and Folkman's psychological stress and coping theory</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>C. L.</given-names>
+<surname>Cooper</surname>
+</string-name>
+</person-group>, &amp; <person-group person-group-type="editor">
+<string-name>
+<given-names>J. C.</given-names>
+<surname>Quick</surname>
+</string-name>
+</person-group> (Eds.), <source>The handbook of stress and health: A guide to research and practice</source> (pp. <fpage>351</fpage>&#x2013;<lpage>364</lpage>). <publisher-name>Wiley</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0009">
+<string-name>
+<surname>Butera</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brasseur</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Filion</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bruyneel</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Smith</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Prevalence and associated factors of burnout risk among intensive care and emergency nurses before and during the coronavirus disease 2019 pandemic: A cross&#x2010;sectional study in Belgium</article-title>. <source>Journal of Emergency Nursing</source>, <volume>47</volume>(<issue>6</issue>), <fpage>879</fpage>&#x2013;<lpage>891</lpage>. <pub-id pub-id-type="doi">10.1016/j.jen.2021.08.007</pub-id>
+<pub-id pub-id-type="pmid">34635345</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0010">
+<string-name>
+<surname>Cabarkapa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nadjidai</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Murgier</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ng</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>2020</year>). <article-title>The psychological impact of COVID&#x2010;19 and other viral epidemics on frontline healthcare workers and ways to address it: A rapid systematic review</article-title>. <source>Brain, Behavior, &amp; Immunity&#x2013;Health</source>, <volume>8</volume>, <elocation-id>100144</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.bbih.2020.100144</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0011">
+<string-name>
+<surname>Callus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bassola</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Fiolo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bertoldo</surname>, <given-names>E. G.</given-names>
+</string-name>, <string-name>
+<surname>Pagliuca</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lusignani</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Stress reduction techniques for health care providers dealing with severe coronavirus infections (SARS, MERS, and COVID&#x2010;19): A rapid review</article-title>. <source>Frontiers in Psychology</source>, <volume>11</volume>, <elocation-id>589698</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2020.589698</pub-id>
+<pub-id pub-id-type="pmid">33362654</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0012">
+<string-name>
+<surname>Casalino</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bouzid</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ben Hammouda</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wargon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Curac</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hellmann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Choquet</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ghazali</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>COVID&#x2010;19 preparedness among emergency departments: A cross&#x2010;sectional study in France</article-title>. <source>Disaster Medicine and Public Health Preparedness</source>, <volume>16</volume>(<issue>1</issue>), <fpage>245</fpage>&#x2013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1017/dmp.2020.331</pub-id>
+<pub-id pub-id-type="pmid">32907674</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0013">
+<string-name>
+<surname>Catania</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zanini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hayter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Timmins</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dasso</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ottonello</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Aleo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sasso</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bagnasco</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Lessons from Italian front&#x2010;line nurses' experiences during the COVID&#x2010;19 pandemic: A qualitative descriptive study</article-title>. <source>Journal of Nursing Management</source>, <volume>29</volume>(<issue>3</issue>), <fpage>404</fpage>&#x2013;<lpage>411</lpage>. <pub-id pub-id-type="doi">10.1111/jonm.13194</pub-id>
+<pub-id pub-id-type="pmid">33107657</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0014">
+<string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Guan</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>COVID&#x2010;19 exposure, pandemic&#x2010;related appraisals, coping strategies, and psychological symptoms among the frontline medical staff and gender differences in coping processes</article-title>. <source>Applied Cognitive Psychology</source>, <volume>36</volume>(<issue>1</issue>), <fpage>111</fpage>&#x2013;<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1002/acp.3902</pub-id>
+<pub-id pub-id-type="pmid">35440842</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0015">
+<string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2020</year>). <article-title>A cross&#x2010;sectional study of mental health status and self&#x2010;psychological adjustment in nurses who supported Wuhan for fighting against the COVID&#x2010;19</article-title>. <source>Journal of Clinical Nursing</source>, <volume>29</volume>(<issue>21&#x2013;22</issue>), <fpage>4161</fpage>&#x2013;<lpage>4170</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.15444</pub-id>
+<pub-id pub-id-type="pmid">32757428</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0016">
+<string-name>
+<surname>Chipps</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jarvis</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Brysiewicz</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Heroes and angels: ED nurses' ongoing fight for meaningful recognition as professionals on the frontline of the pandemic</article-title>. <source>International Emergency Nursing</source>, <volume>59</volume>, <elocation-id>101080</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ienj.2021.101080</pub-id>
+<pub-id pub-id-type="pmid">34837827</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0017">
+<string-name>
+<surname>Cinar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kilic Akca</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zorba Bahceli</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bag</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2021</year>). <article-title>Perceived stress and affecting factors related to COVID&#x2010;19 pandemic of emergency nurses in Turkey</article-title>. <source>Journal of Nursing Management</source>, <volume>29</volume>(<issue>7</issue>), <fpage>1916</fpage>&#x2013;<lpage>1923</lpage>. <pub-id pub-id-type="doi">10.1111/jonm.13329</pub-id>
+<pub-id pub-id-type="pmid">33837591</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0018">
+<string-name>
+<surname>Cornish</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Klim</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kelly</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Is COVID&#x2010;19 the straw that broke the back of the emergency nursing workforce?</article-title>
+<source>Emergency Medicine Australasia</source>, <volume>33</volume>(<issue>6</issue>), <fpage>1095</fpage>&#x2013;<lpage>1099</lpage>. <pub-id pub-id-type="doi">10.1111/1742-6723.13843</pub-id>
+<pub-id pub-id-type="pmid">34337873</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0019">
+<string-name>
+<surname>Cui</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Impact of COVID&#x2010;19 on anxiety, stress, and coping styles in nurses in emergency departments and fever clinics: A cross&#x2010;sectional survey</article-title>. <source>Risk Management and Healthcare Policy</source>, <volume>14</volume>, <fpage>585</fpage>&#x2013;<lpage>594</lpage>. <pub-id pub-id-type="doi">10.2147/RMHP.S289782</pub-id>
+<pub-id pub-id-type="pmid">33623449</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0020">
+<string-name>
+<surname>Della Monica</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ferrara</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dal Mas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Cobianchi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Scannapieco</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ruta</surname>, <given-names>F.</given-names>
+</string-name> (<year>2022</year>). <article-title>The impact of Covid&#x2010;19 healthcare emergency on the psychological well&#x2010;being of health professionals: A review of literature</article-title>. <source>Annali di Igiene Medicina Preventiva e di Comunita</source>, <volume>34</volume>(<issue>1</issue>), <fpage>27</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.7416/ai.2021.2445</pub-id>
+<pub-id pub-id-type="pmid">33779676</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0021">
+<string-name>
+<surname>d'Ettorre</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ceccarelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Santinelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vassalini</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Innocenti</surname>, <given-names>G. P.</given-names>
+</string-name>, <string-name>
+<surname>Alessandri</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Koukopoulos</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Russo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>d'Ettorre</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tarsitani</surname>, <given-names>L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Post&#x2010;traumatic stress symptoms in healthcare workers dealing with the COVID&#x2010;19 pandemic: A systematic review</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>18</volume>(<issue>2</issue>), <elocation-id>601</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph18020601</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0022">
+<string-name>
+<surname>Dijkstra</surname>, <given-names>M. T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Homan</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Engaging in rather than disengaging from stress: Effective coping and perceived control</article-title>. <source>Frontiers in Psychology</source>, <volume>7</volume>, <elocation-id>1415</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2016.01415</pub-id>
+<pub-id pub-id-type="pmid">27708603</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0023">
+<string-name>
+<surname>Garcia&#x2010;Hedrera</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Gil&#x2010;Almagro</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Carmona&#x2010;Monge</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Penacoba&#x2010;Puente</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Catala&#x2010;Meson</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Velasco&#x2010;Furlong</surname>, <given-names>L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Intensive care unit professionals during the COVID&#x2010;19 pandemic in Spain: Social and work&#x2010;related variables, COVID&#x2010;19 symptoms, worries, and generalized anxiety levels</article-title>. <source>Acute and Critical Care</source>, <volume>36</volume>(<issue>3</issue>), <fpage>232</fpage>&#x2013;<lpage>241</lpage>. <pub-id pub-id-type="doi">10.4266/acc.2021.00213</pub-id>
+<pub-id pub-id-type="pmid">34510851</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0024">
+<string-name>
+<surname>Goh</surname>, <given-names>Y. S.</given-names>
+</string-name>, <string-name>
+<surname>Ow Yong</surname>, <given-names>Q. Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>S. H. C.</given-names>
+</string-name>, <string-name>
+<surname>Chee</surname>, <given-names>Y. I. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chee</surname>, <given-names>T. T.</given-names>
+</string-name> (<year>2021</year>). <article-title>The impact of COVID&#x2010;19 on nurses working in a university health system in Singapore: A qualitative descriptive study</article-title>. <source>International Journal of Mental Health Nursing</source>, <volume>30</volume>(<issue>3</issue>), <fpage>643</fpage>&#x2013;<lpage>652</lpage>. <pub-id pub-id-type="doi">10.1111/inm.12826</pub-id>
+<pub-id pub-id-type="pmid">33280242</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0025">
+<string-name>
+<surname>Gualano</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Sinigaglia</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lo Moro</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Rousset</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cremona</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bert</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Siliquini</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>The burden of burnout among healthcare professionals of intensive care units and emergency departments during the COVID&#x2010;19 pandemic: A systematic review</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>18</volume>(<issue>15</issue>), <elocation-id>8172</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph18158172</pub-id>
+<pub-id pub-id-type="pmid">34360465</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0026">
+<string-name>
+<surname>Hayirli</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Stark</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bhanja</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Peabody</surname>, <given-names>C. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kerrissey</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Masked and distanced: A qualitative study of how personal protective equipment and distancing affect teamwork in emergency care</article-title>. <source>International Journal for Quality in Health Care</source>, <volume>33</volume>(<issue>2</issue>), <fpage>1</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/intqhc/mzab069</pub-id>
+<pub-id pub-id-type="pmid">33432980</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0027">
+<string-name>
+<surname>Hesselink</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Straten</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gallee</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brants</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Holkenborg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barten</surname>, <given-names>D. G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Schoon</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2021</year>). <article-title>Holding the frontline: A cross&#x2010;sectional survey of emergency department staff well&#x2010;being and psychological distress in the course of the COVID&#x2010;19 outbreak</article-title>. <source>BMC Health Services Research</source>, <volume>21</volume>(<issue>1</issue>), <elocation-id>525</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12913-021-06555-5</pub-id>
+<pub-id pub-id-type="pmid">34051760</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0028">
+<string-name>
+<surname>Hou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Preparedness of our emergency department during the coronavirus disease outbreak from the Nurses' perspectives: A qualitative research study</article-title>. <source>Journal of Emergency Nursing</source>, <volume>46</volume>(<issue>6</issue>), <fpage>848</fpage>&#x2013;<lpage>861 e841</lpage>. <pub-id pub-id-type="doi">10.1016/j.jen.2020.07.008</pub-id>
+<pub-id pub-id-type="pmid">32962844</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0029">
+<string-name>
+<surname>Hsu</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>, <given-names>H. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tseng</surname>, <given-names>K. Y.</given-names>
+</string-name> (<year>2021</year>). <article-title>A qualitative study on the care experience of emergency department nurses during the COVID&#x2010;19 pandemic</article-title>. <source>Healthcare</source>, <volume>9</volume>(<issue>12</issue>), <elocation-id>1759</elocation-id>. <pub-id pub-id-type="doi">10.3390/healthcare9121759</pub-id>
+<pub-id pub-id-type="pmid">34946485</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0030">
+<string-name>
+<surname>Hu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L. X.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>H. G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Frontline nurses' burnout, anxiety, depression, and fear statuses and their associated factors during the COVID&#x2010;19 outbreak in Wuhan, China: A large&#x2010;scale cross&#x2010;sectional study</article-title>. <source>Eclinicalmedicine</source>, <volume>24</volume>, <elocation-id>100424</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.eclinm.2020.100424</pub-id>
+<pub-id pub-id-type="pmid">32766539</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0031">
+<string-name>
+<surname>Jose</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dhandapani</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Cyriac</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2020</year>). <article-title>Burnout and resilience among frontline nurses during COVID&#x2010;19 pandemic: A cross&#x2010;sectional study in the emergency Department of a Tertiary Care Center, North India</article-title>. <source>Indian Journal of Critical Care Medicine</source>, <volume>24</volume>(<issue>11</issue>), <fpage>1081</fpage>&#x2013;<lpage>1088</lpage>. <pub-id pub-id-type="doi">10.5005/jp-journals-10071-23667</pub-id>
+<pub-id pub-id-type="pmid">33384515</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0032">
+<string-name>
+<surname>Kandemir</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yilmaz</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sonmez</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Professional and psychological perceptions of emergency nurses during the COVID&#x2010;19 pandemic: A qualitative study</article-title>. <source>Japan Journal of Nursing Science</source>, <volume>19</volume>(<issue>3</issue>), <fpage>e12470</fpage>. <pub-id pub-id-type="doi">10.1111/jjns.12470</pub-id>
+<pub-id pub-id-type="pmid">34970852</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0033">
+<string-name>
+<surname>Kostadinov</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Atliev</surname>, <given-names>K.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 challenges to emergency department triage</article-title>. <source>KNOWLEDGE&#x2010;International Journal</source>, <volume>49</volume>(<issue>4</issue>), <fpage>625</fpage>&#x2013;<lpage>628</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0034">
+<string-name>
+<surname>Lasalvia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Amaddeo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Porru</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Carta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tardivo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bovo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ruggeri</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bonetto</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Levels of burn&#x2010;out among healthcare workers during the COVID&#x2010;19 pandemic and their associated factors: A cross&#x2010;sectional study in a tertiary hospital of a highly burdened area of north&#x2010;East Italy</article-title>. <source>BMJ Open</source>, <volume>11</volume>(<issue>1</issue>), <elocation-id>e045127</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-045127</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0035">
+        <mixed-citation publication-type="book" id="jnu12815-cit-0035">
+<string-name>
+<surname>Lazarus</surname>, <given-names>R. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Folkman</surname>, <given-names>S.</given-names>
+</string-name> (<year>1984</year>). <source>Stress, appraisal, and coping</source>. <publisher-name>Springer publishing company</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0036">
+<string-name>
+<surname>Lazarus</surname>, <given-names>R. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Folkman</surname>, <given-names>S.</given-names>
+</string-name> (<year>1987</year>). <article-title>Transactional theory and research on emotions and coping</article-title>. <source>European Journal of Personality</source>, <volume>1</volume>(<issue>3</issue>), <fpage>141</fpage>&#x2013;<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1002/per.2410010304</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0037">
+<string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sotomayor&#x2010;Castillo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nahidi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kuznetsov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Considine</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Carver</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Doyle</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Varshney</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shaban</surname>, <given-names>R. Z.</given-names>
+</string-name> (<year>2021</year>). <article-title>Emergency clinicians' knowledge, preparedness and experiences of managing COVID&#x2010;19 during the 2020 global pandemic in Australian healthcare settings</article-title>. <source>Australasian Emergency Care</source>, <volume>24</volume>(<issue>3</issue>), <fpage>186</fpage>&#x2013;<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1016/j.auec.2021.03.008</pub-id>
+<pub-id pub-id-type="pmid">34120888</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0038">
+<string-name>
+<surname>Lin</surname>, <given-names>Y. Y.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>Y. A.</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Chuang</surname>, <given-names>Y. S.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>S. F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wang</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 pandemic is associated with an adverse impact on burnout and mood disorder in healthcare professionals</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>18</volume>(<issue>7</issue>), <elocation-id>3654</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph18073654</pub-id>
+<pub-id pub-id-type="pmid">33915733</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0039">
+<string-name>
+<surname>Liu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Haase</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X. Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yang</surname>, <given-names>B. X.</given-names>
+</string-name> (<year>2020</year>). <article-title>The experiences of health&#x2010;care providers during the COVID&#x2010;19 crisis in China: A qualitative study</article-title>. <source>The Lancet Global Health</source>, <volume>8</volume>(<issue>6</issue>), <fpage>e790</fpage>&#x2013;<lpage>e798</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30204-7</pub-id>
+<pub-id pub-id-type="pmid">32573443</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0040">
+<string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Nie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>Z.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Yu</surname>, <given-names>X.</given-names>
+</string-name> (<year>2021</year>). <article-title>Depressive state in the emergency department during COVID&#x2010;19: A National Cross&#x2010;Sectional Survey in China</article-title>. <source>Frontiers in Psychiatry</source>, <volume>12</volume>, <elocation-id>566990</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2021.566990</pub-id>
+<pub-id pub-id-type="pmid">34194341</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0041">
+<string-name>
+<surname>Liu</surname>, <given-names>Y. E.</given-names>
+</string-name>, <string-name>
+<surname>Zhai</surname>, <given-names>Z. C.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F. P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hu</surname>, <given-names>D. Y.</given-names>
+</string-name> (<year>2020</year>). <article-title>Experiences of front&#x2010;line nurses combating coronavirus disease&#x2010;2019 in China: A qualitative analysis</article-title>. <source>Public Health Nursing</source>, <volume>37</volume>(<issue>5</issue>), <fpage>757</fpage>&#x2013;<lpage>763</lpage>. <pub-id pub-id-type="doi">10.1111/phn.12768</pub-id>
+<pub-id pub-id-type="pmid">32677072</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0042">
+<string-name>
+<surname>Lockett</surname>, <given-names>J. C. M.</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hales</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Pre COVID&#x2010;19 emergency department nurses' perspectives of the preparedness to safely manage influenza pandemics: A descriptive exploratory qualitative study</article-title>. <source>Australasian Emergency Care</source>, <volume>24</volume>(<issue>4</issue>), <fpage>280</fpage>&#x2013;<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1016/j.auec.2021.03.001</pub-id>
+<pub-id pub-id-type="pmid">33745869</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0043">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0043">
+<string-name>
+<surname>McKenna</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Covid&#x2010;19: Ethical issues for nurses</article-title>. <source>International Journal of Nursing Studies</source>, <volume>110</volume>, <elocation-id>103673</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2020.103673</pub-id>
+<pub-id pub-id-type="pmid">32679401</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0044">
+<string-name>
+<surname>Montgomery</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Humphreys</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McCulloch</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Docherty</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Sturdy</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pattison</surname>, <given-names>N.</given-names>
+</string-name> (<year>2021</year>). <article-title>Critical care work during COVID&#x2010;19: A qualitative study of staff experiences in the UK</article-title>. <source>BMJ Open</source>, <volume>11</volume>(<issue>5</issue>), <elocation-id>e048124</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-048124</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0045">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0045">
+<string-name>
+<surname>Mulyadi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dedi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>I. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lee</surname>, <given-names>B. O.</given-names>
+</string-name> (<year>2022</year>). <article-title>Nurses' experiences of emergency department triage during the COVID&#x2010;19 pandemic in Indonesia</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>54</volume>(<issue>1</issue>), <fpage>15</fpage>&#x2013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12709</pub-id>
+<pub-id pub-id-type="pmid">34741408</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0046">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0046">
+<string-name>
+<surname>Munawar</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Choudhry</surname>, <given-names>F. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Exploring stress coping strategies of frontline emergency health workers dealing Covid&#x2010;19 in Pakistan: A qualitative inquiry</article-title>. <source>American Journal of Infection Control</source>, <volume>49</volume>(<issue>3</issue>), <fpage>286</fpage>&#x2013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajic.2020.06.214</pub-id>
+<pub-id pub-id-type="pmid">32649990</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0047">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0047">
+<string-name>
+<surname>Nie</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Psychological impact of COVID&#x2010;19 outbreak on frontline nurses: A cross&#x2010;sectional survey study</article-title>. <source>Journal of Clinical Nursing</source>, <volume>29</volume>(<issue>21&#x2013;22</issue>), <fpage>4217</fpage>&#x2013;<lpage>4226</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.15454</pub-id>
+<pub-id pub-id-type="pmid">32786150</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0048">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0048">
+<string-name>
+<surname>Page</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Bossuyt</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Boutron</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Mulrow</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Shamseer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tetzlaff</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Akl</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Glanville</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grimshaw</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Hrobjartsson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lalu</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Loder</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Mayo&#x2010;Wilson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>S.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Moher</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <article-title>The PRISMA 2020 statement: An updated guideline for reporting systematic reviews</article-title>. <source>BMJ</source>, <volume>372</volume>, <elocation-id>n71</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>
+<pub-id pub-id-type="pmid">33782057</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0049">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0049">
+<string-name>
+<surname>Pappa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ntella</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Giannakas</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Giannakoulis</surname>, <given-names>V. G.</given-names>
+</string-name>, <string-name>
+<surname>Papoutsi</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Katsaounou</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>Prevalence of depression, anxiety, and insomnia among healthcare workers during the COVID&#x2010;19 pandemic: A systematic review and meta&#x2010;analysis</article-title>. <source>Brain, Behavior, and Immunity</source>, <volume>88</volume>, <fpage>901</fpage>&#x2013;<lpage>907</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbi.2020.05.026</pub-id>
+<pub-id pub-id-type="pmid">32437915</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0050">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0050">
+<string-name>
+<surname>Penacoba</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Catala</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Velasco</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Carmona&#x2010;Monge</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x2010;Hedrera</surname>, <given-names>F. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gil&#x2010;Almagro</surname>, <given-names>F.</given-names>
+</string-name> (<year>2021</year>). <article-title>Stress and quality of life of intensive care nurses during the COVID&#x2010;19 pandemic: Self&#x2010;efficacy and resilience as resources</article-title>. <source>Nursing in Critical Care</source>, <volume>26</volume>(<issue>6</issue>), <fpage>493</fpage>&#x2013;<lpage>500</lpage>. <pub-id pub-id-type="doi">10.1111/nicc.12690</pub-id>
+<pub-id pub-id-type="pmid">34387905</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0051">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0051">
+<string-name>
+<surname>Quah</surname>, <given-names>L. J. J.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>B. K. K.</given-names>
+</string-name>, <string-name>
+<surname>Fua</surname>, <given-names>T. P.</given-names>
+</string-name>, <string-name>
+<surname>Wee</surname>, <given-names>C. P. J.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Nadarajan</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zakaria</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>P. W.</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>, <given-names>L. T.</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>, <given-names>Y. Y.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Venkataraman</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Reorganising the emergency department to manage the COVID&#x2010;19 outbreak</article-title>. <source>International Journal of Emergency Medicine</source>, <volume>13</volume>(<issue>1</issue>), <fpage>32</fpage>. <pub-id pub-id-type="doi">10.1186/s12245-020-00294-w</pub-id>
+<pub-id pub-id-type="pmid">32552659</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0052">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0052">
+<string-name>
+<surname>Rahman</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>A scoping review of COVID&#x2010;19&#x2010;related stress coping resources among nurses</article-title>. <source>International Journal of Nursing Sciences</source>, <volume>9</volume>(<issue>2</issue>), <fpage>259</fpage>&#x2013;<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnss.2022.02.008</pub-id>
+<pub-id pub-id-type="pmid">35284150</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0053">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0053">
+<string-name>
+<surname>Rodriguez</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Medak</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chinnock</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Frazier</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Cooper</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Academic emergency medicine Physicians' anxiety levels, stressors, and potential stress mitigation measures during the acceleration phase of the COVID&#x2010;19 pandemic</article-title>. <source>Academic Emergency Medicine</source>, <volume>27</volume>(<issue>8</issue>), <fpage>700</fpage>&#x2013;<lpage>707</lpage>. <pub-id pub-id-type="doi">10.1111/acem.14065</pub-id>
+<pub-id pub-id-type="pmid">32569419</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0054">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0054">
+<string-name>
+<surname>Ruiz&#x2010;Fernandez</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Ramos&#x2010;Pichardo</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Ibanez&#x2010;Masero</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Cabrera&#x2010;Troya</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Carmona&#x2010;Rega</surname>, <given-names>M. I.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ortega&#x2010;Galan</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Compassion fatigue, burnout, compassion satisfaction and perceived stress in healthcare professionals during the COVID&#x2010;19 health crisis in Spain</article-title>. <source>Journal of Clinical Nursing</source>, <volume>29</volume>(<issue>21&#x2013;22</issue>), <fpage>4321</fpage>&#x2013;<lpage>4330</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.15469</pub-id>
+<pub-id pub-id-type="pmid">32860287</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0055">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0055">
+<string-name>
+<surname>Saladino</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Auriemma</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Campinoti</surname>, <given-names>V.</given-names>
+</string-name> (<year>2021</year>). <article-title>Healthcare professionals, post&#x2010;traumatic stress disorder, and COVID&#x2010;19: A review of the literature</article-title>. <source>Frontiers in Psychiatry</source>, <volume>12</volume>, <elocation-id>795221</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2021.795221</pub-id>
+<pub-id pub-id-type="pmid">35126205</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0056">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0056">
+<string-name>
+<surname>Sirois</surname>, <given-names>F. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Owens</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Factors associated with psychological distress in health&#x2010;care workers during an infectious disease outbreak: A rapid systematic review of the evidence</article-title>. <source>Frontiers in Psychiatry</source>, <volume>11</volume>, <elocation-id>589545</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2020.589545</pub-id>
+<pub-id pub-id-type="pmid">33584364</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0057">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0057">
+<string-name>
+<surname>Syapitri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Damanik</surname>, <given-names>R. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Siregar</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Triage management during Covid&#x2010;19 in emergency department: A phenomenology approach among nurses in Medan</article-title>. <source>Indonesian Nursing Journal of Education and Clinic</source>, <volume>6</volume>(<issue>2</issue>), <fpage>210</fpage>&#x2013;<lpage>221</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0058">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0058">
+<string-name>
+<surname>Turale</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Meechamnan</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kunaviktikul</surname>, <given-names>W.</given-names>
+</string-name> (<year>2020</year>). <article-title>Challenging times: Ethics, nursing and the COVID&#x2010;19 pandemic</article-title>. <source>International Nursing Review</source>, <volume>67</volume>(<issue>2</issue>), <fpage>164</fpage>&#x2013;<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1111/inr.12598</pub-id>
+<pub-id pub-id-type="pmid">32578249</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0059">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0059">
+<string-name>
+<surname>Uphoff</surname>, <given-names>E. P.</given-names>
+</string-name>, <string-name>
+<surname>Lombardo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Weeks</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kousoulis</surname>, <given-names>A. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Churchill</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Mental health among healthcare workers and other vulnerable groups during the COVID&#x2010;19 pandemic and other coronavirus outbreaks: A rapid systematic review</article-title>. <source>PLoS One</source>, <volume>16</volume>(<issue>8</issue>), <elocation-id>e0254821</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0254821</pub-id>
+<pub-id pub-id-type="pmid">34347812</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0060">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0060">
+<string-name>
+<surname>Wei</surname>, <given-names>Y. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zuo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name> (<year>2020</year>). <article-title>A qualitative study on the work experience of COVID&#x2010;19 prevention and control among emergency nurses</article-title>. <source>Nursing of Integrated Traditional Chinese and Western Medicine</source>, <volume>6</volume>(<issue>6</issue>), <fpage>38</fpage>&#x2013;<lpage>41</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0061">
+        <mixed-citation publication-type="book" id="jnu12815-cit-0061">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2022</year>). <source>WHO coronavirus disease (COVID&#x2010;19) dashboard</source>. <publisher-name>World Health Organization (WHO)</publisher-name>. <ext-link xlink:href="https://covid19.who.int/" ext-link-type="uri">https://covid19.who.int/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0062">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0062">
+<string-name>
+<surname>Xu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shi</surname>, <given-names>F.</given-names>
+</string-name> (<year>2021</year>). <article-title>Work experience of triage nurses in emergency departments during the prevalence of COVID&#x2010;19</article-title>. <source>International Emergency Nursing</source>, <volume>56</volume>, <elocation-id>101003</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ienj.2021.101003</pub-id>
+<pub-id pub-id-type="pmid">33866257</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12815-bib-0063">
+        <mixed-citation publication-type="journal" id="jnu12815-cit-0063">
+<string-name>
+<surname>Yang</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Yen</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Y. R.</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>, <given-names>C. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hsiao</surname>, <given-names>F. H.</given-names>
+</string-name> (<year>2022</year>). <article-title>The effects of an emergency nurse&#x2010;led stress&#x2010;reduction project during the first 120&#x2009;days of the COVID&#x2010;19 pandemic in Taiwan</article-title>. <source>Journal of Nursing Management</source>, <volume>30</volume>(<issue>2</issue>), <fpage>367</fpage>&#x2013;<lpage>374</lpage>. <pub-id pub-id-type="doi">10.1111/jonm.13527</pub-id>
+<pub-id pub-id-type="pmid">34837267</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

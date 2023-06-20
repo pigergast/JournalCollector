@@ -1,0 +1,1820 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12800" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36065145</article-id>
+      <article-id pub-id-type="pmc">10087136</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12800</article-id>
+      <article-id pub-id-type="publisher-id">JNU12800</article-id>
+      <article-id pub-id-type="other">JNU-08-20-587.R5</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Original Manuscript</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Job satisfaction among small rural hospital nurses: A cross&#x2010;sectional study</article-title>
+        <alt-title alt-title-type="right-running-head">Rural Hospital Nurses' Job Satisfaction</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12800-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Smith</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <degrees>RN BN (Hons) PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7739-435X</contrib-id>
+          <xref rid="jnu12800-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>arah.smith4@health.nsw.gov.au</email>
+            <ext-link xlink:href="https://twitter.com/sarahsmith8210" ext-link-type="uri">@sarahsmith8210</ext-link>
+          </address>
+        </contrib>
+        <contrib id="jnu12800-cr-0002" contrib-type="author">
+          <name>
+            <surname>Lapkin</surname>
+            <given-names>Samuel</given-names>
+          </name>
+          <degrees>RN BN (Hons) PhD MACN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1618-3812</contrib-id>
+          <address>
+            <ext-link xlink:href="https://twitter.com/DrLapkin" ext-link-type="uri">@DrLapkin</ext-link>
+          </address>
+          <xref rid="jnu12800-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12800-cr-0003" contrib-type="author">
+          <name>
+            <surname>Halcomb</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <degrees>RN BN (Hons) PhD FACN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8099-986X</contrib-id>
+          <address>
+            <ext-link xlink:href="https://twitter.com/LizHalcomb" ext-link-type="uri">@LizHalcomb</ext-link>
+          </address>
+          <xref rid="jnu12800-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12800-cr-0004" contrib-type="author">
+          <name>
+            <surname>Sim</surname>
+            <given-names>Jenny</given-names>
+          </name>
+          <degrees>RN BAppSc (Nurs) PhD MACN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6863-0541</contrib-id>
+          <address>
+            <ext-link xlink:href="https://twitter.com/jennysim_1" ext-link-type="uri">@jennysim_1</ext-link>
+          </address>
+          <xref rid="jnu12800-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12800-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12800-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing</named-content>
+<institution>University of Wollongong</institution>
+<city>Wollongong</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12800-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing &amp; Midwifery</named-content>
+<institution>University of Newcastle</institution>
+<city>Newcastle</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Sarah Smith, School of Nursing, University of Wollongong, Wollongong, NSW, Australia.<break/>
+Email: <email>arah.smith4@health.nsw.gov.au</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>55</volume>
+      <issue seq="370">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>378</fpage>
+      <lpage>387</lpage>
+      <history>
+<date date-type="rev-recd"><day>05</day><month>6</month><year>2022</year></date>
+<date date-type="received"><day>23</day><month>8</month><year>2020</year></date>
+<date date-type="accepted"><day>17</day><month>6</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x2010;commercial and no modifications or adaptations are made.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-378.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12800-sec-0001">
+          <title>Purpose</title>
+          <p>To explore the relationships between job satisfaction, community satisfaction, practice environment, burnout, and intention to leave of nurses working in Australian small rural hospitals.</p>
+        </sec>
+        <sec id="jnu12800-sec-0002">
+          <title>Design</title>
+          <p>A national cross&#x2010;sectional survey of 383 nurses from Australian rural public hospitals of less than 99 beds during 2018.</p>
+        </sec>
+        <sec id="jnu12800-sec-0003">
+          <title>Methods</title>
+          <p>Job satisfaction was measured on a four&#x2010;point Likert scale. Factors associated with community satisfaction, practice environment, burnout and intention to leave were analyzed using multiple linear regression to explore the predictors of job satisfaction.</p>
+        </sec>
+        <sec id="jnu12800-sec-0004">
+          <title>Findings</title>
+          <p>Overall job satisfaction was positive, with most nurses moderately (<italic toggle="no">n</italic>&#xA0;=&#xA0;146, 38.1%) or very satisfied (<italic toggle="no">n</italic>&#xA0;=&#xA0;107, 27.9%) with their current job. Emotional exhaustion, nurse manager ability, leadership and support of nurses were the most significant predictors of job satisfaction.</p>
+        </sec>
+        <sec id="jnu12800-sec-0005">
+          <title>Conclusion</title>
+          <p>This study provides new insight into the factors impacting the job satisfaction of nurses working in rural hospitals. The knowledge gained is important to inform strategies to retain nurses in rural areas and, in turn, ensure rural communities have access to quality health care.</p>
+        </sec>
+        <sec id="jnu12800-sec-0006">
+          <title>Clinical relevance</title>
+          <p>The impact of nurses' job satisfaction on burnout, patient safety, and intention to leave is well recognized; however, there is limited understanding of job satisfaction in a rural hospital context. This study provides an understanding of the factors that impact job satisfaction of nurses working in small rural hospitals and highlights the importance of improving the practice environment to reduce the high attrition rates of this workforce.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12800-kwd-0001">burnout</kwd>
+        <kwd id="jnu12800-kwd-0002">hospital</kwd>
+        <kwd id="jnu12800-kwd-0003">job satisfaction</kwd>
+        <kwd id="jnu12800-kwd-0004">nursing</kwd>
+        <kwd id="jnu12800-kwd-0005">practice environment</kwd>
+        <kwd id="jnu12800-kwd-0006">rural</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>Australian Government: Australian Postgraduate Award</funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="3"/>
+        <page-count count="10"/>
+        <word-count count="6463"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:11.04.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12800-cit-2001">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lapkin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name> &amp; <string-name>
+<surname>Sim</surname>, <given-names>J.</given-names>
+</string-name> (<year>2023</year>). <article-title>Job satisfaction among small rural hospital nurses: A cross&#x2010;sectional study</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>378</fpage>&#x2013;<lpage>387</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12800</pub-id>
+<pub-id pub-id-type="pmid">36065145</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12800-body-0001">
+    <sec id="jnu12800-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>Australia is one of the largest countries in the world; yet, has one of the smallest population densities, with only 3.14 people per square kilometer (Population Australia,&#xA0;<xref rid="jnu12800-bib-0049" ref-type="bibr">2020</xref>). Seventy percent of Australians reside in major cities, with the remainder living in regional cities or rural or remote areas (National Rural Health Alliance Inc.,&#xA0;<xref rid="jnu12800-bib-0046" ref-type="bibr">2017</xref>). Rural Australian towns can be hours by air from metropolitan areas. The local hospital plays a vital role within these rural communities as it is often the only source of health care for hundreds of kilometers (Baernholdt et al.,&#xA0;<xref rid="jnu12800-bib-0007" ref-type="bibr">2014</xref>). Nurses are essential to rural hospitals. They are often responsible for the coordination of patient assessment and treatment and may be, at times, the only clinical staff present in the hospital (Francis et al.,&#xA0;<xref rid="jnu12800-bib-0021" ref-type="bibr">2014</xref>). Despite nurses being responsible for the delivery of most health care in rural hospitals, the workforce is aging (National Rural Health Alliance Inc.,&#xA0;<xref rid="jnu12800-bib-0047" ref-type="bibr">2019</xref>). Attracting and retaining skilled nurses is one of the greatest challenges facing rural areas internationally (Twigg et al.,&#xA0;<xref rid="jnu12800-bib-0060" ref-type="bibr">2016</xref>).</p>
+      <p>Australian rural communities suffer a higher burden of disease than metropolitan areas, a shorter life expectancy and a higher rate of avoidable deaths (Nancarrow et al.,&#xA0;<xref rid="jnu12800-bib-0045" ref-type="bibr">2015</xref>). The greater the distance from metropolitan areas, the higher the rates of chronic disease, injury, lower birthweight infants and poor oral health (Willis et al.,&#xA0;<xref rid="jnu12800-bib-0065" ref-type="bibr">2016</xref>). Rurality also increases the prevalence of obesity, smoking and harmful levels of alcohol consumption (Australian Institute of Health and Welfare,&#xA0;<xref rid="jnu12800-bib-0005" ref-type="bibr">2019</xref>). Shortages of health professionals, health care facilities and specialized services may negatively affect access to services and in turn, contribute to this poorer health status (Australian Institute of Health and Welfare,&#xA0;<xref rid="jnu12800-bib-0006" ref-type="bibr">2020</xref>).</p>
+      <p>Limited research has been conducted about the nursing workforce in rural hospitals both in Australia, and internationally, over the last decade and ongoing staff shortages persist despite initiatives to encourage nurses to work in rural areas (Cosgrave et al.,&#xA0;<xref rid="jnu12800-bib-0011" ref-type="bibr">2018</xref>; Smith et al.,&#xA0;<xref rid="jnu12800-bib-1068" ref-type="bibr">2019</xref>). Rural hospital nursing has long been perceived as professionally isolated, insufficiently supported by management and with limited access to continuing education and career pathways (Willis et al.,&#xA0;<xref rid="jnu12800-bib-0065" ref-type="bibr">2016</xref>). Rural hospital practice may hold limited attraction as a career option for nurses, as rural areas may have insufficient employment options for partners, limited housing options and inadequate facilities for families (Sellers et al.,&#xA0;<xref rid="jnu12800-bib-0056" ref-type="bibr">2019</xref>). These factors have, historically, made it difficult to recruit nurses to rural areas.</p>
+    </sec>
+    <sec sec-type="background" id="jnu12800-sec-0008">
+      <title>BACKGROUND</title>
+      <p>Rural hospital nurses have to cope with high workloads and often find it difficult to take leave due to the lack of staff to replace them (Hart et al.,&#xA0;<xref rid="jnu12800-bib-0026" ref-type="bibr">2013</xref>). They also frequently work additional hours and part&#x2010;time employees may find themselves working full&#x2010;time hours to cover workforce shortages (Francis &amp; Mills,&#xA0;<xref rid="jnu12800-bib-0022" ref-type="bibr">2011</xref>). These factors may lead to nurse burnout which, coupled with the aging rural nursing workforce (National Rural Health Alliance Inc.,&#xA0;<xref rid="jnu12800-bib-0047" ref-type="bibr">2019</xref>), has a significant impact on workforce attrition (Sasso et al.,&#xA0;<xref rid="jnu12800-bib-0053" ref-type="bibr">2019</xref>). This high attrition rate results in a loss of knowledge and experience which, ultimately, affects the delivery of safe patient care (Buykx et al.,&#xA0;<xref rid="jnu12800-bib-0010" ref-type="bibr">2010</xref>; Flinkman et al.,&#xA0;<xref rid="jnu12800-bib-0020" ref-type="bibr">2010</xref>). These challenges, and the lack of data on the rural nursing workforce, substantiate the need to investigate factors that affect job satisfaction to attract and retain nurses in the rural clinical setting (Park et al.,&#xA0;<xref rid="jnu12800-bib-0048" ref-type="bibr">2019</xref>).</p>
+      <p>Job satisfaction has been described as a feeling of pleasantness when occupational desires or needs have been fulfilled (Liu et al.,&#xA0;<xref rid="jnu12800-bib-0038" ref-type="bibr">2016</xref>). Due to its potential impact on retention and the quality and safety of patient care, job satisfaction has been examined in research on the nursing workforce in varying contexts (Dall'Ora et al.,&#xA0;<xref rid="jnu12800-bib-0013" ref-type="bibr">2015</xref>; Halcomb &amp; Bird,&#xA0;<xref rid="jnu12800-bib-0024" ref-type="bibr">2020</xref>). Herzberg's Two Factor Theory of Motivation describes how motivating factors can increase satisfaction, while negative factors can decrease job satisfaction (Herzberg et al.,&#xA0;<xref rid="jnu12800-bib-0028" ref-type="bibr">1959</xref>). Increasing job satisfaction within a workplace has the potential to increase the ability to attract and retain staff (Halcomb &amp; Bird,&#xA0;<xref rid="jnu12800-bib-0024" ref-type="bibr">2020</xref>) and is directly related to patient satisfaction (De Simone et al.,&#xA0;<xref rid="jnu12800-bib-0014" ref-type="bibr">2018</xref>). However, job dissatisfaction is associated with employee withdrawal, intention to leave and burnout, and can effect productivity, creativity and longevity in a workplace (Liu et al.,&#xA0;<xref rid="jnu12800-bib-0038" ref-type="bibr">2016</xref>). Job dissatisfaction is correlated with increased care left undone, which affects the quality and safety of patient care (White et al.,&#xA0;<xref rid="jnu12800-bib-0064" ref-type="bibr">2019</xref>).</p>
+      <p>Existing literature shows that the practice environment, workplace stressors and community and rural life impact job satisfaction of nurses working in rural hospitals (Smith et al.,&#xA0;<xref rid="jnu12800-bib-1068" ref-type="bibr">2019</xref>). Given the impact on retention, an understanding of job satisfaction in diverse clinical settings is required (Halcomb et al.,&#xA0;<xref rid="jnu12800-bib-0025" ref-type="bibr">2018</xref>). The aim of this paper is to explore the relationships between job satisfaction, community satisfaction, practice environment, burnout, and intention to leave of nurses working in Australian small rural hospitals. This is one aspect of a large survey exploring the experiences of rural nurses across Australia. Other aspects of this larger study are reported elsewhere as they present discrete components of the data (Smith et al.,&#xA0;<xref rid="jnu12800-bib-0069" ref-type="bibr">2020</xref>, <xref rid="jnu12800-bib-0070" ref-type="bibr">2021</xref>).</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12800-sec-0009">
+      <title>METHODS</title>
+      <sec id="jnu12800-sec-0010">
+        <title>Study design and setting</title>
+        <p>A cross sectional online survey collected data over a 10&#x2010;week period in 2018 from nurses working in small rural public hospitals of less than 99 beds throughout Australia. Prior to commencing data collection ethical approval was granted by the University of Wollongong Human Research Ethics Committee (Approval No 2018/172). Participants were able to stop the survey at any time; participation was voluntary and anonymous.</p>
+      </sec>
+      <sec id="jnu12800-sec-0011">
+        <title>Participants</title>
+        <p>Enrolled (diploma prepared) nurses, registered (baccalaureate prepared or equivalent) nurses and dual registered nurse/midwives employed in the 479 hospitals listed as rural health facilities from the <ext-link xlink:href="https://www.aihw.gov.au/myhospitals" ext-link-type="uri">https://www.aihw.gov.au/myhospitals</ext-link> website (Australian Institute of Health and Welfare,&#xA0;<xref rid="jnu12800-bib-0004" ref-type="bibr">2017</xref>) were invited to participate in the study. Public hospitals or multi&#x2010;purpose services of less than 99 beds that were described as a small hospital or regional hospital were included. Given their different roles and practice scopes, solely registered midwives and nurse practitioners were excluded from the study.</p>
+        <p>There was no central data source that provides the numbers of nurses working in the included hospitals at the time of the study. Additionally, by necessity, as we used indirect recruitment methods, the number of nurses reached is unclear. As such it is not possible to calculate a response rate or undertake a power calculation as the exact population size is unclear. To this end we sought to recruit as many nurses employed at eligible facilities as possible during the study period.</p>
+        <p>Several methods were employed to recruit participants. Information packs were mailed to the 479 eligible facilities which included information about the study for nurse managers and flyers to advertise the study. An advertisement about the study was posted on Facebook, Twitter, and LinkedIn. Posts were either made via page administrators or as direct posts on sites that were identified by the research team as being seen by the target group. This included national and state&#x2010;based groups that were focused on healthcare in rural areas. Posts were subsequently shared and commented on by stakeholders and the target group. These posts included brief study information and a link to the online survey. Lastly, key nursing organizations were contacted to disseminate study information to their membership through newsletters, social media pages, and regular updates. These organizations included the Council of Remote Area Nurses of Australia, the Australian College of Nurses, the Australian Nursing and Midwifery Federation, the National Rural Health Alliance, and Services for Australian Rural and Remote Allied Health. These groups were selected based on either their focus on rural healthcare or the large number of rural nurse members. Reminders were sent to these organizations via email to encourage the dissemination of the survey.</p>
+      </sec>
+      <sec id="jnu12800-sec-0012">
+        <title>Survey tool</title>
+        <p>A 37&#x2010;item online survey, based on previously validated tools and a literature review (Smith et al.,&#xA0;<xref rid="jnu12800-bib-1068" ref-type="bibr">2019</xref>) was developed for this study. As there is no single theory that underpins the depth and breadth of the survey focus, the survey tool was informed by a combination of theoretical approaches to job satisfaction [Herzberg's Two Factor Theory of Motivation (Herzberg et al.,&#xA0;<xref rid="jnu12800-bib-0028" ref-type="bibr">1959</xref>)], burnout [e.g. Job Demands/Resources Model (Demerouti et al.,&#xA0;<xref rid="jnu12800-bib-0016" ref-type="bibr">2001</xref>)], Work Characteristics Model (Hackman &amp; Oldham,&#xA0;<xref rid="jnu12800-bib-0023" ref-type="bibr">1975</xref>) and intention to leave [e.g. Modeling and Role Modeling Theory (Amos et al.,&#xA0;<xref rid="jnu12800-bib-0002" ref-type="bibr">1983</xref>)], the Theory of Reasoned Action (Fishbein,&#xA0;<xref rid="jnu12800-bib-0019" ref-type="bibr">1976</xref>) and the Organizational Commitment Model (Meyer &amp; Allen,&#xA0;<xref rid="jnu12800-bib-0042" ref-type="bibr">1991</xref>).</p>
+        <p>Three experienced nurse researchers and ten volunteer rural nurses pilot tested the survey. This resulted in minor amendments to wording and formatting before the survey launch. The final survey consisted of participant demographics and hospital characteristics, and validated instruments that assessed the practice environment (Joyce &amp; Crookes,&#xA0;<xref rid="jnu12800-bib-0032" ref-type="bibr">2007</xref>), quality of care (Ball et al.,&#xA0;<xref rid="jnu12800-bib-0009" ref-type="bibr">2013</xref>), care left undone (Ball et al.,&#xA0;<xref rid="jnu12800-bib-0008" ref-type="bibr">2016</xref>), career intentions (Dall'Ora et al.,&#xA0;<xref rid="jnu12800-bib-0013" ref-type="bibr">2015</xref>), job satisfaction (McManus et al.,&#xA0;<xref rid="jnu12800-bib-0041" ref-type="bibr">2002</xref>), as well as community and work community satisfaction (MacLeod et al.,&#xA0;<xref rid="jnu12800-bib-0039" ref-type="bibr">2017</xref>). The survey was delivered online via SurveyMonkey (<xref rid="jnu12800-bib-0058" ref-type="bibr">2017</xref>).</p>
+        <p>This paper reports the job satisfaction component of the survey data and examines relationships between demographic characteristics, job satisfaction, community satisfaction, practice environment, burnout, and intention to leave. Given the volume of data, other aspects of the survey are published separately (Smith et al.,&#xA0;<xref rid="jnu12800-bib-0069" ref-type="bibr">2020</xref>, <xref rid="jnu12800-bib-0070" ref-type="bibr">2021</xref>).</p>
+        <sec id="jnu12800-sec-0013">
+          <title>Demographics</title>
+          <p>Demographic items focused on the participant (country of birth, gender, age, registration status, years of nursing experience, years at current workplace, employment status, predominant clinical area of practice) and their workplace (hospital or multi&#x2010;purpose service and the presence of an emergency department and 24&#x2010;h medical coverage). Participants were also asked if they spent their childhood living in a rural community and if they spent their childhood living in the community in which they are currently employed.</p>
+        </sec>
+        <sec id="jnu12800-sec-0014">
+          <title>Job satisfaction</title>
+          <p>Job satisfaction was measured by a single item measured on a four&#x2010;point Likert scale, ranging from very dissatisfied (1) to very satisfied (4), which had been previously used by Sermeus et al.&#xA0;(<xref rid="jnu12800-bib-0057" ref-type="bibr">2011</xref>) in the RN4CAST studies. A meta&#x2010;analysis of single&#x2010;item measures of overall job satisfaction measures reported reliability coefficient values ranging from 0.63 to 0.72 (Wanous et al.,&#xA0;<xref rid="jnu12800-bib-0063" ref-type="bibr">1997</xref>) making them a suitable measure.</p>
+        </sec>
+        <sec id="jnu12800-sec-0015">
+          <title>Community satisfaction</title>
+          <p>Satisfaction with participants' community was assessed by two items designed to assess nurses' satisfaction about living and working in a small, rural community. These items were derived from an existing 12 item instrument on advice from the original author (Henderson&#x2010;Betkus &amp; MacLeod,&#xA0;<xref rid="jnu12800-bib-0027" ref-type="bibr">2004</xref>) and were measured on a five&#x2010;point Likert scale, from not satisfied (1) to very satisfied (5).</p>
+        </sec>
+        <sec id="jnu12800-sec-0016">
+          <title>Practice environment</title>
+          <p>The practice environment refers to nurses' working conditions and includes the ability for nurses to work to their full scope of practice (Lake,&#xA0;<xref rid="jnu12800-bib-0036" ref-type="bibr">2007</xref>). The nursing practice environment has been studied since the 1980s to create favorable workplaces (Lake,&#xA0;<xref rid="jnu12800-bib-0035" ref-type="bibr">2002</xref>). Participants' perceptions of the practice environment were measured using the Nursing Work Index&#x2010;Revised: Australian (Joyce&#x2010;McCoach &amp; Crookes,&#xA0;<xref rid="jnu12800-bib-0033" ref-type="bibr">2011</xref>), a tool specific to the Australian context. This tool was derived from the Nursing Work Index&#x2010;Revised which was constructed to measure magnetism in US hospitals (Aiken &amp; Patrician,&#xA0;<xref rid="jnu12800-bib-0001" ref-type="bibr">2000</xref>; Lake,&#xA0;<xref rid="jnu12800-bib-0035" ref-type="bibr">2002</xref>). The Nursing Work Index&#x2010;Revised: Australian includes 29 items, which comprise five subscales, measured on a four&#x2010;point Likert scale, ranging from strongly disagree (1) to strongly agree (4) (Joyce &amp; Crookes,&#xA0;<xref rid="jnu12800-bib-0032" ref-type="bibr">2007</xref>). Joyce&#x2010;McCoach and Crookes&#xA0;(<xref rid="jnu12800-bib-0033" ref-type="bibr">2011</xref>) report that the subscales all have acceptable internal consistency with a Cronbach's alpha above 0.7. The practice environment is considered favorable if the total mean score is above 2.5 (Swiger et al.,&#xA0;<xref rid="jnu12800-bib-0059" ref-type="bibr">2017</xref>).</p>
+        </sec>
+        <sec id="jnu12800-sec-0017">
+          <title>Burnout</title>
+          <p>An abbreviated form of the Maslach Burnout Inventory measured participants' burnout (Zuraida &amp; Zainal,&#xA0;<xref rid="jnu12800-bib-0067" ref-type="bibr">2015</xref>). Burnout is the feeling of being emotionally drained in response to excessive stress at work (Dall'Ora et al.,&#xA0;<xref rid="jnu12800-bib-0012" ref-type="bibr">2020</xref>). The Abbreviated Maslach Burnout Inventory comprised of nine items in three subscales: emotional exhaustion, depersonalisation, and personal achievement. Each item was scored on a six&#x2010;point Likert scale, ranging from never (0) to every day (6) (Vijendren et al.,&#xA0;<xref rid="jnu12800-bib-0062" ref-type="bibr">2018</xref>). High scores in the emotional exhaustion and depersonalisation subscales indicate high levels of burnout, while high scores in the personal accomplishment subscale indicate low levels of burnout (Zuraida &amp; Zainal,&#xA0;<xref rid="jnu12800-bib-0067" ref-type="bibr">2015</xref>). Cronbach's alpha of 0.65 (Vijendren et al.,&#xA0;<xref rid="jnu12800-bib-0062" ref-type="bibr">2018</xref>) / 0.66 (Zuraida &amp; Zainal,&#xA0;<xref rid="jnu12800-bib-0067" ref-type="bibr">2015</xref>) demonstrate acceptable internal consistency and concurrent validity.</p>
+        </sec>
+        <sec id="jnu12800-sec-0018">
+          <title>Intention to leave</title>
+          <p>Participants were asked if they intended to leave employment at their current workplace in the next one year and five years, with a dichotomous &#x2018;yes&#x2019; or &#x2018;no&#x2019; response. This item was guided by the approach used by Dall'Ora et al.&#xA0;(<xref rid="jnu12800-bib-0013" ref-type="bibr">2015</xref>).</p>
+        </sec>
+      </sec>
+      <sec id="jnu12800-sec-0019">
+        <title>Data analysis</title>
+        <p>Data analysis was performed using the Statistical Package for the Social Sciences (SPSS) version 25 (IBM Corp.,&#xA0;<xref rid="jnu12800-bib-0030" ref-type="bibr">2018</xref>). Descriptive statistics including frequencies, percentages, means, and standard deviations were calculated to summarize the data. Pearson's correlations (<italic toggle="yes">r</italic>) were performed to determine the associations between nurses' job satisfaction and the continuous variables. Values of &lt;0.3, 0.3&#x2013;0.5, 0.5&#x2013;0.7 and&#x2009;&gt;0.7 were considered as negligible, low, moderate and high correlation respectively (Mukaka,&#xA0;<xref rid="jnu12800-bib-0044" ref-type="bibr">2012</xref>). Factors influencing rural nurses' job satisfaction were identified through multiple linear regression analysis of the significant variables from the correlations, using the enter method (Ho,&#xA0;<xref rid="jnu12800-bib-0029" ref-type="bibr">2013</xref>). A <italic toggle="yes">p</italic>&#x2010;value &lt;0.05 indicated statistical significance.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12800-sec-0020">
+      <title>RESULTS</title>
+      <sec id="jnu12800-sec-0021">
+        <title>Demographics</title>
+        <p>Of the 543 responses received, 20 (3.7%) were excluded as they completed the consent only. A further 116 (21.4%) responses answered fewer than 12 items and 34 (6.3%) responses ceased the survey before providing any demographic data. Given the limited data provided these responses were excluded. As these responses provided data for less than 50% of survey items it was inappropriate to use imputation (Segerstrom,&#xA0;<xref rid="jnu12800-bib-0055" ref-type="bibr">2020</xref>). Given that participants stopped completing the survey before responding to all items, there is no reason to expect that this was not random. This left 383 responses included in the analysis (Table&#xA0;<xref rid="jnu12800-tbl-0001" ref-type="table">1</xref>).</p>
+        <table-wrap position="float" id="jnu12800-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Participant demographics (<italic toggle="no">n</italic>&#xA0;=&#xA0;383)</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th>
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Age</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x2264;30</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">36</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">9.4</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">31&#x2013;50</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">146</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">38.1</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x2265;51</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">177</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">46.2</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Data missing</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">24</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">6.3</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Country of birth</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Australia</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">316</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">82.5</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">UK</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">21</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">New Zealand</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">7</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">14</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">3.7</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Data missing</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">25</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">6.5</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Registration status</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Registered Nurse (RN)</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">261</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">68.1</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Enrolled Nurse (EN/EEN)</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">67</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">17.5</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Registered Nurse/Registered Midwife (RN/RM)</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">55</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">14.4</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Workplace type</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Public hospital</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">296</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">77.3</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Multi purpose service</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">87</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">22.7</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Hospital size</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&lt;50 beds</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">340</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">88.8</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">50&#x2013;99 beds</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">11.2</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Predominant area of practice</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Regularly work in different clinical areas</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">145</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">37.9</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Medical/surgical</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">115</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">30.0</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Critical care</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">94</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">24.5</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">8</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">2.1</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Data missing</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">21</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Childhood living in a rural community</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">228</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">59.5</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">131</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">34.2</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Data missing</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">24</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">6.3</td>
+              </tr>
+              <tr>
+                <td colspan="3" align="left" valign="top" rowspan="1">Childhood living in the community currently employed</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">65</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">16.9</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">294</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">76.8</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Data missing</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">24</td>
+                <td style="padding-left:20%" align="center" valign="top" rowspan="1" colspan="1">6.3</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Most participants were registered nurses (<italic toggle="yes">n</italic>&#xA0;=&#xA0;261; 68.1%), born in Australia (<italic toggle="yes">n</italic>&#xA0;=&#xA0;316; 82.5%) and female (<italic toggle="yes">n</italic>&#xA0;=&#xA0;329; 85.9%). The mean age of participants was 47.7&#x2009;years (Range 20&#x2013;76&#x2009;years; SD 12.0). The mean number of years worked as a nurse was 20.8&#x2009;years (Range 1&#x2013;54&#x2009;years; SD 14.1) and the mean number of years at the current workplace was 8.3&#x2009;years (Range 0&#x2013;44&#x2009;years; SD 8.8). More than half (<italic toggle="yes">n</italic>&#xA0;=&#xA0;228; 59.5%) of the participants grew up in a rural community but less than 17% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;65) grew up in the community in which they were currently employed.</p>
+      </sec>
+      <sec id="jnu12800-sec-0022">
+        <title>Job and community satisfaction</title>
+        <p>The majority of participants indicated they were either moderately (<italic toggle="yes">n</italic>&#xA0;=&#xA0;146; 38.1%) or very satisfied (<italic toggle="yes">n</italic>&#xA0;=&#xA0;107; 27.9%) with their current job. Fewer participants described themselves as a little (<italic toggle="yes">n</italic>&#xA0;=&#xA0;88; 23.0%) or very dissatisfied (<italic toggle="yes">n</italic>&#xA0;=&#xA0;35; 9.1%). Satisfaction with community was positive with most participants either very satisfied (<italic toggle="yes">n</italic>&#xA0;=&#xA0;155; 40.5%) or somewhat satisfied (<italic toggle="yes">n</italic>&#xA0;=&#xA0;125; 32.6%). Very few participants were mildly (<italic toggle="yes">n</italic>&#xA0;=&#xA0;18; 4.7%) or not satisfied (<italic toggle="yes">n</italic>&#xA0;=&#xA0;15; 3.9%).</p>
+      </sec>
+      <sec id="jnu12800-sec-0023">
+        <title>Intention to leave</title>
+        <p>Some 31.1% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;117) of participants intended to leave their current workplace within the next year; however, more than half of the participants (<italic toggle="yes">n</italic>&#xA0;=&#xA0;236; 62.8%) intended to leave their current workplace within the next 5&#x2009;years.</p>
+      </sec>
+      <sec id="jnu12800-sec-0024">
+        <title>Correlation between job satisfaction, practice environment and burnout</title>
+        <p>There was a moderate, positive, significant correlation between job satisfaction with all five subscales of the Nursing Work Index&#x2010;Revised: Australian, with correlation coefficients ranging from 0.54 to 0.62 (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01) (Table&#xA0;<xref rid="jnu12800-tbl-0002" ref-type="table">2</xref>). The Abbreviated Maslach Burnout Inventory emotional exhaustion subscale had a moderate, negative correlation with job satisfaction (<italic toggle="yes">r</italic>&#xA0;=&#xA0;&#x2212;0.58, <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01). All other variables had either a low or negligible correlation with job satisfaction.</p>
+        <table-wrap position="float" id="jnu12800-tbl-0002" content-type="TABLE">
+          <label>TABLE 2</label>
+          <caption>
+            <p>Correlation analysis</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1"/>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Mean&#x2009;&#xB1;&#x2009;SD</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">1</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">2</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">3</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">4</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">5</th>
+                <th align="left" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Nursing Work Index&#x2010;Revised: Australian</th>
+                <th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Abbreviated Maslach Burnout Inventory</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">6</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">7</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">8</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">9</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">10</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">11</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">12</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">13</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">1. Satisfaction with current job</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.86&#x2009;&#xB1;&#x2009;0.94</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2. Did you spend your childhood living in a rural community? (Yes)</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">(n&#xA0;=&#xA0;228, 63.5%)</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">3. Did you spend your childhood living in the community in which you currently work? (Yes)</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">(<italic toggle="yes">n</italic>&#xA0;=&#xA0;65, 18.1%)</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.01</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.34<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">4. Satisfaction with community</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4.08&#x2009;&#xB1;&#x2009;1.07</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.32<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.07</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.13<xref rid="jnu12800-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5. Age</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">47.74&#x2009;&#xB1;&#x2009;12.04</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.06</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.02</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.08</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td colspan="15" align="left" valign="top" rowspan="1">
+<italic toggle="yes">Nursing Work Index&#x2010;Revised: Australian subscales</italic>
+</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6. Collegial nurse&#x2010;physician relations</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.16&#x2009;&#xB1;&#x2009;0.67</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.54<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.01</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.27<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">7. Staffing and resource adequacy</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.73&#x2009;&#xB1;&#x2009;0.74</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.59<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.04</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.02</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.21<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.44<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">8. Nurse participation in hospital affairs</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.67&#x2009;&#xB1;&#x2009;0.65</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.57<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.02</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.08</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.23<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.04</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.51<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.55<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">9. Nurse manager ability, leadership and support of nurses</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.87&#x2009;&#xB1;&#x2009;0.80</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.57<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.01</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.01</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.19<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.05</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.48<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.52<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.78<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">10. Nursing foundations for quality of care</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.99&#x2009;&#xB1;&#x2009;0.57</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.62<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.04</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.33<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.18<xref rid="jnu12800-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.56<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.62<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.78<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.71<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td colspan="15" align="left" valign="top" rowspan="1">
+<italic toggle="yes">Abbreviated Maslach Burnout Inventory subscales</italic>
+</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">11. Emotional exhaustion</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">8.15&#x2009;&#xB1;&#x2009;4.65</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.58<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.04</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.03</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.32<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.09</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.33<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.48<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.31<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.33<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.40<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">12. Depersonalisation</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.63&#x2009;&#xB1;&#x2009;3.38</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.34<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.07</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.13<xref rid="jnu12800-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.19<xref rid="jnu12800-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.13<xref rid="jnu12800-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.27<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.22<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.25<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.32<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.45<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">13. Personal accomplishment</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">14.09&#x2009;&#xB1;&#x2009;3.36</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.30<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.02</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.06</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.15<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.45</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.24<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.22<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.20<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.18<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0.27<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.20<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;0.26<xref rid="jnu12800-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1.00</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12800-ntgp-0001">
+            <fn id="jnu12800-note-0001">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Correlation is significant at the 0.01 level (2&#x2010;tailed).</p>
+            </fn>
+            <fn id="jnu12800-note-0002">
+              <label>
+<sup>b</sup>
+</label>
+              <p>Correlation is significant at the 0.05 level (2&#x2010;tailed).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12800-sec-0025">
+        <title>Factors associated with Rural Nurses' job satisfaction</title>
+        <p>A regression model was fitted for factors that had a significant correlation with job satisfaction. Variables that measured participants' intention to leave their workplace were also included, as intention to leave has been identified as an important predictor of nurses' job satisfaction (Dall'Ora et al.,&#xA0;<xref rid="jnu12800-bib-0013" ref-type="bibr">2015</xref>). Therefore, the predictive variables in the final model were collegial nurse&#x2010;physician relations; staffing and resource adequacy; nurse participation in hospital affairs; nurse manager ability, leadership and support of nurses; nursing foundations for quality of care; emotional exhaustion; and intention to leave within the next one year or five years. Results indicated that the eight factors explained 59.7% of the variance in job satisfaction (adjusted <italic toggle="yes">R</italic>
+<sup>2</sup>&#xA0;=&#xA0;0.597, <italic toggle="yes">F</italic> [8, 360] =&#x2009;66.72, <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.000). Of these factors, collegial nurse&#x2010;physician relations; staffing and resource adequacy; nurse manager ability, leadership and support of nurses; emotional exhaustion and intention to leave within the next five years were significant predictors of job satisfaction (Table&#xA0;<xref rid="jnu12800-tbl-0003" ref-type="table">3</xref>).</p>
+        <table-wrap position="float" id="jnu12800-tbl-0003" content-type="TABLE">
+          <label>TABLE 3</label>
+          <caption>
+            <p>Regression analysis of predictors of rural nurses' job satisfaction</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Variables</th>
+                <th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Unstandardised coefficient</th>
+                <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Standardized coefficient</th>
+                <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<italic toggle="yes">t</italic>
+</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+</th>
+                <th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">95% CI</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">&#x3B2;</italic>
+</th>
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">SE</th>
+                <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">&#x3B2;</italic>
+</th>
+                <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Lower</th>
+                <th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Upper</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Constant</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">1.21</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">0.28</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">4.37</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">0.00</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">0.66</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">1.75</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Collegial nurse&#x2010;physician relations</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.24</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.06</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.18</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">4.23</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.00</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.13</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.36</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Staffing and resource adequacy</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.21</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.06</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.16</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">3.55</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.00</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.09</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.32</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Nurse participation in hospital affairs</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.09</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.09</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.06</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.94</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.35</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.09</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.26</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Nurse manager ability, leadership and support of nurses</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.18</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.07</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.15</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">2.70</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.01</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.05</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.31</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Nursing foundations for quality of care</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.17</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.10</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.11</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">1.73</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.08</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.02</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.38</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Emotional exhaustion</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.06</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.01</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.30</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;7.57</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.00</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.08</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.05</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Are you likely to leave your current workplace within the next one year?</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.11</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.08</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.05</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;1.35</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.18</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.26</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">0.05</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Are you likely to leave your current workplace within the next five years?</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.19</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.07</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.10</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;2.60</td>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0.01</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.33</td>
+                <td align="char" char="." style="padding-left:10%" valign="top" rowspan="1" colspan="1">&#x2212;0.05</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12800-ntgp-0002">
+            <fn id="jnu12800-note-0003">
+              <p>Abbreviations: CI, confidence interval; SE, standard error.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12800-sec-0026">
+      <title>DISCUSSION</title>
+      <p>This study adds to the limited existing research on the factors that influence the job satisfaction of nurses working in Australian small rural hospitals. Overall, this study demonstrates that nurses working in Australian small rural hospitals have high levels of job satisfaction. High levels of satisfaction are not unusual and measures of satisfaction are often recognized as having a ceiling effect (Halcomb et al.,&#xA0;<xref rid="jnu12800-bib-0025" ref-type="bibr">2018</xref>). However, the knowledge gained regarding the factors that impact job satisfaction is important as it may assist nurse managers to design and implement evidence&#x2010;based strategies aimed at retaining nurses in rural areas. Ensuring an adequate workforce may, in turn, support the delivery of quality care and promote access to health care in rural areas.</p>
+      <p>The study revealed that collegial nurse&#x2010;physician relations, staffing and resource adequacy, nurse manager ability, leadership and support of nurses, emotional exhaustion and intention to leave within the next five years were predictors of nurses' job satisfaction. Of these, emotional exhaustion and nurse manager ability, leadership and support of nurses were the most significant predictors. Consistent with the literature, in this study, participants with higher emotional exhaustion reported lower levels of job satisfaction which has been reported as a significant factor in nurses leaving their job (Dall'Ora et al.,&#xA0;<xref rid="jnu12800-bib-0013" ref-type="bibr">2015</xref>; Sasso et al.,&#xA0;<xref rid="jnu12800-bib-0053" ref-type="bibr">2019</xref>).</p>
+      <p>The emotional exhaustion subscale refers directly to burnout and describes feelings of being exhausted and overextended by the work being carried out (Maslach &amp; Jackson,&#xA0;<xref rid="jnu12800-bib-0040" ref-type="bibr">1981</xref>). Jahner et al.&#xA0;(<xref rid="jnu12800-bib-0031" ref-type="bibr">2019</xref>) found that psychological distress in rural nurses was largely linked to organizational environments, emotional demands of working with patients and managing life&#x2010;threatening conditions. An association has been found between psychological distress and burnout caused by dual relationships with patients, where personal and professional boundaries become blurred and nurses are required to care for patients and families that may be familiar to them (Jahner et al.,&#xA0;<xref rid="jnu12800-bib-0031" ref-type="bibr">2019</xref>). It is worth considering that the close relationships formed with patients and co&#x2010;workers in the rural context are unique and can have a significant effect on emotional exhaustion and, subsequently, nurses' job satisfaction.</p>
+      <p>Emotional exhaustion resulting in burnout negatively affects job satisfaction, intention to leave and patient satisfaction (Vahey et al.,&#xA0;<xref rid="jnu12800-bib-0061" ref-type="bibr">2004</xref>). Burnout can impair the attention nurses give to patients as nurses experiencing high levels of burnout have lost their ability to deal with the day to day stresses of their work and this may cause a lack of motivation and a disconnect between the nurse and the patient receiving care (Ross,&#xA0;<xref rid="jnu12800-bib-0052" ref-type="bibr">2016</xref>). All of these factors have detrimental effects on the quality of care and patient safety (Liu et al.,&#xA0;<xref rid="jnu12800-bib-0037" ref-type="bibr">2018</xref>). Given the health disparities of these communities and limitations of access to care in rural areas, this is a significant concern.</p>
+      <p>Nurse managers play a vital role in creating a safe and cohesive work environment to minimize the potential for nurse burnout (Duffield et al.,&#xA0;<xref rid="jnu12800-bib-0018" ref-type="bibr">2009</xref>; Liu et al.,&#xA0;<xref rid="jnu12800-bib-0037" ref-type="bibr">2018</xref>). Job sharing and flexible work hours have been suggested as strategies to improve the work environment for rural nurses (Dekeseredy et al.,&#xA0;<xref rid="jnu12800-bib-0015" ref-type="bibr">2019</xref>). Jahner et al.&#xA0;(<xref rid="jnu12800-bib-0031" ref-type="bibr">2019</xref>) recommend that managers facilitate access to debriefing and collegial support for rural nurses, but also recognize that isolation and lack of resources may prevent these services from being available. Formal (provided by supervisors or managers) or informal (provided by family or co&#x2010;workers) social support reduces emotional exhaustion and resulting burnout and includes providing empathy, trust, civility, and affection in times of stress (Woodhead et al.,&#xA0;<xref rid="jnu12800-bib-0066" ref-type="bibr">2016</xref>). Ensuring support services are available to nurses is imperative in providing a work environment that minimizes burnout and reduces intention to leave (Duffield et al.,&#xA0;<xref rid="jnu12800-bib-0018" ref-type="bibr">2009</xref>).</p>
+      <p>The results of this study confirm that nurses with greater job satisfaction were less likely to express a desire to leave their employment within the next five years. Although this is not the first study to report a relationship between intention to leave and job satisfaction among rural nurses (Roberge,&#xA0;<xref rid="jnu12800-bib-0050" ref-type="bibr">2009</xref>), retention of nurses in rural hospitals remains an ongoing challenge. The high attrition rate of rural nurses in Australia is expensive, with an average cost of approximately $50,000.00 per full&#x2010;time nurse (Roche et al.,&#xA0;<xref rid="jnu12800-bib-0051" ref-type="bibr">2015</xref>). This cost includes not only the recruitment and education of new nurses but also the loss of productivity and costs of temporary cover (Duffield et al.,&#xA0;<xref rid="jnu12800-bib-0017" ref-type="bibr">2014</xref>). High attrition rates also cause other less tangible issues within rural hospitals such as reduced staff continuity, poor skill mix, reduced nurse to patient ratios, and higher workloads. All of these factors lead to increased stress, burnout, and decreased job satisfaction of the remaining staff thus compounding the problem (Mills et al.,&#xA0;<xref rid="jnu12800-bib-0043" ref-type="bibr">2016</xref>). Of particular concern are the potential effects on outcomes, with continuity and efficiency affecting the quality and safety of patient care.</p>
+      <p>Data from this study indicated that a significant number of nurses intend on leaving their current workplace in the next 1 and 5&#x2009;years. This will have a significant impact on small rural hospitals. Numerous strategies have been used to retain nurses in rural areas with varying results. Although financial incentives have been used to attract health professionals to rural areas they are unlikely to influence nurses' decision to stay (Buykx et al.,&#xA0;<xref rid="jnu12800-bib-0010" ref-type="bibr">2010</xref>). Given that satisfaction with rural communities was positive, promoting the favorable aspects of rural life may be useful in attracting nurses to rural communities, and in turn, employment in rural hospitals. This should begin whilst nurses are undertaking their undergraduate education and include rural clinical placements and adequate preparation to practice in a rural facility. The Stronger Rural Health Strategy (Australian Government Department of Health,&#xA0;<xref rid="jnu12800-bib-0003" ref-type="bibr">2018</xref>) included an independent review of the educational preparation of nurses in Australia (Schwartz,&#xA0;<xref rid="jnu12800-bib-0054" ref-type="bibr">2019</xref>) and found one of the largest barriers to nursing students attending rural clinical placements is the cost of travel and accommodation. A recommendation from the review was that nurses be afforded longer regional clinical placements and greater travel subsidies similar to that of medical students. This may attract more nursing students to rural areas and increase their likelihood to return to a rural hospital (Kulig et al.,&#xA0;<xref rid="jnu12800-bib-0034" ref-type="bibr">2015</xref>).</p>
+    </sec>
+    <sec id="jnu12800-sec-0027">
+      <title>LIMITATIONS</title>
+      <p>This is the first Australian national study to explore factors associated with rural hospital nurses' job satisfaction. The study draws on a sample spread across a vast geographical area which reflects nurses' high interest in the issues explored. It is, however, impossible to calculate a response rate as accurate workforce data about the number of nurses employed in rural hospitals in Australia at any one time are not available. Also due to the nature of the survey, data were not able to be aggregated at a hospital or unit level. The results were also not compared with data from metropolitan areas. Additionally, as a cross&#x2010;sectional survey, data were collected at a single point in time and so may not reflect attitudes over time.</p>
+      <p>Although there are many theoretical frameworks that explore the nursing workforce, no single theory could be used to explore all the aspects of this study. For this reason, the study was informed by using a combination of theories to explore job satisfaction. Given that little is currently known on this topic, this approach allowed a broad view of the phenomena to be generated by gathering data on relevant concepts and exploring their relationships.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12800-sec-0028">
+      <title>CONCLUSION</title>
+      <p>The findings of this study indicate that overall, nurses working in Australian small rural hospitals have high levels of job satisfaction. Emotional exhaustion and nurse&#x2010;manager ability, leadership, and support of nurses were found to be the most significant predictors of job satisfaction. Additionally, increased job satisfaction decreased participants' intention to leave within the next five years. The importance of job satisfaction regarding nurse burnout, nurses' intention to leave and patient safety is well documented; however, little has been done to address the issues in rural hospitals of Australia. The high attrition rate of rural nurses is an ongoing issue and increasing job satisfaction is one way of counteracting this problem. A focus on improving job satisfaction is of utmost importance if the retention rate of nurses in rural areas is going to be improved. This study provides an important evidence&#x2010;base for nurse managers to promote job satisfaction and nurse retention in small rural hospitals, subsequently, increasing access to quality health care in rural areas.</p>
+      <sec id="jnu12800-sec-0029">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<ext-link xlink:href="https://www.aihw.gov.au/" ext-link-type="uri">https://www.aihw.gov.au/</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.health.gov.au/" ext-link-type="uri">https://www.health.gov.au/</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.ruralhealth.org.au/" ext-link-type="uri">https://www.ruralhealth.org.au/</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.health.nsw.gov.au/rural/pages/default.aspx" ext-link-type="uri">https://www.health.nsw.gov.au/rural/pages/default.aspx</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec id="jnu12800-sec-0030">
+      <title>FUNDING INFORMATION</title>
+      <p>This research received no specific grant from any funding agency in the public, commercial, or not&#x2010;for&#x2010;profit sectors. However, the PhD candidate was supported by an Australian Postgraduate Award.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12800-sec-0031">
+      <title>CONFLICT OF INTEREST</title>
+      <p>No conflict of interest has been declared by the authors.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list content-type="cited-references" id="jnu12800-bibl-0001">
+      <title>REFEERENCES</title>
+      <ref id="jnu12800-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0001">
+<string-name>
+<surname>Aiken</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Patrician</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Measuring organizational traits of hospitals: The revised nursing work index</article-title>. <source>Nursing Research</source>, <volume>49</volume>(<issue>3</issue>), <fpage>146</fpage>&#x2013;<lpage>153</lpage>.<pub-id pub-id-type="pmid">10882319</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0002">
+<string-name>
+<surname>Amos</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Erickson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tomlin</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Swain</surname>, <given-names>M.</given-names>
+</string-name> (<year>1983</year>). <article-title>Modeling and role&#x2010;modeling: A theory and paradigm for nursing</article-title>. <source>The American Journal of Nursing</source>, <volume>83</volume>(<issue>9</issue>), <fpage>1355</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0003">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0003">
+<collab collab-type="authors">Australian Government Department of Health</collab>
+. (<year>2018</year>). <source>Stronger Rural Health Strategy</source>. <publisher-name>Australian Government</publisher-name>. <ext-link xlink:href="https://www1.health.gov.au/internet/main/publishing.nsf/Content/D134B39C2F5CEF34CA2582D200809E5B/$File/Nursing.pdf" ext-link-type="uri">https://www1.health.gov.au/internet/main/publishing.nsf/Content/D134B39C2F5CEF34CA2582D200809E5B/$File/Nursing.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0004">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0004">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. (<year>2017</year>). <source>My Hospitals</source>. <publisher-name>Australian Institute of Health and Welfare</publisher-name>. <ext-link xlink:href="https://www.myhospitals.gov.au/" ext-link-type="uri">https://www.myhospitals.gov.au/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0005">
+        <mixed-citation publication-type="miscellaneous" id="jnu12800-cit-0005">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. (<year>2019</year>). <article-title>Rural &amp; Remote Health</article-title>. <ext-link xlink:href="https://www.aihw.gov.au/reports/rural-remote-australians/rural-and-remote-health" ext-link-type="uri">https://www.aihw.gov.au/reports/rural&#x2010;remote&#x2010;australians/rural&#x2010;and&#x2010;remote&#x2010;health</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12800-cit-0006">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. (<year>2020</year>). <article-title>Health Workforce</article-title>. <ext-link xlink:href="https://www.aihw.gov.au/reports/australias-health/health-workforce" ext-link-type="uri">https://www.aihw.gov.au/reports/australias&#x2010;health/health&#x2010;workforce</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0007">
+<string-name>
+<surname>Baernholdt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Keim&#x2010;Malpass</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hinton</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Guofen</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bratt</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>A comparison of quality of care in critical access hospitals and other rural hospitals</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>14</volume>(<issue>2</issue>), <fpage>3</fpage>&#x2013;<lpage>31</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0008">
+<string-name>
+<surname>Ball</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rafferty</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lindqvist</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Murrells</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tishelman</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <article-title>A cross&#x2010;sectional study of &#x2018;care left undone&#x2019; on nursing shifts in hospitals</article-title>. <source>Journal of Advanced Nursing</source>, <volume>72</volume>(<issue>9</issue>), <fpage>2086</fpage>&#x2013;<lpage>2097</lpage>.<pub-id pub-id-type="pmid">27095463</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0009">
+<string-name>
+<surname>Ball</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Murrells</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rafferty</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <article-title>&#x2018;Care left undone&#x2019; during nursing shifts: Associations with workload and perceived quality of care</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>23</volume>(<issue>2</issue>), <fpage>116</fpage>&#x2013;<lpage>125</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0010">
+<string-name>
+<surname>Buykx</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Humphreys</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wakerman</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pashen</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Systematic review of effective retention incentives for health workers in rural and remote areas: Towards evidence&#x2010;based policy</article-title>. <source>The Australian Journal of Rural Health</source>, <volume>18</volume>(<issue>3</issue>), <fpage>102</fpage>&#x2013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">20579020</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0011">
+<string-name>
+<surname>Cosgrave</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maple</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hussain</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>An explanation of turnover intention among early&#x2010;career nursing and allied health professionals working in rural and remote Australia: findings from a grounded theory study</article-title>. <source>Rural and Remote Health</source>, <volume>18</volume>(<issue>3</issue>), <fpage>4511</fpage>&#x2013;<lpage>4529</lpage>.<pub-id pub-id-type="pmid">30173537</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0012">
+<string-name>
+<surname>Dall'Ora</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reinius</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>Burnout in nursing: A theoretical review</article-title>. <source>Human Resources for Health</source>, <volume>18</volume>, <fpage>1</fpage>&#x2013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">31915029</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0013">
+<string-name>
+<surname>Dall'Ora</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Aiken</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Association of 12&#x2009;h shifts and nurses' job satisfaction, burnout and intention to leave: Findings from a cross&#x2010;sectional study of 12 European countries</article-title>. <source>BMJ Open</source>, <volume>5</volume>(<issue>9</issue>), <fpage>e008331</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0014">
+<string-name>
+<surname>De Simone</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Planta</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Cicotto</surname>, <given-names>G.</given-names>
+</string-name> (<year>2018</year>). <article-title>The role of job satisfaction, work engagement, self&#x2010;efficacy and agentic capacities on nurses' turnover intention and patient satisfaction</article-title>. <source>Applied Nursing Research</source>, <volume>39</volume>, <fpage>130</fpage>&#x2013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">29422148</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0015">
+<string-name>
+<surname>Dekeseredy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kurtz Landy</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sedney</surname>, <given-names>C.</given-names>
+</string-name> (<year>2019</year>). <article-title>An exploration of work related stressors experienced by rural emergency nurses</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>19</volume>(<issue>2</issue>), <fpage>2</fpage>&#x2013;<lpage>24</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0016">
+<string-name>
+<surname>Demerouti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bakker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nachreiner</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Schaufeli</surname>, <given-names>W.</given-names>
+</string-name> (<year>2001</year>). <article-title>The job demands&#x2010;resources model of burnout</article-title>. <source>Journal of Applied Psychology</source>, <volume>86</volume>(<issue>3</issue>), <fpage>499</fpage>&#x2013;<lpage>512</lpage>.<pub-id pub-id-type="pmid">11419809</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0017">
+<string-name>
+<surname>Duffield</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Roche</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Homer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Buchan</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dimitrelis</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>A comparative review of nurse turnover rates and costs across countries</article-title>. <source>Journal of Advanced Nursing</source>, <volume>70</volume>(<issue>12</issue>), <fpage>2703</fpage>&#x2013;<lpage>2712</lpage>.<pub-id pub-id-type="pmid">25052582</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0018">
+<string-name>
+<surname>Duffield</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Roche</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>O'Brien&#x2010;Pallas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Catling&#x2010;Paull</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>King</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Staff satisfaction and retention and the role of the Nursing Unit Manager</article-title>. <source>Collegian</source>, <volume>16</volume>(<issue>1</issue>), <fpage>11</fpage>&#x2013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">19388422</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0019">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0019">
+<string-name>
+<surname>Fishbein</surname>, <given-names>M.</given-names>
+</string-name> (<year>1976</year>). <part-title>A behavior theory approach to the relations between beliefs about an object and the attitude toward the object</part-title>. In <source>Mathematical Models in Marketing</source> (pp. <fpage>87</fpage>&#x2013;<lpage>88</lpage>). <publisher-name>Springer</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0020">
+<string-name>
+<surname>Flinkman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Leino&#x2010;Kilpi</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Salantera</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Nurses' intention to leave the profession: Integrative review</article-title>. <source>Journal of Advanced Nursing</source>, <volume>66</volume>(<issue>7</issue>), <fpage>1422</fpage>&#x2013;<lpage>1434</lpage>.<pub-id pub-id-type="pmid">20497270</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0021">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0021">
+<string-name>
+<surname>Francis</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>Y.</given-names>
+</string-name> &amp; <string-name>
+<surname>Davies</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <source>Rural Nursing: The Australian Context</source>. <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0022">
+<string-name>
+<surname>Francis</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mills</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Sustaining and growing the rural nursing and midwifery workforce: Understanding the issues and isolating directions for the future</article-title>. <source>Collegian</source>, <volume>18</volume>(<issue>2</issue>), <fpage>55</fpage>&#x2013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">21706992</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0023">
+<string-name>
+<surname>Hackman</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Oldham</surname>, <given-names>G.</given-names>
+</string-name> (<year>1975</year>). <article-title>Development of the job diagnostic survey</article-title>. <source>Journal of Applied Psychology</source>, <volume>60</volume>(<issue>2</issue>), <fpage>159</fpage>&#x2013;<lpage>170</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0024">
+<string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bird</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Job satisfaction and career intention of Australian general practice nurses: A cross&#x2010;sectional survey</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>52</volume>(<issue>3</issue>), <fpage>270</fpage>&#x2013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">32187812</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0025">
+<string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Smyth</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McInnes</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Job satisfaction and career intentions of registered nurses in primary health care: an integrative review</article-title>. <source>BMC Family Practice</source>, <volume>19</volume>(<issue>1</issue>), <fpage>136</fpage>.<pub-id pub-id-type="pmid">30086722</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0026">
+<string-name>
+<surname>Hart</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>McMullen</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Stanis</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Fly&#x2010;in/Fly&#x2010;out nursing: Is it for us? New graduate nurses' perspectives</article-title>. <source>Rural and Remote Health</source>, <volume>13</volume>(<issue>2</issue>), <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0027">
+<string-name>
+<surname>Henderson&#x2010;Betkus</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>MacLeod</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>). <article-title>Retaining public health nurses in rural British Columbia: The influence of job and community satisfaction</article-title>. <source>Canadian Journal of Public Health</source>, <volume>95</volume>(<issue>1</issue>), <fpage>54</fpage>&#x2013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">14768743</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0028">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0028">
+<string-name>
+<surname>Herzberg</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Mausner</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Snyderman</surname>, <given-names>B.</given-names>
+</string-name> (<year>1959</year>). <source>The Motivation To Work</source>. <publisher-name>Wiley</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0029">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0029">
+<string-name>
+<surname>Ho</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>). <source>Handbook of Univariate and Multivariate Data Analysis with IBM SPSS</source>. <publisher-name>Chapman and Hall/CRC</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0030">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0030">
+<collab collab-type="authors">IBM Corp</collab>
+. (<year>2018</year>) <source>IBM SPSS Statistics for Windows</source>. <publisher-name>IBM Corp</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0031">
+<string-name>
+<surname>Jahner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Penz</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Stewart</surname>, <given-names>N.</given-names>
+</string-name> (<year>2019</year>). <article-title>Psychological impact of traumatic events in rural nursing practice: An Integrative review</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>19</volume>(<issue>1</issue>), <fpage>105</fpage>&#x2013;<lpage>135</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0032">
+<string-name>
+<surname>Joyce</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Crookes</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Developing a tool to measure &#x2018;magnetism&#x2019; in Australian nursing environments</article-title>. <source>Australian Journal of Advanced Nursing</source>, <volume>25</volume>(<issue>1</issue>), <fpage>17</fpage>&#x2013;<lpage>23</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0033">
+<string-name>
+<surname>Joyce&#x2010;McCoach</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Crookes</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Measuring &#x2018;magnetism&#x2019; in Australian nursing environments</article-title>. <source>Australian Journal of Advanced Nursing</source>, <volume>29</volume>(<issue>2</issue>), <fpage>13</fpage>&#x2013;<lpage>22</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0034">
+<string-name>
+<surname>Kulig</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kilpatrick</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Moffitt</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zimmer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Recruitment and retention in rural nursing: It's still an issue!</article-title>
+<source>Nursing Leadership</source>, <volume>28</volume>(<issue>2</issue>), <fpage>40</fpage>&#x2013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">26560256</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0035">
+<string-name>
+<surname>Lake</surname>, <given-names>E.</given-names>
+</string-name> (<year>2002</year>). <article-title>Development of the practice environment scale of the Nursing Work Index</article-title>. <source>Research in Nursing &amp; Health</source>, <volume>25</volume>(<issue>3</issue>), <fpage>176</fpage>&#x2013;<lpage>188</lpage>.<pub-id pub-id-type="pmid">12015780</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0036">
+<string-name>
+<surname>Lake</surname>, <given-names>E.</given-names>
+</string-name> (<year>2007</year>). <article-title>The nursing practice environment</article-title>. <source>Medical Care Research and Review</source>, <volume>64</volume>(<issue>2 supp</issue>), <fpage>104S</fpage>&#x2013;<lpage>122S</lpage>.<pub-id pub-id-type="pmid">17406014</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0037">
+<string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Baggs</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>You</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Hospital nursing organizational factors, nursing care left undone, and nurse burnout as predictors of patient safety: A structural equation modeling analysis</article-title>. <source>International Journal Nursing Studies</source>, <volume>86</volume>, <fpage>82</fpage>&#x2013;<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0038">
+<string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Aungsuroch</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yunibhand</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Job satisfaction in nursing: A concept analysis study</article-title>. <source>International Nursing Review</source>, <volume>63</volume>(<issue>1</issue>), <fpage>84</fpage>&#x2013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">26492403</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0039">
+<string-name>
+<surname>MacLeod</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kulig</surname>, <given-names>J.</given-names>
+</string-name>, et al. (<year>2017</year>). <article-title>Nurses who work in rural and remote communities in Canada: A national survey</article-title>. <source>Human Resources for Health</source>, <volume>15</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">28056998</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0040">
+<string-name>
+<surname>Maslach</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jackson</surname>, <given-names>S.</given-names>
+</string-name> (<year>1981</year>). <article-title>The measurement of experienced burnout</article-title>. <source>Journal of Organizational Behavior</source>, <volume>2</volume>(<issue>2</issue>), <fpage>99</fpage>&#x2013;<lpage>113</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0041">
+<string-name>
+<surname>McManus</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Winder</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gordon</surname>, <given-names>D.</given-names>
+</string-name> (<year>2002</year>). <article-title>The causal links between stress and burnout in a longitudinal study of UKdoctors</article-title>. <source>Lancet</source>, <volume>359</volume>(<issue>9323</issue>), <fpage>2089</fpage>&#x2013;<lpage>2090</lpage>.<pub-id pub-id-type="pmid">12086767</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0042">
+<string-name>
+<surname>Meyer</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Allen</surname>, <given-names>N.</given-names>
+</string-name> (<year>1991</year>). <article-title>A three&#x2010;component conceptualization of organizational commitment</article-title>. <source>Human Resource Management Review</source>, <volume>1</volume>(<issue>1</issue>), <fpage>61</fpage>&#x2013;<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0043">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0043">
+<string-name>
+<surname>Mills</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chamberlain&#x2010;Salaun</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>O'Shea</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Retaining early career registered nurses: A case study</article-title>. <source>BMC Nursing</source>, <volume>15</volume>, <fpage>1</fpage>&#x2013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">26752975</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0044">
+<string-name>
+<surname>Mukaka</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>). <article-title>A guide to appropriate use of correlation coefficient in medical research</article-title>. <source>Malawi Medical Journal</source>, <volume>24</volume>(<issue>3</issue>), <fpage>69</fpage>&#x2013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">23638278</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0045">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0045">
+<string-name>
+<surname>Nancarrow</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Roots</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Grace</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Saberi</surname>, <given-names>V.</given-names>
+</string-name> (<year>2015</year>). <article-title>Models of care involving district hospitals: A rapid review to inform the Australian rural and remote context</article-title>. <source>Australian Health Review</source>, <volume>39</volume>(<issue>5</issue>), <fpage>494</fpage>&#x2013;<lpage>507</lpage>.<pub-id pub-id-type="pmid">26278639</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0046">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0046">
+<collab collab-type="authors">National Rural Health Alliance Inc</collab>
+. (<year>2017</year>). <source>Demography</source>. <publisher-name>National Rural Health Alliance Inc</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0047">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0047">
+<collab collab-type="authors">National Rural Health Alliance Inc</collab>
+. (<year>2019</year>). <source>Nurses in Rural</source>. <publisher-name>Regional and Remote Australia</publisher-name>. <ext-link xlink:href="https://www.ruralhealth.org.au/sites/default/files/publications/fact-sheet-nurses.pdf" ext-link-type="uri">https://www.ruralhealth.org.au/sites/default/files/publications/fact&#x2010;sheet&#x2010;nurses.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0048">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0048">
+<string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hwang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2019</year>). <article-title>Intention to leave among staff nurses in small and medium sized hospitals</article-title>. <source>Journal of Clinical Nursing</source>, <volume>28</volume>(<issue>9</issue>), <fpage>1856</fpage>&#x2013;<lpage>1867</lpage>.<pub-id pub-id-type="pmid">30667587</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0049">
+        <mixed-citation publication-type="miscellaneous" id="jnu12800-cit-0049">
+<collab collab-type="authors">Population Australia</collab>
+. (<year>2020</year>). <article-title>Australia Population 2020</article-title>. <ext-link xlink:href="http://www.population.net.au/" ext-link-type="uri">http://www.population.net.au/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0050">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0050">
+<string-name>
+<surname>Roberge</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Who stays in rural nursing practice? An international review of the literature on factors influencing rural nurse retention</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>9</volume>(<issue>1</issue>), <fpage>82</fpage>&#x2013;<lpage>93</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0051">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0051">
+<string-name>
+<surname>Roche</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Duffield</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Homer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Buchan</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dimitrelis</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>The rate and cost of nurse turnover in Australia</article-title>. <source>Collegian</source>, <volume>22</volume>(<issue>4</issue>), <fpage>353</fpage>&#x2013;<lpage>358</lpage>.<pub-id pub-id-type="pmid">26775521</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0052">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0052">
+<string-name>
+<surname>Ross</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>The connection between burnout and patient safety</article-title>. <source>Journal of PeriAnesthesia Nursing</source>, <volume>31</volume>(<issue>6</issue>), <fpage>539</fpage>&#x2013;<lpage>541</lpage>.<pub-id pub-id-type="pmid">27931707</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0053">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0053">
+<string-name>
+<surname>Sasso</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bagnasco</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Catania</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zanini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aleo</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Watson</surname>, <given-names>R.</given-names>
+</string-name> (<year>2019</year>). <article-title>Push and pull factors of nurses' intention to leave</article-title>. <source>Journal of Nursing Management</source>, <volume>27</volume>(<issue>5</issue>), <fpage>946</fpage>&#x2013;<lpage>954</lpage>.<pub-id pub-id-type="pmid">30614593</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0054">
+        <mixed-citation publication-type="miscellaneous" id="jnu12800-cit-0054">
+<string-name>
+<surname>Schwartz</surname>, <given-names>S</given-names>
+</string-name>. (<year>2019</year>). <article-title>Educating the Nurse of the Future&#x2010; Report of the Independent Review into Nursing Education</article-title>. <ext-link xlink:href="https://www.health.gov.au/resources/publications/educating-the-nurse-of-the-future" ext-link-type="uri">https://www.health.gov.au/resources/publications/educating&#x2010;the&#x2010;nurse&#x2010;of&#x2010;the&#x2010;future</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0055">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0055">
+<string-name>
+<surname>Segerstrom</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Statistical guideline # 4. Describe the nature and extent of missing data and impute where possible and prudent</article-title>. <source>International Journal of Behavioral Medicine</source>, <volume>27</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>2</lpage>.<pub-id pub-id-type="pmid">31811533</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0056">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0056">
+<string-name>
+<surname>Sellers</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Denny</surname>, <given-names>D.</given-names>
+</string-name>, et al. (<year>2019</year>). <article-title>Retention of nurses in a rural environment: The impact of job satisfaction, resilience, grit, engagement, and rural fit</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>19</volume>(<issue>1</issue>), <fpage>4</fpage>&#x2013;<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0057">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0057">
+<string-name>
+<surname>Sermeus</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Aiken</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Van den Heede</surname>, <given-names>K.</given-names>
+</string-name>, et al. (<year>2011</year>). <article-title>Nurse forecasting in Europe (RN4CAST): Rationale, design and methodology</article-title>. <source>BMC Nursing</source>, <volume>10</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">21255419</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-1068">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-1068">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name> (<year>2019</year>). <article-title>Nurses&#x2019; experiences of working in rural hospitals: An integrative review</article-title>. <source>Journal of Nursing Management</source>, <volume>27</volume>(<issue>3</issue>), <fpage>482</fpage>&#x2013;<lpage>490</lpage>.<pub-id pub-id-type="pmid">30204275</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0069">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0069">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lapkin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Nursing care left undone, practice environment and perceived quality of care in small rural hospitals</article-title>. <source>Journal of Nursing Management</source>, <volume>28</volume>(<issue>8</issue>), <fpage>2166</fpage>&#x2013;<lpage>2173</lpage>.<pub-id pub-id-type="pmid">32034965</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0070">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0070">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Halcomb</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lapkin</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nurses&#x2019; perceptions of the practice environment in small Australian rural hospitals: A cross sectional survey</article-title>. <source>Collegian</source>, <volume>28</volume>(<issue>4</issue>), <fpage>472</fpage>&#x2013;<lpage>481</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0058">
+        <mixed-citation publication-type="miscellaneous" id="jnu12800-cit-0058">
+<collab collab-type="authors">SurveyMonkey Inc</collab>
+. (<year>2017</year>). <article-title>SurveyMonkey</article-title>. <ext-link xlink:href="https://www.surveymonkey.com/" ext-link-type="uri">https://www.surveymonkey.com/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0059">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0059">
+<string-name>
+<surname>Swiger</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Patrician</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Miltner</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Raju</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Breckenridge&#x2010;Sproat</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Loan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>The practice environment scale of the nursing work index: An updated review and recommendations for use</article-title>. <source>International Journal of Nursing Studies</source>, <volume>74</volume>, <fpage>76</fpage>&#x2013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">28641123</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0060">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0060">
+<string-name>
+<surname>Twigg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cramer</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pugh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Nurse staffing and workload drivers in small rural hospitals: An imperative for evidence</article-title>. <source>Online Journal of Rural Nursing &amp; Health Care</source>, <volume>16</volume>(<issue>1</issue>), <fpage>97</fpage>&#x2013;<lpage>121</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0061">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0061">
+<string-name>
+<surname>Vahey</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Aiken</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sloane</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Vargas</surname>, <given-names>D.</given-names>
+</string-name> (<year>2004</year>). <article-title>Nurse burnout and patient satisfaction</article-title>. <source>Medical care</source>, <volume>42</volume>(<issue>2 Suppl</issue>), <fpage>II57</fpage>&#x2013;<lpage>II66</lpage>.<pub-id pub-id-type="pmid">14734943</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0062">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0062">
+<string-name>
+<surname>Vijendren</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yung</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shiralkar</surname>, <given-names>U.</given-names>
+</string-name> (<year>2018</year>). <article-title>Are ENT surgeons in the UKat risk of stress, psychological morbidities and burnout? A national questionnaire survey</article-title>. <source>Journal of the Royal Colleges of Surgeons of Edinburgh and Ireland</source>, <volume>16</volume>(<issue>1</issue>), <fpage>12</fpage>&#x2013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">26993760</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0063">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0063">
+<string-name>
+<surname>Wanous</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reichers</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hudy</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>). <article-title>Overall job satisfaction: How good are single&#x2010;item measures?</article-title>
+<source>Journal of Applied Psychology</source>, <volume>82</volume>(<issue>2</issue>), <fpage>247</fpage>&#x2013;<lpage>252</lpage>.<pub-id pub-id-type="pmid">9109282</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0064">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0064">
+<string-name>
+<surname>White</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Aiken</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McHugh</surname>, <given-names>M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Registered nurse burnout, job dissatisfaction, and missed care in nursing homes</article-title>. <source>Journal of the American Geriatrics Society</source>, <volume>67</volume>(<issue>10</issue>), <fpage>2065</fpage>&#x2013;<lpage>2071</lpage>.<pub-id pub-id-type="pmid">31334567</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0065">
+        <mixed-citation publication-type="book" id="jnu12800-cit-0065">
+<string-name>
+<surname>Willis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Keleher</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>). <source>Understanding the Australian Health Care System</source>. <publisher-name>Elsevier</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0066">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0066">
+<string-name>
+<surname>Woodhead</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Northrop</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Edelstein</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Stress, social support, and burnout among long&#x2010;term care nursing staff</article-title>. <source>Journal of Applied Gerontology</source>, <volume>35</volume>(<issue>1</issue>), <fpage>84</fpage>&#x2013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">25098251</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12800-bib-0067">
+        <mixed-citation publication-type="journal" id="jnu12800-cit-0067">
+<string-name>
+<surname>Zuraida</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zainal</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Exploring burnout among Malaysian junior doctors using the abbreviated Maslach Burnout Inventory</article-title>. <source>Malaysian Journal of Psychiatry</source>, <volume>24</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>10</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,373 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12834" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36250603</article-id>
+      <article-id pub-id-type="pmc">9874729</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12834</article-id>
+      <article-id pub-id-type="publisher-id">JNU12834</article-id>
+      <article-id pub-id-type="other">JNU-05-22-392.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Profession and Society</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Nurses and <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response in Botswana</article-title>
+        <alt-title alt-title-type="right-running-head">Nurses and COVID&#x2010;19 response in Botswana</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12834-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Kealeboga</surname>
+            <given-names>Kebope Mongie</given-names>
+          </name>
+          <degrees>RN, MNS, PhDc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8390-4731</contrib-id>
+          <xref rid="jnu12834-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>kealebogak@ub.ac.bw</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12834-cr-0002" contrib-type="author">
+          <name>
+            <surname>Khutjwe</surname>
+            <given-names>Joyce Vuyiswa</given-names>
+          </name>
+          <degrees>RN, MNS, PhDc</degrees>
+          <xref rid="jnu12834-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12834-cr-0003" contrib-type="author">
+          <name>
+            <surname>Seloilwe</surname>
+            <given-names>Esther Salang</given-names>
+          </name>
+          <degrees>RN, PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4324-2336</contrib-id>
+          <xref rid="jnu12834-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12834-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Health Sciences, School of Nursing</named-content>
+<institution>University of Botswana</institution>
+<city>Gaborone</city>
+<country country="BW">Botswana</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Kebope Mongie Kealeboga, Faculty of Health Sciences, School of Nursing, University of Botswana, Gaborone, Botswana.<break/>
+Email: <email>kealebogak@ub.ac.bw</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>17</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="170">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>149</fpage>
+      <lpage>153</lpage>
+      <history>
+<date date-type="rev-recd"><day>01</day><month>10</month><year>2022</year></date>
+<date date-type="received"><day>01</day><month>6</month><year>2022</year></date>
+<date date-type="accepted"><day>06</day><month>10</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x2010;commercial and no modifications or adaptations are made.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-149.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12834-sec-0001">
+          <title>Introduction</title>
+          <p>The advent of the COVID&#x2010;19 pandemic necessitated the Botswana Presidential Task Force, in collaboration with the Ministry of Health and Wellness (MoHW), to devise strategies to utilize the already overburdened health personnel to combat the spread of the coronavirus. This descriptive case study aimed to describe nurses' role during COVID&#x2010;19 in Botswana.</p>
+        </sec>
+        <sec id="jnu12834-sec-0002">
+          <title>Design and methods</title>
+          <p>A case study analysis was used to describe nurses' roles during COVID&#x2010;19. Data were collected through observing events in various health facilities and various media platforms that described how nurses had to position themselves to combat the pandemic. Content analysis was done by coding and developing categories that put like content together and generate thematic areas.</p>
+        </sec>
+        <sec id="jnu12834-sec-0003">
+          <title>Results</title>
+          <p>Nurses from different sectors were redeployed to assist in setting up different units at the COVID&#x2010;19 makeshift hospital, taking away from the already understaffed section of health care workers resulting in the overburden and work overload. Furthermore, nurses continued with their regular day&#x2010;to&#x2010;day nursing care duties in various healthcare settings, albeit under a severe shortage due to the national response to COVID&#x2010;19.</p>
+        </sec>
+        <sec id="jnu12834-sec-0004">
+          <title>Conclusion</title>
+          <p>Adaptations and experiential strategies enabled the distribution of the nursing workforce to cover all locations to curb the spread of COVID&#x2010;19 despite the challenges encountered. Recommendations and lessons learned on how to prepare for future pandemics are also discussed.</p>
+        </sec>
+        <sec id="jnu12834-sec-0005">
+          <title>Clinical relevance</title>
+          <p>Due to their large numbers, nurses formed the backbone of the Botswana COVID&#x2010;19 response strategy. Therefore, policy&#x2010;makers should be responsive to the nurses' perspectives when developing strategic policies on how to deal with pandemics based on their experiences.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12834-kwd-0001">Botswana</kwd>
+        <kwd id="jnu12834-kwd-0002">Coronavirus</kwd>
+        <kwd id="jnu12834-kwd-0003">COVID&#x2010;19</kwd>
+        <kwd id="jnu12834-kwd-0004">nurses</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <page-count count="5"/>
+        <word-count count="3048"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12834-cit-2001">
+<string-name>
+<surname>Kealeboga</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Khutjwe</surname>, <given-names>J. V.</given-names>
+</string-name> &amp; <string-name>
+<surname>Seloilwe</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2023</year>). <article-title>Nurses and <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response in Botswana</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>149</fpage>&#x2013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12834</pub-id>
+<pub-id pub-id-type="pmid">36250603</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12834-body-0001">
+    <sec id="jnu12834-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS COV&#x2010;2), responsible for the COVID&#x2010;19 global pandemic, was first discovered in December 2019 in Wuhan City, China. The highly transmissible virus rapidly spread throughout China and the world at an alarming and uncontrollable rate (Zhu, Wei &amp; Niu,&#xA0;<xref rid="jnu12834-bib-0012" ref-type="bibr">2020</xref>). COVID&#x2010;19 was declared a pandemic by the World Health Organization (WHO) on March 11, 2020, following a trail of disaster and devastation in countries such as China, Italy, and the United States of America (Indolfi &amp; Spaccarotella,&#xA0;<xref rid="jnu12834-bib-0004" ref-type="bibr">2020</xref>; Zhu, Wei &amp; Niu,&#xA0;<xref rid="jnu12834-bib-0012" ref-type="bibr">2020</xref>; Woolf,&#xA0;<xref rid="jnu12834-bib-0011" ref-type="bibr">2021</xref>). Waler, (<xref rid="jnu12834-bib-0006" ref-type="bibr">2020</xref>) estimated that COVID&#x2010;19 would result in 7.0 billion infections and 40 million deaths globally without interventions. Though relatively unaffected initially, Africa recorded 3.6 million COVID&#x2010;19 cases, 94 thousand related deaths and 3.1 million recoveries by January 21 (African Union,&#xA0;<xref rid="jnu12834-bib-0001" ref-type="bibr">2021</xref>).</p>
+      <p>Botswana confirmed its first COVID&#x2010;19 case on March 23, 2020. As of August 2022, Botswana recorded more than 355 thousand cases of COVID&#x2010;19 and 2770 deaths. For a population of about 2.1 million, Botswana had administered a total of 2.8 million doses of vaccines by June 2022 (WHO,&#xA0;<xref rid="jnu12834-bib-0010" ref-type="bibr">2022</xref>). The responsibility for the nation's health lies mainly with the Ministry of Health and Wellness (MoHW), which sets goals and national health priorities. In its response to COVID&#x2010;19, the Office of the President of Botswana established a Multi&#x2010;Disciplinary National Task Force (MDNTF) consisting of the director of the department of public health and emergency, a public health specialist, a clinical epidemiologist, physicians and nurses, health promotion, environmental health, medical laboratory and pharmacy representatives, which was mandated to coordinate the national response. The National Task Force provided direction, guidance, support and expert advice to the health sector for the ultimate comprehensive national response to COVID&#x2010;19.</p>
+      <p>This task force formation determined that Botswana did not have well&#x2010;established structures or systems to manage pandemics. Even though the country had a Public Health Emergency Preparedness and Response Committee, it was evident that the committee lacked the pool of expertise required for a robust well&#x2010;coordinated response to the pandemic. A recent report from WHO acknowledged the existence of gaps in various African countries' preparedness for healthcare emergencies, and Botswana was included in this report (WHO,&#xA0;<xref rid="jnu12834-bib-0010" ref-type="bibr">2022</xref>). The WHO report cited gaps such as a limited healthcare workforce, weak health systems and coordination mechanisms, and limited stockpiles of essential medications. Notwithstanding the challenges mentioned above, the MDNTF, in partnership with the MoHW, had to devise ways to utilize the already overstretched healthcare system to combat the pandemic.</p>
+      <p>Botswana has 830 doctors, 91 dentists and 7427 nurses (Botswana Health statistics, 2007&#x2013;2015). Health personnel shortages have been reported by the Botswana Human Resource Development Council (BHRDC) report&#xA0;(<xref rid="jnu12834-bib-0003" ref-type="bibr">2016</xref>). Despite the shortage, the country was faced with a pandemic, and the task force had to devise unprecedented strategic responses to mitigate its spread. One such strategy included staff redeployment to areas deemed necessary in controlling the spread of infection. The country swiftly moved from a preventative phase to the containment phase of the national response strategy after confirming the first case of COVID&#x2010;19 in March 2020. The measures included staff redeployment to established COVID&#x2010;19 isolation centres, health care porter camps at the border posts and the newly established makeshift COVID&#x2010;19 national referral hospital.</p>
+      <p>Nurses were among the health care professionals that formed the pivot of the response to COVID&#x2010;19 prevention. As in other countries globally, the Botswana health care system's human resource base is anchored on nurses, who constitute over 70% of the workforce (Nkomazana, Peersman, Willcox, Mash, &amp; Phaladze,&#xA0;<xref rid="jnu12834-bib-0005" ref-type="bibr">2014</xref>). Their duties ranged from running mobile clinics and providing patient care from primary to referral hospitals throughout the country. The Nursing and Midwifery Council of Botswana's strategic plan for 2021 to 2026 retrospectively projected the need for at least 12,000 registered nurses and midwives in 2017. The Botswana Human Resource Development Council (BHRDC) report&#xA0;(<xref rid="jnu12834-bib-0003" ref-type="bibr">2016</xref>) documented the shortfall of nurses and recommended that nurses' training be a national priority.</p>
+      <p>Moreover, there are mobile clinics and health facilities in rural areas of Botswana that function with inadequate staff because of the shortage of nurses. The advent of COVID&#x2010;19 brought an even more problematic shortage of specialist nurses and an urgent need to prioritize training nurse specialists in identified areas. Despite the challenges, COVID&#x2010;19 was a national emergency and called for the rationing of staff and redeployment to the identified areas of prevention and treatment. Therefore, this paper describes nurses' role in responding to COVID&#x2010;19 in Botswana.</p>
+    </sec>
+    <sec id="jnu12834-sec-0007">
+      <title>DESIGN AND METHODS</title>
+      <p>This paper adopted a case study analysis to describe nurses' responses to COVID&#x2010;19. The design was considered appropriate as the authors were part of the COVID&#x2010;19 response team, from planning to implementation, thus having direct information on the plan and identifying the challenges encountered. In addition, the design allows for detailed yet simplified descriptions and presentation of the nurses' narrations (Rowley,&#xA0;<xref rid="jnu12834-bib-0008" ref-type="bibr">2002</xref>). A description of nurses' responses as they unfolded during the COVID&#x2010;19 pandemic is detailed and documented.</p>
+      <p>Data collection entailed direct observation of events and interactions with health care providers. In addition, online government reports and various media platforms provided data. Content analysis was used to analyze the data. According to Bengtsson&#xA0;(<xref rid="jnu12834-bib-0002" ref-type="bibr">2016</xref>), content analysis provides a systematic and objective means to make inferences from verbal, visual or written data to describe a phenomenon. The content was summarized into categories, themes, and conclusions were drawn. The case study analysis followed all the ethical procedures essential in research.</p>
+    </sec>
+    <sec sec-type="results" id="jnu12834-sec-0008">
+      <title>RESULTS</title>
+      <p>The analysis is represented under the following observations: The operation of COVID&#x2010;19 facilities, work schedule and shortage of staff, regular work in other healthcare facilities, and support/incentives.</p>
+      <sec id="jnu12834-sec-0009">
+        <title>The operation of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 facilities</title>
+        <p>The National Task Force mobilized a series of well&#x2010;coordinated strategic responses calling for health personnel staff redeployment to different identified areas critical to containing the spread of the virus. The redeployed staff received intensive training on COVID&#x2010;19 and various guidelines on its management, personal protective equipment, proper hand hygiene and medical technology such as mechanical ventilators and arterial blood gas analysers. The newly completed Sir Ketumile Masire Teaching Hospital (SKMTH) was designated a temporary COVID&#x2010;19 national referral hospital for patients needing high acuity care. The hospital had just been completed and was not fully equipped or set up to provide care. Health care professionals, primarily nurses, from the already overburdened healthcare system were redeployed temporarily to SKMTH to start its operation, while others managed different isolation centres across the country. Botswana initially recorded mild cases of COVID&#x2010;19. Even patients admitted to the SKMTH did not need intensive nursing care. This gave the country time to gather resources in preparation for the advent of more transmissible and highly virulent variants.</p>
+        <p>The President declared a State of Public Emergency for Botswana on March 31, 2020, when the number of cases in the country and the neighboring countries began to increase. The school of Nursing at the University of Botswana joined to assist with preparations for admission of patients with moderate to severe COVID&#x2010;19 disease. Faculty members with different areas of specialization were redeployed to SKMTH to set up the emergency care department, intensive care, and pediatric units. They also provided care to patient populations in these units. The School of Nursing played a pivotal role in recruiting more nurses and healthcare assistants as the country began to experience the deadly effects of COVID&#x2010;19 with each wave. In addition, some faculty members sat on the SKMTH Board, which provided oversight of the hospital's operations and overall strategic management.</p>
+        <p>Some nurses were pulled from different areas, especially Princes Marina Referral Hospital, to run the SKMTH. As a result, nurses had to spend one to three months away from their families to protect them from the virus. In addition, some nurses were sent to newly opened COVID&#x2010;19 isolation centres throughout the country. Duties ranged from screening for the infection to the treatment of the affected.</p>
+        <p>While the School of Nursing supported the fight against COVID&#x2010;19, it also had to contend with the transition to online teaching, as face&#x2010;to&#x2010;face teaching was impossible when infections in the country peaked. Teaching became exclusively virtual amidst internet connectivity challenges and the loss of human interaction synonymous with nursing education. Furthermore, clinical teaching was suspended for an entire semester as extreme social distancing was imposed countrywide, including healthcare facilities. The effects of the suspension require future exploration.</p>
+      </sec>
+      <sec id="jnu12834-sec-0010">
+        <title>Work schedule and shortage of staff</title>
+        <p>COVID&#x2010;19 subjected nurses to abnormal working conditions. In Botswana, nurses usually work three (3) shifts of 8&#x2009;hours per day. The pandemic greatly affected these shifts because, as the sole healthcare providers in the COVID&#x2010;19 isolation and treatment centres, nurses worked for extended twelve (12) hours shifts. Consequently, they had to be on standby when other nurses contracted the virus. Furthermore, anecdotal reports indicate that nurses had to work for long periods without rest due to staff shortages, further increasing their vulnerability to the virus. In addition, nurses were subjected to preventive COVID&#x2010;19 protocols that included self&#x2010;quarantining for 10 to 14&#x2009;days following a positive SARS&#x2010;2 test or for being in contact with infected individuals, adding to the burden of staff shortages during the peak of the COVID&#x2010;19 pandemic.</p>
+      </sec>
+      <sec id="jnu12834-sec-0011">
+        <title>Regular work in other healthcare facilities</title>
+        <p>Although COVID&#x2010;19 was raging, the day&#x2010;to&#x2010;day running of the clinics and hospitals was ongoing. Nurses run various health speciality areas throughout the country through their various areas of specialization. Unfortunately, there were some days when the health posts, clinics and some units or wards in different hospitals had to close for operation because there were no nurses to run the facilities due to a shortage following SARS&#x2010;COV&#x2010;2 infection, affecting the delivery of care throughout the country.</p>
+      </sec>
+      <sec id="jnu12834-sec-0012">
+        <title>Support/Incentives</title>
+        <p>The government provided staff with personal protective equipment (PPE) even though supply challenges were experienced by the rest of the world, especially in the first months of the pandemic. The PPE shortage during the pandemic's early days is well documented (WHO,&#xA0;<xref rid="jnu12834-bib-0007" ref-type="bibr">2020a</xref>, WHO,&#xA0;<xref rid="jnu12834-bib-0009" ref-type="bibr">2020b</xref>). Some nurses redeployed to COVID&#x2010;19 centres were provided free accommodation as they had to isolate themselves from their family members. Hospitality businesses also assisted the government by providing housing to some nurses at no cost. However, this incentive proved unsustainable as scores of people became infected, and the government redirected funds to the upscaling of care in other treatment centres. Therefore, some nurses had to go back to their families after work. When the country went into its first national lockdown, most healthcare facilities supported nurses with transport since there was no public transport. However, as the pandemic progressed, the government ceased transporting staff, and nurses had to fend for themselves. There were no monetary rewards to motivate nurses despite the constant fear and risk of dying from COVID&#x2010;19 that they faced every day.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12834-sec-0013">
+      <title>DISCUSSION</title>
+      <p>The Botswana Government responded swiftly to the prevention and containment of the COVID&#x2010;19 pandemic by mobilizing resources and ensuring their redistribution to areas of need under the coordination of the MDNTF. Nursing, as a health profession with the highest representation in the entire healthcare workforce, played a critical role in forming the foundation for the response. This case study analysis highlights the crucial need to reinforce the vital role of nurses in caring for patients in general. The findings are supported in an essay paper by Morley, Grady, McCarthy, and Ulrich (2020) on the ethical challenges and the plight faced by nurses globally. Nurses faced safety concerns, mental health issues and ethical dilemmas when making treatment decisions. Nurses were called upon to prioritize who would or would not be on mechanical ventilators, leading to feelings of moral distress. Including nurses in developing and implementing health care policies locally and globally is essential as the country moves beyond the COVID&#x2010;19 crisis.</p>
+      <sec id="jnu12834-sec-0014">
+        <title>Lesson learned</title>
+        <p>The COVID&#x2010;19 pandemic demonstrated the role of nurses as the pillar of the health workforce in Botswana. The socio&#x2010;economic welfare of nurses requires serious consideration in terms of recognition and appropriate remuneration. Nurses must be trained at both general and speciality levels to equip them with the necessary skills to confront these unprecedented circumstances. Nurses became infected with COVID&#x2010;19 while caring for infected patients, posing an apparent health hazard. Such circumstances highlight the importance of creating better future strategies to protect health workers.</p>
+      </sec>
+      <sec id="jnu12834-sec-0015">
+        <title>Recommendations</title>
+        <p>The nursing workforce must be ready and responsive to address the next disaster. COVID&#x2010;19 taught nurses ways to mobilize disaster preparedness teams quickly. That can be ready in a health crisis. Disaster preparedness committees should hold simulation drills to prepare health care providers to be ready and alert to act in case of a need. Government must include disaster preparedness in the budget to enable the provision of resources during emergencies. Health workers need access to insurance coverage that would compensate them should adverse situations occur due to service.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12834-sec-0016">
+      <title>LIMITATIONS</title>
+      <p>The study's findings are limited to the observations, information read, and interactions the researchers had with nurses during the pandemic. Nevertheless, COVID&#x2010;19 was a unique pandemic that needed unprecedented mitigating strategies, thus making replication of this analysis impossible.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12834-sec-0017">
+      <title>CONCLUSION</title>
+      <p>In times of disaster, there are positive and negative consequences. COVID&#x2010;19 provided learning opportunities for the entire healthcare workforce in Botswana. Crises like pandemics must be quickly and effectively controlled. Multi&#x2010;disciplinary and inter&#x2010;professional collaboration is crucial for successful disaster management. Nurses are key stakeholders in maintaining the health of Botswana's people. Greater representation of nurses in planning forums is required immediately, and crises like pandemics can be controlled and contained more effectively. Strong teamwork was exemplified during this period as all health professionals came together and worked as one. However, further research on how countries such as Botswana can better prepare for future pandemics based on the lessons learned is imperative.</p>
+      <sec id="jnu12834-sec-0018">
+        <title>CLINICAL RESOURCES</title>
+        <p>Nurses' roles during COVID&#x2010;19
+<list list-type="order" id="jnu12834-list-0001"><list-item id="jnu12834-li-0001"><p>
+<ext-link xlink:href="https://www.icn.ch/sites/default/files/inline-files/Report%2520on%2520the%2520role%2520of%2520nurses%2520in%2520COVID19%2520pandemic.pdf" ext-link-type="uri">https://www.icn.ch/sites/default/files/inline&#x2010;files/Report%20on%20the%20role%20of%20nurses%20in%20COVID19%20pandemic.pdf</ext-link>
+</p></list-item><list-item id="jnu12834-li-0002"><p>
+<ext-link xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543802/#:%7e:text%3DNurses%2520are%2520now%2520actively%2520involved%2ccontrol%2520and%2520manage%2520the%2520outbreak" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543802/#:~:text=Nurses%20are%20now%20actively%20involved,control%20and%20manage%20the%20outbreak</ext-link>.</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec id="jnu12834-sec-0019">
+      <p>All authors contributed from conception, writing up and editing of this paper.</p>
+      <p>We acknowledge the University of Botswana and the School of Nursing, Faculty for nurturing us to become academics that we are not funded.</p>
+      <p>We declare no conflict of interest.</p>
+      <p>Data is not available since this is a concept paper</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list content-type="cited-references" id="jnu12834-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12834-bib-0001">
+        <mixed-citation publication-type="book" id="jnu12834-cit-0001">
+<collab collab-type="authors">African Union</collab>
+. (<year>2021</year>). <source>Covid&#x2010;19 updates</source>. <publisher-name>African Union</publisher-name>. Access April 20 2021. <ext-link xlink:href="https://au.int/africacdc" ext-link-type="uri">https://au.int/africacdc</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0002">
+<string-name>
+<surname>Bengtsson</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>How to plan and perform a qualitative study using content analysis</article-title>. <source>Nursing Plus Open</source>, <volume>2</volume>, <fpage>8</fpage>&#x2013;<lpage>14</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0003">
+        <mixed-citation publication-type="book" id="jnu12834-cit-0003">
+<collab collab-type="authors">Botswana Human Resource Development Council</collab>
+. (<year>2016</year>). <source>Annual Report</source>. <publisher-name>Government Printers</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0004">
+<string-name>
+<surname>Indolfi</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Spaccarotella</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>). <article-title>The outbreak of Covid&#x2010;19 in Italy</article-title>. <source>Elsiervier</source>, <volume>2</volume>(<issue>10</issue>), <fpage>1656</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0005">
+<string-name>
+<surname>Nkomazana</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Peersman</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Willcox</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mash</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Phaladze</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Human resources for health in Botswana: The results of in&#x2010;country database and reports analysis</article-title>. <source>African Journal of Primary Health Care &amp; Family Medicine</source>, <volume>6</volume>(<issue>1</issue>), <fpage>E1</fpage>&#x2013;<lpage>E8</lpage>. <pub-id pub-id-type="doi">10.4102/phcfm.v6i1.716</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0008">
+<string-name>
+<surname>Rowley</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Using Case Studies in Research</article-title>. <source>Management Research News</source>, <volume>25</volume>(<issue>1</issue>), <fpage>16</fpage>&#x2013;<lpage>27</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12834-cit-0006">
+<string-name>
+<surname>Waler</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>
+The global impact of COVID&#x2010;19 and strategies for mitigation and suppression
+</article-title>. Imperial College. <ext-link xlink:href="https://www.pubdocs.worldbank.org/en/90211158683523041/worl-Bank-seminar-Imperial-covid-modelling.pdf" ext-link-type="uri">https://www.pubdocs.worldbank.org/en/90211158683523041/worl&#x2010;Bank&#x2010;seminar&#x2010;Imperial&#x2010;covid&#x2010;modelling.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12834-cit-0007">
+<collab collab-type="authors">WHO</collab>
+. (<year>2020a</year>). <article-title>
+Shortage of personal protective equipment endangering health workers worldwide
+</article-title>. <ext-link xlink:href="https://www.who.int/news/item/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide" ext-link-type="uri">https://www.who.int/news/item/03&#x2010;03&#x2010;2020&#x2010;shortage&#x2010;of&#x2010;personal&#x2010;protective&#x2010;equipment&#x2010;endangering&#x2010;health&#x2010;workers&#x2010;worldwide</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0009">
+        <mixed-citation publication-type="miscellaneous" id="jnu12834-cit-0009">
+<collab collab-type="authors">WHO</collab>
+. (<year>2020b</year>). <article-title>
+<italic toggle="yes">Enhancing Botswana's emergency preparedness and response capacity beyond COVID&#x2010;19: The SURGE</italic> initiative</article-title>. <ext-link xlink:href="https://www.afro.who.int/countries/news?country%3D981%26page%3D0" ext-link-type="uri">https://www.afro.who.int/countries/news?country=981&amp;page=0</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0010">
+        <mixed-citation publication-type="miscellaneous" id="jnu12834-cit-0010">
+<collab collab-type="authors">WHO</collab>
+. (<year>2022</year>). <article-title>
+WHO emergency dashboard: Botswana Situation
+</article-title>. <ext-link xlink:href="https://covid19.who.int/region/afro/country/bw" ext-link-type="uri">https://covid19.who.int/region/afro/country/bw</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0011">
+<string-name>
+<surname>Woolf</surname>, <given-names>H. S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Effects of the covid&#x2010;19 pandemic in 2020 on life expectancy across populations in the USA and other high&#x2010;income countries: simulations of provisional mortality data</article-title>. <source>BMJ</source>, <volume>373</volume>: <fpage>n1343</fpage>. <ext-link xlink:href="https://doi.org/10-1136/bmj.n1343" ext-link-type="uri">https://doi.org/10&#x2010;1136/bmj.n1343</ext-link>
+<pub-id pub-id-type="pmid">34162598</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12834-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12834-cit-0012">
+<string-name>
+<surname>Zhu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Niu</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>The novel coronavirus outbreak in Wuhan, China</article-title>. <source>Global Health Research and Policy</source>, <volume>5</volume>, <elocation-id>6</elocation-id>. <pub-id pub-id-type="doi">10.1186/s41256-020-00135-6</pub-id>
+<pub-id pub-id-type="pmid">32226823</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

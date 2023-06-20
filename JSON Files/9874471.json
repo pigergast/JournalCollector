@@ -1,0 +1,1773 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12826" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36239008</article-id>
+      <article-id pub-id-type="pmc">9874471</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12826</article-id>
+      <article-id pub-id-type="publisher-id">JNU12826</article-id>
+      <article-id pub-id-type="other">JNU-05-22-297.R3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+<styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 infection: Positive mental health, psychological vulnerability and sex: Cross&#x2010;sectional study</article-title>
+        <alt-title alt-title-type="right-running-head">Positive Mental Health in COVID&#x2010;19</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12826-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Almeida</surname>
+            <given-names>Cl&#xE1;udia Patr&#xED;cia Pires</given-names>
+          </name>
+          <degrees>Master in Mental Health and Psychiatry</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8481-4188</contrib-id>
+          <xref rid="jnu12826-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12826-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>claudialmeida_21@hotmail.com</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12826-cr-0002" contrib-type="author">
+          <name>
+            <surname>Novo</surname>
+            <given-names>Andr&#xE9; Filipe Morais Pinto</given-names>
+          </name>
+          <degrees>Master in Rehabilitation Nursing, PhD in Nursing Sciences</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8583-0406</contrib-id>
+          <xref rid="jnu12826-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="jnu12826-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12826-cr-0003" contrib-type="author">
+          <name>
+            <surname>Lluch Canut</surname>
+            <given-names>Maria Teresa</given-names>
+          </name>
+          <degrees>PhD in Psychology</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2064-8811</contrib-id>
+          <xref rid="jnu12826-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12826-cr-0004" contrib-type="author">
+          <name>
+            <surname>Ferr&#xE9;&#x2010;Grau</surname>
+            <given-names>Carme</given-names>
+          </name>
+          <degrees>Master in Nursing Sciences, PhD in Nursing and Heatlh</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5229-0394</contrib-id>
+          <xref rid="jnu12826-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12826-cr-0005" contrib-type="author">
+          <name>
+            <surname>Sequeira</surname>
+            <given-names>Carlos Alberto da Cruz</given-names>
+          </name>
+          <degrees>Master in Public Health, PhD in Nursing Sciences</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5620-3478</contrib-id>
+          <xref rid="jnu12826-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="jnu12826-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12826-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>ULSNE &#x2010; Unidade Local de Sa&#xFA;de Nordeste</institution>
+<city>Braganca</city>
+<country country="PT">Portugal</country>
+</aff>
+      <aff id="jnu12826-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>University of Rovira i Virgili</institution>
+<city>Tarragona</city>
+<country country="ES">Spain</country>
+</aff>
+      <aff id="jnu12826-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Insituto Polit&#xE9;cnico de Bragan&#xE7;a, Escola superior de Sa&#xFA;de</institution>
+<city>Braganca</city>
+<country country="PT">Portugal</country>
+</aff>
+      <aff id="jnu12826-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Center for Health Technology and Services Research (CINTESIS)</institution>
+</aff>
+      <aff id="jnu12826-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>University of Barcelona</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff>
+      <aff id="jnu12826-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>ESEP &#x2013; Escola Superior de Enfermagem do Porto</institution>
+<city>Porto</city>
+<country country="PT">Portugal</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Cl&#xE1;udia Patr&#xED;cia Pires Almeida, Master in Mental Health and Psychiatry, ULSNE&#x2010; Unidade Local de Sa&#xFA;de Nordeste, Braganca, Portugal.<break/>
+Email: <email>claudialmeida_21@hotmail.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>14</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="140">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>123</fpage>
+      <lpage>130</lpage>
+      <history>
+<date date-type="rev-recd"><day>15</day><month>9</month><year>2022</year></date>
+<date date-type="received"><day>04</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>16</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-123.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <p>Since mid&#x2010;March 2020, a state of emergency was decreed in Portugal due to the COVID&#x2010;19 pandemic and, consequently, measures were implemented to protect public health, such as social isolation, which will certainly have a notable impact on the mental health of the population, especially in the most vulnerable groups. Positive Mental Health (PMH) is essential to deal with adversity, in this case with the pandemic, and to live better and with greater satisfaction. We consider it relevant to investigate how PMH was used as a resource to deal with the pandemic, depending on the level of vulnerability and sex. A, cross&#x2010;sectional study was carried out whose the aim was to evaluate the levels of PMH and psychological vulnerability in people with COVOD&#x2010;19 infection and analyze the association between PMH and psychological vulnerability among men and women.</p>
+        <sec id="jnu12826-sec-0002">
+          <title>Methods</title>
+          <p>The instruments used were a sociodemographic characterization questionnaire, the Positive Mental Health Questionnaire, and the Psychological Vulnerability Scale (PVS), that were sent and filled out online. A quantitative, cross&#x2010;sectional, descriptive, and correlational study was carried out.</p>
+        </sec>
+        <sec id="jnu12826-sec-0003">
+          <title>Results</title>
+          <p>After analyzing the results, it was found that approximately 50.4% of the respondents (<italic toggle="no">n</italic>&#xA0;=&#xA0;387) had global PMH values that place them in quartile 50. There was also a statistically significant difference between female and male PMH, with women showing greater psychological vulnerability and lower overall PMH.</p>
+        </sec>
+        <sec id="jnu12826-sec-0004">
+          <title>Conclusions</title>
+          <p>We conclude that the women present a greater psychological vulnerability and a lower level of PMH when compared to men.</p>
+        </sec>
+        <sec id="jnu12826-sec-0005">
+          <title>Relevance to clinical practice</title>
+          <p>Considering the study's statistically significant results, when we talk about mental health, we should always consider the sex variable as a vulnerability factor, in a pandemic or non&#x2010;pandemic phase.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12826-kwd-0001">pandemic</kwd>
+        <kwd id="jnu12826-kwd-0002">positive mental health</kwd>
+        <kwd id="jnu12826-kwd-0003">psychological vulnerability</kwd>
+        <kwd id="jnu12826-kwd-0004">sex</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="3"/>
+        <page-count count="8"/>
+        <word-count count="6257"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12826-cit-2001">
+<string-name>
+<surname>Almeida</surname>, <given-names>C. P. P.</given-names>
+</string-name>, <string-name>
+<surname>Novo</surname>, <given-names>A. F. M.</given-names>
+</string-name>, <string-name>
+<surname>Lluch Canut</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Ferr&#xE9;&#x2010;Grau</surname>, <given-names>C.</given-names>
+</string-name> &amp; <string-name>
+<surname>Sequeira</surname>, <given-names>C. A. d.</given-names>
+</string-name> (<year>2023</year>). <article-title>
+<styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 infection: Positive mental health, psychological vulnerability and sex: Cross&#x2010;sectional study</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>123</fpage>&#x2013;<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12826</pub-id>
+<pub-id pub-id-type="pmid">36239008</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12826-body-0001">
+    <sec id="jnu12826-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>In recent years, there has been a growing interest in the concept of Positive Mental Health (PMH), highlighting the way in which mental health can be influenced by the positive dimensions of experiences. Thus, PMH can be defined as a value in itself or as the ability to perceive, understand and interpret the context, adapting to it whenever necessary, in order to promote autonomy, integration, and adaptation (Sequeira &amp; Sampaio, <xref rid="jnu12826-bib-0040" ref-type="bibr">2020</xref>).</p>
+      <p>The concept of PMH is used to describe more than the absence of disease, it is a terminology directed and specifically dedicated to the promotion of mental health in a perspective of strengthening and developing the optimal functioning of human beings, reinforcing and enhancing mental health in general (Lluch, <xref rid="jnu12826-bib-0041" ref-type="bibr">2008</xref>; Teixeira et al., <xref rid="jnu12826-bib-0042" ref-type="bibr">2021</xref>).</p>
+      <p>One of the most relevant conceptual approaches is the Multifactorial Model of Positive Mental Health (MMPMH) by Lluch Canut et al. (<xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>), which addresses PMH as a construct with six dimensions or factors: Factor 1: Personal satisfaction (self&#x2010;concept / self&#x2010;esteem; satisfaction with personal life; optimistic perspective of the future); Factor 2: pro social attitude; active predisposition for the social / for society; altruistic social attitude/help&#x2010;support attitude towards others; acceptance of others and different social factors); Factor 3: self&#x2010;control (ability to face stressful/conflict situations; emotional balance/emotional control; tolerance to frustration, anxiety and stress); Factor 4: autonomy (ability to have its own criteria; independence; self&#x2010;regulation of one's own conduct; personal safety / self&#x2010;confidence); Factor 5: problem solving and personal fulfillment (ability to analyze; ability to make decisions; flexibility / ability to adapt to change; attitude of continuous growth and continuous personal development) and Factor 6: interpersonal relationship skills (ability to establish interpersonal relationships; empathy / ability to understand the feelings of others; ability to provide emotional support; ability to establish and maintain intimate interpersonal relationships).</p>
+      <p>Lluch Canut et al.'s (<xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>) MMPMH is assessed using a questionnaire (Positive Mental Health Questionnaire) by the same author which is described in more detail in the methodology section of this article. Both the conceptual model and the PMH questionnaire were applied to different populations and in different health conditions: people with schizophrenia (Ruiz &amp; Dolores, <xref rid="jnu12826-bib-0043" ref-type="bibr">2014</xref>), people with chronic physical health problems (Lluch&#x2010;Canut et al.,&#xA0;<xref rid="jnu12826-bib-0018" ref-type="bibr">2013</xref>; Puig Llobet et al., <xref rid="jnu12826-bib-0045" ref-type="bibr">2020</xref>), caregivers of family members with schizophrenia (Pinho et al., <xref rid="jnu12826-bib-0057" ref-type="bibr">2021</xref>; Riob&#xF3;o, <xref rid="jnu12826-bib-0046" ref-type="bibr">2015</xref>), pre&#x2010;hospital emergency medical services professionals (Mantas Jim&#xE9;nez et al., <xref rid="jnu12826-bib-0047" ref-type="bibr">2015</xref>), university students (Rold&#xE1;n&#x2010;Merino et al., <xref rid="jnu12826-bib-0048" ref-type="bibr">2017</xref>), and university teachers (Hurtado&#x2010;Pardos et al., <xref rid="jnu12826-bib-0049" ref-type="bibr">2017</xref>). In addition, the questionnaire was also translated into Portuguese (Sequeira et al., <xref rid="jnu12826-bib-0050" ref-type="bibr">2014</xref>) and in Turkey (Teke &amp; Arabac&#x131;, <xref rid="jnu12826-bib-0051" ref-type="bibr">2018</xref>).</p>
+      <p>This is the first study that we are aware of, which is carried out in people affected by COVID, using the MMPMH model by Lluch Canut et al. (<xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>).</p>
+      <p>In late December 2019, the first cases of atypical pneumonia of unknown origin were reported in Wuhan &#x2013; China with suspicion of possible zoonosis. In January 2020, Chinese authorities identified the infectious agent as a new coronavirus, naming it SARS&#x2010;COV 2 &#x2013; COVID&#x2010;19. On January 30, 2020 the World Health Organization declared the outbreak of COVID&#x2010;19 a health emergency international public calling on all countries to take rapid action to combat the virus (World Health Organization, <xref rid="jnu12826-bib-0052" ref-type="bibr">2020</xref>). In Portugal, a study carried out by the National Institute of Health Doctor Ricardo Jorge (Mental Health in times of pandemic), which aimed to assess the impact of COVID&#x2010;19 on the mental health and well&#x2010;being of the population in general, revealed that it is mainly the women who present, more often, symptoms of psychological distress, anxiety and depression (Almeida et al.,&#xA0;<xref rid="jnu12826-bib-0001" ref-type="bibr">2020</xref>).</p>
+      <p>It appears that currently the majority of the population faces daily high loads of stress that generate situations of great fear and/or anxiety, which in turn can make individuals more vulnerable to mental health problems. Anxiety disorders are among the most frequent psychiatric disorders in the general population. According to Ap&#xF3;stolo et al.&#xA0;(<xref rid="jnu12826-bib-0003" ref-type="bibr">2011</xref>), of the 870 million people who live in Europe, it is estimated that approximately 100 million suffer from anxiety and depression. Extensive research in studies conducted all over the world reveals that the female sex is the most vulnerable to mental health problems during the pandemic or even worsening of previously diagnosed mental health problems. Thus, pandemic events affect the general population, but many stressors affect especially women, identifying sex as a vulnerability factor (Almeida et al.,&#xA0;<xref rid="jnu12826-bib-0001" ref-type="bibr">2020</xref>; Broche&#x2010;P&#xE9;rez et al.,&#xA0;<xref rid="jnu12826-bib-0006" ref-type="bibr">2020</xref>; Connor et al.,&#xA0;<xref rid="jnu12826-bib-0008" ref-type="bibr">2020</xref>; Liu et al.,&#xA0;<xref rid="jnu12826-bib-0017" ref-type="bibr">2020</xref>; &#xD6;zdin &amp; Bayrak &#xD6;zdin,&#xA0;<xref rid="jnu12826-bib-0022" ref-type="bibr">2020</xref>; Qiu et al.,&#xA0;<xref rid="jnu12826-bib-0025" ref-type="bibr">2020</xref>).</p>
+      <p>The aim of this study was to evaluate the PMH of individuals from the district of Bragan&#xE7;a &#x2013; Portugal, who were tested for suspected infection by COVID&#x2010;19 and to relate the issue of psychological vulnerability with the sex variable.</p>
+      <p>It should also be noted that the district of Bragan&#xE7;a is located in the Northeast region of Portugal, belongs to the traditional province of Tr&#xE1;s&#x2010;os&#x2010;Montes and Alto Douro. It is limited to the north and east by Spain, to the south by the districts of Guarda and Viseu, and to the west by the district of Vila Real. The District has a total area of 6608&#x2009;km<sup>2</sup> and is the fifth largest Portuguese district, inhabited by 33,597 inhabitants corresponding to 63.5% of the working &#x2010; age population (between 15 and 65&#x2009;years old) and 25.1% of the elderly population (65&#x2009;years old or even older) (Funda&#xE7;&#xE3;o Francisco Manuel dos Santos, <xref rid="jnu12826-bib-0053" ref-type="bibr">2011</xref>).</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12826-sec-0007">
+      <title>METHODS</title>
+      <p>A quantitative, cross&#x2010;sectional, descriptive, and correlational study was carried out. The sample consisted of 770 users selected by a convenience sample, who agreed to participate voluntarily, suspected of infection by COVID&#x2010;19, screened in the testing units created specifically for COVID&#x2010;19 testing belonging to the Macedo de Cavaleiros health center that is part of the Northeast Local Health Unit. All those who were in contact with positive cases were tested. Only participants with positive test result or with a high&#x2010;risk were in isolation or quarantine.</p>
+      <p>Inclusion criteria were: age 18&#x2009;years or older; availability to participate and with informed consent and having been tested for suspected infection by COVID&#x2010;19. As exclusion criteria: not knowing how to communicate in Portuguese and not having access to computer resources with internet to respond to the assessment instruments.</p>
+      <p>In a first phase, each user was sent a free and informed consent to participate in the study. Subsequently, a sociodemographic questionnaire, the Positive Mental Health Questionnaire (Sequeira &amp; Carvalho, <xref rid="jnu12826-bib-0054" ref-type="bibr">2009</xref>) and the PVS (Nogueira et al.,&#xA0;<xref rid="jnu12826-bib-0021" ref-type="bibr">2017</xref>) were sent. All instruments were sent by email and completed on an online platform between October 2020 and January 2021.</p>
+      <sec id="jnu12826-sec-0008">
+        <title>Assessment instruments</title>
+        <p>The Positive Mental Health Questionnaire that was applied is based on the multifactorial model developed by Teresa Lluch (Lluch, <xref rid="jnu12826-bib-0041" ref-type="bibr">2008</xref>; Lluch Canut et al., <xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>). This model is based on the evaluation of 6 factors that served as the basis for the construction of Teresa Lluch's PMH assessment instrument (Lluch Canut, <xref rid="jnu12826-bib-0055" ref-type="bibr">2003</xref>; Lluch Canut et al., <xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>) translated into the Portuguese version by Sequeira and Carvalho (Sequeira &amp; Carvalho, <xref rid="jnu12826-bib-0054" ref-type="bibr">2009</xref>; Sequeira et al., <xref rid="jnu12826-bib-0050" ref-type="bibr">2014</xref>). The questionnaire consists of 39 items evaluated on an ordinal scale, with a maximum score of 156 points and a minimum of 39 points, unevenly distributed among the 6 factors: F1: Personal Satisfaction (8 items); F2: Pro&#x2010;social attitude (5 items); F3: Self&#x2010;control (5 items); F4: Autonomy (5 items); F5: Problem Solving and Personal Fulfillment (9 items) and F6: Interpersonal Relationship Skills (7 items).</p>
+        <p>Items take the form of positive or negative statements that are answered on a scale of 1 to 4, according to how often they occur: always or almost always, quite often, sometimes, never or rarely. The questionnaire gives an overall score for PMH (sum of item scores) as well as specific scores for each factor. Thus, the higher the value obtained in this assessment instrument, the higher the PMH level.</p>
+        <p>The original questionnaire was validated in a population of students and in the general population, producing an internal consistency (Cronbach's alpha) between 0.89 and 0.90 and a test&#x2013;retest correlation of 0.85. From the principal component analysis, six factors were derived that explained 46% of the total variance. All your items have a factor loading above 0.40. On this study, with this sample, Cronbach's alpha value is 0.88, thus presenting a very good internal consistency.</p>
+        <p>The PVS translated into the Portuguese version by Nogueira et al.&#xA0;(<xref rid="jnu12826-bib-0021" ref-type="bibr">2017</xref>) consists of 6 self&#x2010;completion statements rated on a Likert scale with five response possibilities ranging from 1 &#xAB;does not describe me anything&#xBB; to 5 &#xAB;describe me very well&#xBB;. The total score is the sum of all items. The higher the score, the greater the psychological vulnerability. The Portuguese version has a good internal consistency (Cronbach's alpha 0.73) and a test&#x2013;retest correlation of 0.88, <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.0001 at 5&#x2009;weeks. On this study, with this sample, Cronbach's alpha value is 0.84, thus presenting a very good internal consistency.</p>
+      </sec>
+      <sec id="jnu12826-sec-0009">
+        <title>Statistical analysis</title>
+        <p>All data were analyzed using the IMB SPSS v.22 program. Descriptive statistics were performed to describe the sociodemographic characteristics of the sample, and mean values stratified by sex were calculated from the Positive Mental Health Questionnaire.</p>
+        <p>Pearson's correlation was calculated between the total score of psychological vulnerability and the total score of Positive Mental Health (TPMH) and the different factors. The <italic toggle="yes">T</italic> Test for independent samples (Independent Samples Test) was used to compare the PMH and psychological vulnerability variables with the question of sex, with <italic toggle="yes">p</italic> values lower than 0.05 being considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12826-sec-0010">
+      <title>RESULTS</title>
+      <p>The sample was composed of 770 individuals suspected of infection by COVID&#x2010;19, mostly females (64.3%; <italic toggle="yes">n</italic>&#xA0;=&#xA0;495); the average age was 36.3&#x2009;years (minimum of 18 and maximum of 74&#x2009;years of age and SD of 12.3&#x2009;years); married or cohabiting (48.8%; <italic toggle="yes">n</italic>&#xA0;=&#xA0;376); without children (46.6%; <italic toggle="yes">n</italic>&#xA0;=&#xA0;359); 40.5% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;312) had concluded secondary education, 39% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;300) had graduated from university, and most of them were working (64%; <italic toggle="yes">n</italic>&#xA0;=&#xA0;493). Most of the respondents had completed isolation/quarantine (<italic toggle="yes">n</italic>&#xA0;=&#xA0;533, corresponding to 69.2% of the sample) (Table&#xA0;<xref rid="jnu12826-tbl-0001" ref-type="table">1</xref>).</p>
+      <table-wrap position="float" id="jnu12826-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Demographics of the sample (<italic toggle="no">n</italic>&#xA0;=&#xA0;770)</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Variable</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Sex</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Feminine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">495</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">64.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Masculine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">275</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">35.7</td>
+            </tr>
+            <tr>
+              <td rowspan="4" align="left" valign="top" colspan="1">Marital status</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Single</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">339</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">44</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Married</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">376</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">48.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Divorced</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">51</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Widow(er)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.5</td>
+            </tr>
+            <tr>
+              <td rowspan="4" align="left" valign="top" colspan="1">Children</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">359</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">46.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">189</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">24.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">186</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">24.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">3 or more</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">36</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.7</td>
+            </tr>
+            <tr>
+              <td rowspan="7" align="left" valign="top" colspan="1">Education</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Primary Education First Cycle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">13</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Primary Education second/third Cycle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">37</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Secondary Education</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">312</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">40.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Bachelor's degree</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2.6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Licentiate</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">300</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">39</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Master</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">80</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Doctorate degree</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td rowspan="5" align="left" valign="top" colspan="1">Employment situation</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Employed</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">493</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">64</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Employer/entrepreneur</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">70</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">9.1</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Unemployed</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">41</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Retired</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Student</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">154</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Quarantine/confinement</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">533</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">69.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">237</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">30.8</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="2" valign="top" rowspan="1">Total</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">770</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">100</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>As for the overall PMH, and to better interpret the results, we divided total PMH values obtained into quartiles: 25, 50, and 75. Consequently, TPMH values up to 123 correspond to the 25th percentile, TPMH values from 124 to 144 correspond to the 50th percentile, and TPMH values above 145 correspond to the 75th percentile. The overall PMH of the sample is in quartile 50, with a total mean value of 132.06, corresponding to a good level of PMH (<italic toggle="yes">n</italic>&#xA0;=&#xA0;387).</p>
+      <p>Concerning the inferential analysis of PMH for sex, a statistically significant value was found in all PMH factors, except for factor 6 &#x2010; Interpersonal relationship skills and factor 2 &#x2010; Pro&#x2010;social attitude &#x2010; statistically non&#x2010;significant value (Table&#xA0;<xref rid="jnu12826-tbl-0002" ref-type="table">2</xref>). Thus, and comparatively, women present lower values than men in the dimensions Personal Satisfaction (F1), Self&#x2010;control (F3), Autonomy (F4), and Problem&#x2010;solving (F5), with <italic toggle="yes">p</italic> values lower than 0.05 and, therefore, statistically significant.</p>
+      <table-wrap position="float" id="jnu12826-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Correlational analysis of TPMH, sex and psychological vulnerability (<italic toggle="no">n</italic>&#xA0;=&#xA0;770)</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SEX</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">PVS</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F1</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F2</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F3</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F4</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F5</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F6</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">TPMH</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Feminine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Mean</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15.72</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">25.81</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">18.30</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15.36</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15.70</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">31.41</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">23.81</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">130.39</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">SD</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5.71</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.71</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.81</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.02</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.34</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.76</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.35</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16.10</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Masculine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Mean</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">13.66</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">27.82</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">18.05</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16.68</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16.72</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">31.97</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">23.84</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">135.07</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">SD</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5.07</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.73</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.85</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2.55</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2.51</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.45</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.21</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">13.84</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.069</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.039</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.903</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Total</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Mean</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">14.98</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">26.53</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">18.21</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15.83</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16.06</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">31.61</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">23.82</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">132.06</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">SD</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5.57</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.49</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.83</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2.93</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.11</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.66</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.30</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15.49</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>After analyzing the results, we infer that the women scores for PVS are higher (M&#xA0;=&#xA0;15.72; SD&#xA0;=&#xA0;5.7) than men (M&#xA0;=&#xA0;13.66; SD&#xA0;=&#xA0;5.07), which indicates a greater psychological vulnerability in the female participants and a lower TPMH values (130.39) when compared to men (135.07) (Table&#xA0;<xref rid="jnu12826-tbl-0002" ref-type="table">2</xref>).</p>
+      <p>There was also a strong negative correlation between PMH, overall and factor&#x2010;based, and psychological vulnerability (through the calculation of Pearson's Correlation between the TPMH and the PVS). Therefore, we concluded that these variables are inversely proportional (Table&#xA0;<xref rid="jnu12826-tbl-0003" ref-type="table">3</xref>), i.e., the higher the PMH, the lower the psychological vulnerability, and vice versa.</p>
+      <table-wrap position="float" id="jnu12826-tbl-0003" content-type="TABLE">
+        <label>TABLE 3</label>
+        <caption>
+          <p>Pearson's correlation between the TPMH and the PVS (<italic toggle="no">n</italic>&#xA0;=&#xA0;770)</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1"/>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">PVS</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F1</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F2</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F3</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F4</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F5</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">F6</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">F1</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.551<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">F2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.132<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.333<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="3" align="left" valign="top" colspan="1">F3</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.499<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.642<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.319<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td rowspan="2" align="char" valign="top" colspan="1">&lt;0.000</td>
+              <td rowspan="2" align="char" valign="top" colspan="1">&lt;0.000</td>
+              <td rowspan="2" align="char" valign="top" colspan="1">&lt;0.000</td>
+              <td rowspan="2" align="char" valign="top" colspan="1"/>
+              <td rowspan="2" align="char" valign="top" colspan="1"/>
+              <td rowspan="2" align="char" valign="top" colspan="1"/>
+              <td rowspan="2" align="char" valign="top" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">F4</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.502<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.691<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.312<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.594<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">F5</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.436<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.638<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.421<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.675<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.619<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">F6</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.304<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.565<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.537<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.512<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.531<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.633<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">TPMH</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.538<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.860<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.551<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.801<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.810<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.858<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.793<xref rid="jnu12826-note-0001" ref-type="table-fn">**</xref>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0,000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0.000</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&lt;0,000</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12826-ntgp-0001">
+          <fn id="jnu12826-note-0051">
+            <p>Abbreviations: F1, Personal Satisfaction; F2, Pro&#x2010;social Attitude; F3, Self&#x2010;control; F4, Autonomy; F5, Problem Solving and Personal Fulfillment; F6, Interpersonal Relationship Skills; PVS, psychological vulnerability scale; TMPH, total score of positive mental health.</p>
+          </fn>
+          <fn id="jnu12826-note-0001">
+            <label>**</label>
+            <p>Correlation is significant at the 0.01 level.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion" id="jnu12826-sec-0011">
+      <title>DISCUSSION</title>
+      <p>As in previous pandemics, the COVID&#x2010;19 has greatly impacted the population's health, namely mental health. The pandemic can be considered a traumatic event, generating severe consequences on the population's mental health (Shigemura et al.,&#xA0;<xref rid="jnu12826-bib-0032" ref-type="bibr">2020</xref>).</p>
+      <p>Some of our results are similar to those found in other studies conducted during the COVID&#x2010;19 pandemic concerning the PMH dimensions of Personal Satisfaction and Self&#x2010;control. For example, a study conducted in 2021 in Poland with a sample of mostly female individuals (75.24%) revealed a significant average decrease in happiness and life satisfaction during the COVID&#x2010;19 pandemic compared to the pre&#x2010;pandemic period (Gawrych et al.,&#xA0;<xref rid="jnu12826-bib-0010" ref-type="bibr">2021</xref>).</p>
+      <p>Regarding the self&#x2010;control dimension, several studies have concluded that self&#x2010;control is a resilience factor between the perceived severity of the COVID&#x2010;19 infection and mental health, with the most vulnerable population having the least self&#x2010;control (Li et al.,&#xA0;<xref rid="jnu12826-bib-0016" ref-type="bibr">2020</xref>; Schnell &amp; Krampe,&#xA0;<xref rid="jnu12826-bib-0030" ref-type="bibr">2020</xref>). Thus, we can infer that mental health problems are attenuated when these dimensions of PMH increase.</p>
+      <p>Recent reports indicate that in situations of infection by COVID&#x2010;19, women are at a lower risk of serious illness and death than men (Gebhard et al.,&#xA0;<xref rid="jnu12826-bib-0011" ref-type="bibr">2020</xref>; Richardson et al.,&#xA0;<xref rid="jnu12826-bib-0026" ref-type="bibr">2020</xref>). However, we also found that recent studies carried out all over the world suggest that the symptomatology of post&#x2010;traumatic stress disorders, the levels of anxiety and depression, and in general, the impact of the COVID&#x2010;19 pandemic on mental health is more evident, and with statistically significant results, in women (Almeida et al.,&#xA0;<xref rid="jnu12826-bib-0001" ref-type="bibr">2020</xref>; Liu et al.,&#xA0;<xref rid="jnu12826-bib-0017" ref-type="bibr">2020</xref>; &#xD6;zdin &amp; Bayrak &#xD6;zdin,&#xA0;<xref rid="jnu12826-bib-0022" ref-type="bibr">2020</xref>), which corroborates this research.</p>
+      <p>On the other hand, we found studies carried out in contexts unrelated to the pandemic that also indicate that there were already significant differences in PMH between men and women. A study conducted in Mexico with young university students revealed that men show better cognitive&#x2010;emotional well&#x2010;being, control of the environment, and physical well&#x2010;being. In contrast, women show better social skills, empathy, and social sensitivity, but on the other hand, greater psychological distress (Barrera Guzm&#xE1;n &amp; Flores Galaz,&#xA0;<xref rid="jnu12826-bib-0004" ref-type="bibr">2020</xref>) (Barrera &amp; Flores, <xref rid="jnu12826-bib-0004" ref-type="bibr">2020</xref>).</p>
+      <p>Another study conducted in Mexico on higher education students aged 14 to 20, aiming to analyze the differences between the PMH of men compared to women, revealed somewhat different results. The results showed that 38.3% of the sample has a high level and 16.1% at a very high level of PMH. There were significant differences in four of the six dimensions: Personal Satisfaction, Pro&#x2010;social Attitude, and Interpersonal Relationship skills, with higher scores for women and self&#x2010;control in men (Toribio P&#xE9;rez et al.,&#xA0;<xref rid="jnu12826-bib-0035" ref-type="bibr">2018</xref>).</p>
+      <p>However, it should be noted that all these studies were conducted with different instruments, populations, and contexts.</p>
+      <p>In Spain, another research (Lluch&#x2010;Canut et al.,&#xA0;<xref rid="jnu12826-bib-0018" ref-type="bibr">2013</xref>) conducted with chronically ill adults over 45&#x2009;years of age reports significant differences between men and women. Women show more pro&#x2010;social attitudes and interpersonal relationship skills, and men more personal satisfaction and autonomy. Thus, considering that we used the same evaluation instrument, i.e., the Positive Mental Health Questionnaire by Lluch Canut et al. (<xref rid="jnu12826-bib-0044" ref-type="bibr">1999</xref>), we can explain these differences in our study by the differences in contexts and between age groups.</p>
+      <p>As far as the mental health impact is concerned, in general, the results of the scientific evidence are unanimous. In line with our findings, several studies show evidence of a negative impact on the mental health of the population during events such as the one currently being experienced. A study conducted in China during the initial phase of the COVID&#x2010;19 outbreak found that more than half of the stakeholders rated the psychological impact of the pandemic as moderate to severe and that the female sex was associated with a greater psychological impact of the outbreak and higher levels of stress, anxiety and depression (C. Wang, Pan, et al.,&#xA0;<xref rid="jnu12826-bib-0036" ref-type="bibr">2020</xref>).</p>
+      <p>In Australia, another study conducted four weeks after the pandemic shutdown came to two similar conclusions: that the COVID&#x2010;19 appears to have a major impact on mental health and that young adults (&lt;35&#x2009;years), women, unemployed, and those on low incomes have significantly lower mental health (Pieh et al.,&#xA0;<xref rid="jnu12826-bib-0024" ref-type="bibr">2020</xref>). It should also be noted that relatively high rates of symptoms of psychiatric disorders were reported in the general population during the COVID&#x2010;19 pandemic in China, Spain, Italy, Iran, the United States, Turkey, Nepal and Denmark (Xiong et al.,&#xA0;<xref rid="jnu12826-bib-0039" ref-type="bibr">2020</xref>). Thus, in the light of the psychosocial implications of the COVID&#x2010;19 in the general population and specific groups, the promotion and primary prevention of mental health acquires great relevance. It is paramount to enhance the mental health of those who are well and to detect the risk of any potential mental health problem as early as possible.</p>
+      <p>In this sense, and taking into account the scientific evidence, there are several studies that show the importance of the need to take care of the PMH considering it as a protective factor of mental health, both in the general population (Buitrago Ram&#xED;rez et al.,&#xA0;<xref rid="jnu12826-bib-0007" ref-type="bibr">2020</xref>; Keyes,&#xA0;<xref rid="jnu12826-bib-0013" ref-type="bibr">2007</xref>; Keyes et al.,&#xA0;<xref rid="jnu12826-bib-0014" ref-type="bibr">2010</xref>; Keyes &amp; Simoes,&#xA0;<xref rid="jnu12826-bib-0015" ref-type="bibr">2012</xref>; Moreno et al.,&#xA0;<xref rid="jnu12826-bib-0019" ref-type="bibr">2020</xref>; Murray et al.,&#xA0;<xref rid="jnu12826-bib-0020" ref-type="bibr">2020</xref>; Paulino et al.,&#xA0;<xref rid="jnu12826-bib-0023" ref-type="bibr">2021</xref>; Teismann et al.,&#xA0;<xref rid="jnu12826-bib-0033" ref-type="bibr">2019</xref>; Tiz&#xF3;n,&#xA0;<xref rid="jnu12826-bib-0034" ref-type="bibr">2020</xref>), and especially in health professionals (Alonso et al.,&#xA0;<xref rid="jnu12826-bib-0059" ref-type="bibr">2021</xref>; Dosil Santamar&#xED;a et al.,&#xA0;<xref rid="jnu12826-bib-0009" ref-type="bibr">2021</xref>; Romero et al.,&#xA0;<xref rid="jnu12826-bib-0027" ref-type="bibr">2020</xref>; Sampaio et al.,&#xA0;<xref rid="jnu12826-bib-0029" ref-type="bibr">2021</xref>).</p>
+      <p>In addition to being a protective factor, PMH should also be considered as a predictive factor and/or mediator of adaptive/dysadaptive coping responses, both in the specificity of the pandemic and in the potential for mental health, suicide or addiction problems (Brailovskaia et al.,&#xA0;<xref rid="jnu12826-bib-0005" ref-type="bibr">2019</xref>; Murray et al.,&#xA0;<xref rid="jnu12826-bib-0020" ref-type="bibr">2020</xref>; Teismann et al.,&#xA0;<xref rid="jnu12826-bib-0033" ref-type="bibr">2019</xref>).</p>
+      <p>Thus, taking into account the situation that is being experienced all over the world, and given that sex vulnerability issues are somewhat transversal to various themes and not only to health in general, there is an urgent need for further research to substantiate the need to implement measures and strategies that minimize the impact of the pandemic on mental health, particularly in the most vulnerable groups, to ensure that public health policies take into account the sex perspective. However, the results that relate PMH with sex remain controversial since, in some studies, the differences are statistically significant, while in others, the differences are not significant regardless of the study context.</p>
+      <p>In this way, it was verified that the study carried out was in line with several previous studies reporting on women as most vulnerable (Broche&#x2010;P&#xE9;rez et al.,&#xA0;<xref rid="jnu12826-bib-0006" ref-type="bibr">2020</xref>; Connor et al.,&#xA0;<xref rid="jnu12826-bib-0008" ref-type="bibr">2020</xref>; Qiu et al.,&#xA0;<xref rid="jnu12826-bib-0025" ref-type="bibr">2020</xref>).</p>
+      <sec id="jnu12826-sec-0012">
+        <title>Learned lessons and policy recommendations following the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic</title>
+        <p>The pandemic caused by the COVID&#x2010;19 virus has shown that in no part of the world the government institutions, hospitals or even properly trained human resources were prepared to easily overcome this great challenge (Han et al.,&#xA0;<xref rid="jnu12826-bib-0012" ref-type="bibr">2020</xref>; Scotti et al.,&#xA0;<xref rid="jnu12826-bib-0031" ref-type="bibr">2022</xref>; Wang, Duan, et al.,&#xA0;<xref rid="jnu12826-bib-0037" ref-type="bibr">2020</xref>). The impact of this pandemic was not only noticeable on the world economy, but also reinforced the constant need for better preparation in the area of health, namely in its response capacity and in the training of health professionals and society itself to better deal with a similar event in the future. Health policies should include specific plans for more effective action with the provision of qualified professionals in sufficient numbers to avoid exhaustion (Rossi et al.,&#xA0;<xref rid="jnu12826-bib-0028" ref-type="bibr">2022</xref>) More and more investment should be made in specific training that contemplates demands and contingency plans standardized by health organizations, so that there is a better preparation and response to emerging infectious diseases (Wu et al.,&#xA0;<xref rid="jnu12826-bib-0038" ref-type="bibr">2020</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="jnu12826-sec-0013">
+      <title>LIMITATIONS</title>
+      <p>The authors did not perform a sample size calculation. The study was conducted in an area in the northeast of Portugal, where the population is aged and not everyone has computer or internet resources. Our sample size was a result of those who were able to fill out the instruments online. We consider this a limitation because the population tested was much larger than our sample size.</p>
+      <p>The questionnaires were filled out on line and although the participants were instructed to fill out the questionnaire only once, due to anonymity this cannot be guaranteed.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12826-sec-0014">
+      <title>CONCLUSIONS</title>
+      <p>The results of this study corroborate international research indicating that women are the sex with the highest rates of psychological vulnerability during the COVID&#x2010;19 pandemic and have a greater negative impact on their PMH.</p>
+      <p>Psychological vulnerability is a good indicator of lower PMH, so it can be used in association with sex to identify the persons who should be given priority in terms of intervention. Consequently, it is paramount to recognize the need to implement health policies that contemplate specific interventions that minimize the negative psychological impact on the mental health of the most vulnerable groups, namely women, not neglecting the post&#x2010;pandemic period.</p>
+      <sec id="jnu12826-sec-0015">
+        <title>CLINICAL RESOURCES</title>
+        <p>Mental health &amp; COVID&#x2010;19: Coronavirus disease (Source: World Health Organization). <ext-link xlink:href="https://www.who.int/teams/mental-health-and-substance-use/mental-health-and-covid-19" ext-link-type="uri">https://www.who.int/teams/mental&#x2010;health&#x2010;and&#x2010;substance&#x2010;use/mental&#x2010;health&#x2010;and&#x2010;covid&#x2010;19</ext-link>
+</p>
+        <p>Mental health and psychosocial considerations during the COVID&#x2010;19 outbreak (Source: World Health Organization) <ext-link xlink:href="https://www.who.int/publications/i/item/WHO-2019-nCoV-MentalHealth-2020.1" ext-link-type="uri">https://www.who.int/publications/i/item/WHO&#x2010;2019&#x2010;nCoV&#x2010;MentalHealth&#x2010;2020.1</ext-link>
+</p>
+        <p>One in 5 COVID&#x2010;19 patients develop mental illness within 90&#x2009;days &#x2013;study (Source: Reuters) <ext-link xlink:href="https://www.reuters.com/article/health-coronavirus-mental-illness-idUKL8N2HS4ND" ext-link-type="uri">https://www.reuters.com/article/health&#x2010;coronavirus&#x2010;mental&#x2010;illness&#x2010;idUKL8N2HS4ND</ext-link>
+</p>
+        <p>Coronavirus disease (COVID&#x2010;19) (Source: American Nurses Association) <ext-link xlink:href="https://www.nursingworld.org/practice-policy/work-environment/health-safety/diseae-preparedness/coronavirus/" ext-link-type="uri">https://www.nursingworld.org/practice&#x2010;policy/work&#x2010;environment/health&#x2010;safety/diseae&#x2010;preparedness/coronavirus/</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12826-sec-0016">
+      <title>CONFLICT OF INTERESTS</title>
+      <p>All co&#x2010;authors have contributed significantly and agree with the contents of the manuscript and there is no financial interest to report.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12826-sec-0019">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>The authors would like to thank everyone who directly or indirectly took part in this research.</p>
+    </ack>
+    <sec sec-type="data-availability" id="jnu12826-sec-0018">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p>
+    </sec>
+    <ref-list content-type="cited-references" id="jnu12826-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12826-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0001">
+<string-name>
+<surname>Almeida</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Stojanac</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Miller</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2020</year>). <article-title>The impact of the COVID&#x2010;19 pandemic on women's mental health</article-title>. <source>Archives of Women's Mental Health</source>, <volume>23</volume>(<issue>6</issue>), <fpage>741</fpage>&#x2013;<lpage>748</lpage>. <pub-id pub-id-type="doi">10.1007/s00737-020-01092-2</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0059">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0059">
+<string-name>
+<surname>Alonso</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vilagut</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mortier</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Alayo</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Aragon&#xE8;s</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Campos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cura&#x2010;Gonz&#xE1;lez</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Emparanza</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Espuga</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Forjaz</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#xE1;lez&#x2010;Pinto</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Haro</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>L&#xF3;pez&#x2010;Fresne&#xF1;a</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sal&#xE1;zar</surname>, <given-names>A. D. M.</given-names>
+</string-name>, <string-name>
+<surname>Molina</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Ort&#xED;&#x2010;Lucas</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Parellada</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pelayo&#x2010;Ter&#xE1;n</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>P&#xE9;rez&#x2010;Sol&#xE0;</surname>, <given-names>V.</given-names>
+</string-name> (<year>2021</year>). <article-title>Mental health impact of the first wave of COVID&#x2010;19 pandemic on Spanish healthcare workers: A large cross&#x2010;sectional survey</article-title>. <source>Revista de Psiquiatr&#xED;a y Salud Mental</source>, <volume>14</volume>(<issue>2</issue>), <fpage>90</fpage>&#x2013;<lpage>105</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0003">
+<string-name>
+<surname>Ap&#xF3;stolo</surname>, <given-names>J. L. A.</given-names>
+</string-name>, <string-name>
+<surname>Figueiredo</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Mendes</surname>, <given-names>A. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rodrigues</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Depress&#xE3;o, ansiedade e estresse em usu&#xE1;rios de cuidados prim&#xE1;rios de sa&#xFA;de</article-title>. <source>Revista Latino&#x2010;Americana de Enfermagem</source>, <volume>19</volume>(<issue>2</issue>), <fpage>348</fpage>&#x2013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">21584382</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0004">
+<string-name>
+<surname>Barrera Guzm&#xE1;n</surname>, <given-names>M. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Flores Galaz</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Apoyo social percibido y salud mental positiva en hombres y mujeres universitarios. Voces y Silencios</article-title>. <source>Revista Latinoamericana de Educaci&#xF3;n</source>, <volume>11</volume>(<issue>2</issue>), <fpage>67</fpage>&#x2013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.18175/VyS11.2.2020.4</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0005">
+<string-name>
+<surname>Brailovskaia</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Margraf</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>K&#xF6;llner</surname>, <given-names>V.</given-names>
+</string-name> (<year>2019</year>). <article-title>Addicted to Facebook? Relationship between Facebook addiction disorder, duration of Facebook use and narcissism in an inpatient sample</article-title>. <source>Psychiatry Research</source>, <volume>273</volume>, <fpage>52</fpage>&#x2013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.psychres.2019.01.016</pub-id>
+<pub-id pub-id-type="pmid">30639564</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0006">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0006">
+<string-name>
+<surname>Broche&#x2010;P&#xE9;rez</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#xE1;ndez&#x2010;Fleites</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Jim&#xE9;nez&#x2010;Puig</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#xE1;ndez&#x2010;Castillo</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rodr&#xED;guez&#x2010;Martin</surname>, <given-names>B. C.</given-names>
+</string-name> (<year>2020</year>). <article-title>Gender and fear of COVID&#x2010;19 in a Cuban population sample</article-title>. <source>International Journal of Mental Health and Addiction</source>, <volume>20</volume>, <fpage>83</fpage>&#x2013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1007/s11469-020-00343-8</pub-id>
+<pub-id pub-id-type="pmid">32837428</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0007">
+<string-name>
+<surname>Buitrago Ram&#xED;rez</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ciurana Misol</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#xE1;ndez Alonso</surname>, <given-names>M. D. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Tiz&#xF3;n Garc&#xED;a</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2020</year>). <article-title>Salud mental en epidemias: una perspectiva desde la Atenci&#xF3;n Primaria de Salud espa&#xF1;ola</article-title>. <source>Atenci&#xF3;n Primaria</source>, <volume>52</volume>, <fpage>93</fpage>&#x2013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1016/j.aprim.2020.09.004</pub-id>
+<pub-id pub-id-type="pmid">33388120</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0008">
+<string-name>
+<surname>Connor</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Madhavan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mokashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Amanuel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Pace</surname>, <given-names>L. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bartz</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>). <article-title>Health risks and outcomes that disproportionately affect women during the Covid&#x2010;19 pandemic: A review</article-title>. <source>Social Science &amp; Medicine</source>, <volume>266</volume>, <elocation-id>113364</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2020.113364</pub-id>
+<pub-id pub-id-type="pmid">32950924</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0009">
+<string-name>
+<surname>Dosil Santamar&#xED;a</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ozamiz&#x2010;Etxebarria</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Redondo Rodr&#xED;guez</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jaureguizar Alboniga&#x2010;Mayor</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Picaza Gorrotxategi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Impacto psicol&#xF3;gico de la COVID&#x2010;19 en una muestra de profesionales sanitarios espa&#xF1;oles</article-title>. <source>Revista de Psiquiatr&#xED;a y Salud Mental</source>, <volume>14</volume>(<issue>2</issue>), <fpage>106</fpage>&#x2013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1016/j.rpsm.2020.05.004</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0053">
+        <mixed-citation publication-type="book" id="jnu12826-cit-0053">
+<collab collab-type="authors">Funda&#xE7;&#xE3;o Francisco Manuel dos Santos</collab>
+. (<year>2013</year>). <source>Retrato de Portugal: indicadores 2011</source>. <publisher-name>PORDATA</publisher-name>. <ext-link xlink:href="http://www.pordata.pt/ebooks/PT2011v201306111700/RETRATODEPORTUGAL2011.pdf" ext-link-type="uri">http://www.pordata.pt/ebooks/PT2011v201306111700/RETRATODEPORTUGAL2011.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0010">
+<string-name>
+<surname>Gawrych</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cicho&#x144;</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kiejna</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 pandemic fear, life satisfaction and mental health at the initial stage of the pandemic in the largest cities in Poland</article-title>. <source>Psychology, Health &amp; Medicine</source>, <volume>26</volume>(<issue>1</issue>), <fpage>107</fpage>&#x2013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1080/13548506.2020.1861314</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0011">
+<string-name>
+<surname>Gebhard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Regitz&#x2010;Zagrosek</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Neuhauser</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Klein</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of sex and gender on COVID&#x2010;19 outcomes in Europe</article-title>. <source>Biology of Sex Differences</source>, <volume>11</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1186/s13293-020-00304-9</pub-id>
+<pub-id pub-id-type="pmid">31900228</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0012">
+<string-name>
+<surname>Han</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>M. M. J.</given-names>
+</string-name>, <string-name>
+<surname>Turk</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sridhar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Shibuya</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Asgari</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#xED;a&#x2010;Basteiro</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Hanefeld</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>L. Y.</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>, <given-names>Y. Y.</given-names>
+</string-name>, <string-name>
+<surname>Heymann</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Legido&#x2010;Quigley</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Lessons learnt from easing COVID&#x2010;19 restrictions: An analysis of countries and regions in Asia Pacific and Europe</article-title>. <source>Lancet (London, England)</source>, <volume>396</volume>(<issue>10261</issue>), <fpage>1525</fpage>&#x2013;<lpage>1534</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)32007-9</pub-id>
+<pub-id pub-id-type="pmid">32979936</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0049">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0049">
+<string-name>
+<surname>Hurtado&#x2010;Pardos</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Moreno&#x2010;Arroyo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Casas</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lluch&#x2010;Canut</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lleix&#xE0;&#x2010;Fortu&#xF1;o</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Farr&#xE9;s&#x2010;Tarafa</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rold&#xE1;n&#x2010;Merino</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Positive mental health and prevalence of psychological ill&#x2010;being in university nursing professors in Catalonia, Spain</article-title>. <source>Journal of Psychosocial Nursing and Mental Health Services</source>, <volume>55</volume>(<issue>7</issue>), <fpage>38</fpage>&#x2013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.3928/02793695-20170619-06</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0013">
+<string-name>
+<surname>Keyes</surname>, <given-names>C. L. M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Promoting and protecting mental health as flourishing: A complementary strategy for improving national mental health</article-title>. <source>American Psychologist</source>, <volume>62</volume>(<issue>2</issue>), <fpage>95</fpage>&#x2013;<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1037/0003-066X.62.2.95</pub-id>
+<pub-id pub-id-type="pmid">17324035</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0015">
+<string-name>
+<surname>Keyes</surname>, <given-names>C. L. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Simoes</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>To flourish or not: Positive mental health and all&#x2010;cause mortality</article-title>. <source>American Journal of Public Health</source>, <volume>102</volume>(<issue>11</issue>), <fpage>2164</fpage>&#x2013;<lpage>2172</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.2012.300918</pub-id>
+<pub-id pub-id-type="pmid">22994191</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0014">
+<string-name>
+<surname>Keyes</surname>, <given-names>C. L. M.</given-names>
+</string-name>, <string-name>
+<surname>Dhingra</surname>, <given-names>S. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Simoes</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Change in level of positive mental health as a predictor of future risk of mental illness</article-title>. <source>American Journal of Public Health</source>, <volume>100</volume>(<issue>12</issue>), <fpage>2366</fpage>&#x2013;<lpage>2371</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.2010.192245</pub-id>
+<pub-id pub-id-type="pmid">20966364</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0016">
+<string-name>
+<surname>Li</surname>, <given-names>J.&#x2010;B.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dou</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Cheung</surname>, <given-names>R. Y. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Self&#x2010;control moderates the association between perceived severity of coronavirus disease 2019 (COVID&#x2010;19) and mental health problems among the Chinese public</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>17</volume>(<issue>13</issue>), <elocation-id>4820</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph17134820</pub-id>
+<pub-id pub-id-type="pmid">32635495</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0017">
+<string-name>
+<surname>Liu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name> (<year>2020</year>). <article-title>Prevalence and predictors of PTSS during COVID&#x2010;19 outbreak in China hardest&#x2010;hit areas: Gender differences matter</article-title>. <source>Psychiatry Research</source>, <volume>287</volume>, <elocation-id>112921</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.psychres.2020.112921</pub-id>
+<pub-id pub-id-type="pmid">32240896</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0055">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0055">
+<string-name>
+<surname>Lluch Canut</surname>, <given-names>M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Construcci&#xF3;n y an&#xE1;lisis psicom&#xE9;trico de un cuestionario para evaluar la salud mental positiva</article-title>. <source>Behavioral Psychology/Psicologia Conductual</source>, <volume>11</volume>(<issue>1</issue>), <fpage>61</fpage>&#x2013;<lpage>78</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0044">
+        <mixed-citation publication-type="book" id="jnu12826-cit-0044">
+<string-name>
+<surname>Lluch Canut</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>G&#xF3;mez Benito</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Peris Pascual</surname>, <given-names>M. D.</given-names>
+</string-name>, &amp; <collab collab-type="authors">Universitat de Barcelona. Departament de Metodologia de les Ci&#xE8;ncies del Comportament</collab>
+. (<year>1999</year>). <source>Construcci&#xF3;n de una escala para evaluar la salud mental positiva</source>. In TDX (Tesis Doctorals en Xarxa). <publisher-name>Universitat de Barcelona</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0041">
+<string-name>
+<surname>Lluch</surname>, <given-names>M. T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Concepto de salud mental positiva: factores relacionados. Recursos y Programas Para La Salud Mental</article-title>. <source>Enfermer&#xED;a Psicosocial II</source>, <volume>37</volume>, <fpage>69</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0018">
+<string-name>
+<surname>Lluch&#x2010;Canut</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Puig&#x2010;Llobet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>S&#xE1;nchez&#x2010;Ortega</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rold&#xE1;n&#x2010;Merino</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ferr&#xE9;&#x2010;Grau</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Assessing positive mental health in people with chronic physical health problems: Correlations with socio&#x2010;demographic variables and physical health status</article-title>. <source>BMC Public Health</source>, <volume>13</volume>(<issue>1</issue>), <elocation-id>928</elocation-id>. <pub-id pub-id-type="doi">10.1186/1471-2458-13-928</pub-id>
+<pub-id pub-id-type="pmid">24093443</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0047">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0047">
+<string-name>
+<surname>Mantas Jim&#xE9;nez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Juviny&#x101; Canal</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bertran i Noguer</surname>, <given-names>C.</given-names>
+</string-name>
+<string-name>
+<surname>Rold&#xE1;n Merino</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lluch Canut</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Evaluation of positive mental health and sense of coherence in mental health professionals</article-title>. <source>Revista Portuguesa de Enfermagem de Sa&#xFA;de Mental</source>, <volume>13</volume>, <fpage>34</fpage>&#x2013;<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0019">
+<string-name>
+<surname>Moreno</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wykes</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Galderisi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nordentoft</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Crossley</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Correll</surname>, <given-names>C. U.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Carr</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>E. Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Gorwood</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>K&#xE4;rkk&#xE4;inen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Krystal</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lieberman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#xF3;pez&#x2010;Jaramillo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>M&#xE4;nnikk&#xF6;</surname>, <given-names>M.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Arango</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>). <article-title>How mental health care should change as a consequence of the COVID&#x2010;19 pandemic</article-title>. <source>The Lancet Psychiatry</source>, <volume>7</volume>(<issue>9</issue>), <fpage>813</fpage>&#x2013;<lpage>824</lpage>. <pub-id pub-id-type="doi">10.1016/S2215-0366(20)30307-2</pub-id>
+<pub-id pub-id-type="pmid">32682460</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0020">
+<string-name>
+<surname>Murray</surname>, <given-names>C. J. L.</given-names>
+</string-name>, <string-name>
+<surname>Aravkin</surname>, <given-names>A. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Abbafati</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Abbas</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Abbasi&#x2010;Kangevari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abd&#x2010;Allah</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Abdelalim</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abdollahi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abdollahpour</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Abegaz</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name>
+<surname>Abolhassani</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Aboyans</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Abreu</surname>, <given-names>L. G.</given-names>
+</string-name>, <string-name>
+<surname>Abrigo</surname>, <given-names>M. R. M.</given-names>
+</string-name>, <string-name>
+<surname>Abualhasan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abu&#x2010;Raddad</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Abushouk</surname>, <given-names>A. I.</given-names>
+</string-name>, <string-name>
+<surname>Adabi</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lim</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Global burden of 87 risk factors in 204 countries and territories, 1990&#x2013;2019: a systematic analysis for the Global Burden of Disease Study 2019</article-title>. <source>The Lancet</source>, <volume>396</volume>(<issue>10258</issue>), <fpage>1223</fpage>&#x2013;<lpage>1249</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30752-2</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0021">
+<string-name>
+<surname>Nogueira</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Barros</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Psychometric properties of the psychological vulnerability scale in higher education students</article-title>. <source>Journal of the American Psychiatric Nurses Association</source>, <volume>23</volume>(<issue>3</issue>), <fpage>215</fpage>&#x2013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1177/1078390317695261</pub-id>
+<pub-id pub-id-type="pmid">28510509</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0022">
+<string-name>
+<surname>&#xD6;zdin</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bayrak &#xD6;zdin</surname>, <given-names>&#x15E;.</given-names>
+</string-name> (<year>2020</year>). <article-title>Levels and predictors of anxiety, depression and health anxiety during COVID&#x2010;19 pandemic in Turkish society: The importance of gender</article-title>. <source>International Journal of Social Psychiatry</source>, <volume>66</volume>(<issue>5</issue>), <fpage>504</fpage>&#x2013;<lpage>511</lpage>. <pub-id pub-id-type="doi">10.1177/0020764020927051</pub-id>
+<pub-id pub-id-type="pmid">32380879</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0023">
+<string-name>
+<surname>Paulino</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dumas&#x2010;Diniz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Brissos</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brites</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alho</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sim&#xF5;es</surname>, <given-names>M. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Silva</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 in Portugal: Exploring the immediate psychological impact on the general population</article-title>. <source>Psychology, Health &amp; Medicine</source>, <volume>26</volume>(<issue>1</issue>), <fpage>44</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1080/13548506.2020.1808236</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0024">
+<string-name>
+<surname>Pieh</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Budimir</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Probst</surname>, <given-names>T.</given-names>
+</string-name> (<year>2020</year>). <article-title>The effect of age, gender, income, work, and physical activity on mental health during coronavirus disease (COVID&#x2010;19) lockdown in Austria</article-title>. <source>Journal of Psychosomatic Research</source>, <volume>136</volume>, <elocation-id>110186</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jpsychores.2020.110186</pub-id>
+<pub-id pub-id-type="pmid">32682159</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0057">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0057">
+<string-name>
+<surname>Pinho</surname>, <given-names>L. M. G.</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>, <given-names>C. A. D. C.</given-names>
+</string-name>, <string-name>
+<surname>Sampaio</surname>, <given-names>F. M. C.</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>, <given-names>N. B.</given-names>
+</string-name>, <string-name>
+<surname>Ozaslan</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ferre&#x2010;Grau</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Assessing the efficacy and feasibility of providing metacognitive training for patients with schizophrenia by mental health nurses: A randomized controlled trial</article-title>. <source>Journal of Advanced Nursing</source>, <volume>77</volume>(<issue>2</issue>), <fpage>999</fpage>&#x2013;<lpage>1012</lpage>. <pub-id pub-id-type="doi">10.1111/jan.14627</pub-id>
+<pub-id pub-id-type="pmid">33222210</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0045">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0045">
+<string-name>
+<surname>Puig Llobet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>S&#xE1;nchez Ortega</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lluch&#x2010;Canut</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moreno&#x2010;Arroyo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hidalgo Blanco</surname>, <given-names>M. &#xC0;.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rold&#xE1;n&#x2010;Merino</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Positive mental health and self&#x2010;care in patients with chronic physical health problems: Implications for evidence&#x2010;based practice</article-title>. <source>Worldviews on Evidence&#x2010;Based Nursing</source>, <volume>17</volume>(<issue>4</issue>), <fpage>293</fpage>&#x2013;<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1111/wvn.12453</pub-id>
+<pub-id pub-id-type="pmid">32762130</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0025">
+<string-name>
+<surname>Qiu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2020</year>). <article-title>A nationwide survey of psychological distress among Chinese people in the COVID&#x2010;19 epidemic: Implications and policy recommendations</article-title>. <source>General Psychiatry</source>, <volume>33</volume>(<issue>2</issue>), <fpage>19</fpage>&#x2013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1136/gpsych-2020-100213</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0026">
+<string-name>
+<surname>Richardson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Narasimhan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>McGinn</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Barnaby</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>, <given-names>L. B.</given-names>
+</string-name>, <string-name>
+<surname>Chelico</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>S. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Cookingham</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Presenting characteristics, comorbidities, and outcomes among 5700 patients hospitalized with COVID&#x2010;19 in the new York City area</article-title>. <source>JAMA &#x2010; Journal of the American Medical Association</source>, <volume>323</volume>(<issue>20</issue>), <fpage>2052</fpage>&#x2013;<lpage>2059</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2020.6775</pub-id>
+<pub-id pub-id-type="pmid">32320003</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0046">
+        <mixed-citation publication-type="book" id="jnu12826-cit-0046">
+<string-name>
+<surname>Riob&#xF3;o</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2015</year>). <source>Atenci&#xF3; d&#x2019;infermeria a la cuidadora principal de persones amb esquizofr&#xE8;nia: Valoraci&#xF3; dels requisits d&#x2019;autocura i de la salut mental positiva</source> (Vol. 9). <publisher-name>Universidad Rovira i Virgili</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0048">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0048">
+<string-name>
+<surname>Rold&#xE1;n&#x2010;Merino</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lluch&#x2010;Canut</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Casas</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sanrom&#xE0;&#x2010;Ort&#xED;z</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ferr&#xE9;&#x2010;Grau</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Falc&#xF3;&#x2010;Pegueroles</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Puig&#x2010;Llobet</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Reliability and validity of the Positive Mental Health Questionnaire in a sample of Spanish university students</article-title>. <source>Journal of Psychiatric and Mental Health Nursing</source>, <volume>24</volume>(<issue>2&#x2013;3</issue>), <fpage>123</fpage>&#x2013;<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1111/jpm.12358</pub-id>
+<pub-id pub-id-type="pmid">28150373</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0027">
+<string-name>
+<surname>Romero</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Catal&#xE1;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Errando</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Iftimi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Benito</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>De Andres</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Otero</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19 psychological impact in 3109 healthcare workers in Spain: The PSIMCOV group</article-title>. <source>Psychological Medicine</source>, <volume>1&#x2013;7</volume>, <fpage>188</fpage>&#x2013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291720001671</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0028">
+<string-name>
+<surname>Rossi</surname>, <given-names>T. R. A.</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>, <given-names>C. L. M.</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Paim</surname>, <given-names>J. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Vieira&#x2010;da&#x2010;Silva</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>A resposta da Coreia do Sul &#xE0; pandemia de COVID&#x2010;19: Li&#xE7;&#xF5;es aprendidas e recomenda&#xE7;&#xF5;es a gestores</article-title>. <source>Cadernos de Sa&#xFA;de P&#xFA;blica</source>, <volume>38</volume>(<issue>1</issue>), <elocation-id>e00118621</elocation-id>. <pub-id pub-id-type="doi">10.1590/0102-311x00118621</pub-id>
+<pub-id pub-id-type="pmid">35081202</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0043">
+        <mixed-citation publication-type="book" id="jnu12826-cit-0043">
+<string-name>
+<surname>Ruiz</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dolores</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <source>Valoraci&#xF3;n de la Salud Mental Positiva y de los Requisitos de Autocuidado, en pacientes hospitalizados diagnosticados de Esquizofrenia, seg&#xFA;n la Teor&#xED;a de Enfermer&#xED;a de Dorothea Orem</source>. TDX (Tesis Doctorals En Xarxa). <publisher-name>Universitat de Barcelona</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0029">
+<string-name>
+<surname>Sampaio</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Teixeira</surname>, <given-names>L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Impact of COVID&#x2010;19 outbreak on nurses' mental health: A prospective cohort study</article-title>. <source>Environmental Research</source>, <volume>194</volume>, <elocation-id>110620</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.envres.2020.110620</pub-id>
+<pub-id pub-id-type="pmid">33316228</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0030">
+<string-name>
+<surname>Schnell</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Krampe</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Meaning in life and self&#x2010;control buffer stress in times of COVID&#x2010;19: Moderating and mediating effects with regard to mental distress</article-title>. <source>Frontiers in Psychiatry</source>, <volume>11</volume>, <fpage>983</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyt.2020.582352</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0031">
+<string-name>
+<surname>Scotti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pierri</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bonaccorsi</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Flori</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Responsiveness of open innovation to COVID&#x2010;19 pandemic: The case of data for good</article-title>. <source>PLoS One</source>, <volume>17</volume>(<issue>4</issue>), <elocation-id>e0267100</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0267100</pub-id>
+<pub-id pub-id-type="pmid">35472151</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0054">
+        <mixed-citation publication-type="miscellaneous" id="jnu12826-cit-0054">
+<string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Carvalho</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2009</year>). <part-title>Tradu&#xE7;&#xE3;o para a popula&#xE7;&#xE3;o portuguesa do Question&#xE1;rio de Sa&#xFA;de Mental Positiva (QSM+)</part-title>. In <article-title>
+Sa&#xFA;de e Qualidade de Vida Em An&#xE1;lise: IV Congresso Sa&#xFA;de e Qualidade de Vida: Livro de Actas
+</article-title>, pp. <fpage>303</fpage>&#x2013;<lpage>314</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0050">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0050">
+<string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Sampaio</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>S&#xE1;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lluch&#x2010;Canut</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rold&#xE1;n&#x2010;Merino</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Avalia&#xE7;&#xE3;o das propriedades psicom&#xE9;tricas do Question&#xE1;rio de Sa&#xFA;de Mental Positiva em estudantes portugueses do ensino superior</article-title>. <source>Revista Portuguesa de Enfermagem de Sa&#xFA;de Mental</source>, <volume>11</volume>, <fpage>45</fpage>&#x2013;<lpage>53</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0040">
+        <mixed-citation publication-type="miscellaneous" id="jnu12826-cit-0040">
+<string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sampaio</surname>, <given-names>F.</given-names>
+</string-name> (<year>2020</year>). <article-title>Enfermagem em Sa&#xFA;de Mental &#x2010; Diagn&#xF3;sticos e Interven&#xE7;&#xF5;es (1a Edi&#xE7;&#xE3;o). Lidel&#x2010;Edico&#x327;&#x1EBD;s T&#xE9;cnicas, Lda</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0032">
+<string-name>
+<surname>Shigemura</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ursano</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Morganstein</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Kurosawa</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Benedek</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Public responses to the novel 2019 coronavirus (2019&#x2010;nCoV) in Japan: Mental health consequences and target populations</article-title>. <source>Psychiatry and Clinical Neurosciences</source>, <volume>74</volume>(<issue>4</issue>), <fpage>281</fpage>&#x2013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1111/pcn.12988</pub-id>
+<pub-id pub-id-type="pmid">32034840</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0033">
+<string-name>
+<surname>Teismann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Brailovskaia</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Margraf</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Positive mental health, positive affect and suicide ideation</article-title>. <source>International Journal of Clinical and Health Psychology</source>, <volume>19</volume>(<issue>2</issue>), <fpage>165</fpage>&#x2013;<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijchp.2019.02.003</pub-id>
+<pub-id pub-id-type="pmid">31193136</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0042">
+        <mixed-citation publication-type="miscellaneous" id="jnu12826-cit-0042">
+<string-name>
+<surname>Teixeira</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sequeira</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lluch Canut</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Programa de promoci&#xF3;n de la Salud Mental Positiva para adultos (Mentis Plus+): manual de apoyo</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0051">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0051">
+<string-name>
+<surname>Teke</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Arabac&#x131;</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>The validity and reliability of Positive Mental Health Scale</article-title>. <source>Anatolian Journal of Psychiatry</source>, <volume>1</volume>. <pub-id pub-id-type="doi">10.5455/apd.284116</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0034">
+        <mixed-citation publication-type="book" id="jnu12826-cit-0034">
+<string-name>
+<surname>Tiz&#xF3;n</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <source>Salud emocional en tiempos de pandemia</source>. <publisher-name>Reflexiones urgentes</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0035">
+<string-name>
+<surname>Toribio P&#xE9;rez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#xE1;lez&#x2010;Arratia L&#xF3;pez&#x2010;Fuentes</surname>, <given-names>N. I.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Oudhof van Barneveld</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Salud mental positiva en adolescentes mexicanos: Diferencias por sexo/Positive Mental Health in Mexican Adolescents: Differences by Sex</article-title>. <source>Revista Costarricense de Psicolog&#xED;a</source>, <volume>37</volume>(<issue>2</issue>), <fpage>131</fpage>&#x2013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.22544/rcps.v37i02.03</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0036">
+<string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>C. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ho</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2020</year>). <article-title>Immediate psychological responses and associated factors during the initial stage of the 2019 coronavirus disease (COVID&#x2010;19) epidemic among the general population in China</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>17</volume>(<issue>5</issue>), <elocation-id>1729</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph17051729</pub-id>
+<pub-id pub-id-type="pmid">32155789</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0037">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zheng</surname>, <given-names>Z.&#x2010;J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Coronavirus disease 2019 (COVID&#x2010;19) pandemic: How countries should build more resilient health systems for preparedness and response</article-title>. <source>Global Health Journal</source>, <volume>4</volume>(<issue>4</issue>), <fpage>139</fpage>&#x2013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1016/j.glohj.2020.12.001</pub-id>
+<pub-id pub-id-type="pmid">33312747</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0052">
+        <mixed-citation publication-type="miscellaneous" id="jnu12826-cit-0052">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2020</year>). <article-title>Coronavirus (COVID19)</article-title>. <ext-link xlink:href="https://covid19.who.int/" ext-link-type="uri">https://covid19.who.int/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0038">
+<string-name>
+<surname>Wu</surname>, <given-names>L.&#x2010;K.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>W.&#x2010;H.</given-names>
+</string-name>, <string-name>
+<surname>Hsiao</surname>, <given-names>S.&#x2010;H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hou</surname>, <given-names>M.&#x2010;F.</given-names>
+</string-name> (<year>2020</year>). <article-title>Preparedness for the next emerging infectious disease outbreak by implementing strategic human resource management</article-title>. <source>Journal of the Chinese Medical Association</source>, <volume>83</volume>(<issue>10</issue>), <fpage>973</fpage>&#x2013;<lpage>974</lpage>. <pub-id pub-id-type="doi">10.1097/JCMA.0000000000000423</pub-id>
+<pub-id pub-id-type="pmid">32889986</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12826-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12826-cit-0039">
+<string-name>
+<surname>Xiong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lipsitz</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Nasri</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lui</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Phan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chen&#x2010;Li</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Iacobucci</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Majeed</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McIntyre</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of COVID&#x2010;19 pandemic on mental health in the general population: A systematic review</article-title>. <source>Journal of Affective Disorders</source>, <volume>277</volume>, <fpage>55</fpage>&#x2013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/j.jad.2020.08.001</pub-id>
+<pub-id pub-id-type="pmid">32799105</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

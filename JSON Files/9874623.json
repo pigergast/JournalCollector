@@ -1,0 +1,364 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12821" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36250590</article-id>
+      <article-id pub-id-type="pmc">9874623</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12821</article-id>
+      <article-id pub-id-type="publisher-id">JNU12821</article-id>
+      <article-id pub-id-type="other">JNU-05-22-393.R1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A coordinated health policy in response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A case of Botswana</article-title>
+        <alt-title alt-title-type="right-running-head">COVID&#x2010;19 policy transformation Botswana</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12821-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Seloilwe</surname>
+            <given-names>Esther S.</given-names>
+          </name>
+          <degrees>RN, PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4324-2336</contrib-id>
+          <xref rid="jnu12821-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>seloilwe@ub.ac.bw</email>
+            <email>esseloilwe@gmail.com</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12821-cr-0002" contrib-type="author">
+          <name>
+            <surname>Kealeboga</surname>
+            <given-names>Kebope M.</given-names>
+          </name>
+          <degrees>RN, MNS</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8390-4731</contrib-id>
+          <xref rid="jnu12821-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12821-cr-0003" contrib-type="author">
+          <name>
+            <surname>Khutjwe</surname>
+            <given-names>Joyce V.</given-names>
+          </name>
+          <degrees>RN, MNS</degrees>
+          <xref rid="jnu12821-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12821-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Health Sciences</named-content>
+<institution>School of Nursing</institution>
+<institution>University of Botswana, Tau Lambda Chapter at Large</institution>
+<city>Gaborone</city>
+<country country="BW">Botswana</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Esther S. Seloilwe, RN, PhD, Faculty of Health Sciences, School of Nursing, University of Botswana, Gaborone, Botswana.<break/>
+Email: <email>seloilwe@ub.ac.bw</email>; <email>esseloilwe@gmail.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>17</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="190">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>163</fpage>
+      <lpage>166</lpage>
+      <history>
+<date date-type="rev-recd"><day>22</day><month>8</month><year>2022</year></date>
+<date date-type="received"><day>20</day><month>6</month><year>2022</year></date>
+<date date-type="accepted"><day>13</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x2010;commercial and no modifications or adaptations are made.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-163.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12821-sec-0001">
+          <title>Introduction</title>
+          <p>This paper documents policy decisions and transformations in response to the COVID&#x2010;19 pandemic in Botswana and utilizes the multi&#x2010;sectoral approach (MSA) in providing this analysis.</p>
+        </sec>
+        <sec id="jnu12821-sec-0002">
+          <title>Method</title>
+          <p>A desk review of the different government gazette documents was conducted to trace health policy evolutionary developments and their impact on the general lives of the people of Botswana.</p>
+        </sec>
+        <sec id="jnu12821-sec-0003">
+          <title>Findings</title>
+          <p>Revealed the actors, roles in this policy transformation and the conditions that enhanced the smooth implementation of the policies are discussed.</p>
+        </sec>
+        <sec id="jnu12821-sec-0004">
+          <title>Conclusion</title>
+          <p>The paper concludes by making some recommendations for the country's preparedness and anticipatory guidance for any other pandemic or disaster that may arise.</p>
+        </sec>
+        <sec id="jnu12821-sec-0005">
+          <title>Clinical Relevance</title>
+          <p>This paper highlights the importance of the multisectoral approach in addressing crises such as pandemics. It also demonstrates the need for countries to have well&#x2010;defined guidelines to allow decision making in the delivery of efficient health services to the general population during pandemics.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12821-kwd-0001">health care delivery system</kwd>
+        <kwd id="jnu12821-kwd-0002">health policy</kwd>
+        <kwd id="jnu12821-kwd-0003">health reforms</kwd>
+        <kwd id="jnu12821-kwd-0004">patient advocacy</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <page-count count="4"/>
+        <word-count count="2676"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12821-cit-2001">
+<string-name>
+<surname>Seloilwe</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name>
+<surname>Kealeboga</surname>, <given-names>K. M.</given-names>
+</string-name> &amp; <string-name>
+<surname>Khutjwe</surname>, <given-names>J. V.</given-names>
+</string-name> (<year>2023</year>). <article-title>A coordinated health policy in response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A case of Botswana</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>163</fpage>&#x2013;<lpage>166</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12821</pub-id>
+<pub-id pub-id-type="pmid">36250590</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12821-body-0001">
+    <sec id="jnu12821-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>The Botswana health care system once more engaged in a historic challenge of addressing and mitigating yet another pandemic&#x2010; COVID&#x2010;19; just like it did a few years ago when it was confronted with the HIV and AIDS pandemic. Both these pandemics have devastated the nation in a very unprecedented manner. The country has learned how to respond to and address a pandemic situation. Although COVID&#x2010;19 did not cause more deaths than HIV and AIDS, it was more devastating because it was erratic and unpredictable in how it spread. It is very frustrating because this virus is spread from one person to the other through various sources, and a person does not know where they could have contacted it. This, therefore, necessitated creative, swift, and radical approaches in decision&#x2010;making to respond to this crisis (Lee et al.,&#xA0;<xref rid="jnu12821-bib-0001" ref-type="bibr">2020</xref>). Healthcare leaders were also required to respond innovatively to make changes and decisions that were effective and prudent within a minimal time frame.</p>
+      <p>The World Health Organization declared a public health emergency of international concern regarding COVID&#x2010;19 on 30 January 2020 and later declared a pandemic on 11 March 2020 (WHO,&#xA0;<xref rid="jnu12821-bib-0006" ref-type="bibr">2020</xref>). However, Botswana's response was set in motion following the death of an older adult who presented with COVID&#x2010;19&#x2010;like symptoms on 25 March 2020. By 30 March, three more cases were confirmed (Reuters, <xref rid="jnu12821-bib-0003" ref-type="bibr">2020</xref>). As COVID&#x2010;19 cases increased in Botswana, the President of the Republic declared an indefinite state of emergency on 25 March 2020.</p>
+      <p>On 2 April 2020, the first 3 months' lockdown was imposed. It was further explained that during the lockdown, people would not be allowed outside their homes except if they had to go for essential services such as food and medicines&#x201D; (Reuters, &#xA0;<xref rid="jnu12821-bib-0003" ref-type="bibr">2020</xref>).</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12821-sec-0007">
+      <title>METHOD</title>
+      <p>A desk review and analysis of different government gazette documents was conducted to trace health policy evolutionary developments and their impact on the general lives of the people of Botswana using a multisectoral approach (MSA).</p>
+      <sec id="jnu12821-sec-0008">
+        <title>Description of the multi&#x2010;sectoral approach</title>
+        <p>A MSA is utilized in the Botswana COVID&#x2010;19 policy analysis and transformation perspective. According to Salunke&#xA0;(<xref rid="jnu12821-bib-0005" ref-type="bibr">2017</xref>), MSA refers to deliberate collaboration among various stakeholder groups (e.g., government, civil society, and private sector) and&#xA0;sectors such as&#xA0;(e.g., health, environment, and economy) to jointly achieve a policy outcome. By engaging multiple sectors; partners can leverage knowledge, expertise, and resources, accentuating the benefits of their combined and varied strengths in achieving better health outcomes. This strategy was implemented during the HIV/AIDS epidemic and has shown that engagement of different stakeholders was beneficial.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12821-sec-0009">
+      <title>FINDINGS AND DISCUSSIONS</title>
+      <sec id="jnu12821-sec-0010">
+        <title>Structures for the control of the epidemic</title>
+        <p>The response to COVID&#x2010;19 followed MSA developed during the HIV and AIDS epidemic. The MSA has a national coordinating body that synchronizes all stakeholders' work. It also allows for permeation of the society's structures from national to the district, civil society, and private sector. During the HIV and AIDS era, the highest coordinating body was the National Coordinating Agency (NACA) under the Ministry of Health (MOH) and district multi&#x2010;sectoral committees. Policy coordination during COVID&#x2010;19 was organized in the same manner at the national level to ensure a clear definition of the problem and how it will be addressed (Mattei &amp; Del Pino,&#xA0;<xref rid="jnu12821-bib-0002" ref-type="bibr">2021</xref>). The control of COVID&#x2010;19 required a concerted effort and immediate implementation of prevention measures.</p>
+        <p>The COVID&#x2010;19 response in Botswana was coordinated by the &#x2010;Office of the President. The Office of the President appointed a multi&#x2010;sectoral COVID&#x2010;19 Task Force. Members came from various sectors. In addition, some committees coordinated the ground activities in response to the COVID&#x2010;19 pandemic, such as testing, isolating, and managing those infected. The MSA enabled the harmonization of multiple levels of actors and organizations in a collective effort.</p>
+        <p>When COVID&#x2010;19 was at its peak, it required swift and prompt decision&#x2010;making by the leadership. To enable an accelerated decision&#x2010;making process, the government of Botswana declared a national state of emergency for 6 months (BG Gazette, Government Notice [GN] N0 148 of 2020). Under the state of emergency, the President was empowered to make any decision without calling parliament to seek approval.</p>
+        <p>Additionally, COVID&#x2010;19 pandemic as a public health issue was to be addressed by the Director of Public Health in the Ministry of Health empowered by an Act of Parliament (25) to advise the President to institute measures to curb the spread of COVID&#x2010;19. The Director had the authority to advise the President accordingly on the most effective ways to prevent the spread of COVID&#x2010;19 (BG Gazette GN No.128 of 2020 Page 2552&#x2013;25530). The expert advice focused on preventive measures such as washing hands more frequently with soap and water, social distancing, and imposition of travel restrictions.</p>
+      </sec>
+      <sec id="jnu12821-sec-0011">
+        <title>
+<styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response strategy</title>
+        <p>The general coordination of health policy is a constitutional responsibility of the Ministry of Health. Since COVID&#x2010;19 was a public health issue, the center for this coordination was the Directorate of Public Health which was responsible for setting up preparedness and response plans to deal with the public threat by providing expert information and scientific knowledge on this pandemic. Policies were formulated by national actors and development partners (WHO,&#xA0;<xref rid="jnu12821-bib-0006" ref-type="bibr">2020</xref>). The leading actor was the Office of the President and Ministry of Health, guided by experts in healthcare, public health, epidemiology, economics, and the Presidential Task Force on COVID&#x2010;19. Finally, the policy formulation process was guided by people on how they responded and upheld the protocols and restrictions imposed. As a result, the following policy measures were introduced and implemented:</p>
+      </sec>
+      <sec id="jnu12821-sec-0012">
+        <title>Lockdown</title>
+        <p>The first action was to impose a 3&#x2010;months lockdown with restricted movements for the public except for essential service providers (Botswana Government Gazette Supplementary Instrument Number 61 of 2020). There were also fines imposed for violating the lockdown regulations.</p>
+      </sec>
+      <sec id="jnu12821-sec-0013">
+        <title>Zonal boundaries</title>
+        <p>The country was also divided into COVID&#x2010;19 zones to monitor and control the local transmission of the virus as the interzonal movement was restricted only to essential travel such as the movement of goods (Government Gazette, Statutory Instrument Number 72 of 2020). COVID&#x2010;19 zones with the highest transmission rates were red zoned, and lockdowns were imposed accordingly. The scale of lockdowns was commensurate to the rates of infections. The entire economic, educational, public, and civic activities were shut down (Botswana Extraordinary Government Gazette dated 2 April 2020, Emergency [COVID&#x2010;19] Regulations, 2020 Statutory Instrument No. 61 of 2020).</p>
+      </sec>
+      <sec id="jnu12821-sec-0014">
+        <title>Risk communication</title>
+        <p>The information campaign informed and updated the nation on the spread of the pandemic. A Coordinated public information campaign included radio, television, and social media messaging in English and local languages. In addition, brochures, posters, flyers, and educational videos were developed and circulated to the public to educate them about the pandemic. Toll&#x2010;free numbers for people to call and get more information on the pandemic were also availed.</p>
+      </sec>
+      <sec id="jnu12821-sec-0015">
+        <title>Prevention measures</title>
+        <p>Frequent handwashing with clean water and soap was deemed the most effective way of preventing COVID&#x2010;19 transmission (Botswana Government Gazette General Notice No. 183 of 2020). People were also ordered to wear face masks in public areas, and the &#x201C;no mask, no entry&#x201D; regulation was enacted (Botswana Government Gazette Statutory Instrument No. 72 of 2020).</p>
+        <p>Other prevention measures included social distancing and suspension of all social events such as church services, weddings, conferences, and recreational activities (Botswana Government Gazette Statutory Instrument 61 of 2020). In addition, a register for all attendants had to be kept for easy contact tracing.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12821-sec-0016">
+      <title>TESTING POLICY</title>
+      <p>Testing was conducted if one was suspected of having symptoms suggestive of COVID&#x2010;19, mimicking flu symptoms. All contacts were also tested. The Ministry of Health, together with other implementing partners such as the District Health Teams, tracked, traced, and managed people exposed to COVI&#x2010;19. The National Contact Tracing Team, National Health Laboratory, and implementing team leaders worked together to ensure that contact tracing was carried out (BG Extraordinary Gazette 25, February 2022).</p>
+      <sec id="jnu12821-sec-0017">
+        <title>Isolation policy</title>
+        <p>At first, when the pandemic started, people who tested positive were isolated at government&#x2010;designated places to minimize the spread of the virus. The government bore all the costs associated with the isolation exercise. However, as the infection rate escalated, the government could no longer cope with isolating positive persons at these centers. The isolation centers&#x2019; capacity to accommodate scores of people who contracted the virus became depleted, and similarly, the cost of care became unbearable for the government, prompting modifications in the isolation strategy. Patients who tested positive and had milder forms of COVID&#x2010;19 were isolated in their own homes. It became clear that the fight against COVID&#x2010;19 needed a concerted effort and that it was not sustainable for the government to absorb all costs (Botswana Government Extraordinary Gazette 25 February 2022).</p>
+      </sec>
+      <sec id="jnu12821-sec-0018">
+        <title>Vaccination policy</title>
+        <p>The advancement to get vaccines that could control the infection hurried. Within months, vaccines were found to control the COVID&#x2010;19 infection. This development became a global crisis as countries scrambled for these vaccines to protect their people. It was indeed every man for himself. Botswana raced to decide to vaccinate its people, and older people were vaccinated first. The inaugural vaccinations were administered on 26 March 2021 (Reuters,&#xA0;<xref rid="jnu12821-bib-0004" ref-type="bibr">2021</xref>) and the Former President, His Excellency Gontebanye Mogae, was the first to receive his jab!</p>
+        <p>The system of starting to vaccinate older people first compromised many lives, especially young people who had other comorbidities as they succumbed to COVID&#x2010;19. Currently, (62.9%) people have received at least one dose, fully vaccinated stands at 2,891,400 (75%), and those that have received a booster dose are 327,708 (13.9%) (WHO, &#xA0;<xref rid="jnu12821-bib-0007" ref-type="bibr">2022</xref>). Since the pandemic started, at least 326, 309 infections have been registered, and 2781 people have succumbed to the pandemic (Reuters COVID&#x2010;19 Tracker, 2022).</p>
+      </sec>
+      <sec id="jnu12821-sec-0019">
+        <title>Socio&#x2010;economic response policies</title>
+        <p>The socio&#x2010;economic response strategy aimed at supporting people's livelihoods devasted by the pandemic. The government of Botswana established the COVID&#x2010;19 Relief Fund up to an investment of two billion Pula (150 million USD)&#xA0;as seed money. Individuals and the private sector were encouraged to contribute to this fund as part of social responsibility. Batswana (citizens of Botswana) have a legacy of self&#x2010;reliance to contribute whatever resources to help those disadvantaged (Botswana Government Gazette Extraordinary (2020) Public Finance Management (Covid&#x2010;19 Pandemic [Corona Virus] RELIEF FUND) Order, 2020 &#x2013; SI. No. 38 of 2020 (Published on 25 March 2020).</p>
+      </sec>
+      <sec id="jnu12821-sec-0020">
+        <title>Unintended consequences of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 response policies</title>
+        <p>The response policies were to contain the virus, but there were also unintended consequences. People's livelihoods were negatively affected, and many lost jobs as industries and companies closed.</p>
+      </sec>
+      <sec id="jnu12821-sec-0021">
+        <title>Challenges</title>
+        <p>Some challenges were experienced in this policy transformation. Like elsewhere in the world, Botswana was not prepared for this COVID&#x2010;19 pandemic. Additionally, the pandemic was highly transmittable and very difficult to contain. The pandemic also required many resources the country had not prepared for, such as Personal Protective Equipment (PPE), ventilators, intensive care facilities, and human resource for health. There was also high bed occupancy in health facilities, leading to many clients being managed at home even when they required hospitalizations, resulting in high mortality rates.</p>
+        <p>Given the situation, the policy strategies that the country instituted, albeit insufficient to avert the situation immediately, were what the country could afford at that time.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12821-sec-0022">
+      <title>LESSON LEARNED</title>
+      <p>There is a need for the country to be always prepared for any adversaries that may occur in terms of resources such as human, financial, capital, and infrastructure to mitigate unprecedented and unforeseen circumstances. Communities should always be prepared and educated on public health issues.</p>
+    </sec>
+    <sec id="jnu12821-sec-0023">
+      <title>RECOMMENDATIONS</title>
+      <sec id="jnu12821-sec-0024">
+        <title>Action to strengthen the health care system</title>
+        <p>The country will never go back to the pre&#x2010;pandemic stage. The experience gathered during the COVID&#x2010;19 pandemic should be used to springboard strategies and policies that will direct the response strategies to address future pandemics and disasters that may confront the nation. There should be a provisional budget all the time to enable the country to combat any situation that may be a threat. Health care requires strengthening in terms of facilities and human resources development. It was evident that Botswana's healthcare system requires strengthening in various areas such as intensive care, public health and inpatient care, medicine procurement, and other general areas. The collaboration between the public and private health sectors needs strengthening so that the two can work together harmoniously and develop strategies to address emergency health situations. Other health care models should be studied and adopted to ensure universal coverage. More research is imperative to come up with solutions to the nation's health problems.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12821-sec-0025">
+      <title>CONCLUSION</title>
+      <p>This paper explicated how Botswana approached the management of the COVID&#x2010;19 pandemic, which threw the country into a national crisis, albeit with limited resources. However, the situation has provided a learning experience that provides a solid foundation for managing future crises. In addition, the paper has highlighted public engagement to facilitate public compliance to preventative measures, strengthen public health policies, and advocate for strengthening the national health care delivery system.</p>
+    </sec>
+    <sec id="jnu12821-sec-0026">
+      <title>CLINICAL RESOURCES</title>
+      <p>Policies on COVID&#x2010;19
+<list list-type="bullet" id="jnu12821-list-0001"><list-item id="jnu12821-li-0001"><p>
+<ext-link xlink:href="https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19" ext-link-type="uri">https://www.imf.org/en/Topics/imf&#x2010;and&#x2010;covid19/Policy&#x2010;Responses&#x2010;to&#x2010;COVID&#x2010;19</ext-link>
+</p></list-item><list-item id="jnu12821-li-0002"><p>
+<ext-link xlink:href="https://www.who.int/countries/bwaolicies" ext-link-type="uri">https://www.who.int/countries/bwaolicies</ext-link> and COVID&#x2010;19</p></list-item></list>
+</p>
+    </sec>
+    <sec id="jnu12821-sec-0028">
+      <title>FUNDING INFORMATION</title>
+      <p>Not funded.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12821-sec-0029">
+      <title>CONFLICT OF INTEREST</title>
+      <p>We declare no conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12821-sec-0027">
+      <title>ACKNOWLEDGEMENT</title>
+      <p>We acknowledge the University of Botswana and the School of Nursing, Faculty of Health Sciences for nurturing us to becoming academics that we are.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12821-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12821-bib-0001">
+        <mixed-citation publication-type="miscellaneous" id="jnu12821-cit-0001">
+<string-name>
+<surname>Lee</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Moy</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Poaloucci</surname>, <given-names>F.</given-names>
+</string-name> (<year>2020</year>). <article-title>The COVID&#x2010;19 PANDEMIC: Global health policy and technology responses in the making</article-title>
+<ext-link xlink:href="https://www.ncbi.nln.gov/articles/PMC7530623/" ext-link-type="uri">https://www.ncbi.nln.gov/articles/PMC7530623/</ext-link>, <fpage>397</fpage>, <lpage>398</lpage>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12821-cit-0002">
+<string-name>
+<surname>Mattei</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Del Pino</surname>, <given-names>E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Coordination and health policy responses to the first wave of COVID&#x2010;19 in Italy and Spain</article-title>. <source>Journal of Comparative Policy Analysis: Research and Practice</source>, <volume>23</volume>(<issue>2</issue>), <fpage>274</fpage>&#x2013;<lpage>281</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0003">
+        <mixed-citation publication-type="miscellaneous" id="jnu12821-cit-0003">
+<collab collab-type="authors">Reuters</collab>
+. (<year>2020</year>). <article-title>Botswana records first 3 cases of corona virus&#x2010;Health minister</article-title>. <ext-link xlink:href="https://www.reuters.com/article/health-coronavirus-Botswana-idUSLN2Bk5A0" ext-link-type="uri">https://www.reuters.com/article/health&#x2010;coronavirus&#x2010;Botswana&#x2010;idUSLN2Bk5A0</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12821-cit-0004">
+<collab collab-type="authors">Reuters</collab>
+. (<year>2021</year>). <article-title>Botswana probes deaths of two people who took AstraZeneca shot</article-title>. Reuters. Published <volume>2021</volume>. <ext-link xlink:href="https://www.reuters.com/world/india/botswana-probes-deaths-two-people-who-took-astrazeneca-shot-2021-04-12/" ext-link-type="uri">https://www.reuters.com/world/india/botswana&#x2010;probes&#x2010;deaths&#x2010;two&#x2010;people&#x2010;who&#x2010;took&#x2010;astrazeneca&#x2010;shot&#x2010;2021&#x2010;04&#x2010;12/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12821-cit-0005">
+<string-name>
+<surname>Salunke</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Multi&#x2010;sectoral approach for promoting public health</article-title>. <source>Indian Journal of Public Health</source>, <volume>61</volume>(<issue>3</issue>), <fpage>163</fpage>&#x2013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">28928298</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12821-cit-0006">
+<collab collab-type="authors">WHO</collab>
+. (<year>2020</year>). <article-title>COVID&#x2010;19 Dashboard. Geneva: World Health Organization, 2020</article-title>. Available online: <ext-link xlink:href="https://covid19.who.int/" ext-link-type="uri">https://covid19.who.int/</ext-link> (last cited: 21 June 2021.06.29).</mixed-citation>
+      </ref>
+      <ref id="jnu12821-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12821-cit-0007">
+<collab collab-type="authors">WHO</collab>
+. (<year>2022</year>). <article-title>Botswana: WHO covi&#x2010;19</article-title>. <ext-link xlink:href="http://www.who.int" ext-link-type="uri">http://www.who.int</ext-link>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

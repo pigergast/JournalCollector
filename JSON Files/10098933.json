@@ -1,0 +1,1234 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12842" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36353793</article-id>
+      <article-id pub-id-type="pmc">10098933</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12842</article-id>
+      <article-id pub-id-type="publisher-id">JNU12842</article-id>
+      <article-id pub-id-type="other">JNU-05-22-377.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Self&#x2010;care in migrants with type 2 diabetes, during the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic</article-title>
+        <alt-title alt-title-type="right-running-head">Self&#x2010;care in migrants during <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12842-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Pettersson</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <degrees>RN, MSc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1406-0349</contrib-id>
+          <xref rid="jnu12842-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>sara.pettersson@liu.se</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12842-cr-0002" contrib-type="author">
+          <name>
+            <surname>Jaarsma</surname>
+            <given-names>Tiny</given-names>
+          </name>
+          <degrees>RN PhD</degrees>
+          <xref rid="jnu12842-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12842-cr-0003" contrib-type="author">
+          <name>
+            <surname>Hedg&#xE4;rd</surname>
+            <given-names>Klara</given-names>
+          </name>
+          <degrees>RN</degrees>
+          <xref rid="jnu12842-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12842-cr-0004" contrib-type="author">
+          <name>
+            <surname>Klompstra</surname>
+            <given-names>Leonie</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12842-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12842-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health, Medicine and Caring Sciences</named-content>
+<institution>Linkoping University</institution>
+<city>Linkoping</city>
+<country country="SE">Sweden</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Sara Pettersson, Department of Health, Medicine and Caring Sciences, Link&#xF6;ping University, SE 601 74 Norrk&#xF6;ping, Sweden.<break/>
+Email: <email>sara.pettersson@liu.se</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>11</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>55</volume>
+      <issue seq="200">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>167</fpage>
+      <lpage>177</lpage>
+      <history>
+<date date-type="rev-recd"><day>12</day><month>10</month><year>2022</year></date>
+<date date-type="received"><day>31</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>12</day><month>10</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. Journal of Nursing Scholarship published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-167.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12842-sec-0001">
+          <title>Introduction</title>
+          <p>Type 2 diabetes is increasing globally and particularly affects vulnerable groups in society, such as migrants. Research shows that type 2 diabetes is a risk factor for severe illness when infected with COVID&#x2010;19. Diabetes&#x2010;related complications can be prevented with good glycaemic control. In addition, good glycaemic control has been shown to be an important cornerstone for preventing severe illness in individuals infected with COVID&#x2010;19. In order to maintain good glycaemic control, self&#x2010;care is needed. The purpose of this article is to describe self&#x2010;care maintenance and possible changes in self&#x2010;care maintenance and to explore factors related to unchanged self&#x2010;care maintenance in migrant patients with type 2 diabetes during the COVID&#x2010;19 pandemic. The second aim is to describe well&#x2010;being, social support, and the need for support from healthcare services during the COVID&#x2010;19 pandemic in migrant patients with type 2 diabetes.</p>
+        </sec>
+        <sec id="jnu12842-sec-0002">
+          <title>Design/Method</title>
+          <p>A triangulation design with cross&#x2010;sectional data collection was used. Both quantitative and qualitative data were collected and interpreted together in a triangulation design. Patients were selected by a diabetes nurse from a computer system at a health center in south&#x2010;eastern Sweden and invited to participate in the study. A questionnaire was translated into the languages most commonly used at the clinic and sent out to 332 migrant patients who had been diagnosed with type 2 diabetes and treated in primary care. This questionnaire assessed self&#x2010;care maintenance for diabetes (questions inspired by the Self&#x2010;Care of Diabetes Inventory), with questions added to every item to assess changes during the pandemic. When changes occurred, we asked the participants to elaborate. Open&#x2010;ended questions asked the participants how they would like to receive information when there are changes in their healthcare. Descriptive statistical analyses were used for the quantitative data and qualitative data was analyzed using a directed approach to content analysis.</p>
+        </sec>
+        <sec id="jnu12842-sec-0003">
+          <title>Results</title>
+          <p>In total, 79 participants answered the questionnaire (mean age 69&#x2009;&#xB1;&#x2009;11, 51% male, 47% born in the Middle East). Of these, 76% stated a change in self&#x2010;care. More than half (58%) stated changes in maintaining an active lifestyle, 40% had changed their physical exercise, and 38% had changed their behavior to avoid getting sick. Participants said that this change was due to staying at home or canceling social activities because they feared meeting people during the pandemic. Others were more physically active than before on a regular basis during the pandemic due to taking walks to get fit, as a precaution related to COVID&#x2010;19, and having greater awareness about how to avoid getting sick. Approximately one&#x2010;quarter of the participants experienced a change in contact with healthcare due to poorer access to care, with fewer doctors' appointments and care being postponed during the pandemic. More than half (58%) would like to receive information about healthcare changes by a letter in the regular mail. Social support had changed for 35% of the participants, with less support from family and friends due to the risk of being infected with COVID&#x2010;19.</p>
+        </sec>
+        <sec id="jnu12842-sec-0004">
+          <title>Conclusion</title>
+          <p>The COVID&#x2010;19 pandemic led to societal restrictions that changed the way of life for many individuals. Migrant patients with type 2 diabetes, who are already a vulnerable group regarding self&#x2010;care, had difficulties in maintaining good living habits during the pandemic. During crises such as COVID&#x2010;19, support with self&#x2010;care, such as closer contact with healthcare providers, is vital.</p>
+        </sec>
+        <sec id="jnu12842-sec-0005">
+          <title>Clinical Relevance</title>
+          <p>Knowledge about how the COVID&#x2010;19 pandemic has affected migrants with type 2 diabetes can be used to support healthcare providers in identifying individuals who are at high risk of suffering from the consequences of their diabetes associated with the pandemic.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12842-kwd-0001">COVID&#x2010;19</kwd>
+        <kwd id="jnu12842-kwd-0002">migrants</kwd>
+        <kwd id="jnu12842-kwd-0003">primary healthcare</kwd>
+        <kwd id="jnu12842-kwd-0004">self&#x2010;care</kwd>
+        <kwd id="jnu12842-kwd-0005">type 2 diabetes</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="1"/>
+        <page-count count="11"/>
+        <word-count count="7089"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:13.04.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12842-cit-2001">
+<string-name>
+<surname>Pettersson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hedg&#xE4;rd</surname>, <given-names>K.</given-names>
+</string-name> &amp; <string-name>
+<surname>Klompstra</surname>, <given-names>L.</given-names>
+</string-name> (<year>2023</year>). <article-title>Self&#x2010;care in migrants with type 2 diabetes, during the <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 pandemic</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>167</fpage>&#x2013;<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12842</pub-id>
+<pub-id pub-id-type="pmid">36353793</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12842-body-0001">
+    <sec id="jnu12842-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>Type 2 diabetes is a risk factor for severe illness and increased risk of mortality when affected by COVID&#x2010;19 (Huang et al.,&#xA0;<xref rid="jnu12842-bib-0022" ref-type="bibr">2020</xref>; Kumar et al.,&#xA0;<xref rid="jnu12842-bib-0027" ref-type="bibr">2020</xref>; Mantovani et al.,&#xA0;<xref rid="jnu12842-bib-0030" ref-type="bibr">2020</xref>; Rajpal et al.,&#xA0;<xref rid="jnu12842-bib-0036" ref-type="bibr">2020</xref>). Type 2 diabetes is increasing across the world and particularly affects vulnerable groups in society, such as migrants (Cho et al.,&#xA0;<xref rid="jnu12842-bib-0011" ref-type="bibr">2018</xref>). Migrants are foreign&#x2010;born people who have moved to another country, either voluntarily as immigrants or involuntarily as refugees (IOM,&#xA0;<xref rid="jnu12842-bib-0023" ref-type="bibr">2019</xref>). Sweden, like other European countries, has been transformed during recent decades into a multicultural society, due to ongoing global migration, and now has a population of approximately 10&#x2009;million, of whom 19% were born abroad (SOS,&#xA0;<xref rid="jnu12842-bib-0043" ref-type="bibr">2020</xref>). Most of the immigrants in Sweden were born in Syria, Iraq, Finland, Poland, or Somalia. During the last decade, migration to Sweden has been dominated by people of non&#x2010;European origin, with the largest group being refugees from the Middle East (SCB, <xref rid="jnu12842-bib-0052" ref-type="bibr">2016</xref>). Research shows that migrant patients with type 2 diabetes, especially those from the Middle East, often lack knowledge about the disease and have inadequate self&#x2010;care, causing an increased prevalence of diabetes with poor glycaemic control compared to the native Swedish population (Bennet et al.,&#xA0;<xref rid="jnu12842-bib-0005" ref-type="bibr">2014</xref>; Elinder et al.,&#xA0;<xref rid="jnu12842-bib-0013" ref-type="bibr">2017</xref>; Rawshani et al.,&#xA0;<xref rid="jnu12842-bib-0037" ref-type="bibr">2018</xref>; Wandell et al.,&#xA0;<xref rid="jnu12842-bib-0046" ref-type="bibr">2010</xref>). In addition, migrant patients believe that the diabetes care they receive is not culturally tailored (Chambre et al.,&#xA0;<xref rid="jnu12842-bib-0010" ref-type="bibr">2017</xref>). But, for individuals with type 2 diabetes, complications and severe illness can be prevented with good glycaemic control, and to maintain such control, self&#x2010;care is essential (Saeedi et al.,&#xA0;<xref rid="jnu12842-bib-0041" ref-type="bibr">2019</xref>). The middle&#x2010;range theory developed by Riegel et al.&#xA0;(<xref rid="jnu12842-bib-0038" ref-type="bibr">2012</xref>, p. 195) defines self&#x2010;care as &#x201C;a process of maintaining health by promoting health practices and managing illness.&#x201D; Self&#x2010;care can be seen as an overarching concept built from: self&#x2010;care maintenance, self&#x2010;care monitoring, and self&#x2010;care management (Figure&#xA0;<xref rid="jnu12842-fig-0001" ref-type="fig">1</xref>). Self&#x2010;care maintenance is defined as behaviors performed by patients with a chronic illness to maintain physical and emotional stability (Riegel et al.,&#xA0;<xref rid="jnu12842-bib-0038" ref-type="bibr">2012</xref>), and includes illness&#x2010;related behaviors, such as adherence to follow&#x2010;up visits and examinations, and health&#x2010;promoting behaviors, such as eating a healthy diet or engaging in physical activity. As Figure&#xA0;<xref rid="jnu12842-fig-0001" ref-type="fig">1</xref> shows, self&#x2010;care behavior, including self&#x2010;care maintenance, is influenced by a number of factors, including culture, habits, experience, motivation, support, and access to care, all of which underpin a person's decision&#x2010;making in their self&#x2010;care (Jaarsma et al.,&#xA0;<xref rid="jnu12842-bib-0024" ref-type="bibr">2017</xref>) and are thus important for healthcare providers to consider.</p>
+      <fig position="float" fig-type="FIGURE" id="jnu12842-fig-0001">
+        <label>FIGURE 1</label>
+        <caption>
+          <p>This figure is an adapted version of the middle&#x2010;range theory (Riegel et al.,&#xA0;<xref rid="jnu12842-bib-0038" ref-type="bibr">2012</xref>) and shows how self&#x2010;care behavior is divided into self&#x2010;care maintenance, self&#x2010;care monitoring, and self&#x2010;care management. Each of these is influenced by several factors and they underpin a person's decision&#x2010;making and reflection on their self&#x2010;care behavior (Jaarsma et al.,&#xA0;<xref rid="jnu12842-bib-0024" ref-type="bibr">2017</xref>).</p>
+        </caption>
+        <graphic xlink:href="JNU-55-167-g002" position="anchor" id="jats-graphic-1"/>
+      </fig>
+      <p>When a new situation arises, such as the COVID&#x2010;19 pandemic, information also needs to reach vulnerable groups, such as migrants with language difficulties. Although there was no lockdown in Sweden during the pandemic, there were restrictions, and access to healthcare was affected, in particular for patients with chronic diseases (Farsalinos et al.,&#xA0;<xref rid="jnu12842-bib-0015" ref-type="bibr">2021</xref>; Van Poel et al.,&#xA0;<xref rid="jnu12842-bib-0045" ref-type="bibr">2022</xref>). Mortality among migrants increased after the onset of the COVID&#x2010;19 pandemic in many countries (Hayward et al.,&#xA0;<xref rid="jnu12842-bib-0020" ref-type="bibr">2021</xref>). A comparison between all&#x2010;cause mortality data in Sweden pre&#x2010;pandemic with data from the same timeframe during the pandemic found that, among middle&#x2010;aged (40&#x2013;64&#x2009;years) and older (&gt;65&#x2009;years) migrants born in Syria, Iraq, and Somalia, excess mortality was approximately 220%. Among people born in Sweden, the EU, the Nordic countries, or North America, the excess mortality among those &gt;65 was 19% and among the middle&#x2010;aged was 1% (Calder&#xF3;n&#x2010;Larra&#xF1;aga et al.,&#xA0;<xref rid="jnu12842-bib-0007" ref-type="bibr">2020</xref>). There are many factors that might explain the worse outcomes of migrants, such as lower socioeconomic status, less access to up&#x2010;to&#x2010;date information, or poor access to healthcare due to a lack of trust in doctors or difficulties in contacting a healthcare provider due, for example, to language barriers (Mangrio et al.,&#xA0;<xref rid="jnu12842-bib-0029" ref-type="bibr">2020</xref>). Other factors related to worse health outcomes in migrants during the pandemic might be that in Sweden they have higher rates of smoking and obesity. These factors are all seen as risk factors for diabetes, and also for COVID&#x2010;19 (WHO,&#xA0;<xref rid="jnu12842-bib-0047" ref-type="bibr">2004</xref>, <xref rid="jnu12842-bib-0048" ref-type="bibr">2019</xref>).</p>
+      <sec id="jnu12842-sec-0007">
+        <title>Rationale</title>
+        <p>This study was conducted in order to describe self&#x2010;care during the COVID&#x2010;19 pandemic and explore factors related to changes in self&#x2010;care among migrant patients with type 2 diabetes. Individuals with type 2 diabetes are at high risk of developing serious disease after COVID&#x2010;19 infection (Rajpal et al.,&#xA0;<xref rid="jnu12842-bib-0036" ref-type="bibr">2020</xref>) and if the diabetes is poorly controlled the prognosis is worse than with well&#x2010;controlled disease (Butler &amp; Barrientos,&#xA0;<xref rid="jnu12842-bib-0006" ref-type="bibr">2020</xref>). We know from previous studies that prolonged periods at home, due to COVID&#x2010;19, accompanied by limited mobility during the lockdown, can lead to disruptions in diet and lifestyle in patients with type 2 diabetes (Ghosh, <xref rid="jnu12842-bib-0018" ref-type="bibr">2020</xref>). As migrants with type 2 diabetes are known to be a vulnerable group in terms of diabetes prevalence, knowledge, and self&#x2010;care (Cho et al.,&#xA0;<xref rid="jnu12842-bib-0011" ref-type="bibr">2018</xref>; Montesi et al.,&#xA0;<xref rid="jnu12842-bib-0031" ref-type="bibr">2016</xref>; Pettersson et al.,&#xA0;<xref rid="jnu12842-bib-0034" ref-type="bibr">2019</xref>; Testa et al.,&#xA0;<xref rid="jnu12842-bib-0044" ref-type="bibr">2016</xref>), and also subject to higher levels of illness&#x2010;related stress (Alzubaidi et al.,&#xA0;<xref rid="jnu12842-bib-0002" ref-type="bibr">2022</xref>), they need support from healthcare services. During the pandemic, routine visits were canceled and information about COVID&#x2010;19 was at first only available in Swedish. Hence, important information might not have reached those who do not understand Swedish or cannot read. Thus, migrants with type 2 diabetes may have faced acute problems with self&#x2010;care due to the COVID&#x2010;19 pandemic and there is a lack of knowledge about their need for information and support. The fact that the pandemic also caused further anxiety and stress should make this even more of a priority since anxiety, stress, and depression increase the risk of impaired glycaemic control and lack of self&#x2010;care (Fisekovic Kremic,&#xA0;<xref rid="jnu12842-bib-0017" ref-type="bibr">2020</xref>; Joensen et al.,&#xA0;<xref rid="jnu12842-bib-0025" ref-type="bibr">2020</xref>). The data collection was undertaken to identify current problems, but also to enable strategies for future teaching programs and organizational factors to prepare for a similar crisis regarding the need for support and information.</p>
+        <p>
+<italic toggle="yes">Thus</italic>, the purpose of this study is to describe self&#x2010;care maintenance and possible changes in self&#x2010;care maintenance and to explore factors related to unchanged self&#x2010;care maintenance in migrant patients with type 2 diabetes during the COVID&#x2010;19 pandemic. The second purpose is to describe well&#x2010;being, social support, and the need for support from healthcare services during the COVID&#x2010;19 pandemic among migrant patients with type 2 diabetes.</p>
+      </sec>
+    </sec>
+    <sec sec-type="materials-and-methods" id="jnu12842-sec-0008">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="jnu12842-sec-0009">
+        <title>Design</title>
+        <p>Both quantitative and qualitative data were collected using cross&#x2010;sectional data collection methods and interpreted together in a triangulation design (Creswell,&#xA0;<xref rid="jnu12842-bib-0012" ref-type="bibr">2014</xref>).</p>
+      </sec>
+      <sec id="jnu12842-sec-0010">
+        <title>Procedure</title>
+        <p>Patients were eligible if they were migrants diagnosed with type 2 diabetes, ICD E11 (WHO,&#xA0;<xref rid="jnu12842-bib-0047" ref-type="bibr">2004</xref>) listed at a healthcare center, and aged 18&#x2009;years or older. Exclusion criteria were inability to understand Swedish or Arabic, Bosnian or Spanish, or documented inability to complete the questionnaire (e.g., severe cognitive problems). All patients who met the inclusion criteria were selected by a diabetes nurse from the computer system Cosmic at a health center in south&#x2010;eastern Sweden and invited to participate in the study. Patients were sent the invitation along with the questionnaires by letter and asked to complete the questionnaire and send it back in the enclosed stamped reply envelope. Patients received a reminder after 2&#x2009;weeks. They were offered help to fill in the questionnaire if they wanted it by contacting the research team. The data collection started in June 2020 and ended in September 2020.</p>
+      </sec>
+      <sec id="jnu12842-sec-0011">
+        <title>Measurements</title>
+        <p>Based on the middle&#x2010;range theory of Riegel et al.&#xA0;(<xref rid="jnu12842-bib-0038" ref-type="bibr">2012</xref>), <underline underline-style="single">self&#x2010;care maintenance</underline> was assessed using both multiple&#x2010;choice and open&#x2010;ended questions to capture the experiences of migrants with type 2 diabetes of possible changes in their self&#x2010;care maintenance during the COVID&#x2010;19 pandemic. The questionnaire was adapted from the Self&#x2010;Care of Diabetes Inventory (SCODI) (Ausili et al.,&#xA0;<xref rid="jnu12842-bib-0003" ref-type="bibr">2017</xref>), also based on middle&#x2010;range theory (Riegel et al.,&#xA0;<xref rid="jnu12842-bib-0038" ref-type="bibr">2012</xref>). In this study, we used the self&#x2010;care maintenance items (12) of the SCODI (answered on a 5&#x2010;point scale where 1&#xA0;=&#xA0;never and 5&#xA0;=&#xA0;always). The self&#x2010;care maintenance scale was standardized to a total possible score of 100 for ease of interpretation. In former studies involving patients with heart failure, a cut&#x2010;off of 70 points was used to discriminate between adequate or inadequate self&#x2010;care maintenance (Riegel et al.,&#xA0;<xref rid="jnu12842-bib-0039" ref-type="bibr">2009</xref>). This cut&#x2010;off was also used in this study (Caruso et al.,&#xA0;<xref rid="jnu12842-bib-0009" ref-type="bibr">2019</xref>).</p>
+        <p>
+<underline underline-style="single">Self&#x2010;efficacy</underline> was measured with the question: &#x201C;How confident do you feel that you can perform the self&#x2010;care behaviours?&#x201D; Answer options were on a 5&#x2010;point scale (1&#xA0;=&#xA0;never to 5&#xA0;=&#xA0;always). <underline underline-style="single">Well&#x2010;being</underline> was measured using Cantril's ladder (Cantril,&#xA0;<xref rid="jnu12842-bib-0008" ref-type="bibr">1965</xref>) on a 10&#x2010;point scale where higher scores indicate greater well&#x2010;being. The participants were asked to state a number (from 0 to 10) on a figure depicting the ladder of life. The top step (10) represents the best possible life, and the bottom step (0) means the worst possible life.</p>
+        <sec id="jnu12842-sec-0012">
+          <title>Change due to the COVID&#x2010;19 pandemic</title>
+          <p>For each self&#x2010;care behavior item, the self&#x2010;efficacy item, and Cantril's ladder, an open&#x2010;ended question was added: &#x201C;Did this change due to the COVID&#x2010;19 pandemic? (yes/no). If yes, please elaborate.&#x201D; In addition, the questionnaire included open&#x2010;ended questions to explore possible changes in social support: &#x201C;Did your social support change due to the COVID&#x2010;19 pandemic? (yes/no) If yes please elaborate.&#x201D;</p>
+          <p>Participants could also describe the support they needed from healthcare services, and how they would like to receive information during the COVID&#x2010;19 pandemic, both in general as a patient and also as a patient with type 2 diabetes. We also collected data on background, such as gender, age, country of birth, educational level, duration of type 2 diabetes, and how long the person had been living in Sweden. Patients received the questionnaire in multiple languages (Swedish, Arabic, Bosnian and Spanish) since these are the languages mostly spoken at the primary care center in which we collected data. They could choose the language in which they wanted to respond to the questionnaire.</p>
+        </sec>
+      </sec>
+      <sec id="jnu12842-sec-0013">
+        <title>Data analysis</title>
+        <p>Quantitative and qualitative data were interpreted together within a triangulation design (Creswell,&#xA0;<xref rid="jnu12842-bib-0012" ref-type="bibr">2014</xref>; Figure&#xA0;<xref rid="jnu12842-fig-0002" ref-type="fig">2</xref>). SPSS, version 26 (IBM) was used to analyze the quantitative data. For continuous data, mean and standard deviation were reported, and for nominal data frequency and percentages were given. Differences in self&#x2010;care maintenance related to marital status, gender, educational level, region of birth (born in the Middle East or not), and having children or grandchildren living nearby were analyzed using the student <italic toggle="yes">t</italic>&#x2010;test. <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 was considered statistically significant.</p>
+        <fig position="float" fig-type="FIGURE" id="jnu12842-fig-0002">
+          <label>FIGURE 2</label>
+          <caption>
+            <p>Quantitative and qualitative data from 79 migrant patients with type 2 diabetes were analyzed and then merged in a triangulation design (Cresswell, <xref rid="jnu12842-bib-0012" ref-type="bibr">2014</xref>)</p>
+          </caption>
+          <graphic xlink:href="JNU-55-167-g003" position="anchor" id="jats-graphic-3"/>
+        </fig>
+        <p>Pearson correlations were calculated between self&#x2010;care maintenance and age, well&#x2010;being (Cantril's ladder), duration in years of diabetes, and years living in Sweden. To explore factors related to unchanged self&#x2010;care maintenance, a <italic toggle="yes">&#x3C7;</italic>
+<sup>2</sup> analysis was conducted with changed/unchanged self&#x2010;care maintenance and gender, marital status, education, and having children or grandchildren living nearby.</p>
+        <p>Answers from the open&#x2010;ended questions in Arabic, Bosnian or Spanish were translated into Swedish by an authorized interpreter. These were first read (by all four authors) to gain an overall impression of the meaning of the text. Data from the open&#x2010;ended questions regarding changes in self&#x2010;care maintenance, well&#x2010;being, and need for support were then analyzed using an approach of directed content analysis (Hsieh &amp; Shannon,&#xA0;<xref rid="jnu12842-bib-0021" ref-type="bibr">2005</xref>). With this approach, data was pre&#x2010;coded and divided, both before and during the data analysis, into <bold>
+<italic toggle="yes">positive and negative aspects</italic>
+</bold> of changes due to the COVID&#x2010;19 pandemic. In the next step (Figure&#xA0;<xref rid="jnu12842-fig-0002" ref-type="fig">2</xref>), all four authors discussed both qualitative and quantitative data together and used the qualitative results to validate the quantitative results. In the final step, we interpreted quantitative plus qualitative data to address the purpose of the study.</p>
+      </sec>
+      <sec id="jnu12842-sec-0014">
+        <title>Ethical approval and considerations</title>
+        <p>This study was conducted according to the principles of the Declaration of Helsinki and in accordance with the Medical Research Involving Human Subjects Act in Sweden (Regionala etikpr&#xF6;vningsn&#xE4;mnden i Link&#xF6;ping). Ethical approval was received (Dnr: 2020&#x2010;02042). Written informed consent was obtained from all patients and it was clarified that they could terminate their participation at any time and that participation in the study would not affect their care.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12842-sec-0015">
+      <title>RESULTS</title>
+      <sec id="jnu12842-sec-0016">
+        <title>Sample</title>
+        <p>In total, 79 participants answered the questionnaire, a response rate of 24%. The mean age was 69 (&#xB1;11) and 51% of the participants were male. The sample consisted of people born in either the Middle East (47%) or European countries (53%). The individuals from the Middle East had immigrated to Sweden from Syria, Turkey, Iraq, Lebanon, or Iran. Participants from European countries were particularly born in Bosnia, Poland, and Finland. The participants had been living in Sweden for an average of 33&#x2009;years (&#xB1;14) and had a median duration of type 2 diabetes of 13&#x2009;years (1&#x2013;40) (Table&#xA0;<xref rid="jnu12842-tbl-0001" ref-type="table">1</xref>).</p>
+        <table-wrap position="float" id="jnu12842-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Characteristics of the sample</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="char" char="(" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;79</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Age (years) (mean&#x2009;&#xB1;&#x2009;SD)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">69 (&#xB1;11)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Female gender (<italic toggle="yes">n</italic> %)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">39 (49)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="2" valign="top" rowspan="1">Country of birth (<italic toggle="yes">n</italic> %)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Middle East</italic>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">34 (47)</italic>
+</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Syria</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">13 (18)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Turkey</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">12 (17)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Iraq</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">7 (10)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Lebanon</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1 (1)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Iran</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1 (1)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Europe</italic>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">26 (33)</italic>
+</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Bosnia</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10 (14)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Finland</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">7 (10)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Poland</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">4 (5)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Rest of Europe</italic>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">5 (6)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Outside Europe</italic>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">12 (17)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="2" valign="top" rowspan="1">Highest education (<italic toggle="yes">n</italic> %)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No education</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10 (13)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Primary school</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">29 (37)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Secondary school</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">24 (30)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">University</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">13 (17)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Years living in Sweden (median range)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">33 (6&#x2013;62)</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="2" valign="top" rowspan="1">Marital status <italic toggle="yes">n</italic> (%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Married/living together</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">54 (68)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Living alone</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">29 (32)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Children living nearby</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">61 (77)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Grandchildren living nearby</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">45 (57)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Duration of diabetes years (median range)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">13 (1&#x2013;40)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12842-sec-0017">
+        <title>Self&#x2010;care maintenance and self&#x2010;efficacy</title>
+        <p>The mean value on the self&#x2010;care maintenance scale was 78 (&#xB1;14), using the standardized scoring scale from 0 to 100 (Ausili et al.,&#xA0;<xref rid="jnu12842-bib-0003" ref-type="bibr">2017</xref>). In this study, 20% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;16) of the participants scored &lt;70, reflecting inadequate self&#x2010;care maintenance. Most of the patients (84%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;66) stated that they &#x2018;almost always&#x2019; or &#x2018;always&#x2019; felt confident about performing self&#x2010;care behaviors.</p>
+        <p>Looking at an item level, 26% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;21) of the participants stated they always performed physical activity and 31% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;24) stated they always maintained an active lifestyle. In total, 34% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;27) of the participants stated that they always consumed a balanced diet and 21% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;17) always avoided eating salt and fat. However, 87% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;71) of the participants reported that they always took all prescribed medicines (Figure&#xA0;<xref rid="jnu12842-fig-0003" ref-type="fig">3</xref>).</p>
+        <fig position="float" fig-type="FIGURE" id="jnu12842-fig-0003">
+          <label>FIGURE 3</label>
+          <caption>
+            <p>Self&#x2010;care maintenance, measured by 12 self&#x2010;care behavior items</p>
+          </caption>
+          <graphic xlink:href="JNU-55-167-g001" position="anchor" id="jats-graphic-5"/>
+        </fig>
+      </sec>
+      <sec id="jnu12842-sec-0018">
+        <title>Changes in self&#x2010;care maintenance</title>
+        <p>Of the patients, 76% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;60) reported a change in self&#x2010;care maintenance during the pandemic, meaning that they had changed at least one self&#x2010;care maintenance item. In total, 58% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;46) of the participants reported a change in maintaining an active lifestyle, 40% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;32) in their physical exercise, and 38% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;30) changed their behavior around avoiding getting sick (Figure&#xA0;<xref rid="jnu12842-fig-0004" ref-type="fig">4</xref>).</p>
+        <fig position="float" fig-type="FIGURE" id="jnu12842-fig-0004">
+          <label>FIGURE 4</label>
+          <caption>
+            <p>Changes in self&#x2010;care maintenance, measured by 12 self&#x2010;care behavior items, during the Covid&#x2010;19 pandemic</p>
+          </caption>
+          <graphic xlink:href="JNU-55-167-g004" position="anchor" id="jats-graphic-7"/>
+        </fig>
+        <p>Patients wrote in the open&#x2010;ended questions that this change was due to staying at home because they feared meeting people during the pandemic and had canceled social activities. Others were more physically active than previously on a regular basis during the pandemic. They were taking walks to get fit, as a precaution related to COVID&#x2010;19. Twenty participants (25%) had experienced a change in contact with healthcare services due to poorer access to care, with fewer doctors' appointments and care being postponed during the pandemic. Regarding eating habits, 20% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;16) stated that they had changed their diet due to being tired and unable to cook and therefore did not eat as before. On the contrary, some participants wrote that their behavior regarding diet had changed positively during the pandemic because they did not make impulse purchases and ate meals more regularly, thus keeping better control of their diet.</p>
+      </sec>
+      <sec id="jnu12842-sec-0019">
+        <title>Factors related to self&#x2010;care maintenance</title>
+        <p>Region of birth was significantly related to self&#x2010;care maintenance scores, with people coming from the Middle East having lower self&#x2010;care maintenance compared to participants from other countries (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.035). Well&#x2010;being was significantly related to self&#x2010;care maintenance (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.01).</p>
+        <p>When comparing the 24% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;19) of participants who stated that they had not changed their self&#x2010;care maintenance during COVID&#x2010;19 with those who reported changes, male gender (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.018) and being married/living with somebody (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.039) were significantly related to no changes in self&#x2010;care maintenance during the pandemic.</p>
+      </sec>
+      <sec id="jnu12842-sec-0020">
+        <title>Well&#x2010;being, social support, and need for support from healthcare services</title>
+        <p>The participants had a mean value for well&#x2010;being of 6.58 (SD: 2.28) and 20% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;16) scored lower than 5. In total, 48% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;38) experienced a change in their well&#x2010;being during the COVID&#x2010;19 pandemic. Both positive and negative aspects were found. A positive change occurred when participants wrote that they took better care of themselves. Negative aspects found were a decrease in physical activity and social activities, when participants experienced fear about being affected by COVID&#x2010;19 and fear about being in a risk group due to their diabetes. Some participants experienced an increase in anxiety and loneliness due to the pandemic, which influenced their well&#x2010;being.</p>
+        <p>Social support had changed for 35% of the participants (<italic toggle="yes">n</italic>&#xA0;=&#xA0;28), with less support from family and friends due to the risk of being infected by COVID&#x2010;19. Participants wrote that the isolation had influenced their social support networks since they could not meet relatives, friends, or family due to the risk of infection. However, even though there were fewer social contexts available, some participants found other ways to socialize, such as outdoor activities.</p>
+        <p>In total, 58% of the patients (<italic toggle="yes">n</italic>&#xA0;=&#xA0;46) said they would like to receive information about healthcare changes by a letter in the regular mail. Patients expressed a desire to feel safe within the healthcare system by receiving more information regarding COVID&#x2010;19 because people with diabetes are a risk group. They also preferred to have more check&#x2010;ups related to diabetes and wished that healthcare providers would call every now and then to check on them. They also asked for the possibility of home visits for blood sugar tests. Furthermore, they wrote that they were in need of support regarding self&#x2010;care by means of more information and tools for self&#x2010;care activities, such as material for foot care and blood glucose monitors. In addition, the patients needed help in maintaining physical activity.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12842-sec-0021">
+      <title>DISCUSSION</title>
+      <p>During the pandemic, almost all of us had to adapt our lives, some more dramatically than others. Even though Sweden did not go into total lockdown, and the restrictions were considered &#x2018;mild&#x2019;, there were considerable changes to society, healthcare, and daily life. For example, sports facilities were closed, primary care centers shifted their focus to acute care and redeployed healthcare personnel, people were advised to avoid busy places (such as shopping malls), to restrict the number of visitors they received, and to restrict travel out of the province. In countries with a stricter/total lockdown, the consequences for self&#x2010;care were more pronounced, making it harder to buy fresh food, go for a walk outside or have any visitors at home. Patients with chronic disease seem to have suffered more from the pandemic than the general population since they faced the consequences of clinical challenges (e.g., the disruption of multidisciplinary teams), patient&#x2010;related challenges (e.g., reduced follow&#x2010;up) and logistical challenges (e.g., limited internet access, which was needed for virtual visits) (Neubeck et al.,&#xA0;<xref rid="jnu12842-bib-0033" ref-type="bibr">2020</xref>). Routine healthcare visits for patients with chronic disease changed considerably, access to materials and medication for treatment became restricted, and new challenges arose for patients as they sought to perform healthy behaviors.</p>
+      <p>The migrant patients with diabetes in our study described several changes in self&#x2010;care due to the COVID&#x2010;19 pandemic. The majority (76%) reported that they had changed their self&#x2010;care in some way during the pandemic, most often the self&#x2010;care behaviors related to physical activity and diet. Although our participants reported high levels of total self&#x2010;care behavior, specific self&#x2010;care behaviors were low, with only 26% of the patients always performing physical activity and 31% reporting that they always maintain an active lifestyle. Consequences of the pandemic included patients finding it difficult to maintain physical activity and they stated that this was due to canceled activities. In total, only 34% of patients stated they always consumed a balanced diet and 21% always avoided eating salt and fat.</p>
+      <p>These results confirm the findings of previous studies in a general population of patients with diabetes, showing difficulties in maintaining healthy lifestyles (Banerjee et al.,&#xA0;<xref rid="jnu12842-bib-0004" ref-type="bibr">2020</xref>; Felix et al.,&#xA0;<xref rid="jnu12842-bib-0016" ref-type="bibr">2021</xref>; Ruiz&#x2010;Roso et al.,&#xA0;<xref rid="jnu12842-bib-0040" ref-type="bibr">2020</xref>; Silva&#x2010;Tinoco et al.,&#xA0;<xref rid="jnu12842-bib-0042" ref-type="bibr">2021</xref>). Other studies show that people who already had uncontrolled diabetes before the pandemic had the most difficulty maintaining their weight and a good diet during the pandemic (Felix et al.,&#xA0;<xref rid="jnu12842-bib-0016" ref-type="bibr">2021</xref>), and self&#x2010;care activities decreased during the pandemic (Silva&#x2010;Tinoco et al.,&#xA0;<xref rid="jnu12842-bib-0042" ref-type="bibr">2021</xref>). People with type 2 diabetes are also at greater risk of developing serious diseases after COVID&#x2010;19 infection (Rajpal et al.,&#xA0;<xref rid="jnu12842-bib-0036" ref-type="bibr">2020</xref>), and with uncontrolled diabetes, the prognosis is worse than with well&#x2010;controlled disease (Butler &amp; Barrientos,&#xA0;<xref rid="jnu12842-bib-0006" ref-type="bibr">2020</xref>).</p>
+      <p>In addition to these challenges, being an immigrant with diabetes seems to have made the situation during the pandemic even more challenging due to less access to up&#x2010;to&#x2010;date information or lower access to healthcare due to a lack of trust in doctors or difficulties in contacting a healthcare provider (Mangrio et al.,&#xA0;<xref rid="jnu12842-bib-0029" ref-type="bibr">2020</xref>). During the COVID&#x2010;19 pandemic, it was important that individual goals and treatment strategies for glycaemic control and self&#x2010;care be established for people with type 2 diabetes, specifically targeting vulnerable groups (Banerjee et al.,&#xA0;<xref rid="jnu12842-bib-0004" ref-type="bibr">2020</xref>).</p>
+      <p>We found a relationship between unchanged self&#x2010;care behaviors and living with a partner, and unchanged self&#x2010;care behaviors and being male. This might imply that female patients and those who are living alone might have suffered more from the pandemic and might even be more vulnerable. Policy needs to be put in place to optimally support these groups during difficult times.</p>
+      <p>Patients in our study also reported a need for more contact with healthcare services during times of fewer routine visits. People with diabetes are at high risk of catching infections, especially flu and pneumonia. Careful blood glucose control should be emphasized in the treatment of COVID&#x2010;19 and therefore less frequent contact with healthcare providers can increase the risks (Ghosh et al.,&#xA0;<xref rid="jnu12842-bib-0018" ref-type="bibr">2020</xref>). Policy implications include the need to develop strategies to remain in contact with vulnerable groups of patients.</p>
+      <p>One&#x2010;third of the participants in our study also reported that their social support had changed, with less support from family and friends due to the risk of being infected by COVID&#x2010;19, and 20% of the patients recorded a well&#x2010;being score lower than 5 (on a 10&#x2010;point scale). The mental health impact of the COVID&#x2010;19 pandemic and its associated restrictions has been well&#x2010;documented. Migrants may be particularly affected due to pre&#x2010;existing risk factors (Falicov et al.,&#xA0;<xref rid="jnu12842-bib-0014" ref-type="bibr">2020</xref>; J&#xFA;nior et al.,&#xA0;<xref rid="jnu12842-bib-0026" ref-type="bibr">2020</xref>) and potential exclusion and social isolation (J&#xFA;nior et al.,&#xA0;<xref rid="jnu12842-bib-0026" ref-type="bibr">2020</xref>). Anxiety, stress, and depression increase the risk of impaired glycaemic control and lack of self&#x2010;care. Patients in this study experienced anxiety during COVID&#x2010;19, which has also been seen in other studies (Joensen et al.,&#xA0;<xref rid="jnu12842-bib-0025" ref-type="bibr">2020</xref>; Nachimuthu et al.,&#xA0;<xref rid="jnu12842-bib-0032" ref-type="bibr">2020</xref>). This should be given greater attention in healthcare to prevent poor glycaemic control, which can lead to diabetes&#x2010;related complications such as severe illness if infected by COVID&#x2010;19.</p>
+      <p>Another important finding was that more than half of the participants preferred to be informed by written letters to their home addresses. During the pandemic, there was a large shift toward telecare, information provided through the internet or social media, with the rationale that telemedicine, consultation counseling, and treatment remotely can reduce feelings of loneliness and isolation. This was indeed confirmed in a study involving people with type 2 diabetes during the COVID&#x2010;19 pandemic (Quinn et al.,&#xA0;<xref rid="jnu12842-bib-0035" ref-type="bibr">2020</xref>). Although telemedicine is convenient and has a wide reach, it is important to consider that some patients might experience challenges in accessing remote healthcare if they suffer from sensory, cognitive, and/or physical decline, and this needs to be taken into account when offering telehealth (Allemann et al.,&#xA0;<xref rid="jnu12842-bib-0001" ref-type="bibr">2019</xref>).</p>
+      <p>Some of the patients in this study had lived in Sweden for quite a long time, but it is important to consider the literature's suggestion that growing older in a new homeland with a chronic disease poses a range of challenges related to cultural norms and values that differ between western and non&#x2010;western countries. Even if a person has lived in a country for a long time, they might feel closer to the values of their birth country (Liu &amp; Gallois,&#xA0;<xref rid="jnu12842-bib-0028" ref-type="bibr">2022</xref>). In previous studies, we found that people who had immigrated from the Middle East had lower diabetes knowledge than native Swedes (even after living in Sweden for a long time) (Pettersson et al.,&#xA0;<xref rid="jnu12842-bib-0034" ref-type="bibr">2019</xref>).</p>
+      <p>An appropriate way to address our findings is to acknowledge that messaging on the response to new situations (such as a pandemic) should be tailored to different cultural and social situations. Migrant populations may have unique vulnerabilities regarding self&#x2010;care, and meaningful solutions and support should be offered. Another appropriate response is to consider the preferred use of communication and different media by the target group. More research is needed into how to efficiently co&#x2010;design interventions with the target group of migrants.</p>
+      <sec id="jnu12842-sec-0022">
+        <title>Methodological reflections</title>
+        <p>This is a descriptive cross&#x2010;sectional study, meaning that causal explanations are not possible. The response rate was 24%, which is rather low, and we realize that there might be missing data relating to participants who cannot read or write. It is known that <italic toggle="yes">adult literacy rates are lower among migrants than in a non&#x2010;immigrant population, with about</italic> 21% of refugees having difficulties reading or writing, and only 60% having good health literacy (W&#xE5;ngdahl, 2014). Literacy is e<italic toggle="yes">specially low in migrants from the Middle East</italic> (Hammoud,&#xA0;<xref rid="jnu12842-bib-0019" ref-type="bibr">2005</xref>). Considering this, the results of this study might have been different if we could also have reached the illiterate migrant patients with type 2 diabetes. Most of the migrants in Sweden are born in Syria, Iraq, Finland, Poland, Iran, or Somalia. Our data were collected from a population reflecting this diversity. In a recently published systematic review covering 15 high&#x2010;income countries that discussed the consequences of COVID&#x2010;19 (Hayward et al.,&#xA0;<xref rid="jnu12842-bib-0020" ref-type="bibr">2021</xref>), migrants, irrespective of country of residence, were found to have higher levels of many of the risk factors and vulnerabilities for COVID&#x2010;19. The Swedish data was comparable to data from other high&#x2010;income countries. We, therefore, believe that our results can be generalized to migrants in other high&#x2010;income countries (who are not living in refugee camps). The strength of the study is that we used questionnaires translated into the languages of the target population of the specific primary care center. We also used a triangulation design to optimize the interpretation of the data. However, it would add strength to compare the population in this study with a group of native&#x2010;born individuals with type 2 diabetes.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12842-sec-0023">
+      <title>CONCLUSION</title>
+      <p>The COVID&#x2010;19 pandemic led to many restrictions on society that changed the way of life for many individuals. Migrant patients with type 2 diabetes, who are already a vulnerable group regarding self&#x2010;care, had difficulties in maintaining good living habits during the pandemic. During crises such as COVID&#x2010;19, support with self&#x2010;care, such as closer contact with healthcare providers, is vital.</p>
+      <sec id="jnu12842-sec-0024">
+        <title>CLINICAL RESOURCES</title>
+        <p>Self&#x2010;care measurements. Self&#x2010;Care of Diabetes Inventory. <ext-link xlink:href="https://self-care-measures.com/available-self-care-measures/self-care-of-diabetes-inventory/" ext-link-type="uri">https://self&#x2010;care&#x2010;measures.com/available&#x2010;self&#x2010;care&#x2010;measures/self&#x2010;care&#x2010;of&#x2010;diabetes&#x2010;inventory/</ext-link>.</p>
+        <p>Diabetes and Coronavirus (COVID&#x2010;19). How COVID&#x2010;19 Impacts People with Diabetes. American Diabetes Association (ADA). <ext-link xlink:href="https://www.diabetes.org/coronavirus-covid-19/how-coronavirus-impacts-people-with-diabetes" ext-link-type="uri">https://www.diabetes.org/coronavirus&#x2010;covid&#x2010;19/how&#x2010;coronavirus&#x2010;impacts&#x2010;people&#x2010;with&#x2010;diabetes</ext-link>.</p>
+        <p>Diabetes &amp; COVID&#x2010;19. World Health Organization (WHO). <ext-link xlink:href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-46---diabetes-covid-19" ext-link-type="uri">https://www.who.int/emergencies/diseases/novel&#x2010;coronavirus&#x2010;2019/media&#x2010;resources/science&#x2010;in&#x2010;5/episode&#x2010;46&#x2010;&#x2010;&#x2010;diabetes&#x2010;covid&#x2010;19</ext-link>.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12842-sec-0026">
+      <title>FUNDING INFORMATION</title>
+      <p>This research received no specific grant from any funding agency in the public, commercial, or not&#x2010;for&#x2010;profit sectors.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12842-sec-0027">
+      <title>CONFLICT OF INTEREST</title>
+      <p>The authors declare that they have no conflict of interest.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="jnu12842-supitem-0001" position="float" content-type="local-data">
+        <caption>
+          <p>
+Table S1
+</p>
+        </caption>
+        <media xlink:href="JNU-55-167-s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12842-sec-0025">
+      <title>ACKNOWLEDGMENT</title>
+      <p>Thanks to the Diabetes nurses at the studied Primary Health Care clinic who made it possible to carry out this study.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12842-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12842-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0001">
+<string-name>
+<surname>Allemann</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Thyl&#xE9;n</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>&#xC5;gren</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liljeroos</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Str&#xF6;mberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2019</year>). <article-title>Perceptions of information and communication technology as support for family members of persons with heart failure: Qualitative study</article-title>. <source>Journal of Medical Internet Research</source>, <volume>21</volume>(<issue>7</issue>), <elocation-id>e13521</elocation-id>. <pub-id pub-id-type="doi">10.2196/13521</pub-id>
+<pub-id pub-id-type="pmid">31313662</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0002">
+<string-name>
+<surname>Alzubaidi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sulieman</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mc Namara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Samorinha</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Browning</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>The relationship between diabetes distress, medication taking, glycaemic control and self&#x2010;management</article-title>. <source>International Journal of Clinical Pharmacy</source>, <volume>44</volume>(<issue>1</issue>), <fpage>127</fpage>&#x2013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1007/s11096-021-01322-2</pub-id>
+<pub-id pub-id-type="pmid">34586556</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0003">
+<string-name>
+<surname>Ausili</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Barbaranelli</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rebora</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fabrizi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Coghi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Luciani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vellone</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Di Mauro</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Development and psychometric testing of a theory&#x2010;based tool to measure self&#x2010;care in diabetes patients: The self&#x2010;Care of Diabetes Inventory</article-title>. <source>BMC Endocrine Disorders</source>, <volume>17</volume>(<issue>1</issue>), <fpage>66</fpage>.<pub-id pub-id-type="pmid">29037177</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0004">
+<string-name>
+<surname>Banerjee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chakraborty</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pal</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Diabetes self&#x2010;management amid COVID&#x2010;19 pandemic</article-title>. <source>Diabetes and Metabolic Syndrome: Clinical Research &amp; Reviews</source>, <volume>14</volume>(<issue>4</issue>), <fpage>351</fpage>&#x2013;<lpage>354</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0005">
+<string-name>
+<surname>Bennet</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Groop</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lindblad</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Agardh</surname>, <given-names>C.&#x2010;D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Franks</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Ethnicity is an independent risk indicator when estimating diabetes risk with FINDRISC scores: A cross sectional study comparing immigrants from the Middle East and native swedes</article-title>. <source>Primary Care Diabetes</source>, <volume>8</volume>(<issue>3</issue>), <fpage>231</fpage>&#x2013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">24472421</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0006">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0006">
+<string-name>
+<surname>Butler</surname>, <given-names>M. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Barrientos</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>The impact of nutrition on COVID&#x2010;19 susceptibility and long&#x2010;term consequences</article-title>. <source>Brain, Behavior, and Immunity</source>, <volume>87</volume>, <fpage>53</fpage>&#x2013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">32311498</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0007">
+<string-name>
+<surname>Calder&#xF3;n&#x2010;Larra&#xF1;aga</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vetrano</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Rizzuto</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bellander</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Fratiglioni</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dekhtyar</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>High excess mortality in areas with young and socially vulnerable populations during the COVID&#x2010;19 outbreak in Stockholm region, Sweden</article-title>. <source>BMJ Global Health</source>, <volume>5</volume>(<issue>10</issue>), <elocation-id>e003595</elocation-id>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0008">
+        <mixed-citation publication-type="book" id="jnu12842-cit-0008">
+<string-name>
+<surname>Cantril</surname>, <given-names>H.</given-names>
+</string-name> (<year>1965</year>). <source>The pattern of human concerns</source>. <publisher-name>Rutgers University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0009">
+<string-name>
+<surname>Caruso</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rebora</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dellafiore</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fabrizi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ausili</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Di Mauro</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Clinical and socio&#x2010;demographic determinants of inadequate self&#x2010;care in adults with type 1 diabetes mellitus: The leading role of self&#x2010;care confidence</article-title>. <source>Acta Diabetologica</source>, <volume>56</volume>(<issue>2</issue>), <fpage>151</fpage>&#x2013;<lpage>161</lpage>. <pub-id pub-id-type="doi">10.1007/s00592-018-1259-z</pub-id>
+<pub-id pub-id-type="pmid">30478783</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0010">
+<string-name>
+<surname>Chambre</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gbedo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kouacou</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Fysekidis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reach</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Le Clesiau</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bihan</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Migrant adults with diabetes in France: Influence of family migration</article-title>. <source>Journal of Clinical &amp; Translational Endocrinology</source>, <volume>7</volume>, <fpage>28</fpage>&#x2013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">29067247</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0011">
+<string-name>
+<surname>Cho</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Karuranga</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>da Rocha Fernandes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ohlrogge</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Malanda</surname>, <given-names>B.</given-names>
+</string-name> (<year>2018</year>). <article-title>IDF diabetes atlas: Global estimates of diabetes prevalence for 2017 and projections for 2045</article-title>. <source>Diabetes Research and Clinical Practice</source>, <volume>138</volume>, <fpage>271</fpage>&#x2013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">29496507</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0012">
+        <mixed-citation publication-type="book" id="jnu12842-cit-0012">
+<string-name>
+<surname>Creswell</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2014</year>). <source>A concise introduction to mixed methods research</source>. <publisher-name>SAGE Publications</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0013">
+<string-name>
+<surname>Elinder</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Hakimi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lager</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Patterson</surname>, <given-names>E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Global region of birth is an independent risk factor for type 2 diabetes in Stockholm, Sweden</article-title>. <source>European Journal of Public Health</source>, <volume>27</volume>(<issue>3</issue>), <fpage>447</fpage>&#x2013;<lpage>453</lpage>.<pub-id pub-id-type="pmid">27864357</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0014">
+<string-name>
+<surname>Falicov</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ni&#xF1;o</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>D'Urso</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Expanding possibilities: Flexibility and solidarity with under&#x2010;resourced immigrant families during the covid&#x2010;19 pandemic</article-title>. <source>Family Process</source>, <volume>59</volume>(<issue>3</issue>), <fpage>865</fpage>&#x2013;<lpage>882</lpage>.<pub-id pub-id-type="pmid">32663315</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0015">
+<string-name>
+<surname>Farsalinos</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Poulas</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kouretas</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vantarakis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Leotsinidis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kouvelas</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Docea</surname>, <given-names>A. O.</given-names>
+</string-name>, <string-name>
+<surname>Kostoff</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gerotziafas</surname>, <given-names>G. T.</given-names>
+</string-name>, <string-name>
+<surname>Antoniou</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Polosa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Barbouni</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yiakoumaki</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Giannouchos</surname>, <given-names>T. V.</given-names>
+</string-name>, <string-name>
+<surname>Bagos</surname>, <given-names>P. G.</given-names>
+</string-name>, <string-name>
+<surname>Lazopoulos</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Izotov</surname>, <given-names>B. N.</given-names>
+</string-name>, <string-name>
+<surname>Tutelyan</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Aschner</surname>, <given-names>M.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Tsatsakis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Improved strategies to counter the COVID&#x2010;19 pandemic: Lockdowns vs. primary and community healthcare</article-title>. <source>Toxicology Reports</source>, <volume>8</volume>, <fpage>1</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.toxrep.2020.12.001</pub-id>
+<pub-id pub-id-type="pmid">33294384</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0016">
+<string-name>
+<surname>Felix</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Willis</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Malhis</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Selig</surname>, <given-names>J. P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McElfish</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Control of type 2 diabetes mellitus during the COVID&#x2010;19 pandemic</article-title>. <source>Primary Care Diabetes</source>, <volume>15</volume>(<issue>5</issue>), <fpage>786</fpage>&#x2013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">34246614</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0017">
+<string-name>
+<surname>Fisekovic Kremic</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2020</year>). <article-title>Factors associated with depression, anxiety and stress among patients with diabetes mellitus in primary health care: Many questions, few answers</article-title>. <source>Malays Fam Physician</source>, <volume>15</volume>(<issue>3</issue>), <fpage>54</fpage>&#x2013;<lpage>61</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0018">
+<string-name>
+<surname>Ghosh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Anoop</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Misra</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Effects of nationwide lockdown during COVID&#x2010;19 epidemic on lifestyle and other medical issues of patients with type 2 diabetes in North India</article-title>. <source>Diabetes and Metabolic Syndrome: Clinical Research &amp; Reviews</source>, <volume>14</volume>(<issue>5</issue>), <fpage>917</fpage>&#x2013;<lpage>920</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0019">
+        <mixed-citation publication-type="book" id="jnu12842-cit-0019">
+<string-name>
+<surname>Hammoud</surname>, <given-names>H. R.</given-names>
+</string-name> (<year>2005</year>). <source>Illiteracy in the Arab world</source>. <publisher-name>UNESCO</publisher-name>. <ext-link xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000146282" ext-link-type="uri">https://unesdoc.unesco.org/ark:/48223/pf0000146282</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0020">
+<string-name>
+<surname>Hayward</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Deal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Crawshaw</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Orcutt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vandrevala</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Norredam</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carballo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ciftci</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Requena&#x2010;M&#xE9;ndez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Greenaway</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Knights</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Mehrotra</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Seedat</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bozorgmehr</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Veizis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Campos&#x2010;Matos</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Wurie</surname>, <given-names>F.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Hargreaves</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Clinical outcomes and risk factors for COVID&#x2010;19 among migrant populations in high&#x2010;income countries: A systematic review</article-title>. <source>Journal of Migration and Health</source>, <volume>3</volume>, <elocation-id>100041</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jmh.2021.100041</pub-id>
+<pub-id pub-id-type="pmid">33903857</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0021">
+<string-name>
+<surname>Hsieh</surname>, <given-names>H. F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shannon</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Three approaches to qualitative content analysis</article-title>. <source>Qualitative Health Research</source>, <volume>15</volume>(<issue>9</issue>), <fpage>1277</fpage>&#x2013;<lpage>1288</lpage>. <pub-id pub-id-type="doi">10.1177/1049732305276687</pub-id>
+<pub-id pub-id-type="pmid">16204405</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0022">
+<string-name>
+<surname>Huang</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pranata</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Diabetes mellitus is associated with increased mortality and severity of disease in COVID&#x2010;19 pneumonia&#x2014;A systematic review, meta&#x2010;analysis, and meta&#x2010;regression</article-title>. <source>Diabetes and Metabolic Syndrome: Clinical Research and Reviews</source>, <volume>14</volume>(<issue>4</issue>), <fpage>395</fpage>&#x2013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.dsx.2020.04.018</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0023">
+        <mixed-citation publication-type="miscellaneous" id="jnu12842-cit-0023">
+<collab collab-type="authors">IOM</collab>
+. (<year>2019</year>). <article-title>
+Who is a migrant?
+</article-title>
+<ext-link xlink:href="http://www.iom.int/who-is-a-migrant" ext-link-type="uri">http://www.iom.int/who&#x2010;is&#x2010;a&#x2010;migrant</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0024">
+<string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Stromberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Factors related to self&#x2010;care in heart failure patients according to the middle&#x2010;range theory of self&#x2010;care of chronic illness: A literature update</article-title>. <source>Current Heart Failure Reports</source>, <volume>14</volume>(<issue>2</issue>), <fpage>71</fpage>&#x2013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">28213768</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0025">
+<string-name>
+<surname>Joensen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Madsen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Holm</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Rod</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rod</surname>, <given-names>N. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Willaing</surname>, <given-names>I.</given-names>
+</string-name> (<year>2020</year>). <article-title>Diabetes and COVID&#x2010;19: Psychosocial consequences of the COVID&#x2010;19 pandemic in people with diabetes in Denmark&#x2014;What characterizes people with high levels of COVID&#x2010;19&#x2010;related worries?</article-title>
+<source>Diabetic Medicine</source>, <volume>37</volume>(<issue>7</issue>), <fpage>1146</fpage>&#x2013;<lpage>1154</lpage>.<pub-id pub-id-type="pmid">32392380</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0026">
+<string-name>
+<surname>J&#xFA;nior</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>de Sales</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Moreira</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Pinheiro</surname>, <given-names>W. R.</given-names>
+</string-name>, <string-name>
+<surname>Lima</surname>, <given-names>C. K. T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Neto</surname>, <given-names>M. L. R.</given-names>
+</string-name> (<year>2020</year>). <article-title>A crisis within the crisis: The mental health situation of refugees in the world during the 2019 coronavirus (2019&#x2010;nCoV) outbreak</article-title>. <source>Psychiatry Research</source>, <volume>288</volume>, <elocation-id>113000</elocation-id>.<pub-id pub-id-type="pmid">32353696</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0027">
+<string-name>
+<surname>Kumar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Anikhindi</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Bansal</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Singla</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Khare</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Srivastava</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Is diabetes mellitus associated with mortality and severity of COVID&#x2010;19? A meta&#x2010;analysis</article-title>. <source>Diabetes and Metabolic Syndrome: Clinical Research and Reviews</source>, <volume>14</volume>(<issue>4</issue>), <fpage>535</fpage>&#x2013;<lpage>545</lpage>. <pub-id pub-id-type="doi">10.1016/j.dsx.2020.04.044</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0028">
+<string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gallois</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>Home is where the heart is: Identity and belonging among older Chinese immigrants in Australia</article-title>. <source>Integrative Psychological &amp; Behavioral Science</source>, <volume>56</volume>(<issue>2</issue>), <fpage>459</fpage>&#x2013;<lpage>471</lpage>. <pub-id pub-id-type="doi">10.1007/s12124-021-09664-2</pub-id>
+<pub-id pub-id-type="pmid">34734358</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0029">
+<string-name>
+<surname>Mangrio</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Paul&#x2010;Satyaseela</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Strange</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Refugees in Sweden during the Covid&#x2010;19 pandemic&#x2010;the need for a new perspective on health and integration</article-title>. <source>Frontiers in Public Health</source>, <volume>8</volume>, <elocation-id>574334</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpubh.2020.574334</pub-id>
+<pub-id pub-id-type="pmid">33194974</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0030">
+<string-name>
+<surname>Mantovani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>M. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Targher</surname>, <given-names>G.</given-names>
+</string-name> (<year>2020</year>). <article-title>Diabetes as a risk factor for greater COVID&#x2010;19 severity and in&#x2010;hospital death: A meta&#x2010;analysis of observational studies</article-title>. <source>Nutrition, Metabolism, and Cardiovascular Diseases</source>, <volume>30</volume>(<issue>8</issue>), <fpage>1236</fpage>&#x2013;<lpage>1248</lpage>. <pub-id pub-id-type="doi">10.1016/j.numecd.2020.05.014</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0031">
+<string-name>
+<surname>Montesi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Caletti</surname>, <given-names>M. T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Marchesini</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Diabetes in migrants and ethnic minorities in a changing world</article-title>. <source>World Journal of Diabetes</source>, <volume>7</volume>(<issue>3</issue>), <fpage>34</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.4239/wjd.v7.i3.34</pub-id>
+<pub-id pub-id-type="pmid">26862371</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0032">
+<string-name>
+<surname>Nachimuthu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vijayalakshmi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sudha</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Viswanathan</surname>, <given-names>V.</given-names>
+</string-name> (<year>2020</year>). <article-title>Coping with diabetes during the COVID&#x2013;19 lockdown in India: Results of an online pilot survey</article-title>. <source>Diabetes and Metabolic Syndrome: Clinical Research &amp; Reviews</source>, <volume>14</volume>(<issue>4</issue>), <fpage>579</fpage>&#x2013;<lpage>582</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0033">
+<string-name>
+<surname>Neubeck</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Klompstra</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gallagher</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Delivering healthcare remotely to cardiovascular patients during COVID&#x2010;19: A rapid review of the evidence</article-title>. <source>European Journal of Cardiovascular Nursing</source>, <volume>19</volume>, <fpage>486</fpage>&#x2013;<lpage>494</lpage>. <pub-id pub-id-type="doi">10.1177/1474515120924530</pub-id>
+<pub-id pub-id-type="pmid">32380858</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0034">
+<string-name>
+<surname>Pettersson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hadziabdic</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Marklund</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hjelm</surname>, <given-names>K.</given-names>
+</string-name> (<year>2019</year>). <article-title>Lower knowledge about diabetes among foreign&#x2010;born compared to Swedish&#x2010;born persons with diabetes&#x2014;A descriptive study</article-title>. <source>Nursing Open</source>, <volume>6</volume>(<issue>2</issue>), <fpage>367</fpage>&#x2013;<lpage>376</lpage>.<pub-id pub-id-type="pmid">30918686</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0035">
+<string-name>
+<surname>Quinn</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>M. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hadjiconstantinou</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Virtual consultations and the role of technology during the COVID&#x2010;19 pandemic for people with type 2 diabetes: The UK perspective</article-title>. <source>Journal of Medical Internet Research</source>, <volume>22</volume>(<issue>8</issue>), <elocation-id>e21609</elocation-id>. <pub-id pub-id-type="doi">10.2196/21609</pub-id>
+<pub-id pub-id-type="pmid">32716898</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0036">
+<string-name>
+<surname>Rajpal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rahimi</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ismail&#x2010;Beigi</surname>, <given-names>F.</given-names>
+</string-name> (<year>2020</year>). <article-title>Factors leading to high morbidity and mortality of COVID&#x2010;19 in patients with type 2 diabetes</article-title>. <source>Journal of Diabetes</source>, <volume>12</volume>(<issue>12</issue>), <fpage>895</fpage>&#x2013;<lpage>908</lpage>. <pub-id pub-id-type="doi">10.1111/1753-0407.13085</pub-id>
+<pub-id pub-id-type="pmid">32671936</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0037">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0037">
+<string-name>
+<surname>Rawshani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rawshani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Franz&#xE9;n</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sattar</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Eliasson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Svensson</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Zethelius</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Miftaraj</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>McGuire</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Rosengren</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gudbj&#xF6;rnsdottir</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Risk factors, mortality, and cardiovascular outcomes in patients with type 2 diabetes</article-title>. <source>The New England Journal of Medicine</source>, <volume>379</volume>(<issue>7</issue>), <fpage>633</fpage>&#x2013;<lpage>644</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1800256</pub-id>
+<pub-id pub-id-type="pmid">30110583</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0038">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0038">
+<string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Str&#xF6;mberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>A middle&#x2010;range theory of self&#x2010;care of chronic illness</article-title>. <source>Advances in Nursing Science</source>, <volume>35</volume>(<issue>3</issue>), <fpage>194</fpage>&#x2013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">22739426</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0039">
+<string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>, <given-names>V. V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Carlson</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>). <article-title>An update on the self&#x2010;care of heart failure index</article-title>. <source>The Journal of Cardiovascular Nursing</source>, <volume>24</volume>(<issue>6</issue>), <fpage>485</fpage>&#x2013;<lpage>497</lpage>. <pub-id pub-id-type="doi">10.1097/JCN.0b013e3181b4baa0</pub-id>
+<pub-id pub-id-type="pmid">19786884</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0040">
+<string-name>
+<surname>Ruiz&#x2010;Roso</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Knott&#x2010;Torcal</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Matilla&#x2010;Escalante</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Garcimart&#xED;n</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sampedro&#x2010;Nu&#xF1;ez</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>D&#xE1;valos</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Marazuela</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19 lockdown and changes of the dietary pattern and physical activity habits in a cohort of patients with type 2 diabetes mellitus</article-title>. <source>Nutrients</source>, <volume>12</volume>(<issue>8</issue>), <fpage>2327</fpage>.<pub-id pub-id-type="pmid">32759636</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0041">
+<string-name>
+<surname>Saeedi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Petersohn</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Salpea</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Malanda</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Karuranga</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Unwin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Colagiuri</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Guariguata</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Motala</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Ogurtsova</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Bright</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <collab collab-type="authors">IDF Diabetes Atlas Committee</collab>
+. (<year>2019</year>). <article-title>Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the international diabetes federation diabetes atlas</article-title>. <source>Diabetes Research and Clinical Practice</source>, <volume>157</volume>, <elocation-id>107843</elocation-id>.<pub-id pub-id-type="pmid">31518657</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0042">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0042">
+<string-name>
+<surname>Silva&#x2010;Tinoco</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cant&#xFA;</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>De la Torre&#x2010;Salda&#xF1;a</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Guzm&#xE1;n&#x2010;Olvera</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cuatecontzi&#x2010;Xochitiotzi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;nez</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Romero&#x2010;Ibarguengoitia</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Nahuacatl&#x2010;L&#xF2;pez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Castillo&#x2010;Galindo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Orea&#x2010;Tejeda</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Serna&#x2010;Alvarado</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Le&#xF3;n&#x2010;Garcia</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ochoa&#x2010;Moreno</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Effect in self&#x2010;care behavior and difficulties in coping with diabetes during the COVID&#x2010;19 pandemic: Efecto en el comportamiento de autocuidado y dificultades para hacer frente a la diabetes durante la pandemia de COVID&#x2010;19</article-title>. <source>Revista Mexicana de Endocrinolog&#xED;a, Metabolismo y Nutrici&#xF3;n</source>, <volume>8</volume>(<issue>1</issue>), <fpage>13</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0043">
+        <mixed-citation publication-type="miscellaneous" id="jnu12842-cit-0043">
+<collab collab-type="authors">SOS</collab>
+. (<year>2020</year>). <article-title>
+Befolkningsstatistik
+</article-title>. <ext-link xlink:href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/" ext-link-type="uri">https://www.scb.se/hitta&#x2010;statistik/statistik&#x2010;efter&#x2010;amne/befolkning/befolkningens&#x2010;sammansattning/befolkningsstatistik/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0052">
+        <mixed-citation publication-type="miscellaneous" id="jnu12842-cit-0052">
+<collab collab-type="authors">Statistiska centralbyr&#xE5;n (SCB)</collab>
+(<year>2016</year>). <article-title>Fr&#xE5;n Finland till Afghanistan &#x2013; invandring och utvandring f&#xF6;r personer f&#xF6;dda i olika l&#xE4;nder sedan 1970</article-title>. Stockholm. Demografiska rapporter, 2016:1 (Swedish report).</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0044">
+<string-name>
+<surname>Testa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bonfigli</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Genovese</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ceriello</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Focus on migrants with type 2 diabetes mellitus in European countries</article-title>. <source>Internal and Emergency Medicine</source>, <volume>11</volume>(<issue>3</issue>), <fpage>319</fpage>&#x2013;<lpage>326</lpage>.<pub-id pub-id-type="pmid">26688327</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0045">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0045">
+<string-name>
+<surname>Van Poel</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Vanden Bussche</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klemenc&#x2010;Ketis</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Willems</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>). <article-title>How did general practices organize care during the COVID&#x2010;19 pandemic: The protocol of the cross&#x2010;sectional PRICOV&#x2010;19 study in 38 countries</article-title>. <source>BMC Primary Care</source>, <volume>23</volume>(<issue>1</issue>), <fpage>11</fpage>. <pub-id pub-id-type="doi">10.1186/s12875-021-01587-6</pub-id>
+<pub-id pub-id-type="pmid">35172744</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0046">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0046">
+<string-name>
+<surname>Wandell</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name>
+<surname>Carlsson</surname>, <given-names>A. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Steiner</surname>, <given-names>K. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Prevalence of diabetes among immigrants in the Nordic countries</article-title>. <source>Current Diabetes Reviews</source>, <volume>6</volume>(<issue>2</issue>), <fpage>126</fpage>&#x2013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">20201798</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0049">
+        <mixed-citation publication-type="journal" id="jnu12842-cit-0049">
+<string-name>
+<surname>W&#xE5;ngdahl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lytsy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>M&#xE5;rtensson</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Westerling</surname>, <given-names>R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Health literacy among refugees in Sweden &#x2010; a cross&#x2010;sectional study</article-title>. <source>BMC Public Health</source>, <volume>14</volume>, <fpage>1030</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2458-14-1030</pub-id>
+<pub-id pub-id-type="pmid">25278109</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0047">
+        <mixed-citation publication-type="book" id="jnu12842-cit-0047">
+<collab collab-type="authors">WHO</collab>
+. (<year>2004</year>). <source>International statistical classification of diseases and related health problems</source>. <publisher-name>World Health Organization</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12842-bib-0048">
+        <mixed-citation publication-type="miscellaneous" id="jnu12842-cit-0048">
+<collab collab-type="authors">WHO</collab>
+. (<year>2019</year>). <article-title>
+Coronavirus Disease (COVID&#x2010;19) outbreak for people living with obesity
+</article-title>. <ext-link xlink:href="https://www.worldobesity.org/news/coronavirus-disease-covid-19-outbreak-for-people-living-with-obesity" ext-link-type="uri">https://www.worldobesity.org/news/coronavirus&#x2010;disease&#x2010;covid&#x2010;19&#x2010;outbreak&#x2010;for&#x2010;people&#x2010;living&#x2010;with&#x2010;obesity</ext-link>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

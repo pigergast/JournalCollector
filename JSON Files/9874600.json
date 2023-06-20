@@ -1,0 +1,1475 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12824" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36218196</article-id>
+      <article-id pub-id-type="pmc">9874600</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12824</article-id>
+      <article-id pub-id-type="publisher-id">JNU12824</article-id>
+      <article-id pub-id-type="other">JNU-05-22-323.R1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The impact of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 on the psychosocial well&#x2010;being of older adults: A literature review</article-title>
+        <alt-title alt-title-type="right-running-head">COVID&#x2010;19 AND WELL&#x2010;BEING OF OLDER ADULTS</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12824-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Seckman</surname>
+            <given-names>Charlotte</given-names>
+          </name>
+          <degrees>PhD, RN&#x2010;BC, FAAN</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0351-597X</contrib-id>
+          <xref rid="jnu12824-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>seckmanc99@gmail.com</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12824-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">University of Maryland, Baltimore</named-content>
+<institution>School of Nursing and Aging and Thanatology Program</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Charlotte Seckman, 17186 Russett Farm Dr. Shrewsbury, PA 17361, USA.<break/>
+Email: <email>seckmanc99@gmail.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="120">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>97</fpage>
+      <lpage>111</lpage>
+      <history>
+<date date-type="rev-recd"><day>29</day><month>7</month><year>2022</year></date>
+<date date-type="received"><day>13</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>06</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-97.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12824-sec-0001">
+          <title>Introduction</title>
+          <p>The novel coronavirus SARS&#x2010;CoV2 (COVID&#x2010;19) was declared a global pandemic in 2020 with the greatest risk to older adults. Prolonged restrictions and isolation threaten the social and emotional welfare of vulnerable groups with concerns focused on the long&#x2010;term impact of this pandemic on the health and well&#x2010;being of aging populations.</p>
+        </sec>
+        <sec id="jnu12824-sec-0002">
+          <title>Purpose</title>
+          <p>Using the Socioemotional Selectivity Theory (STT) as a conceptual framework, the purpose of this literature review was to explore the impact of COVID&#x2010;19 on the psychological and social well&#x2010;being of older adults.</p>
+        </sec>
+        <sec id="jnu12824-sec-0003">
+          <title>Methods</title>
+          <p>Numerous academic and healthcare&#x2010;related databases were searched to yield 24 relevant primary research articles, published during the pandemic (2020&#x2013;2022), for analysis.</p>
+        </sec>
+        <sec id="jnu12824-sec-0004">
+          <title>Results/Conclusions</title>
+          <p>Overall results indicated the pandemic had a significant negative affect on the psychological and social well&#x2010;being of older adults to include those with cognitive impairments and dementia despite perceptions of reduced awareness. There were significant differences between age groups with older adults reporting greater emotional stability and coping skills than younger cohorts. Although supportive services and the use of technology&#x2010;enhanced well&#x2010;being these resources were reduced during the pandemic due to lack of trained staff, funding, and other socioeconomic or political barriers. The SST proposes that feelings of satisfaction, a sense of belonging, and purpose are important for emotional well&#x2010;being but the pandemic challenged these goals and, for many, resulted in stress, anxiety, and depression.</p>
+        </sec>
+        <sec id="jnu12824-sec-0005">
+          <title>Clinical Relevance</title>
+          <p>Healthcare providers and policymakers need to be aware of the negative consequences triggered by the prolonged pandemic and take measures to provide services that support the psychosocial well&#x2010;being of older adults.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12824-kwd-0001">anxiety</kwd>
+        <kwd id="jnu12824-kwd-0002">depression</kwd>
+        <kwd id="jnu12824-kwd-0003">gerontology</kwd>
+        <kwd id="jnu12824-kwd-0004">health policy</kwd>
+        <kwd id="jnu12824-kwd-0005">mental health</kwd>
+        <kwd id="jnu12824-kwd-0006">social support</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="1"/>
+        <page-count count="15"/>
+        <word-count count="7169"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:25.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12824-cit-2001">
+<string-name>
+<surname>Seckman</surname>, <given-names>C.</given-names>
+</string-name> (<year>2023</year>). <article-title>The impact of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 on the psychosocial well&#x2010;being of older adults: A literature review</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>97</fpage>&#x2013;<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12824</pub-id>
+<pub-id pub-id-type="pmid">36218196</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12824-body-0001">
+    <sec id="jnu12824-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>In March 2020, the World Health Organization (WHO) pronounced the novel coronavirus SARS&#x2010;CoV2 (COVID&#x2010;19) a global pandemic unlike anything we have seen in over 100&#x2009;years (Cucinotta &amp; Vanelli,&#xA0;<xref rid="jnu12824-bib-0013" ref-type="bibr">2020</xref>; WHO,&#xA0;<xref rid="jnu12824-bib-0036" ref-type="bibr">2020</xref>). The alarming contagious nature of this virus along with evolving variants and rising death rates prompted governments around the world to mandate a series of restrictions. Measures were designed to lower exposure through strict handwashing, frequent sanitizer use, wearing masks in public, social distancing, and quarantine orders. At the core was the need to protect vulnerable groups, such as older adults, since they were considered more susceptible to severe disease symptomatology and increased mortality related to aging and pre&#x2010;existing conditions. But prolonged restrictions and social isolation can have unintended consequences that threaten the social and emotional welfare of older adults (Ejiri et al.,&#xA0;<xref rid="jnu12824-bib-0017" ref-type="bibr">2021</xref>; Fingerman et al.,&#xA0;<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>). Even with the introduction of vaccines to reduce the spread and severity of COVID&#x2010;19, the long&#x2010;term impact of this pandemic on the health and well&#x2010;being of our aging population is a growing concern.</p>
+      <p>Well&#x2010;being is a multifaceted, ambiguous concept but in general refers to having a positive view of life and circumstances. Diener&#xA0;(<xref rid="jnu12824-bib-0015" ref-type="bibr">2000</xref>) contends that well&#x2010;being equates to being happy and satisfied with life. What determines a positive or negative view is subjective and influenced by temperament, personality, values, goals, cultural, and societal factors. L&#xF3;pez et al.&#xA0;(<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>) assert that well&#x2010;being is more than the absence of stressors but must include affirmative physical, sociological, and psychological situations that promote fulfillment and purpose in life.</p>
+      <p>Many scholars recognize an event such as a global pandemic can cause fear, stress, anxiety, depression, and social isolation which can lead to psychological or emotional issues that threaten one's overall sense of well&#x2010;being (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>; Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>). In fact, Abu&#x2010;Kamel and Alnazly&#xA0;(<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>) asserted that fear of this life&#x2010;threatening virus, loss of loved ones, and prolonged confinement, could lead to post&#x2010;traumatic stress disorder (PTSD). This is especially true for older adults who are constantly reminded they are &#x201C;vulnerable&#x201D; and at more risk than other age groups. Because psychological and social well&#x2010;being are important aspects of healthy aging, the long&#x2010;term ramifications, and how older adults respond to the restrictions and stressors imposed by the COVID&#x2010;19 pandemic is a topic of interest for all healthcare providers.</p>
+    </sec>
+    <sec id="jnu12824-sec-0007">
+      <title>THEORETICAL FRAMEWORK</title>
+      <p>The Socioemotional Selectivity Theory (SST) provides a framework for examining the association between age and socioemotional well&#x2010;being. The SST model was proposed by Carstensen&#xA0;(<xref rid="jnu12824-bib-0006" ref-type="bibr">1987</xref>) and has been refined, researched, and validated in numerous studies (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Bardach et al.,&#xA0;<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>; Carstensen,&#xA0;<xref rid="jnu12824-bib-0007" ref-type="bibr">1992</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>: Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>; Patrick et al.,&#xA0;<xref rid="jnu12824-bib-0031" ref-type="bibr">2021</xref>). The underlying premise of the theory postulates that social and emotional goals change based on the perception of time left to live (Carstensen,&#xA0;<xref rid="jnu12824-bib-0008" ref-type="bibr">2021</xref>; Carstensen &amp; Hershfield,&#xA0;<xref rid="jnu12824-bib-0009" ref-type="bibr">2021</xref>). For example, when a person perceives their life&#x2010;span as long or unlimited, acquiring knowledge, building friendships, and taking risks are typically the priority. But as one grows older or life is perceived as limited (i.e. terminal illness) goals are more focused on emotional states of satisfaction, purpose, and belonging. This is not to say older adults stop acquiring knowledge or seeking challenges but priorities shift based on life experiences and choices.</p>
+      <p>In a landmark study, Carstensen&#xA0;(<xref rid="jnu12824-bib-0007" ref-type="bibr">1992</xref>) found there was a steady decline in interactions with casual friends starting in early adulthood but significant relationships increased over time. A distinction was made between contact and closeness in the context of friends and family, whereas contact may be infrequent, emotional closeness remains stable despite distance or number of interactions. Therefore, interaction frequency is not the main factor in determining emotional closeness in a relationship. Emotional stability in older adults is attributed to maintaining a balance through experience, coping strategies, and emotional control. SST research also supports that older adults maintain a greater sense of social and emotional well&#x2010;being even during times of crisis such as a pandemic (Bardach et al.,&#xA0;<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>; Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>).</p>
+    </sec>
+    <sec id="jnu12824-sec-0008">
+      <title>PURPOSE STATEMENT</title>
+      <p>The COVID&#x2010;19 pandemic continues to threaten the well&#x2010;being of older adults who are at heightened risk for physical, social, and psychological ramifications. Using the SST theory as a conceptual framework, the purpose of this paper was to explore the impact of COVID&#x2010;19 on the psychosocial well&#x2010;being of older adults.</p>
+    </sec>
+    <sec id="jnu12824-sec-0009">
+      <title>SEARCH STRATEGY</title>
+      <p>A literature search was conducted using a university library one&#x2010;search application (powered by Ebsco Host) with a focused examination of a variety of academic and healthcare&#x2010;related databases to include Medline, Science Direct, Social Gerontology, and Cumulative Index to Nursing and Allied Health and Literature Plus (CINAHL). Search parameters applied were peer&#x2010;reviewed journals, English language, and publication dates between 2020 and 2022 (during the pandemic). Initial keywords included &#x201C;COVID&#x2010;19 and psychosocial well&#x2010;being&#x201D; which yielded 256 articles. After eliminating duplicates, systematic reviews, meta&#x2010;analysis, commentaries, and opinion articles, over 100 research abstracts were reviewed. Research articles that only focused on younger adults or had no relevance to the topic were eliminated (<italic toggle="yes">n</italic>&#xA0;=&#xA0;76). A second search of three overarching themes was conducted where psychosocial was replaced with &#x201C;psychological well&#x2010;being&#x201D; (<italic toggle="yes">n</italic>&#xA0;=&#xA0;7), &#x201C;social well&#x2010;being&#x201D; (<italic toggle="yes">n</italic>&#xA0;=&#xA0;21) and finally &#x201C;physical well&#x2010;being&#x201D; (<italic toggle="yes">n</italic>&#xA0;=&#xA0;7) then evaluated and compared with previous findings. Duplicates were eliminated and a total of 24 primary research articles were selected with various design approaches to include descriptive survey (<italic toggle="yes">n</italic>&#xA0;=&#xA0;12), descriptive cross&#x2010;sectional (<italic toggle="yes">n</italic>&#xA0;=&#xA0;3), longitudinal (<italic toggle="yes">n</italic>&#xA0;=&#xA0;4), retrospective (<italic toggle="yes">n</italic>&#xA0;=&#xA0;1), quasi&#x2010;experimental pre&#x2010;post&#x2010;test (<italic toggle="yes">n</italic>&#xA0;=&#xA0;1), mix&#x2010;methods (<italic toggle="yes">n</italic>&#xA0;=&#xA0;2) and qualitative (<italic toggle="yes">n</italic>&#xA0;=&#xA0;1) studies.</p>
+    </sec>
+    <sec id="jnu12824-sec-0010">
+      <title>LITERATURE REVIEW</title>
+      <p>The COVID&#x2010;19 pandemic is a global crisis; therefore available research provided a broad perspective on the well&#x2010;being of older adults from 13 different countries using a variety of research designs, methods, and measurements. The majority of studies recruited participants from sources such as community centers, geriatric organizations, physician practices, national databases, and social media with only three studies examining long&#x2010;term care residents (Coin et al., <xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; L&#xF3;pez et al., <xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>; Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>). Two major themes from the literature review will be discussed which includes psychological well&#x2010;being and social well&#x2010;being along with various concepts associated with these themes. See Table&#xA0;<xref rid="jnu12824-tbl-0001" ref-type="table">1</xref> for Literature Review Summary.</p>
+      <table-wrap position="float" id="jnu12824-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Literature review summary</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Author year</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Study purpose/design</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Sample/size setting</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Variables/measures</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Results/limitations</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Abu&#x2010;Kamel and Alnazly&#xA0;(<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To determine the impact of COVID&#x2010;19 confinement on mental distress and Post&#x2010;traumatic Stress Disorder (PTSD) among older adults (<italic toggle="yes">Cross&#x2010;sectional correlational survey</italic>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;315 older adults</p>
+<p>online survey between May 28 and June 12, 2020</p>
+<p>
+<bold>JORDAN</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> isolation, anxiety, depression, fear for survival, trauma&#x2010;related memories, panic</p>
+<p>
+<bold>Physical:</bold> general health past month, history of chronic diseases</p>
+<p>
+<bold>Other</bold>: age, gender, education level, marital status, employment, living arrangement, monthly income, dependency level</p>
+<p>
+<bold>Measures:</bold> ICS&#x2010;R; FCV&#x2010;19S; PHQ&#x2010;9; General Health Survey</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0001"><list-item id="jnu12824-li-0001"><p>Older adults experienced high levels of anxiety, fear, social isolation, and depression with moderate symptoms of PTSD. Those with chronic illnesses had greater mental distress, PTSD, and fear of COVID&#x2010;19 than those without co&#x2010;morbidities</p></list-item><list-item id="jnu12824-li-0002"><p>Males had significantly higher levels of depression than females</p></list-item><list-item id="jnu12824-li-0003"><p>
+<italic toggle="yes">Limits</italic>: No baseline of mental health, selection bias (no non&#x2010;users of social media), cultural bias, those in good health versus those with co&#x2010;morbidities</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Bardach et al.&#xA0;(<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To determine older adults' adaptations to social distancing and use of technology during the pandemic (<italic toggle="yes">Qualitative</italic>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;30 older adults Auto&#x2010;taped interviews</p>
+<p>Lexington, Kentucky, US</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Technology:</bold> use, barriers, facilitators, support, telehealth, portal use, interest in training</p>
+<p>
+<bold>Social well&#x2010;being:</bold> social connections, adaptation to social distancing</p>
+<p>
+<bold>Measures:</bold> Researcher created self&#x2010;report questionnaire</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0002"><list-item id="jnu12824-li-0004"><p>Positive view of technology but disinterest in technology use among older adults as a replacement for human contact</p></list-item><list-item id="jnu12824-li-0005"><p>Emphasized &#x201C;emotionally meaningful goals&#x201D; as a way to increase technology adoption to include timely, easy to use applications</p></list-item><list-item id="jnu12824-li-0006"><p>
+<italic toggle="yes">Limits</italic>: Small sample, self&#x2010;report measures, high education level of participants</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Birditt et al.&#xA0;(<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To examine age differences in</p>
+<p>pandemic&#x2010;related stress, social ties, and life changes related to psychological well&#x2010;being</p>
+<p>(<italic toggle="yes">Descriptive survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;645 adults (43% women) aged 18&#x2013;97 (<italic toggle="yes">M</italic>&#xA0;=&#xA0;50.8)</p>
+<p>Phone survey from the May 2020 nationally representative Survey of Consumers</p>
+<p>Michigan, <bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> anxiety, fear, emotional regulation, stress, depression</p>
+<p>
+<bold>Social well&#x2010;being:</bold> isolation, loneliness, relationship quality</p>
+<p>
+<bold>Measures:</bold> Data from Health and Retirement Study; Becks Anxiety Inventory; UCLA Loneliness Scale</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0003"><list-item id="jnu12824-li-0007"><p>Older adults had less pandemic&#x2010;related stress, higher positive affect, and greater overall sense of well&#x2010;being than younger adults</p></list-item><list-item id="jnu12824-li-0008"><p>Isolation, loneliness, and diminished contact with family and friends during the pandemic had a significant negative impact on psychological and social well&#x2010;being which precipitated higher levels of stress and anxiety</p></list-item><list-item id="jnu12824-li-0009"><p>
+<italic toggle="yes">Limits</italic>: Self&#x2010;report measures, no baseline for stress, coping, early life experience, or physical health. Only 1 month early in pandemic</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Carriedo et al.&#xA0;(<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To examine the psychological well&#x2010;being and physical activity of older adults during home isolation due to COVID&#x2010;19 (<italic toggle="yes">Descriptive cross&#x2010;sectional survey</italic>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;483; Ages 60&#x2013;92&#x2009;years (<italic toggle="yes">M</italic>&#xA0;=&#xA0;65.49) recruited via a snowball sampling strategy for online questionnaire</p>
+<p>
+<bold>SPAIN</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being</bold>: depressive symptoms past 12&#xA0;months</p>
+<p>
+<bold>Resilience:</bold> locus of control, self&#x2010;efficacy, optimism</p>
+<p>
+<bold>Other</bold>: physical activity, sedentary behaviors, age; sex; BMI</p>
+<p>
+<bold>Measures:</bold> PNAS; IPAQ; Connor&#x2010;Davidson Resilience Scale</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0004"><list-item id="jnu12824-li-0010"><p>Vigorous and moderate activity promoted higher optimism, self&#x2010;efficacy, resilience, positive affect, and less depressive symptoms among older adults</p></list-item><list-item id="jnu12824-li-0011"><p>
+<italic toggle="yes">Limits</italic>: Only one country, self&#x2010;report survey; small effect size, psychological variables compared to high&#x2010;level physical activity so those with poor mental/physical health less prompted to exercise</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Carstensen et al.&#xA0;(<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To address important theoretical questions about age differences in emotional experience in times of crisis,</p>
+<p>(<italic toggle="yes">Descriptive survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;945 ages of 18&#x2013;76&#x2009;years (<italic toggle="yes">M</italic>&#xA0;=&#xA0;45.15) in April 2020</p>
+<p>
+<bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Emotional well&#x2010;being:</bold> positive, negative affect, frequency/intensity</p>
+<p>
+<bold>Time horizons perception:</bold> extension, opportunity, constraints <bold>Measures:</bold> Perceived Risk;</p>
+<p>Subjective Health; Personality (using the BIG Five)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0005"><list-item id="jnu12824-li-0012"><p>Older adults had greater emotional well&#x2010;being during the pandemic than younger participants even in the face of prolonged stress</p></list-item><list-item id="jnu12824-li-0013"><p>Older adults had greater emotional stability than younger cohorts</p></list-item><list-item id="jnu12824-li-0014"><p>Utilize positive incentives and activities that are meaningful to promote well&#x2010;being in older adults</p></list-item><list-item id="jnu12824-li-0015"><p>
+<italic toggle="yes">Limits</italic>: Self&#x2010;report survey, one point in time, more educated than general population, may not represent those who were less inclined to complete an online survey or have access to technology</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Chen et al.&#xA0;(<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore the impact of the pandemic on daily life; preparedness, perceptions, and behavior; technology use; and social connectedness of older adults</p>
+<p>(<italic toggle="yes">Qualitative</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;10 pre&#x2010;frail and frail older adults age&#x2009;&gt;&#x2009;65 subject to state stay&#x2010;at&#x2010;home orders. With internet access;</p>
+<p>Retirement communities, public libraries, community centers Online discussion of 60 posts</p>
+<p>
+<bold>Seattle, WA, US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Social well&#x2010;being:</bold> loneliness,</p>
+<p>influence on daily life, technology use, prevention behaviors, social connectedness, perceived stress,</p>
+<p>quality of life (QOL)</p>
+<p>
+<bold>Other:</bold> age, sex, race, education, income, comfort with computers, frailty class</p>
+<p>
+<bold>Measures:</bold> UCLA Loneliness Scale, PSS, RAND&#x2010;36</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0006"><list-item id="jnu12824-li-0016"><p>Increased negative affect with symptoms of stress, worry, and anxiety enhanced during the pandemic</p></list-item><list-item id="jnu12824-li-0017"><p>Impact on QOL and emotional well&#x2010;being reflected in altered daily routines, pandemic restrictions, and lack of social contact with family and friends which resulted in increased stress, anxiety, and worry</p></list-item><list-item id="jnu12824-li-0018"><p>Greater life satisfaction and well&#x2010;being with internet use to connect with family</p></list-item><list-item id="jnu12824-li-0019"><p>Limits: Small sample size, predominately white race, high education level, one geographical area</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Coin et al.&#xA0;(<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To evaluate the impact of the first wave of pandemic quarantine on psychological well&#x2010;being among older adults with mild/major cognitive decline</p>
+<p>(<italic toggle="yes">Descriptive survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;250 patients (64% female; <italic toggle="yes">M</italic>&#xA0;=&#xA0;79&#x2009;years); Ten Centers for Cognitive Decline and Dementia</p>
+<p>Phone surveys</p>
+<p>
+<bold>ITALY</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> stress, depression, coping, caregiver burden, mental status</p>
+<p>
+<bold>Measures:</bold> DASS, PSS, COPE, CBI, MMSE</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0007"><list-item id="jnu12824-li-0020"><p>Depression and stress was higher and coping was limited for those with greater cognitive impairment during first wave of pandemic</p></list-item><list-item id="jnu12824-li-0021"><p>
+<italic toggle="yes">Limits</italic>: No pre&#x2010;pandemic data; self&#x2010;report surveys, limited to those with mild/moderate dementia and not generalizable to individuals with more severe cognitive impairment</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Ebert et al.&#xA0;(<xref rid="jnu12824-bib-0016" ref-type="bibr">2020</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To compare emotional well&#x2010;being during the first 4&#x2009;months of COVID&#x2010;19 between older and younger adults</p>
+<p>(<italic toggle="yes">Descriptive, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;325 adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;39.7&#x2009;years)</p>
+<p>Surveyed Amazon MTurk Prime users beginning of pandemic</p>
+<p>
+<bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Emotional well&#x2010;being:</bold> Positive affect: happy, contented, warm&#x2010;hearted, energetic, interested. Negative affect: sad, annoyed, worried, irritated, depressed</p>
+<p>
+<bold>Other:</bold> Age</p>
+<p>
+<bold>Measures:</bold> Philadelphia Geriatric Center PNAS</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0008"><list-item id="jnu12824-li-0022"><p>Older adults had higher positive and lower negative affect over younger adults</p></list-item><list-item id="jnu12824-li-0023"><p>Pandemic&#x2010;related stress did not immediately decrease well&#x2010;being although a significant initial increase in negative effect with a slow decline over time was shown in both age groups</p></list-item><list-item id="jnu12824-li-0024"><p>
+<italic toggle="yes">Limits</italic>: Short time frame, limited to those who used Amazon MTurk Prime, self&#x2010;report survey</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Ejiri et al.&#xA0;(<xref rid="jnu12824-bib-0017" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To examine the impact of exercise on psychological well&#x2010;being during COVID&#x2010;19 among community&#x2010;dwelling older adults</p>
+<p>(<italic toggle="yes">Descriptive, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;720 older adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;73.9&#x2009;years) survey October 2019; <italic toggle="yes">N</italic>&#xA0;=&#xA0;618 older adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;73.7&#x2009;year) June 2020</p>
+<p>
+<bold>JAPAN</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being</bold>
+</p>
+<p>
+<bold>Coping behaviors:</bold> hobbies, social interactions, diet, walking, exercise, and strength training</p>
+<p>
+<bold>Other:</bold> sex, age, family structure, financial status</p>
+<p>
+<bold>Measures:</bold> WHO&#x2010;5 well&#x2010;being index</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0009"><list-item id="jnu12824-li-0025"><p>Older adults identified walking, hobbies, and exercise were key coping strategies</p></list-item><list-item id="jnu12824-li-0026"><p>Over time psychological well&#x2010;being declined for the walking group but increased for the exercise group</p></list-item><list-item id="jnu12824-li-0027"><p>
+<italic toggle="yes">Limits</italic>: Lack validity of measures, level of exercise not considered, or other coping factors</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fingerman et al.&#xA0;(<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore the association between living alone, social contact, and emotional well&#x2010;being among older adults during COVID&#x2010;19</p>
+<p>(<italic toggle="yes">Descriptive, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;226 older adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;77.28&#x2009;years)</p>
+<p>May/June 2020. Compared to data from in the Daily Experiences and Well&#x2010;being Study (DEWS) in 2016</p>
+<p>Austin, TX, <bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Daily experiences:</bold> daily experience reconstruction</p>
+<p>
+<bold>Social engagement:</bold> in person, by phone, or electronically,</p>
+<p>
+<bold>Emotions:</bold> positive vs negative emotions, gratitude, contentment, loneliness, sadness, stress (three tims/day)</p>
+<p>
+<bold>Other</bold>: age, gender, education, ethnicity, race, marital status, living situation, physical health</p>
+<p>
+<bold>Measures:</bold> Research created</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0010"><list-item id="jnu12824-li-0028"><p>Isolation, loneliness, and diminished contact with family/friends had a significant negative impact on social well&#x2010;being which precipitated higher levels of stress and anxiety</p></list-item><list-item id="jnu12824-li-0029"><p>Physical presence over other communication was associated with higher levels of well&#x2010;being, especially for those who lived alone</p></list-item><list-item id="jnu12824-li-0030"><p>Use of various technologies&#x2010;enhanced social engagement and social well&#x2010;being</p></list-item><list-item id="jnu12824-li-0031"><p>
+<italic toggle="yes">Limits</italic>: No baseline data, limited timeframe, and geographical location; self&#x2010;report measures</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Fuller and Huseth&#x2010;Zosel&#xA0;(<xref rid="jnu12824-bib-0019" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore coping strategies of older adults during the initial weeks of the pandemic</p>
+<p>(<italic toggle="yes">Descriptive, interview</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;76 older adults (70&#x2013;97&#x2009;years)</p>
+<p>Phone interviews March 28&#x2013;April 20, 2020</p>
+<p>Minnesota and North Dakota, <bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Coping:</bold> with social distancing</p>
+<p>
+<bold>QOL:</bold> daily experiences, perceptions of current QOL, how life changed</p>
+<p>
+<bold>Social support:</bold> interpersonal connections, future expectations</p>
+<p>
+<bold>Other:</bold> age, gender, education, marital status, living situation, state</p>
+<p>
+<bold>Measures:</bold> Researcher created</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0011"><list-item id="jnu12824-li-0032"><p>Exceptional psychological adaptability and coping during the pandemic</p></list-item><list-item id="jnu12824-li-0033"><p>High ratings related to coping skills indicative of enhanced emotional control and resilience</p></list-item><list-item id="jnu12824-li-0034"><p>Participants reported a positive attitude, staying busy, and seeking support when needed</p></list-item><list-item id="jnu12824-li-0035"><p>
+<italic toggle="yes">Limits</italic>: Small sample, lack of diversity (mostly female), limited time frame, self&#x2010;report measures</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Giebel et al.&#xA0;(<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore social service support and mental well&#x2010;being among older adults with dementia</p>
+<p>during the first 3&#x2009;months of the pandemic</p>
+<p>(<italic toggle="yes">Longitudinal exploratory survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;377 older adults with dementia (<italic toggle="yes">M</italic>&#xA0;=&#xA0;72&#x2009;years); Online or telephone survey April&#x2013;May 2020; 6 and 12&#x2009;weeks after baseline</p>
+<p>
+<bold>UNITED KINGDOM</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Mental well&#x2010;being:</bold> depression, anxiety, QOL</p>
+<p>
+<bold>Social Service Usage</bold>
+</p>
+<p>
+<bold>Other</bold>: age, gender, ethnicity, postcode, living situation, type of dementia and employment</p>
+<p>
+<bold>Measures:</bold> PHQ&#x2010;9; Generalized Anxiety Disorder; Short Warwick&#x2010;Edinburgh Mental Well&#x2010;Being Scale13 for QOL</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0012"><list-item id="jnu12824-li-0036"><p>Anxiety significantly decreased over time while depression and well&#x2010;being increased prompting a need to expand mental health services</p></list-item><list-item id="jnu12824-li-0037"><p>Social support needs included meal delivery, transportation, social activities, mental health services, medical equipment, and support groups in order to increase well&#x2010;being</p></list-item><list-item id="jnu12824-li-0038"><p>
+<italic toggle="yes">Limits</italic>: Only older adults with internet access, short timeframe, single location, self&#x2010;report surveys, did not assess the level of services</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hajek and K&#xF6;nig&#xA0;(<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To determine the frequency of contact with friends and family via internet and psychosocial factors among middle&#x2010;aged and older adults</p>
+<p>(<italic toggle="yes">Cross&#x2010;sectional descriptive, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;3134 (46&#x2013;98&#x2009;years; <italic toggle="yes">M</italic>&#xA0;=&#xA0;67)</p>
+<p>Data from German Aging Survey (June/July 2020)</p>
+<p>
+<bold>GERMANY</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> loneliness, satisfaction, depression</p>
+<p>
+<bold>Social:</bold> frequency of contact</p>
+<p>
+<bold>Other:</bold> age, sex, education, region, employed, living situation, children,</p>
+<p>migration</p>
+<p>
+<bold>Measures:</bold> De Jong Gierveld scale; Satisfaction with Life Scale; 10&#x2010;item Center for Epidemiological Studies</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0013"><list-item id="jnu12824-li-0039"><p>Older adults who used the internet to stay in contact with loved ones had greater life satisfaction and well&#x2010;being</p></list-item><list-item id="jnu12824-li-0040"><p>Less frequent internet users reported decreased life satisfaction, more depression, and increased loneliness</p></list-item><list-item id="jnu12824-li-0041"><p>
+<italic toggle="yes">Limits</italic>: Limited geographic location, one point in time, cultural bias, and only internet users with no distinction between types of communication used</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Hansen et al.&#xA0;(<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To examine psychosocial impacts and predictors thereof among older Norwegians</p>
+<p>in early and later stages of the pandemic (<italic toggle="yes">Longitudinal survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;4304 (65&#x2013;92&#x2009;years)</p>
+<p>The Norwegian Counties Public Health Survey (NCPHS) before pandemic and June, Nov&#x2010;Dec 2020</p>
+<p>
+<bold>NORWAY</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> worried, anxious, depressed, engaged, happy, satisfied</p>
+<p>
+<bold>Social well&#x2010;being:</bold> loneliness, quality of support</p>
+<p>
+<bold>Other:</bold> gender, age, education, partner status, employment, area,</p>
+<p>health, perceived household vulnerability to COVID&#x2010;19 due to pre&#x2010;existing health conditions; risk</p>
+<p>
+<bold>Measures:</bold> UCLA3 Loneliness Scale</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0014"><list-item id="jnu12824-li-0042"><p>Older adults managed early stage of pandemic with minor psychosocial impact</p></list-item><list-item id="jnu12824-li-0043"><p>Significant decrease in psychological well&#x2010;being and increase in loneliness for both men and women 5 months into the pandemic</p></list-item><list-item id="jnu12824-li-0044"><p>Diminished contact with family and friends during the pandemic had a significant negative impact on social well&#x2010;being over time</p></list-item><list-item id="jnu12824-li-0045"><p>
+<italic toggle="yes">Limits</italic>: Limited location and time frame, drop&#x2010;outs had higher loneliness scores, highly educated not representative of population as a whole</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Jiang&#xA0;(<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">To examine differences in daily affective experiences and perceived stress during the pandemic (<italic toggle="yes">Correlation, survey</italic>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;231 (18&#x2013;85&#x2009;years; <italic toggle="yes">M</italic>&#xA0;=&#xA0;45) Only 15% over 61&#x2009;years. 14&#x2010;day daily diary study</p>
+<p>
+<bold>CHINA</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological:</bold> daily affect; stress</p>
+<p>
+<bold>Other:</bold> age, overall health, socioeconomic status, daily stress, marital status, education, religion,</p>
+<p>
+<bold>Measures:</bold> PSS; Affect Valuation Index</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0015"><list-item id="jnu12824-li-0046"><p>Older adults had a lower perceived stress level and higher positive affect than younger adults</p></list-item><list-item id="jnu12824-li-0047"><p>Older adults were more motivated to regulate emotion than younger adults</p></list-item><list-item id="jnu12824-li-0048"><p>
+<italic toggle="yes">Limits</italic>: geographical location, high education level, low number of older adults</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Kredel and Perry&#xA0;(<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To examine impact of COVID&#x2010;19 on social and mental well&#x2010;being among older adults (<italic toggle="yes">Quasi&#x2010;experimental, pre&#x2010;post</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;93 older adults (64 white Female)</p>
+<p>Phone interviews June&#x2010;Oct 2019 then April&#x2013;May 21, 2020,</p>
+<p>
+<bold>Bloomington, Indiana, US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Mental well&#x2010;being:</bold> depression, anxiety, stress</p>
+<p>
+<bold>Social well&#x2010;being:</bold> social networks, loneliness, social engagement</p>
+<p>
+<bold>Other:</bold> age, race, gender, education, general health</p>
+<p>
+<bold>Measures:</bold> MMSE; PHQ&#x2010;9; PhenX Toolkit Social Networks Battery; UCLA Loneliness Scale</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0016"><list-item id="jnu12824-li-0049"><p>Mental health was negatively affected by an increase in depression and loneliness</p></list-item><list-item id="jnu12824-li-0050"><p>Diminished contact with family and friends had a significant negative impact on social well&#x2010;being which precipitated high levels of stress and anxiety</p></list-item><list-item id="jnu12824-li-0051"><p>Older adults with close social networks had greater loneliness even with the use of social media</p></list-item><list-item id="jnu12824-li-0052"><p>
+<italic toggle="yes">Limits</italic>: Homogeneous sample, well educated, self&#x2010;report measures, location</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">L&#xF3;pez et al.&#xA0;(<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To assess the psychological well&#x2010;being among the young&#x2010;old and old&#x2010;old adults</p>
+<p>(<italic toggle="yes">Cross&#x2010;sectional, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;878 older adults</p>
+<p>
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;626 (60&#x2013;70&#x2009;years) <italic toggle="yes">n</italic>&#xA0;=&#xA0;252 (71&#x2013;80&#x2009;years)</p>
+<p>Online survey 3&#x2009;weeks following restrictions. Nursing home and community</p>
+<p>
+<bold>SPAIN</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> family functioning, resilience, gratitude, experiential avoidance, inflexibility, personal growth, purpose</p>
+<p>
+<bold>Measures:</bold> The Family APGAR;</p>
+<p>Brief Resilient Coping Scale;</p>
+<p>Gratitude Subscale (Values in Action Inventory of Strengths); Acceptance and Action Questionnaire&#x2010;II; Ryff's Psychological Well&#x2010;Being Scales</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0017"><list-item id="jnu12824-li-0053"><p>Significant increase in positive affect with no difference in psychological well&#x2010;being between groups</p></list-item><list-item id="jnu12824-li-0054"><p>Positive attributes such as gratitude, acceptance, family functioning, and resilience were significantly related to personal growth and life purpose</p></list-item><list-item id="jnu12824-li-0055"><p>
+<italic toggle="yes">Limits</italic>: Self&#x2010;report measures, limited location, during one time period, and did not include those with cognitive impairments</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Macdonald and H&#xFC;l&#xFC;r&#xA0;(<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To examine how the pandemic affected older adults' emotional well&#x2010;being, loneliness, and social relationships</p>
+<p>(<italic toggle="yes">Microlongitudinal, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;99 (65&#x2013;94&#x2009;years; <italic toggle="yes">M</italic>&#xA0;=&#xA0;71)</p>
+<p>Pre&#x2010;data from study conducted in 2019</p>
+<p>Post&#x2010;data Online survey 4&#x2009;weeks after pandemic</p>
+<p>
+<bold>SWITZERLAND</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Emotional Well&#x2010;being:</bold> positive and negative affect</p>
+<p>
+<bold>Social Well&#x2010;Being:</bold> social interactions (how, type, frequency); perceptions of social interactions; social networks; social support, living alone</p>
+<p>
+<bold>Other:</bold> age, gender, health status</p>
+<p>
+<bold>Measures:</bold> Same as prior study</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0018"><list-item id="jnu12824-li-0056"><p>Significant negative affect related to well&#x2010;being and loneliness</p></list-item><list-item id="jnu12824-li-0057"><p>Older adults who had frequent telephone contact with social groups were less lonely</p></list-item><list-item id="jnu12824-li-0058"><p>Social distancing presented a substantial stressor which greatly affected well&#x2010;being</p></list-item><list-item id="jnu12824-li-0059"><p>
+<italic toggle="yes">Limits</italic>: Small sample, limited to those who used computers, period effects, memory&#x2010;experience gap, single location, and lockdown not as strict</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Matteucci&#xA0;(<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore social well&#x2010;being, physical activity, and technology use among older adults during COVID&#x2010;19</p>
+<p>(<italic toggle="yes">Descriptive correlation, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;117 (65+ years)</p>
+<p>December 2020</p>
+<p>Long&#x2010;term residence home and community</p>
+<p>
+<bold>NORTHERN ITALY</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Social well&#x2010;being:</bold> social networks, social support</p>
+<p>
+<bold>Physical activity:</bold> sports, leisure, domestic activities</p>
+<p>
+<bold>Technology:</bold> use, type, motivation</p>
+<p>
+<bold>Other</bold>: age (in groups), gender</p>
+<p>
+<bold>Measures:</bold> LSNS&#x2010;R; SSL1; PASE</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0019"><list-item id="jnu12824-li-0060"><p>Residents who utilized a variety of technologies for networking were at less risk for isolation</p></list-item><list-item id="jnu12824-li-0061"><p>As age progressed participants were less inclined to learn or use technology for communication, possibly due to illness or lack of computer skills</p></list-item><list-item id="jnu12824-li-0062"><p>Significant relationship between physical activity and social networks</p></list-item><list-item id="jnu12824-li-0063"><p>
+<italic toggle="yes">Limits</italic>: Small sample, pilot study, single location.</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Murukesu et al.&#xA0;(<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To compare physical activity patterns, psychological well&#x2010;being, and coping strategies of older persons with cognitive frailty</p>
+<p>(<italic toggle="yes">Cross&#x2010;sectional from WeRise Randomized Control Trial</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;42 community&#x2010;dwelling older adults (60+ years) with cognitive frailty, intervention (<italic toggle="yes">n</italic>&#xA0;=&#xA0;21) control (<italic toggle="yes">n</italic>&#xA0;=&#xA0;21)</p>
+<p>Klang Valley, <bold>MALAYSIA</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>IV:</bold> exercise program, cognitive stimulation, diet counseling, psychosocial support versus routine care</p>
+<p>
+<bold>Physical activity:</bold> level of independence, ADL's, mobility, activities, hobbies, shopping</p>
+<p>
+<bold>Psychological wellbeing:</bold> social relationships, competence, optimism, self&#x2010;respect, self&#x2010;acceptance, stress, contributing to others' wellbeing, purposefulness, engagement. Sleep disturbance, inability to cope, happy or depressed, coping strategies</p>
+<p>
+<bold>Other:</bold> age, gender, ethnicity, education, marital status, employment, income, smoking, medical, or depression history</p>
+<p>
+<bold>Measures:</bold> IPAQ, FAQ, FS, GDS&#x2010;14, GHQ&#x2010;12, COPE</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0020"><list-item id="jnu12824-li-0064"><p>The intervention group had higher psychological well&#x2010;being and greater purpose in life despite cognitive impairments than the control group</p></list-item><list-item id="jnu12824-li-0065"><p>Providing supportive services, counseling, and daily exercise were effective measures for promoting psychological well&#x2010;being among older adults</p></list-item><list-item id="jnu12824-li-0066"><p>Both groups had positive coping strategies</p></list-item><list-item id="jnu12824-li-0067"><p>Those who relied predominately on religious beliefs as a coping strategy reported higher psychological well&#x2010;being than others in the group</p></list-item><list-item id="jnu12824-li-0068"><p>
+<italic toggle="yes">Limits</italic>: Small sample, self&#x2010;report measures (socially desirable responses), single location</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Siette et al.&#xA0;(<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To investigate the impact of COVID&#x2010;19 on the quality of life and social networks among older adults receiving community care services</p>
+<p>(<italic toggle="yes">Longitudinal, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;21 older adults (79&#x2013;90&#x2009;years) community and homecare services</p>
+<p>Survey, three time points 2018, 2019, 2020</p>
+<p>New South Wales,</p>
+<p>
+<bold>AUSTRALIA</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psycho&#x2010;social wellbeing:</bold> QOL, anxiety/depression, social networks</p>
+<p>
+<bold>QOL:</bold> mobility, self&#x2010;care, activities, pain/discomfort</p>
+<p>
+<bold>Technology:</bold> use, type, frequency</p>
+<p>
+<bold>Other:</bold> age, gender, income, birth country, education, marital status, employment</p>
+<p>
+<bold>Measures:</bold> LSNS&#x2010;R, Quality of Life</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0021"><list-item id="jnu12824-li-0069"><p>Older adults experienced stress, anxiety, worry, disruption in daily routines and a significant decrease in quality of life during the pandemic</p></list-item><list-item id="jnu12824-li-0070"><p>Over 90.5% used technology to engage with family/friends and telephone contact most frequent method to decrease loneliness</p></list-item><list-item id="jnu12824-li-0071"><p>
+<italic toggle="yes">Limits</italic>: Small sample size, low response rate, may not represent the geographic, cultural, and socio&#x2010;economic background of population as a whole</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Sirin et al.&#xA0;(<xref rid="jnu12824-bib-0033" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To determine the level of anxiety and impact of isolation on older adults during the pandemic</p>
+<p>(<italic toggle="yes">Quantitative, qualitative mixed&#x2010;method</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;278 older adults (65+; <italic toggle="yes">M</italic>&#xA0;=&#xA0;72.6&#x2009;years) completed online survey</p>
+<p>Interviews (<italic toggle="yes">n</italic>&#xA0;=&#xA0;20)</p>
+<p>
+<bold>TURKEY</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychosocial impact:</bold> economic loss, financial aid, effect on communications, time following pandemic news, isolation</p>
+<p>
+<bold>Knowledge of COVID:</bold> symptoms, transmission, risk, cases,</p>
+<p>
+<bold>Other:</bold> gender, age, employment education, living situation, hobbies, exercise, smoking, chronic disease</p>
+<p>
+<bold>Measures:</bold> The Geriatric Anxiety Inventory (GAI)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0022"><list-item id="jnu12824-li-0072"><p>Overall increase in generalized anxiety disorder during the pandemic.</p></list-item><list-item id="jnu12824-li-0073"><p>Females had significantly higher anxiety rates than males and determined a lack of exercise and contact with family increased anxiety,</p></list-item><list-item id="jnu12824-li-0074"><p>Social isolation had a significant impact on mental well&#x2010;being</p></list-item><list-item id="jnu12824-li-0075"><p>
+<italic toggle="yes">Limits</italic>: Single geographic location, higher education than general population,</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>Whitehead&#xA0;(<xref rid="jnu12824-bib-0034" ref-type="bibr">2021</xref>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore perceived stress, negative affect and expectations during the pandemic among older adults</p>
+<p>(<italic toggle="yes">Descriptive, survey</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;714 older adults (60&#x2009;+&#x2009;years)</p>
+<p>Completed online survey in March 2020</p>
+<p>47 States</p>
+<p>
+<bold>UNITED STATES</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold> stress, positive&#x2013;negative affect</p>
+<p>
+<bold>Pandemic expectations</bold> income, duration, long&#x2010;term impact</p>
+<p>
+<bold>Other:</bold> age, sex, marital status, income, perceived health</p>
+<p>
+<bold>Measures:</bold> PSS, PNAS</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0023"><list-item id="jnu12824-li-0076"><p>Those who were less concerned about how the pandemic would impact their life experienced lower stress, less negative effects, and positive affect on psychological well&#x2010;being</p></list-item><list-item id="jnu12824-li-0077"><p>
+<italic toggle="yes">Limits</italic>: Self&#x2010;report measures, single geographic location, cultural and socioeconomic bias, short timeframe early in pandemic</p></list-item></list>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Whitehead and Torossian&#xA0;(<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>To explore older adults' perceptions of joys and stressors during the pandemic</p>
+<p>(<italic toggle="yes">Quantitative, mixed&#x2010;method</italic>)</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">N</italic>&#xA0;=&#xA0;825 older adults (60&#x2009;+&#x2009;years)</p>
+<p>47 States, <bold>US</bold>
+</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Psychological well&#x2010;being:</bold>
+</p>
+<p>
+<italic toggle="yes">Perceived stress</italic>, restrictions, confinement, concern for others, isolation, loneliness, unknown future. <italic toggle="yes">Joys</italic>, family, friends, digital interaction, hobbies, entertainment, peace of mind</p>
+<p>Positive/Negative affect</p>
+<p>
+<bold>Other</bold>: Age, gender, marital status, income, not retired, poor health</p>
+<p>
+<bold>Measures:</bold> PSS; PNAS; questions related to stressors and joys</p>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="bullet" id="jnu12824-list-0024"><list-item id="jnu12824-li-0078"><p>Stress, worry, and anxiety resulted from concern for others, virus risk, and fear of the unknown which was significantly correlated with decreased psychological well&#x2010;being</p></list-item><list-item id="jnu12824-li-0079"><p>The most common stressors were isolation, confinement, concern for others, and loneliness</p></list-item><list-item id="jnu12824-li-0080"><p>Sources of joy were family and friends, social contact via technology, and hobbies</p></list-item><list-item id="jnu12824-li-0081"><p>Significant positive psychological well&#x2010;being is associated with faith, exercise, and nature</p></list-item><list-item id="jnu12824-li-0082"><p>
+<italic toggle="yes">Limits</italic>: Self&#x2010;report measures, homogenous sample, cultural and socioeconomic bias, single geographic location, and short timeframe early in pandemic</p></list-item></list>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12824-ntgp-0001">
+          <fn id="jnu12824-note-0001">
+            <p>Abbreviations: CBI, Caregivers' burden inventory; COPE, Coping Orientation to Problems Experienced; DASS, Depression Anxiety Stress Scale; FAQ, Functional Activities Questionnaire; FCV&#x2010;19S, The Fear of COVID&#x2010;19 Scale; FS, Flourishing Scale (social well&#x2010;being); GDS&#x2010;14, Geriatric Depression Scale&#x2010;14; GHQ&#x2010;12, General Health Questionnaire&#x2010;12; ICS&#x2010;R, Impact of Events Scale&#x2010;Revised measures PTSD symptoms; IPAQ, The International Physical Activity Questionnaire; LSNS&#x2010;R, Lubben Social Network Scale&#x2010;Revised; MMSE, Mini Mental State Examination; PASE, Physical Activity Scale for the Elderly; PHQ&#x2010;9, Patient Health Questionaire&#x2010;9 for depression; PNAS, The Positive and Negative Affect Schedule; PSS, Perceived Stress Scale; RAND&#x2010;36, measure of health&#x2010;related QOL; SSLI, Social Support List.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec id="jnu12824-sec-0011">
+        <title>Psychological well&#x2010;being</title>
+        <p>Psychological well&#x2010;being typically refers to a having a positive mental or emotional state and these terms are often used interchangeably. Concepts related to this theme were positive affect, negative affect, cognitive impairments, age comparisons, quality of life, and coping.</p>
+        <sec id="jnu12824-sec-0012">
+          <title>Positive affect</title>
+          <p>Psychological well&#x2010;being was examined related to positive affect with emotions described as satisfaction, happiness, joy, gratitude, contentment, affection, growth, and optimism. Three studies reported a positive affect on psychological well&#x2010;being in older adults during COVID&#x2010;19 (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>; Whitehead,&#xA0;<xref rid="jnu12824-bib-0034" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>). Lopez et al., in a cross&#x2010;sectional study, compared community dwelling and resident home older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;626; 60&#x2013;70&#x2009;years) with old&#x2010;old adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;252; 71&#x2013;80&#x2009;years) in Spain and discovered a significant increase in positive affect with no difference in psychological well&#x2010;being between the groups. In addition, positive attributes such as gratitude, acceptance, family functioning, and resilience were significantly related to personal growth and life purpose. Whitehead surveyed 714 older adults in 47 states in the United States (US) and found those who were less concerned about how the pandemic would impact their life experienced lower stress and negative effects. Whitehead and Torossian evaluated 825 adults in the US related to perceived stress and joys. Sources of joy were family and friends, social contact via technology, and hobbies. They also reported faith, exercise, self&#x2010;care, and nature had a significant positive correlation with psychological well&#x2010;being.</p>
+        </sec>
+        <sec id="jnu12824-sec-0013">
+          <title>Negative affect</title>
+          <p>Negative affect was the most common concept evaluated and included variables such as anxiety, worry, depression, stress, fear, sadness, and panic bordering on PTSD. Loneliness was identified in three studies as a negative psychological emotion (Fingerman et al.,&#xA0;<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>; Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>) although other studies identified this in terms of social well&#x2010;being. Five studies reported an increase in negative affect during the pandemic (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>: Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>, Sirin et al.,&#xA0;<xref rid="jnu12824-bib-0033" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>). Abu&#x2010;Kamel &amp; Alnazly conducted a cross&#x2010;sectional survey of 315 older adults in Jordan at the beginning of the pandemic to evaluate mental distress and the potential for PTSD. They concluded older adults experienced high levels of anxiety, fear, social isolation, and depression with moderate symptoms of PTSD. Those with chronic illnesses had greater mental distress, depression, PTSD, and fear of COVID&#x2010;19 than those without co&#x2010;morbidities. In addition, males had significantly higher levels of depression than females. Sirin et al., using a mixed method study of 278 older adults in Turkey, reported females had significantly higher anxiety rates than males and determined a lack of exercise and contact with family had an impact on mental well&#x2010;being. In a similar study design, Whitehead and Torossian found stress worry, and anxiety resulted from concern for others, virus risk, and fear of the unknown which was significantly correlated with decreased psychological well&#x2010;being. Chen et al. took a different approach with a qualitative analysis of online discussions between 10 frail older adults in Seattle, Washington and found symptoms of stress, worry, and anxiety were enhanced during the pandemic. Kredel &amp; Perry, in a quasi&#x2010;experimental pre&#x2010;post test study, evaluated depression, anxiety, and stress in 93 older adults in Bloomington, Indiana. They reported COVID&#x2010;19 had an overall negative affect on mental health with an increase of depression and loneliness.</p>
+          <p>Three studies supported negative affect findings and provided insight related to the prolonged effects of the pandemic on psychological well&#x2010;being (Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>: Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>). Giebel et al. evaluated the mental wellbeing of older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;377) in the United Kingdom (U.K.) over a 12&#x2010;week period and found that, although cases of anxiety decreased over time, depression significantly increased prompting a need to consider the expansion of mental health services. Hansen et al. studied a large sample of older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;4304) in Norway and found little impact on psychological well&#x2010;being early on but a substantial decrease for both men and women 5 months into the pandemic. Macdonald and Hulur surveyed 99 older adults in Switzerland 3&#x2009;weeks prior and 4&#x2009;weeks after the pandemic lockdown and found a significant negative affect related to well&#x2010;being and loneliness.</p>
+        </sec>
+        <sec id="jnu12824-sec-0014">
+          <title>Cognitive impairments</title>
+          <p>Older adults with dementia and other forms are cognitive impairment are often characterized as having diminished awareness of events. Two studies investigated older adults with cognitive decline and their response to the pandemic (Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Coin et al., in a retrospective design of long&#x2010;term care residents, evaluated the psychological well&#x2010;being of 250 older adults with dementia in Italy and found depression was higher and coping was limited for those with greater cognitive impairment. Despite concerns about the level of awareness in dementia patients, researchers concluded the study group did experience distress during the pandemic. Murukesu et al. conducted a cross&#x2010;sectional study of 42 older adults in Malaysia with cognitive disabilities, which were divided into an intervention and control group. The intervention group received cognitive and social support, nutrition counseling, and daily exercise. The intervention group had higher psychological well&#x2010;being and greater purpose in life despite cognitive impairments than the control group that received routine care.</p>
+        </sec>
+        <sec id="jnu12824-sec-0015">
+          <title>Age comparison</title>
+          <p>Comparing the psychological well&#x2010;being of older adults with the younger generation during the pandemic was another area for research (Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>; Ebert et al.,&#xA0;<xref rid="jnu12824-bib-0016" ref-type="bibr">2020</xref>; Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>). Birditt et al. examined age differences related to stress and psychological well&#x2010;being of older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;645; <italic toggle="yes">M</italic>&#xA0;=&#xA0;50.8&#x2009;years) living in Michigan. Overall, older adults had less pandemic&#x2010;related stress and higher positive quality relationships than younger adults. In a similar study of 945&#x2009;US adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;45.2&#x2009;years), Carstensen et al. reported older adults had greater emotional well&#x2010;being during the pandemic than younger participants even in the face of prolonged stress. Ebert et al. concurred with a comparison of 325&#x2009;US adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;39.7&#x2009;years) and found older adults had higher positive and lower negative affect compared to younger adults. Pandemic&#x2010;related stress did not immediately decrease well&#x2010;being although a significant initial increase in negative effect with a slow decline over time was shown in both age groups. Jiang&#xA0;(<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>) also evaluated age differences of 231 Chinese adults (<italic toggle="yes">M</italic>&#xA0;=&#xA0;44.7&#x2009;years) and found older adults had a lower perceived stress level than younger adults.</p>
+        </sec>
+        <sec id="jnu12824-sec-0016">
+          <title>Quality of life and coping</title>
+          <p>Quality of life (QOL) studies focused on the impact of COVID&#x2010;19 on daily routines and perceptions of well&#x2010;being (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>). According to Chen et al., QOL and emotional well&#x2010;being were reflected in altered daily routines, pandemic restrictions, and lack of social contact which resulted in increased stress, anxiety, and worry. Similar findings were reported by Siette et al. who investigated 21 older adults in Australia pre&#x2010;post COVID&#x2010;19 and found a significant decrease in QOL. In contrast, Giebel et al. focused on mental well&#x2010;being as a measure for QOL and reported a significant decrease in anxiety but an increase in well&#x2010;being over time.</p>
+          <p>Coping strategies were also explored in conjunction with well&#x2010;being and quality of life (Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>; Ejiri et al.,&#xA0;<xref rid="jnu12824-bib-0017" ref-type="bibr">2021</xref>; Fuller &amp; Huseth&#x2010;Zosel,&#xA0;<xref rid="jnu12824-bib-0019" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Fuller and Huseth&#x2010;Zosel surveyed 76 older adults in the US and reported exceptional psychological adaptability and coping during the pandemic. High ratings related to coping skills were indicative of enhanced emotional control and resilience among this group. These findings were attributed to participants having a positive attitude, keeping busy, and seeking support when needed. Ejiri et al. found walking, hobbies, and exercise were key coping strategies in a study of 618 older adults living in an urban community in Japan. Over time psychological well&#x2010;being declined for the walking group but increased for the exercise group. Carriedo et al. indicated physical activity promoted higher optimism, self&#x2010;efficacy, resilience, and positive affect with less depressive symptoms among older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;483) in Spain. Murukesu et al. also evaluated coping skills of older adults with cognitive disabilities and found those who relied predominately on religious beliefs as a coping strategy reported higher psychological well&#x2010;being than others in the group.</p>
+        </sec>
+        <sec id="jnu12824-sec-0017">
+          <title>Measures of psychological well&#x2010;being</title>
+          <p>A number of valid and reliable instruments were employed across the studies to evaluate psychological well&#x2010;being. These measures primarily focused on positive/negative affect, depression, anxiety, and stress. A common instrument used to measure psychological well&#x2010;being was the Positive and Negative Effect Scale (PNAS)&#xA0;(Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>; Ebert et al.,&#xA0;<xref rid="jnu12824-bib-0016" ref-type="bibr">2020</xref>; Whitehead,&#xA0;<xref rid="jnu12824-bib-0034" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>) followed by the Affect Validation Index (Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>) and the Ryff's Psychological Well&#x2010;being Scales (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>). Depression was assessed using several different measures to include the Patient Health Questionaire&#x2010;9 (PHQ&#x2010;9&#xA0;(Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>); the Depression Anxiety Stress Scale (DASS)&#xA0;(Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>); Mini Mental State Examination (MSE)&#xA0;(Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>); 10&#x2010;item Center for Epidemiological Studies for Depression (Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>); and the Geriatric Depression Scale&#x2010;14 (GDS&#x2010;14)&#xA0;(Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Four different tools were used to evaluate anxiety: (1) Anxiety Stress Scale (Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>); (2) Beck's Anxiety Inventory (BAI)&#xA0;Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>); (3) Generalized Anxiety Disorder (Biebel et al., 2021; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>); and (4) the Geriatric Anxiety Inventory (GAI)&#xA0;(Sirin et al.,&#xA0;<xref rid="jnu12824-bib-0033" ref-type="bibr">2021</xref>) whereas the Perceived Stress Scale (PSS) was applied across five different studies (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>; Whitehead,&#xA0;<xref rid="jnu12824-bib-0034" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>).</p>
+          <p>Other psychological measures included the Impact of Events Scale&#x2010;Revised (ICS&#x2010;R) for PTSD and Fear of COVID&#x2010;19 Scale (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>); Gratitude subscale of Values in Action Inventory of Strengths&#x2010;Short Form, and the Acceptance and Action Questionnaire&#x2010;II (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>). Despite the preponderance of standardized measures, several researchers utilized self&#x2010;made measures for determining psychological well&#x2010;being (Bardach et al.,&#xA0;<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>; Fingerman et al.,&#xA0;<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>; Fuller &amp; Huseth&#x2010;Zosel,&#xA0;<xref rid="jnu12824-bib-0019" ref-type="bibr">2021</xref>).</p>
+          <p>Quality of life, coping, and resilience were other areas where a variety of valid and reliable measures were employed. Four studies evaluated QOL applying measures such as the RAND&#x2010;36 for QOL (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>); Warwick&#x2010;Edinburgh Mental Well&#x2010;Being Scale&#x2010;13 (Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>); Satisfaction with Life Scale (Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>); and the EuroQOL (EQ&#x2010;5D&#x2010;5L; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>). Two studies used the Coping Orientation of Problems Experienced (COPE) instrument (Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>) whereas resilience was measured using the Connor&#x2010;Davidson Resilience Scale (Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>) or the Brief Resilient&#x2010;Coping Scale (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>).</p>
+        </sec>
+      </sec>
+      <sec id="jnu12824-sec-0018">
+        <title>Social well&#x2010;being</title>
+        <p>Social well&#x2010;being can be defined as &#x201C;the ability to communicate, develop meaningful relationships with others and maintain a support network that helps you overcome loneliness&#x201D; (Davis,&#xA0;<xref rid="jnu12824-bib-0014" ref-type="bibr">2019</xref>, para.8). This is consistent with concepts evaluated in various studies such as isolation, loneliness, engagement, connectedness, support, social networks, and technology use.</p>
+        <p>Five studies reported isolation, loneliness, and diminished contact with family and friends during the pandemic had a significant negative impact on social well&#x2010;being which precipitated higher levels of stress and anxiety (Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>; Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Fingerman et al., 2020; Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>). Hansen et al. also noted that during the early stages of the pandemic, older adults were not overly concerned despite less contact with others but as COVID&#x2010;19 lingered social well&#x2010;being was compromised.</p>
+        <p>Social engagement, social support, and technology use were important factors in maintaining social well&#x2010;being. Social engagement was enhanced by technology such as the telephone or text messaging (Macdonald &amp; Hulur, 2021; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>), social media (Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>), and the internet (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Fingerman et al.,&#xA0;<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>; Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>) but with mixed impact on social well&#x2010;being. Fingerman et al. evaluated daily social contact among older adults (<italic toggle="yes">n</italic>&#x2010;226) in Austin, Texas and reported physical presence over other forms of communication was associated with higher levels of well&#x2010;being, especially for those who live alone. Kredel &amp; Perry found older adults with close social networks experienced greater loneliness even though social media was used often. In contrast, Macdonald &amp; Hulur and Siette et al. indicated older adults who had frequent telephone contact with social groups were less lonely.</p>
+        <p>Matteucci&#xA0;(<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>) surveyed community and long&#x2010;term care older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;117) in Italy and found those who utilized a variety of technologies for networking were at less risk for isolation. They also reported as age progressed participants were less inclined to learn or use technology for communication, possibly due to illness or lack of computer skills. Bardach et al.&#xA0;(<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>) discovered a similar disinterest in technology use among older adults (<italic toggle="yes">n</italic>&#xA0;=&#xA0;30) in Kentucky as a replacement for human contact and proposed emphasizing &#x201C;emotionally meaningful goals&#x201D; as a way to increase adoption along with offering timely, easy to use applications. Hajek and K&#xF6;nig&#xA0;(<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>) and Chen et al.&#xA0;(<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>) indicated older adults who used the internet to stay in contact with loved ones had greater life satisfaction and well&#x2010;being. Only one study was found that explored actual social support needs for older adults during the pandemic and emphasized providing meal delivery, transportation, social activities, mental health services, medical equipment, and support groups in order to increase well&#x2010;being (Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>).</p>
+        <sec id="jnu12824-sec-0019">
+          <title>Measures of social well&#x2010;being and general health</title>
+          <p>Social well&#x2010;being was evaluated utilizing the Family Apgar (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>); Lubben Social Network Scale&#x2010;Revised (LSNS&#x2010;R)&#xA0;(Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>); Social Support List (SSL1)&#xA0;(Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>); and the Flourishing Scale (FS)&#xA0;(Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Loneliness was commonly evaluated using the UCLA Loneliness Scale (Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>; Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>) with one study using the DeJong Gierveld Scale (Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>).</p>
+          <p>General health and physical well&#x2010;being were predominately assessed through a variety of researcher developed survey's or activities although several studies incorporated the use of standardized instruments. General health was evaluated using the 12&#x2010;Item Short&#x2010;Form Health Survey (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>), the WHO&#x2010;5 Well Being Index (Ejiri et al.,&#xA0;<xref rid="jnu12824-bib-0017" ref-type="bibr">2021</xref>), and the General Health Questionnaire&#x2010;12 (GHQ&#x2010;12)&#xA0;(Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). The International Physical Activity Questionnaire (IPAQ)&#xA0;(Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>), the Functional Activities Questionnaire (FAQ)&#xA0;(Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>), and the Physical Activity Scale for the Elderly (PASE)&#xA0;(Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>) was used to determine physical well&#x2010;being. Overall, numerous standardized instruments were used to evaluate psychological, social, and physical well&#x2010;being with some researchers creating their own measures. This had implications for comparing concepts and outcomes across studies.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12824-sec-0020">
+      <title>DISCUSSION</title>
+      <p>Interest in the well&#x2010;being of older adults during the COVID&#x2010;19 pandemic is a global concern evidenced by the broad perspective of studies from a variety of countries to include Japan, Jordan, Spain, Italy, U.K., Germany, Norway, China, Switzerland, Australia, Turkey, Malaysia, and 47 states in the U.S. Despite the wide range of cultures, health practices, and living arrangements represented there were common themes related to psychological and social well&#x2010;being throughout this review. Overall, most studies indicated the pandemic had a significant negative affect on the psychological well&#x2010;being of older adults with only three studies reporting a positive affect (L&#xF3;pez et al.,&#xA0;<xref rid="jnu12824-bib-0025" ref-type="bibr">2020</xref>; Whitehead,&#xA0;<xref rid="jnu12824-bib-0034" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>). This was attributed to older adults being at higher risk for severe disease, fear of the unknown, loss of friends and family, and restrictions to prevent the spread of the virus. Those with cognitive impairments and dementia also experienced symptoms of depression, stress, and had difficulty coping despite perceptions of reduced awareness (Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Although, Murukesu et al. found that providing supportive services, counseling, and daily exercise were effective measures for promoting psychological well&#x2010;being among older adults, the reality was many of these resources were reduced during the pandemic due to insufficient staffing and funding to include socioeconomic and political barriers. The SST would propose that feelings of satisfaction, a sense of belonging, and purpose are important for emotional well&#x2010;being. When time is limited, such as in old age, then people selectively devote energy to what is most important. The pandemic and subsequent restrictions challenged these goals making it more difficult to meet emotional needs and, for many, resulted in stress, anxiety, and depression.</p>
+      <p>When comparing age groups, older adults had a greater overall sense of well&#x2010;being than younger adults with lower perceived stress and higher positive affect (Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>; Ebert et al.,&#xA0;<xref rid="jnu12824-bib-0016" ref-type="bibr">2020</xref>; Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>). These findings are consistent with SST in that older adults tend to have greater emotional stability than younger cohorts (Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>). Although this appears incongruent with the previous negative findings, it is important to note these studies did not have pre&#x2010;pandemic baseline measures for comparison. Studies of older adults only that evaluated pre&#x2010;post pandemic data reported a decline in psychological well&#x2010;being and an increase in loneliness (Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>; Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>). In this respect, both young and old may have manifested a decline in psychological well&#x2010;being that was not captured with a single snapshot in time.</p>
+      <p>Studies on QOL had mixed results but all indicated the pandemic restrictions had an impact on daily routines and social contacts which resulted in stress (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>). Four researchers reported older adults were highly adaptable with effective coping skills (Carriedo et al.,&#xA0;<xref rid="jnu12824-bib-0005" ref-type="bibr">2020</xref>; Ejiri et al.,&#xA0;<xref rid="jnu12824-bib-0017" ref-type="bibr">2021</xref>; Fuller &amp; Huseth&#x2010;Zosel,&#xA0;<xref rid="jnu12824-bib-0019" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>). Daily walking, hobbies, exercise, religious beliefs, a positive attitude, and seeking emotional support were strategies that enhanced psychological well&#x2010;being. Fuller &amp; Huseth&#x2010;Zosel reported positive coping skills were related to greater emotional regulation among older adults. These findings are supported by the SST which contends that older adults are motivated to find meaning and satisfaction therefore will utilize experience, coping skills, and emotional control to maintain a balanced state even during times of crisis, such as a pandemic (Carstensen,&#xA0;<xref rid="jnu12824-bib-0007" ref-type="bibr">1992</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>).</p>
+      <p>Social support through networking with friends and family is crucial for maintaining and enhancing psychosocial well&#x2010;being. According to SST, older adults favor smaller more intimate relationships as they age and that closeness remains consistent regardless of the frequency of interactions. This premise was partially supported as loneliness was reported as a common problem that significantly impacted both psychological and social well&#x2010;being (Birditt et al.,&#xA0;<xref rid="jnu12824-bib-0004" ref-type="bibr">2021</xref>; Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Fingerman et al., 2020; Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>). For example, loneliness was seen as a direct result of limited contact with social networks and isolation imposed by the pandemic. On the other hand, others reported the use of various technologies&#x2010;enhanced social engagement and social well&#x2010;being (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Fingerman et al.,&#xA0;<xref rid="jnu12824-bib-0018" ref-type="bibr">2021</xref>: Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>; Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>; Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>).</p>
+      <p>SST would propose learning to use technology to connect with loved ones would be an emotionally meaningful goal although those with debilitating diseases, cognitive impairments, or the extremely old adult may be resistant to change no matter the motivation.</p>
+      <sec id="jnu12824-sec-0021">
+        <title>Limitations</title>
+        <p>A review of the research revealed several limitations related to sample size, participant selection, and methodology, which can impact the generalizability of the results. Ten out of 24 studies had a small sample size of older adults (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Bardach et al.,&#xA0;<xref rid="jnu12824-bib-0003" ref-type="bibr">2021</xref>; Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Fuller &amp; Huseth&#x2010;Zosel,&#xA0;<xref rid="jnu12824-bib-0019" ref-type="bibr">2021</xref>; Jiang,&#xA0;<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>; Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>; Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>). Jiang&#xA0;(<xref rid="jnu12824-bib-0023" ref-type="bibr">2020</xref>) had an adequate sample of 251 but only 15% were over 60&#x2009;years. This makes it difficult to determine if the findings were significant or represented the population as a whole. Selection bias was evident in six studies that indicated only participants with access to technology were included therefore excluding those who were less inclined or unable to complete an online survey (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>; Ebert et al.,&#xA0;<xref rid="jnu12824-bib-0016" ref-type="bibr">2020</xref>; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>; Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>; Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>). The majority of studies utilized participants from the general population who either lived alone or with a family member with only three studies evaluating the impact of the pandemic on long&#x2010;term care residents (Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Lopez, 2020; Matteucci,&#xA0;<xref rid="jnu12824-bib-0027" ref-type="bibr">2021</xref>). This gap in the literature could serve as a platform for further research.</p>
+        <p>Other factors that impacted the generalizability of the findings included reports of homogeneity reflected by higher education level and socioeconomic status along with lack of diversity among participants. Four studies also reported a lack of consideration for cultural differences (Abu&#x2010;Kamel &amp; Alnazly,&#xA0;<xref rid="jnu12824-bib-0001" ref-type="bibr">2021</xref>; Hajek &amp; K&#xF6;nig,&#xA0;<xref rid="jnu12824-bib-0021" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>; Whitehead &amp; Torossian,&#xA0;<xref rid="jnu12824-bib-0035" ref-type="bibr">2021</xref>). Considering the review evaluated studies from many different countries with a variety of health practices, cultural norms, availability of services, and government mandates this could impact the overall experience of the older adults in response to the pandemic.</p>
+        <p>All the studies used self&#x2010;report surveys, which are subject to response bias. Participants may over or under&#x2010;report symptoms and during an unexpected event such as a pandemic, emotions may be misinterpreted, underestimated, or exaggerated. This is especially true as some researchers evaluated older adults with cognitive impairments (Chen et al.,&#xA0;<xref rid="jnu12824-bib-0011" ref-type="bibr">2021</xref>; Coin et al.,&#xA0;<xref rid="jnu12824-bib-0012" ref-type="bibr">2021</xref>; Giebel et al.,&#xA0;<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>; Murukesu et al.,&#xA0;<xref rid="jnu12824-bib-0028" ref-type="bibr">2021</xref>) while others surveyed only those who were relatively healthy. There were four studies that utilized baseline pre&#x2010;pandemic data from various national surveys, which allowed for comparison of psychosocial variables collected during the pandemic (Hansen et al.,&#xA0;<xref rid="jnu12824-bib-0022" ref-type="bibr">2021</xref>; Kredel &amp; Perry,&#xA0;<xref rid="jnu12824-bib-0024" ref-type="bibr">2021</xref>: Macdonald &amp; H&#xFC;l&#xFC;r,&#xA0;<xref rid="jnu12824-bib-0026" ref-type="bibr">2021</xref>; Siette et al.,&#xA0;<xref rid="jnu12824-bib-0032" ref-type="bibr">2021</xref>). But, due to the unexpected nature of the pandemic, the majority of the studies were not able to collect baseline data or information on past experiences to determine if the reported responses were different from pre&#x2010;pandemic levels. And finally, the majority of individual studies were limited to a single geographic location but overall 13 countries, to include 47 states in the US, were represented, which provides a global perspective on older adults psychosocial well&#x2010;being during the pandemic.</p>
+      </sec>
+    </sec>
+    <sec id="jnu12824-sec-0022">
+      <title>IMPLICATIONS FOR PRACTICE</title>
+      <p>Older adults need emotional and social connections with loved ones especially if suffering from acute or chronic diseases and during crisis events such as a prolonged pandemic. Health care providers and policymakers can respond to this need through services and actions to support emotional and social well&#x2010;being. Giebel et al.&#xA0;(<xref rid="jnu12824-bib-0020" ref-type="bibr">2021</xref>) suggested more attention should be given to providing amenities to older adults in the form of meal delivery, transportation, social activities, mental health services, medical equipment, and support groups. Other support services should include day care centers, hospice care, paid care aids, technology training, and physical equipment such as handrails, shower seats, walkers, and other assistive devices. Those with special needs due to illness, physical limitations, or cognitive impairments may need additional resources to assist with activities of daily living (ADL's), medication management, housekeeping, and financial support.</p>
+      <p>Patients in long&#x2010;term care facilities could benefit from small social groups, activities, and technology to connect with loved ones. Extended visiting hours and assistance to contact family should be routine, especially for patients with low vision, hearing loss, or other disabilities. Many facilities offer internet services with phone set&#x2010;up and web&#x2010;conferencing technologies to promote connections with the outside world. Training and support services should be available since many older adults may not have skills with computer use and maintenance. Visitation by family members should be encouraged and welcomed by staff along with promoting family&#x2010;oriented gatherings to promote psychosocial well&#x2010;being.</p>
+      <p>Older adults living alone are at risk for loneliness, isolation, and/or injury. Home health agencies, social services, and psychological counseling should be available to identify needs and provide preventive care. The use of telephones, text messaging, social media, and other forms of technology can assist those living alone to stay connected to family and friends. Carstensen et al.&#xA0;(<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>) suggest utilizing positive messaging, monetary or charitable incentives, and activities that are meaningful to promote well&#x2010;being in older adults. In the US many government agencies such as the Administration on Aging (AOA), Administration for Community Living (ACL), National Council on Aging (NCOA), and the National Institute on Aging (NIA) have responded to the call to provide resources for older populations during COVID&#x2010;19. Increased support in the form of financial assistance, food services, transportation, access to physical activities, vaccines, and education are just a few changes implemented in various states (ACL,&#xA0;<xref rid="jnu12824-bib-0002" ref-type="bibr">2022</xref>; NCOA, <xref rid="jnu12824-bib-0029" ref-type="bibr">2020</xref>; NIA,&#xA0;<xref rid="jnu12824-bib-0030" ref-type="bibr">2021</xref>). Despite the plethora of programs, work is still needed to address inequities in these services to meet the needs of marginalized older adults impacted by the pandemic.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12824-sec-0023">
+      <title>CONCLUSIONS</title>
+      <p>The prolonged restrictions and social isolation imposed by the COVID&#x2010;19 pandemic created unintended health consequences for older adults in the form of stress, anxiety, fear, depression, loneliness, and panic bordering on PTSD. These findings were observed among aging populations all over the world. Even those with cognitive impairments were impacted by this threat. Despite disruptions in daily routines, some studies reported older adults employed various coping strategies along with technology use to foster psychosocial well&#x2010;being. The SST framework posits older adults are motivated by emotionally meaningful goals and use experience, coping skills, and emotional control to maintain a balance even during times of crisis (Carstensen et al.,&#xA0;<xref rid="jnu12824-bib-0010" ref-type="bibr">2020</xref>). Healthcare providers and policymakers need to be aware of the negative consequences triggered by the pandemic and take measures to provide services that support the psychosocial well&#x2010;being of older adults. In addition, more research is needed to explore the long&#x2010;term psychological, social, and physical effects of the pandemic on our aging communities.</p>
+      <sec id="jnu12824-sec-0024">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<list list-type="bullet" id="jnu12824-list-0025"><list-item id="jnu12824-li-0083"><p>Administration for Community Living (March 16, 2022). Resources for Everyone: COVID&#x2010;19 Response. Retrieved from <ext-link xlink:href="https://acl.gov/covid19/resources-everyone" ext-link-type="uri">https://acl.gov/covid19/resources&#x2010;everyone</ext-link>.</p></list-item><list-item id="jnu12824-li-0084"><p>Administration on Aging and Administration for Community Living (<xref rid="jnu12824-bib-0002" ref-type="bibr">2022</xref>). Eldercare Locator: Resources for COVID&#x2010;19. Retrieved from <ext-link xlink:href="https://eldercare.acl.gov/Public/Resources/covid_19.aspx" ext-link-type="uri">https://eldercare.acl.gov/Public/Resources/covid_19.aspx</ext-link>.</p></list-item><list-item id="jnu12824-li-0085"><p>Agency for Healthcare Research and Quality (AHRQ; March 2022). COVID&#x2010;19 Resources at <ext-link xlink:href="https://www.ahrq.gov/coronavirus/index.html" ext-link-type="uri">https://www.ahrq.gov/coronavirus/index.html</ext-link>.</p></list-item><list-item id="jnu12824-li-0086"><p>Centers for Disease Control and Prevention (August 4, 2021) COVID&#x2010;19 Recommendations for Older Adults. Retrieved from <ext-link xlink:href="https://www.cdc.gov/aging/covid19-guidance.html" ext-link-type="uri">https://www.cdc.gov/aging/covid19&#x2010;guidance.html</ext-link>.</p></list-item><list-item id="jnu12824-li-0087"><p>National Council on Aging (NCOA; May 18, 2020). Key Resources about COVID&#x2010;19 for Older Adults. Retrieved from <ext-link xlink:href="https://www.ncoa.org/article/key-resources-about-covid-19-for-older-adults" ext-link-type="uri">https://www.ncoa.org/article/key&#x2010;resources&#x2010;about&#x2010;covid&#x2010;19&#x2010;for&#x2010;older&#x2010;adults</ext-link>.</p></list-item><list-item id="jnu12824-li-0088"><p>National Institute on Aging (NIA; March 12, 2021). Government COVID&#x2010;19 resources for older adults. Retrieved from <ext-link xlink:href="https://www.nia.nih.gov/health/government-covid-19-resources-older-adults" ext-link-type="uri">https://www.nia.nih.gov/health/government&#x2010;covid&#x2010;19&#x2010;resources&#x2010;older&#x2010;adults</ext-link>.</p></list-item><list-item id="jnu12824-li-0089"><p>National League of Cities (2021) COVID&#x2010;19 Older Adult Response Initiative. Retrieved from <ext-link xlink:href="https://covid19.nlc.org/resources/covid-19-older-adult-response-initiative/" ext-link-type="uri">https://covid19.nlc.org/resources/covid&#x2010;19&#x2010;older&#x2010;adult&#x2010;response&#x2010;initiative/</ext-link>.</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12824-sec-0025">
+      <title>CONFLICT OF INTEREST</title>
+      <p>There is no conflict of interest associated with this paper.</p>
+    </sec>
+    <sec id="jnu12824-sec-0026">
+      <title>SIGMA CHAPTER</title>
+      <p>Member Pi&#x2010;at Large Chapter (University of Maryland).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list content-type="cited-references" id="jnu12824-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12824-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0001">
+<string-name>
+<surname>Abu&#x2010;Kamel</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Alnazly</surname>, <given-names>E. K.</given-names>
+</string-name> (<year>2021</year>). <article-title>The impact of confinement on older Jordanian adults' mental distress during the COVID&#x2010;19 pandemic: A web&#x2010;based cross&#x2010;sectional study</article-title>. <source>Perspectives in Psychiatric Care</source>, <volume>2022</volume>(<issue>58</issue>), <fpage>17</fpage>&#x2013;<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1111/ppc.12798</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0002">
+        <mixed-citation publication-type="miscellaneous" id="jnu12824-cit-0002">
+<collab collab-type="authors">Administration for Community Living</collab>
+. (March 16, <year>2022</year>). <article-title>
+Resources for everyone: COVID&#x2010;19 response
+</article-title>. <ext-link xlink:href="https://acl.gov/covid19/resources-everyone" ext-link-type="uri">https://acl.gov/covid19/resources&#x2010;everyone</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0003">
+<string-name>
+<surname>Bardach</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Rhodus</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gibson</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2021</year>). <article-title>Older adults' adaptations to the call for social distancing and use of technology: Insights from socioemotional selectivity theory and lived experiences</article-title>. <source>Journal of Applied Gerontology</source>, <volume>40</volume>(<issue>8</issue>), <fpage>814</fpage>&#x2013;<lpage>817</lpage>. <pub-id pub-id-type="doi">10.1177/0733464821996864</pub-id>
+<pub-id pub-id-type="pmid">33648357</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0004">
+<string-name>
+<surname>Birditt</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Turkelson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fingerman</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Polenick</surname>, <given-names>C. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Oya</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Age differences in stress, life changes, and social ties during the COVID&#x2010;19 pandemic: Implications for psychological well&#x2010;being</article-title>. <source>The Gerontologist</source>, <volume>61</volume>(<issue>2</issue>), <fpage>205</fpage>&#x2013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnaa204</pub-id>
+<pub-id pub-id-type="pmid">33346806</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0005">
+<string-name>
+<surname>Carriedo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cecchini</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x2010;Rio</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>M&#xE9;ndez&#x2010;Gim&#xE9;nez</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19, psychological well&#x2010;being and physical activity levels in older adults during the nationwide lockdown in Spain</article-title>. <source>The American Journal of Geriatric Psychiatry</source>, <volume>28</volume>(<issue>11</issue>), <fpage>1146</fpage>&#x2013;<lpage>1154</lpage>. <pub-id pub-id-type="doi">10.1016/j.jagp.2020.08.07</pub-id>
+<pub-id pub-id-type="pmid">32919872</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0006">
+        <mixed-citation publication-type="book" id="jnu12824-cit-0006">
+<string-name>
+<surname>Carstensen</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>1987</year>). <part-title>Age&#x2010;related changes in social activity</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>L. L.</given-names>
+<surname>Carstensen</surname>
+</string-name>
+</person-group> &amp; <person-group person-group-type="editor">
+<string-name>
+<given-names>B. A.</given-names>
+<surname>Edelstein</surname>
+</string-name>
+</person-group> (Eds.), <source>Handbook of clinical gerontology</source> (pp. <fpage>222</fpage>&#x2013;<lpage>237</lpage>). <publisher-name>Pergamon Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0007">
+<string-name>
+<surname>Carstensen</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>1992</year>). <article-title>Social and emotional patterns in adulthood: Support for socioemotional selectivity theory</article-title>. <source>Psychology and Aging</source>, <volume>7</volume>(<issue>3</issue>), <fpage>331</fpage>&#x2013;<lpage>338</lpage>.<pub-id pub-id-type="pmid">1388852</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0008">
+<string-name>
+<surname>Carstensen</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Socioemotional selectivity theory: The role of perceived endings in human motivation</article-title>. <source>The Gerontologist</source>, <volume>61</volume>(<issue>8</issue>), <fpage>1188</fpage>&#x2013;<lpage>1196</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnab116</pub-id>
+<pub-id pub-id-type="pmid">34718558</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0009">
+<string-name>
+<surname>Carstensen</surname>, <given-names>L. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hershfield</surname>, <given-names>H. E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Beyond stereotypes: Using socioemotional selectivity theory to improve messaging to older adults</article-title>. <source>Current Directions in Psychological Science</source>, <volume>30</volume>(<issue>4</issue>), <fpage>327</fpage>&#x2013;<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1177/0733464821996864</pub-id>
+<pub-id pub-id-type="pmid">34366582</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0010">
+<string-name>
+<surname>Carstensen</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Shavit</surname>, <given-names>Y. Z.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Barnes</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2020</year>). <article-title>Age advantages in emotional experience persist even under threat from the COVID&#x2010;19 pandemic</article-title>. <source>Psychological Science</source>, <volume>31</volume>(<issue>11</issue>), <fpage>1374</fpage>&#x2013;<lpage>1385</lpage>. <pub-id pub-id-type="doi">10.1177/0956797620967261</pub-id>
+<pub-id pub-id-type="pmid">33104409</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0011">
+<string-name>
+<surname>Chen</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Demiris</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zaslavsky</surname>, <given-names>O.</given-names>
+</string-name> (<year>2021</year>). <article-title>Reactions to COVID&#x2010;19, information and technology use, and social connectedness among older adults with pre&#x2010;frailty and frailty</article-title>. <source>Geriatric Nursing</source>, <volume>42</volume>(<issue>1</issue>), <fpage>188</fpage>&#x2013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1016/j.gerinurse.2020.08.001</pub-id>
+<pub-id pub-id-type="pmid">32863038</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0012">
+<string-name>
+<surname>Coin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Devita</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Trevisan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Biasin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Terziotti</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Del Signore</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fumagalli</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gareri</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Malara</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mossello</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Volpato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Monzani</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bellelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zia</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ranhoff</surname>, <given-names>A. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Incalzi</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Psychological well&#x2010;being of older adults with cognitive deterioration during quarantine: Preliminary results from the GeroCovid Initiative</article-title>. <source>Frontiers in Medicine</source>, <volume>8</volume>(<issue>715294</issue>), <fpage>1</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.3389/fmed.2021.715294</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0013">
+<string-name>
+<surname>Cucinotta</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Vanelli</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>WHO declares COVID&#x2010;19 a pandemic</article-title>. <source>Acta Bio Medica: Atenei Parmensis</source>, <volume>91</volume>(<issue>1</issue>), <fpage>157</fpage>. <pub-id pub-id-type="doi">10.23750/abm.v9lil.9397</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0014">
+        <mixed-citation publication-type="miscellaneous" id="jnu12824-cit-0014">
+<string-name>
+<surname>Davis</surname>, <given-names>T.</given-names>
+</string-name> (<year>2019</year>, January 2). <article-title>
+What is well&#x2010;being? definitions, types, and well&#x2010;being skills
+</article-title>. Psychology Today. <ext-link xlink:href="https://www.psychologytoday.com/us/blog/click-here-happiness/201901/what-is-well-being-definition-types-and-well-being-skills" ext-link-type="uri">https://www.psychologytoday.com/us/blog/click&#x2010;here&#x2010;happiness/201901/what&#x2010;is&#x2010;well&#x2010;being&#x2010;definition&#x2010;types&#x2010;and&#x2010;well&#x2010;being&#x2010;skills</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0015">
+<string-name>
+<surname>Diener</surname>, <given-names>E.</given-names>
+</string-name> (<year>2000</year>). <article-title>Subjective well&#x2010;being: The science of happiness and a proposal for a national index</article-title>. <source>American Psychologist</source>, <volume>55</volume>(<issue>1</issue>), <fpage>34</fpage>&#x2013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">11392863</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0016">
+<string-name>
+<surname>Ebert</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Carney</surname>, <given-names>A. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Patrick</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Emotional well&#x2010;being during the first four months of COVID&#x2010;19 in the United States</article-title>. <source>Journal of Adult Development</source>, <volume>27</volume>(<issue>4</issue>), <fpage>241</fpage>&#x2013;<lpage>248</lpage>. <pub-id pub-id-type="doi">10.1007/s10804-020-09365-x</pub-id>
+<pub-id pub-id-type="pmid">33132677</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0017">
+<string-name>
+<surname>Ejiri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kawai</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kera</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ihara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fujiwara</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hirano</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Obuchi</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Exercise as a coping strategy and its impact on the psychological well&#x2010;being of Japanese community&#x2010;dwelling older adults during the COVID&#x2010;19 pandemic: A longitudinal study</article-title>. <source>Psychology of Sport and Exercise</source>, <volume>57</volume>, <elocation-id>102054</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.psychsport.2021.102054</pub-id>
+<pub-id pub-id-type="pmid">34512181</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0018">
+<string-name>
+<surname>Fingerman</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>Y. T.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Britt</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Colera</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Birditt</surname>, <given-names>K. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Charles</surname>, <given-names>S. T.</given-names>
+</string-name> (<year>2021</year>). <article-title>Living alone during COVID&#x2010;19: Social contact and emotional well&#x2010;being among older adults</article-title>. <source>The Journals of Gerontology: Series B</source>, <volume>76</volume>(<issue>3</issue>), <fpage>e116</fpage>&#x2013;<lpage>e121</lpage>. <pub-id pub-id-type="doi">10.1093/geronb/gbaa200</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0019">
+<string-name>
+<surname>Fuller</surname>, <given-names>H. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Huseth&#x2010;Zosel</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Lessons in resilience: Initial coping among older adults during the COVID&#x2010;19 pandemic</article-title>. <source>The Gerontologist</source>, <volume>61</volume>(<issue>1</issue>), <fpage>114</fpage>&#x2013;<lpage>125</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnaa170</pub-id>
+<pub-id pub-id-type="pmid">33136144</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0020">
+<string-name>
+<surname>Giebel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pulford</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lord</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shenton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cannon</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tetlow</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Limbert</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Callaghan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Whittington</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Komuravelli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rajagopal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Eley</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Downs</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reilly</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gaughan</surname>, <given-names>A.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Gabbay</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19&#x2010;related social support service closures and mental well&#x2010;being in older adults and those affected by dementia: A UK longitudinal survey</article-title>. <source>BMJ Open</source>, <volume>11</volume>(<issue>1</issue>), <elocation-id>e045889</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-045889</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0021">
+<string-name>
+<surname>Hajek</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>K&#xF6;nig</surname>, <given-names>H. H.</given-names>
+</string-name> (<year>2021</year>). <article-title>Frequency of contact with friends and relatives via internet and psychosocial factors in middle&#x2010;aged and older adults during the COVID&#x2010;19 pandemic. Findings from the German Ageing Survey</article-title>. <source>International Journal of Geriatric Psychiatry</source>, <volume>2021</volume>, <fpage>1</fpage>&#x2013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1002/gps.5623</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0022">
+<string-name>
+<surname>Hansen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sevenius Nilsen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Knapstad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Skirbekk</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Skogen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vedaa</surname>, <given-names>&#xD8;.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nes</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;fatigued? A longitudinal study of Norwegian older adults' psychosocial well&#x2010;being before and during early and later stages of the COVID&#x2010;19 pandemic</article-title>. <source>European Journal of Ageing</source>, <volume>19</volume>, <fpage>463</fpage>&#x2013;<lpage>473</lpage>. <pub-id pub-id-type="doi">10.1007/s10433-021-00648-0</pub-id>
+<pub-id pub-id-type="pmid">34456661</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0023">
+<string-name>
+<surname>Jiang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>). <article-title>Perceived stress and daily well&#x2010;being during the COVID&#x2010;19 outbreak: The moderating role of age</article-title>. <source>Frontiers in Psychology</source>, <volume>11</volume>, <fpage>571873</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2020.571873</pub-id>
+<pub-id pub-id-type="pmid">33281675</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0024">
+<string-name>
+<surname>Kredel</surname>, <given-names>A. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Perry</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>The impact of sheltering in place during the COVID&#x2010;19 pandemic on older adults' social and mental well&#x2010;being</article-title>. <source>The Journals of Gerontology: Series B</source>, <volume>76</volume>(<issue>2</issue>), <fpage>e53</fpage>&#x2013;<lpage>e58</lpage>. <pub-id pub-id-type="doi">10.1093/geronb/gbaa110</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0025">
+<string-name>
+<surname>L&#xF3;pez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Perez&#x2010;Rojo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Noriega</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carretero</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Velasco</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x2010;Huertas</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>L&#xF3;pez&#x2010;Frutos</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Galarraga</surname>, <given-names>L.</given-names>
+</string-name> (<year>2020</year>). <article-title>Psychological well&#x2010;being among older adults during the COVID&#x2010;19 outbreak: A comparative study of the young&#x2013;old and the old&#x2013;old adults</article-title>. <source>International Psychogeriatrics</source>, <volume>32</volume>(<issue>11</issue>), <fpage>1365</fpage>&#x2013;<lpage>1370</lpage>. <pub-id pub-id-type="doi">10.1017/S1041610220000964</pub-id>
+<pub-id pub-id-type="pmid">32438934</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0026">
+<string-name>
+<surname>Macdonald</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>H&#xFC;l&#xFC;r</surname>, <given-names>G.</given-names>
+</string-name> (<year>2021</year>). <article-title>Well&#x2010;being and loneliness in Swiss older adults during the COVID&#x2010;19 pandemic: The role of social relationships</article-title>. <source>The Gerontologist</source>, <volume>61</volume>(<issue>2</issue>), <fpage>240</fpage>&#x2013;<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnaa194</pub-id>
+<pub-id pub-id-type="pmid">33258898</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0027">
+<string-name>
+<surname>Matteucci</surname>, <given-names>I.</given-names>
+</string-name> (<year>2021</year>). <article-title>Sport, physical activity and social health in older adults: Caring with technology in the COVID&#x2010;19 pandemic</article-title>. <source>International Review for the Sociology of Sport</source>, <volume>57</volume>(<issue>6</issue>), <fpage>960</fpage>&#x2013;<lpage>979</lpage>. <pub-id pub-id-type="doi">10.1177/10126902211045675</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0028">
+<string-name>
+<surname>Murukesu</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>D. K. A.</given-names>
+</string-name>, <string-name>
+<surname>Shahar</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Subramaniam</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Physical activity patterns, psychosocial well&#x2010;being and coping strategies among older persons with cognitive frailty of the &#x201C;WE&#x2010;RISE&#x201D; trial throughout the COVID&#x2010;19 movement control order</article-title>. <source>Clinical Interventions in Aging</source>, <volume>16</volume>, <fpage>415</fpage>&#x2013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">33692620</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0029">
+        <mixed-citation publication-type="miscellaneous" id="jnu12824-cit-0029">
+<collab collab-type="authors">National Council on Aging (NCOA)</collab>
+. (May 18, <year>2020</year>). <article-title>Key resources about COVID&#x2010;19 for older adults</article-title>. <ext-link xlink:href="https://www.ncoa.org/article/key-resources-about-covid-19-for-older-adults" ext-link-type="uri">https://www.ncoa.org/article/key&#x2010;resources&#x2010;about&#x2010;covid&#x2010;19&#x2010;for&#x2010;older&#x2010;adults</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0030">
+        <mixed-citation publication-type="miscellaneous" id="jnu12824-cit-0030">
+<collab collab-type="authors">National Institute on Aging (NIA)</collab>
+. (March 12, <year>2021</year>). <article-title>Government COVID&#x2010;19 resources for older adults</article-title>. <ext-link xlink:href="https://www.nia.nih.gov/health/government-covid-19-resources-older-adults" ext-link-type="uri">https://www.nia.nih.gov/health/government&#x2010;covid&#x2010;19&#x2010;resources&#x2010;older&#x2010;adults</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0031">
+<string-name>
+<surname>Patrick</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>, <given-names>L. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Moore</surname>, <given-names>H. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Examining the longitudinal influences of age and sources of religious doubt on wellbeing</article-title>. <source>Journal of Religion, Spirituality &amp; Aging</source>, <volume>33</volume>, <fpage>1</fpage>&#x2013;<lpage>16</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0032">
+<string-name>
+<surname>Siette</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dodds</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Seaman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wuthrich</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Johnco</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Earl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dawes</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Westbrook</surname>, <given-names>J. I.</given-names>
+</string-name> (<year>2021</year>). <article-title>The impact of COVID&#x2010;19 on the quality of life of older adults receiving community&#x2010;based aged care</article-title>. <source>Australasian Journal on Ageing</source>, <volume>40</volume>(<issue>1</issue>), <fpage>84</fpage>&#x2013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1111/ajag.12924</pub-id>
+<pub-id pub-id-type="pmid">33682315</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0033">
+<string-name>
+<surname>Sirin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ahmadi</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Ketrez</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ozbeyaz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dikmen</surname>, <given-names>A. U.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ozkan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Assessment of anxiety in elderly population during the COVID&#x2010;19 pandemic and the impact of compulsory home&#x2010;stay in the central districts of Ankara, Turkey: A quantitative, qualitative mixed method study</article-title>. <source>International Journal of Geriatric Psychiatry</source>, <volume>36</volume>(<issue>11</issue>), <fpage>1785</fpage>&#x2013;<lpage>1794</lpage>. <pub-id pub-id-type="doi">10.1002/gps.5600</pub-id>
+<pub-id pub-id-type="pmid">34231924</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0034">
+<string-name>
+<surname>Whitehead</surname>, <given-names>B. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>COVID&#x2010;19 as a stressor: Pandemic expectations, perceived stress, and negative affect in older adults</article-title>. <source>The Journals of Gerontology: Series B</source>, <volume>76</volume>(<issue>2</issue>), <fpage>e59</fpage>&#x2013;<lpage>e64</lpage>. <pub-id pub-id-type="doi">10.1093/geronb/gbaa153</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12824-cit-0035">
+<string-name>
+<surname>Whitehead</surname>, <given-names>B. R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Torossian</surname>, <given-names>E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Older adults' experience of the COVID&#x2010;19 pandemic: A mixed&#x2010;methods analysis of stresses and joys</article-title>. <source>The Gerontologist</source>, <volume>61</volume>(<issue>1</issue>), <fpage>36</fpage>&#x2013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1093/geront/gnaa126</pub-id>
+<pub-id pub-id-type="pmid">32886764</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12824-bib-0036">
+        <mixed-citation publication-type="miscellaneous" id="jnu12824-cit-0036">
+<collab collab-type="authors">World Health Organization (WHO)</collab>
+. (<year>2020</year>, June 29). <article-title>
+WHO Timeline &#x2010; COVID&#x2010;19
+</article-title>. World Health Organization. <ext-link xlink:href="https://www.who.int/news/item/27-04-2020-who-timeline---covid-19" ext-link-type="uri">https://www.who.int/news/item/27&#x2010;04&#x2010;2020&#x2010;who&#x2010;timeline&#x2010;&#x2010;&#x2010;covid&#x2010;19</ext-link>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12814" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36165577</article-id>
+      <article-id pub-id-type="pmc">9537958</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12814</article-id>
+      <article-id pub-id-type="publisher-id">JNU12814</article-id>
+      <article-id pub-id-type="other">JNU-06-22-484</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Experiences with the implementation of remote monitoring in patients with <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A qualitative study with patients and healthcare professionals</article-title>
+        <alt-title alt-title-type="right-running-head">Remote monitoring in <styled-content style="fixed-case" toggle="no">COVID</styled-content> patients</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12814-cr-0001" contrib-type="author">
+          <name>
+            <surname>Van Grootven</surname>
+            <given-names>Bastiaan</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3182-573X</contrib-id>
+          <xref rid="jnu12814-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0002" contrib-type="author">
+          <name>
+            <surname>Irusta</surname>
+            <given-names>Lucia Alvarez</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="jnu12814-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0003" contrib-type="author">
+          <name>
+            <surname>Christiaens</surname>
+            <given-names>Wendy</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0004" contrib-type="author">
+          <name>
+            <surname>Mistiaen</surname>
+            <given-names>Patriek</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0005" contrib-type="author">
+          <name>
+            <surname>De Meester</surname>
+            <given-names>Christophe</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0006" contrib-type="author">
+          <name>
+            <surname>Cornelis</surname>
+            <given-names>Justien</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0007" contrib-type="author">
+          <name>
+            <surname>Dierckx de Casterl&#xE9;</surname>
+            <given-names>Bernadette</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0008" contrib-type="author">
+          <name>
+            <surname>Van Durme</surname>
+            <given-names>Th&#xE9;r&#xE8;se</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12814-cr-0009" contrib-type="author" corresp="yes">
+          <name>
+            <surname>van Achterberg</surname>
+            <given-names>Theo</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12814-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>theo.vanachterberg@kuleuven.be</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12814-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health and Primary Care</named-content>
+<institution>KU Leuven</institution>
+<city>Leuven</city>
+<country country="BE">Belgium</country>
+</aff>
+      <aff id="jnu12814-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Public Health, Institute of Health and Society</named-content>
+<institution>Catholic University of Louvain</institution>
+<city>Brussels</city>
+<country country="BE">Belgium</country>
+</aff>
+      <aff id="jnu12814-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Belgian Health Care Knowledge Centre</institution>
+<city>Brussels</city>
+<country country="BE">Belgium</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Theo van Achterberg, Department of Public Health and Primary Care, Kapucijnenvoer 35 block d &#x2013; PO Box 7001, KU Leuven, Leuven, Belgium.<break/>
+Email: <email>theo.vanachterberg@kuleuven.be</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>27</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <elocation-id>10.1111/jnu.12814</elocation-id>
+      <history>
+<date date-type="received"><day>18</day><month>7</month><year>2022</year></date>
+<date date-type="accepted"><day>26</day><month>8</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2022 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-9999-0.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12814-sec-0001">
+          <title>Introduction</title>
+          <p>This study investigated how patients with COVID&#x2010;19, telemonitoring (TM) teams, general practitioners (GPs) and primary care nurses in Belgium experienced remote patient monitoring (RPM) in 12 healthcare organizations, in relation to the patients' illness, health, and care needs, perceived quality of care, patient and health system outcomes, and implementation challenges.</p>
+        </sec>
+        <sec id="jnu12814-sec-0002">
+          <title>Design</title>
+          <p>A qualitative research approach was adopted, including focus group discussions and semi&#x2010;structured interviews.</p>
+        </sec>
+        <sec id="jnu12814-sec-0003">
+          <title>Methods</title>
+          <p>Four different groups of participants were interviewed, that is, patients (<italic toggle="no">n</italic>&#xA0;=&#x2009;17), TM teams (<italic toggle="no">n</italic>&#xA0;=&#x2009;27), GPs (<italic toggle="no">n</italic>&#xA0;=&#x2009;16), and primary care nurses (<italic toggle="no">n</italic>&#xA0;=&#x2009;12). An interview guide was drafted based on a literature review. Interviews were transcribed verbatim, and NVivo was used for managing and analyzing the data. The QUAGOL method was used to guide the data analysis process and was adapted for the purpose of a thematic content analysis.</p>
+        </sec>
+        <sec id="jnu12814-sec-0004">
+          <title>Results</title>
+          <p>All participants agreed that RPM&#x2010;reassured patients. The overall perceived value of RPM for individual patients depended on how well the intervention matched with their needs. Patients who did not have the necessary language (Dutch/French speaking) and digital skills, who did not have the right equipment (smartphone or tablet), or who missed the necessary infrastructure (no internet coverage in their region) were often excluded. Remote patient monitoring also reassured healthcare professionals as it gave them information on a disease they had little knowledge about. Professionals involved in RPM experienced a high workload. All TM teams agreed that quality of data was a key factor to ensure an adequate follow&#x2010;up, but they differed in what they found important. The logistic management of RPM was a challenge because of the contagious character of COVID&#x2010;19, and the need for an effective information flow between the hospital team and primary care providers. Participants missed clarification about who was accountable for the care for patients in the projects. Primary care nurses and GPs missed access to RPM data. All agreed that the funding they received was not sufficient to cover all the costs associated with RPM.</p>
+        </sec>
+        <sec id="jnu12814-sec-0005">
+          <title>Conclusion</title>
+          <p>Healthcare professionals and patients perceive RPM as valuable and believe that the concept will have its place in the Belgium health system. However, current RPM practice is challenged by many barriers, and the sustainability of RPM implementation is low.</p>
+        </sec>
+        <sec id="jnu12814-sec-0006">
+          <title>Clinical relevance</title>
+          <p>Remote patient monitoring (RPM) was perceived as a valuable intervention for patients with COVID&#x2010;19, but there were important concerns about unequal access to care. While the technology for RPM is available, the sustainability of implementation is low because of concerns with data quality, challenging logistics within projects, lack of data integration and communication, and a lack of an overarching guiding framework.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12814-kwd-0001">COVID&#x2010;19</kwd>
+        <kwd id="jnu12814-kwd-0002">e&#x2010;health</kwd>
+        <kwd id="jnu12814-kwd-0003">focus group</kwd>
+        <kwd id="jnu12814-kwd-0004">implementation</kwd>
+        <kwd id="jnu12814-kwd-0005">interview</kwd>
+        <kwd id="jnu12814-kwd-0006">remote patient monitoring</kwd>
+        <kwd id="jnu12814-kwd-0007">telemonitoring</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>
+            <institution-wrap>
+              <institution>Belgian Health Care Knowledge Centre
+</institution>
+              <institution-id institution-id-type="doi">10.13039/501100019353</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id>2021&#x2010;50</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="4"/>
+        <page-count count="12"/>
+        <word-count count="8963"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>edited-state</meta-name>
+          <meta-value>corrected-proof</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12814-cit-2001">
+<string-name>
+<surname>Van Grootven</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Irusta</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Christiaens</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mistiaen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>De Meester</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cornelis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dierckx de Casterl&#xE9;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Van Durme</surname>, <given-names>T.</given-names>
+</string-name> &amp; <string-name>
+<surname>van Achterberg</surname>, <given-names>T.</given-names>
+</string-name> (<year>2022</year>). <article-title>Experiences with the implementation of remote monitoring in patients with <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19: A qualitative study with patients and healthcare professionals</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>00</volume>, <fpage>1</fpage>&#x2013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12814</pub-id>
+</mixed-citation>
+</p>
+      <fn-group id="jnu12814-ntgp-0001">
+        <fn id="jnu12814-note-0001">
+          <p>Bastiaan Van Grootven and Lucia Alvarez Irusta shared co&#x2010;first authorship and contributed equally to this study.</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body id="jnu12814-body-0001">
+    <sec id="jnu12814-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>The COVID&#x2010;19 pandemic created unseen challenges for health systems. Both patients and healthcare professionals faced an unknown disease. Demands for acute care exceeded the capacity of many hospitals and primary care practices. This fuelled the investment in remote patient monitoring (RPM) to reduce the burden on healthcare and reach patients in times of contact restrictions.</p>
+      <p>The impact of RPM has been studied in different chronic care populations. A systematic review with 91 studies observed a reduction in hospital admissions or length of stay, but the authors concluded there was uncertainty about how large the effect was, and what RPM interventions were most effective in different populations (Taylor et al.,&#xA0;<xref rid="jnu12814-bib-0013" ref-type="bibr">2021</xref>). On average, patients have a positive experience with RPM, for example, increasing their disease knowledge, or improving self&#x2010;management and facilitating shared decision&#x2010;making (Walker et al.,&#xA0;<xref rid="jnu12814-bib-0016" ref-type="bibr">2019</xref>). However, patients unfamiliar with the technology may have negative perceptions that can inhibit their participation in RPM (Walker et al.,&#xA0;<xref rid="jnu12814-bib-0016" ref-type="bibr">2019</xref>).</p>
+      <p>A rapid review in 2021 identified 27 studies describing RPM in patients with COVID&#x2010;19. These projects enabled early identification of deterioration in patients (Vindrola&#x2010;Padros et al.,&#xA0;<xref rid="jnu12814-bib-0015" ref-type="bibr">2021</xref>). The majority of interventions focussed on preventing hospitalization, while some aimed to reduce the hospital length of stay. The authors were unable to formulate a conclusion about the impact on outcomes. A second rapid review evaluated experiences and barriers for implementing RPM in patients with COVID&#x2010;19 (Houlding et al.,&#xA0;<xref rid="jnu12814-bib-0010" ref-type="bibr">2021</xref>). The main experiences related to a reduced burden of care, reduced risk for infection, supporting vulnerable populations, reduced costs, and improved patient experiences. The major barriers related to equity, a lack of remote monitoring technology implementation guidelines and research, resources required for technology development and implementation, challenging patient experiences with remote monitoring technologies, and confidentiality&#x2010;related issues.</p>
+      <sec id="jnu12814-sec-0008">
+        <title>Implementation of <styled-content style="fixed-case" toggle="no">RPM</styled-content> in Belgium</title>
+        <p>In Belgium, the National Institute for Health and Disability Insurance (NIHDI) supported a pilot implementation project for RPM of patients with COVID&#x2010;19, for which 12 healthcare organizations were selected in 2021. The NIHDI aimed (1) to reduce the strain on hospital resources by (a) avoiding hospitalization for patients with mild COVID&#x2010;19 symptoms (pre&#x2010;hospital RPM), and by (b) discharging partially recovered hospitalized patients earlier to their home, while their medical condition was closely monitored by means of RPM (post&#x2010;hospital RPM), and (2) to reduce the workload of general practitioners (GPs) by referring patients to a telemonitoring team (TM). Funding was provided for recruiting patients, installing telemetry devices, and a lump sum for the follow&#x2010;up of the patients per week.</p>
+        <p>Nine projects were started in Flanders (Dutch language area), and three in Wallonia (French language area) in the period 2020&#x2013;2021 (the second and third wave in Belgium). In all but one, the coordinating center was a hospital. To be included in a project, patients had to comply with clinical criteria such as presenting with symptoms of COVID&#x2010;19 and having risk factors for deterioration. The sample of patients included in the projects varied from 2 to 264 persons, with a median of 57. One project had a systematic collaboration with GPs for the follow&#x2010;up, and four projects collaborated with primary care nurses. Characteristics of the NIHDI projects are shown in Table&#xA0;<xref rid="jnu12814-tbl-0001" ref-type="table">1</xref>. Further details are reported in the research report of the Belgian Health Care Knowledge Centre (Cornelis et al.,&#xA0;<xref rid="jnu12814-bib-0006" ref-type="bibr">2022</xref>).</p>
+        <table-wrap position="float" id="jnu12814-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Background information on RPM projects</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="char" char="." span="1"/>
+            <col align="char" char="." span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Project</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Region</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Coordination of RPM<xref rid="jnu12814-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+                <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Sample size</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Role of primary care</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Pre&#x2010;hospital</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Post&#x2010;hospital</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">38</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Primary care nurses installed RPM system</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">219</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">45</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Primary care nurses installed RPM system</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">4</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">51</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">36</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">28</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Primary care</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">15</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">55</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Installation of RPM system and follow&#x2010;up by primary care nurses; Recruitment by GPs</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">9</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Flanders</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">97</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Wallonia</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Wallonia</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">28</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Installation of RPM system and follow&#x2010;up by primary care nurses</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Wallonia</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">No systematic collaboration</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12814-ntgp-0002">
+            <fn id="jnu12814-note-0002">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Coordination refers to the center primarily responsible for the follow&#x2010;up of patients in the PRM projects.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12814-sec-0009">
+        <title>Aim of the study</title>
+        <p>This study investigated the experiences of patients, TM teams, GPs, and primary care nurses involved in the implementation of RPM in the 12 NIHDI projects in Belgium. The research question was: How do patients with COVID&#x2010;19, TM teams, GPs, and primary care nurses experience RPM in relation to the patients' illness, health, and care needs, perceived quality of care, patient, and health system outcomes, and implementation challenges?</p>
+      </sec>
+    </sec>
+    <sec id="jnu12814-sec-0010">
+      <title>DESIGN</title>
+      <p>A qualitative research approach was adopted. We used a pragmatic orientation, that is, &#x201C;seeking practical and useful insights to inform action, focussing on a practical understanding of concrete, real&#x2010;world issues&#x201D; (Patton,&#xA0;<xref rid="jnu12814-bib-0011" ref-type="bibr">2011</xref>). An emergent design was used to adapt the qualitative inquiry (e.g., improve the interview guide) as new insights emerge, with the aim of improving the quality and efficiency of the evaluation. This study was part of a larger project, and the results reported in this manuscript are a selection of the most important themes. The complete results can be consulted in the research report (Cornelis et al.,&#xA0;<xref rid="jnu12814-bib-0006" ref-type="bibr">2022</xref>).</p>
+    </sec>
+    <sec sec-type="materials-and-methods" id="jnu12814-sec-0011">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="jnu12814-sec-0012">
+        <title>Eligibility criteria</title>
+        <p>Four different groups of participants were interviewed, that is, patients, TM teams, GPs, and primary care nurses. Patients were eligible for an interview if they were included in one of the 12 NIHDI RPM projects. Members of the TM team were eligible if they were involved in the day&#x2010;to&#x2010;day workings of the team, the follow&#x2010;up of the patients, or responsible for project coordination or project support (e.g., ICT). General practitioners were eligible if they had recruited a patient or seen a patient in follow&#x2010;up in an RPM project. Practitioners who implemented their own RPM project, or participated in RPM projects external to the NIHDI projects were also eligible because our initial sample of GPs was too small. Primary care nurses were eligible if they participated in the follow&#x2010;up of at least one patient in an RPM project.</p>
+      </sec>
+      <sec id="jnu12814-sec-0013">
+        <title>Recruitment</title>
+        <p>Eleven out of 12 RPM projects participated in the recruitment of patients. Patients were sent an email by the project coordinators with a request to complete background information on gender, age, level of education, duration of RPM, hospital admission or readmission, admission to intensive care, type of RPM (pre&#x2010; versus post&#x2010;hospital), and the degree to which RPM met their expectations (VAS&#x2010;scale 0&#x2013;100). Because there were fewer candidate participants than desired, purposive selection was not possible, thus resulting in a convenience sample of 17 patients (13 in the Dutch and four in the French language area). Fourteen interviews were online, and three per telephone. Participants received a gift certificate of 25 euro. Recruitment was situated between July and November 2021, on average 5 months after the start of the projects.</p>
+        <p>Interviews with the TM teams were discussed with the project coordinators in order to create the most optimal conditions (date, place, and availability of participants) and to obtain rich data about the project. Nine TM teams participated in a focus group (eight in Dutch and one in French) with a total of 36 individual participants across groups. In addition, we had one individual interview with the coordinator of a TM project (in French). Teams were recruited between July and October 2021 (see Table&#xA0;<xref rid="jnu12814-tbl-0001" ref-type="table">1</xref>).</p>
+        <p>General practitioners were recruited using email invitations, a newsletter, and an invitation via social media, by asking patients who were interviewed for the contact information of their GP, and by using the network of the research team. Practitioners were recruited between September and December 2021. Overall, three GPs with experience from two RPM NIHDI projects were recruited, and three general practitioners were recruited from an external RPM project (who worked outside of the NIHDI nomenclature), and 10 general practitioners who had developed their own RPM project. Thus, a total of 16 individual interviews were performed (nine in Dutch and seven in French; 5 were online and 11 were via telephone).</p>
+        <p>Primary care nurses were recruited using an email invitation between September and October 2021. A total of four focus groups (three in Dutch and one in French) with a total of 12 participants, and one individual interview (in Dutch) were performed. All nursing organizations involved in the RPM projects were included in the focus groups.</p>
+      </sec>
+      <sec id="jnu12814-sec-0014">
+        <title>Interview plan</title>
+        <p>A combination of individual interviews and focus group interviews was used for the data collection. Individual interviews were carried out by a single researcher, whereas two researchers (one moderator and one observer) were present for focus group interviews; all researchers had previous experience in qualitative research. Interview guides were developed by the KU Leuven/UC Louvain research team in collaboration with researchers from the Belgian Health Care Knowledge Centre. A literature search was performed to identify sensitizing concepts that informed the development of the interview guides. We used open questions to engage participants in a conversation about their experiences, and we used more active and probing questions to explore meaning and examples in the &#x201C;story&#x201D; of the participant. We used a reflective process during the interviewing phase, including completing a methodological report, describing interviewee(s) and contextual characteristics, and defining initial insights and themes after each interview. The team discussed these initial findings to evaluate the interview guides and update these with emergent insights, in order to optimize the quality of the following interviews.</p>
+      </sec>
+      <sec id="jnu12814-sec-0015">
+        <title>Data analysis</title>
+        <p>Data collection and data analysis were conducted simultaneously and interactively (the initial steps of the analysis process were started during the interviewing phase; coding was performed after all interviews were completed). Interviews were transcribed verbatim, and interview notes and schemes and NVivo 1.6 were used for managing and analyzing the data. The QUAGOL (Qualitative Analysis Guide of Leuven) method was used to guide the data analysis process (Dierckx de Casterl&#xE9; et al.,&#xA0;<xref rid="jnu12814-bib-0008" ref-type="bibr">2012</xref>), and was adapted for the purpose of thematic content analysis to include the following steps: (Braun et al.,&#xA0;<xref rid="jnu12814-bib-0005" ref-type="bibr">2014</xref>) reading interviews; drafting descriptive, methodological and content reports; developing conceptual schemes and coding lists; linking fragments to the codes in NVivo; and description of the themes. (Dierckx de Casterl&#xE9; et al.,&#xA0;<xref rid="jnu12814-bib-0007" ref-type="bibr">2021</xref>). After analyzing the themes for the different types of participants separately, a matrix of the different themes and participants was constructed. This matrix was used to find commonalities and differences in the themes and coding to allow integration of the results across participants. The results are reported based on the integrated themes.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12814-sec-0016">
+      <title>RESULTS</title>
+      <p>A total of 17 patients were interviewed. Of the 37 members of TM teams who were interviewed, 13 were medical doctors, 12 were nurses, and 12 were other staff members (i.e., project coordinators, ICT, and managers). The 12 nurses who were interviewed were associated with four nursing care organizations which had a collaboration with four RPM projects. Characteristics of the interviewees are reported in Table&#xA0;<xref rid="jnu12814-tbl-0002" ref-type="table">2</xref>. Tables&#xA0;<xref rid="jnu12814-tbl-0003" ref-type="table">3</xref> and <xref rid="jnu12814-tbl-0004" ref-type="table">4</xref> provide more background information about COVID&#x2010;19 and RPM for the patients who were interviewed.</p>
+      <table-wrap position="float" id="jnu12814-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Characteristics of participants</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Patients</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">TM teams</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">GPs</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Primary care nurses</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Number of participants</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;17 From 8/12 projects</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;37 From 10/12 projects</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;16<xref rid="jnu12814-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref> 3 GPs involved in 2/12 projects</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>&#xA0;=&#xA0;12 From 4/12 projects</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Main type of interview</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Individual</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Focus groups</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Individual</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Focus groups</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Duration of interviews in minute: median [min&#x2010;max]</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">33 [18&#x2013;64]</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">85 [52&#x2013;100]</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">21 [9&#x2013;35]</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">56 [49&#x2013;83]</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Gender distribution</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Equal</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Equal</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">81% women</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">66% women</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Timing of the data collection</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">August&#x2013;November 2021</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">August&#x2013;October 2021</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">October&#x2013;November 2021</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">September&#x2013;October 2021</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12814-ntgp-0003">
+          <fn id="jnu12814-note-0003">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Of the 17 GPs who participated, three had experience with two of the NIHDI RPM projects. Three had experience with an external RPM platform developed for the follow&#x2010;up of COVID&#x2010;19 patients by GPs in Wallonia and Brussels. The remaining GPs had initiated and self&#x2010;developed an RPM intervention in their own practice.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12814-tbl-0003" content-type="TABLE">
+        <label>TABLE 3</label>
+        <caption>
+          <p>Characteristics of patients</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Sample (<italic toggle="yes">n</italic>&#xA0;=&#xA0;17)</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Age</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">25&#x2013;44</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">45&#x2013;64</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">13</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">65&#x2013;74</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">75&#x2013;84</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Living alone</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Educational level</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Lower secondary education</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">High school</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">7</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">University</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Multimorbidity</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12814-tbl-0004" content-type="TABLE">
+        <label>TABLE 4</label>
+        <caption>
+          <p>Characteristics of RPM in patients included in the projects</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Sample (<italic toggle="yes">n</italic>&#xA0;=&#xA0;17)</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Timing or RPM</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Pre&#x2010;hospital</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Post&#x2010;hospital</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">15</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Time in hospital</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&lt;1&#x2009;week</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 to &lt;2&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2 to &lt;3&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x2265;3&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Admission to intensive care</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Duration of RPM</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&lt;1&#x2009;week</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 to &lt;2&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2 to &lt;3&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x2265;3&#x2009;weeks</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Expectations met by RPM (score 0&#x2013;100)<xref rid="jnu12814-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">50&#x2013;59</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">60&#x2013;69</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">70&#x2013;79</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">80&#x2013;89</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">90&#x2013;100</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Follow&#x2010;up by professionals outside the RPM project<xref rid="jnu12814-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">General practitioner</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Physical therapist</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ambulatory nurse</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Medical specialist</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12814-ntgp-0004">
+          <fn id="jnu12814-note-0004">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Patients were asked to rate how RPM met the expectations they had before starting RPM on a scale from 0 to 100.</p>
+          </fn>
+          <fn id="jnu12814-note-0005">
+            <label>
+<sup>b</sup>
+</label>
+            <p>Refers to the number of patients who had seen a health professional other than those affiliated with the RPM project during their follow&#x2010;up in the project.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec id="jnu12814-sec-0017">
+        <title>Summary of themes and main findings</title>
+        <p>The COVID&#x2010;19 pandemic created uncertainty and anxiety in patients and healthcare professionals. The disease prognosis was little understood and the consequences were potentially lethal. Remote patient monitoring had a reassuring effect on patients and healthcare professionals. This was mostly because patients could see their parameters and knew that healthcare professionals were monitoring them, while healthcare professionals would be sure that patients were doing well. The overall perceived value of RPM for the individual patients depended on how well the intervention matched with individual needs of a person. Several needs were observed, that is, the need for social interaction and communication with providers, the need for information, and the need for adapting protocols to individuals. The ability to tailor the follow&#x2010;up to individual patients was seen as important. However, remote monitoring was considered a high burden by healthcare professionals because of the many tasks involved in RPM. In addition, funding was considered inadequate to cover all activities. There were concerns about inequality, that is, non&#x2010;native speakers and older persons were often excluded from follow&#x2010;up. Quality of data was also a concern because measurement errors were observed, for example, abnormal high respiratory rates or low body temperature. Having access to RPM data was also considered an essential element to ensure continuity of care for primary care nurses. The logistic management of the project was a challenge because of the contagious character of COVID&#x2010;19, and required the cooperation with different hospital support services and, in some cases, primary care partners. A dedicated team was seen as needed for the implementation to cover the different tasks. Healthcare professionals were uncertain about the extent of one's medical responsibility and participants had different views on this theme.</p>
+        <sec id="jnu12814-sec-0018">
+          <title>
+<styled-content style="fixed-case" toggle="no">RPM</styled-content>&#x2010;reassured patients</title>
+          <p>All groups of participants agreed that RPM&#x2010;reassured patients. Patients were anxious because of the negative stories they heard in the media, because they had already experienced severe symptoms, or because they knew a person who experienced severe symptoms. Several TM teams observed that patients were anxious because of the potential lethal consequences of COVID&#x2010;19. They also attributed this to the negative stories in the media. Several patients said they expected to die.</p>
+          <p>The reassuring effect of RPM was enacted through several mechanisms, that is, patients believed that a TM team was monitoring their status and, could observe that their own parameters were normal and because they were at home. This effect was dependent on certain patient characteristics.</p>
+          <p>An important factor was knowing that a TM team was monitoring (and observing) the parameters of patients, and that the team would intervene if there was a problem; or that the patient could call the team. This was expressed by patients, TM teams, and GPs.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0001"><p>
+<italic toggle="yes">&#x201C;Because it did effectively reassure me that the follow&#x2010;up was there, also for myself to know: &#x2018;I am still ok, all the parameters are ok.&#x2019; Even if a parameter was a not so good, that there is that follow&#x2010;up and that actually an alarm goes off with the person who is doing the follow&#x2010;up&#x201D; &#x2010; Patient 04</italic>.</p></disp-quote>
+</p>
+          <p>Telemonitoring teams and GPs stated that patients had to feel that healthcare professionals were actively involved in their follow&#x2010;up. This involvement was experienced through receiving a telephone call by the TM team, receiving a message through the RPM system, or a home visit by a nurse for patients who were socially isolated.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0002"><p>
+<italic toggle="yes">&#x201C;Because, you mean something to them, because you alone can go and you alone can reassure them, and you really are the person they can count on.&#x201D; &#x2013; Nursing team 03</italic>.</p></disp-quote>
+</p>
+          <p>A second mechanism for reassurance was that patients could also observe that their own parameters were normal, which was expressed by patients and GPs. Informing patients about the safe range of parameter values also contributed to this effect, according to some interviewees from the TM teams and primary care nurses. In some cases, nurses could contribute to this by helping patients interpret the results of the measurements they took for the RPM project.</p>
+          <p>A third mechanism for reassurance was &#x201C;being at home&#x201D; in comparison to being in the hospital. Patients experienced that RPM was able to &#x201C;provide the same care as being in the hospital,&#x201D; but without the isolation they experienced in the hospital (note that hospitals did not allow visitors on patient wards at the time of their hospitalization).</p>
+          <p>The perceived value of RPM on reassurance appeared also to be dependent on individual characteristics. For example, patients with less severe COVID&#x2010;19 symptoms who expressed a high sense of self&#x2010;care and independence were neutral toward the effect of RPM on their need for reassurance. They stated that they were capable of monitoring their own health status (e.g., determine when a vital sign was abnormal) and would find help if this was needed. On the other hand, another patient expressed a low sense of self&#x2010;care and independence and had a negative experience with RPM as it increased anxiety. This patient presented to the ED with what (s)he felt were severe symptoms and expected to be hospitalized. However, the patient was sent back home with RPM, which resulted in an increased feeling of anxiety. In other cases, primary care nurses believed that RPM provided a sense of security at a distance for patients but for many isolated patients it was not sufficient to reduce anxiety.</p>
+        </sec>
+        <sec id="jnu12814-sec-0019">
+          <title>Social interaction and information were important needs</title>
+          <p>The overall perceived value of RPM for the individual patients depended on how well the intervention matched with individual needs of a person. Two needs were observed, that is, the need for social interaction and communication, and the need for information.</p>
+          <p>The need for interaction with healthcare professionals, which could be members of the TM team, the GP, or the primary care nurse, was observed in both pre&#x2010; and post&#x2010;hospital patients and across projects. However, there were differences in how this need was met across the projects. Spontaneously calling patients was a valued strategy for pre&#x2010;hospital patients, because they felt isolated due to quarantine measures. Receiving a telephone call from the TM team when parameters were abnormal was valued by patients because they could &#x201C;tell their story&#x201D;. Several TM teams noted that some patients called the them on their own initiative or prolonged the conversation when the TM team called them. While the team recognized that this was important for patients, they also reflected that this was not their main function or role, and could result in frustrations because they felt that they did not have enough time.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0003"><p>
+<italic toggle="yes">There was a reason why they called us, there was no waiting line. We always answered the phone immediately. [&#x2026;] This way they could ask their questions, but I had the feeling that we were often a psychologist. [&#x2026;] We're in healthcare, so we really do want to help people, but it's lack of time. Sometimes you have something like &#x201C;yeah, I really don't have time to do this right now&#x201D;, and I also see that less as part of our job. &#x2013; RPM project 01</italic>.</p></disp-quote>
+</p>
+          <p>However, some patients who were recovering with normal parameters had no contact with the TM teams, because several teams only performed actions when an alarm was triggered. Some of these patients missed this interaction with and feedback from the TM team. Examples include a need to have confirmation that parameters were seen by the TM team, and having unanswered questions that could be related or unrelated, to COVID&#x2010;19. Most patients did not contact the TM team themselves even if they had questions. In some patients, this was remedied by calling their GP, which replaced the need for interaction with the TM team.</p>
+          <p>Several patients discussed their need for information about RPM. For some patients, the information they received in the hospital was sufficient, this was not the case for all patients. Patients stated that they were not able to retain the information they received in the hospital, which was also observed by healthcare professionals. While patients in the post&#x2010;hospital trajectory received RPM information about the intervention at the moment they were (partially) recovered from severe symptoms, patients in the pre&#x2010;hospital trajectory were informed about RPM at the time of diagnosis and experiencing more acute symptoms. Patients did not consider that &#x201C;the appropriate moment&#x201D; to receive information about RPM.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0004"><p>
+<italic toggle="yes">You cannot, you are just dead (very strongly emphasized), you feel bad, you are tired. You come there (the emergency department) because you actually feel like: &#x201C;I'm dying here.&#x201D; Then they go, &#x201C;No, you can go home.&#x201D; Then they give you an explanation, but that (information) does not come in at that moment, you do not absorb that. I did not record anything. My wife had also said that she had actually heard very little about it (the instructions). &#x2013; Patient 17</italic>.</p></disp-quote>
+</p>
+          <p>However, patients who did not retain or understand the RPM information when recruited in the project were able to figure out how the system worked based on the information materials they had received. GPs indicated that patients needed information related to their follow&#x2010;up and what was expected from them (e.g., when to contact the GP), on COVID&#x2010;19 in general, on general regulations about quarantine or isolation, and on COVID&#x2010;19 symptoms and symptom progression, management of symptoms, feedback on COVID&#x2010;19 progression and recovery.</p>
+        </sec>
+        <sec id="jnu12814-sec-0020">
+          <title>Health equality was a concern for healthcare professionals</title>
+          <p>Healthcare professionals stated that patients who did not have the necessary language (Dutch/French speaking) or digital skills, who did not have the right equipment (smartphone or tablet), or who missed the necessary infrastructure (no internet coverage) were often excluded; only a small proportion of non&#x2010;native speakers and persons with a geriatric profile were included.</p>
+          <p>TM teams and nurses observed that RPM was only proposed to a selected group of patients. Several projects noted that persons who were not fluent in Dutch or French constituted the largest demographic group of patients who presented to the hospital with COVID&#x2010;19 (in their region), but were excluded. Lastly, it was reported that fewer older people could be included in the pre&#x2010;hospital RPM trajectory because there was less time in the emergency department to explain how the RPM system worked.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0005"><p>
+<italic toggle="yes">&#x201C;Certainly the patients that went home from the emergency department turned out to be a big problem, especially in terms of language (They did not speak Dutch and were therefore not eligible for follow&#x2010;up). That's one of the main reasons why there were so few inclusions.&#x201D; &#x2013; RPM project 06</italic>.</p></disp-quote>
+</p>
+        </sec>
+        <sec id="jnu12814-sec-0021">
+          <title>
+<styled-content style="fixed-case" toggle="no">RPM</styled-content>&#x2010;reassured <styled-content style="fixed-case" toggle="no">TM</styled-content> teams and general practitioners</title>
+          <p>Remote patient monitoring reassured healthcare professionals as it gave them information about a disease they had little knowledge about. The remote monitoring allowed them to detect deterioration, which was a concern.</p>
+          <p>Remote patient monitoring was experienced as a reassurance by TM teams on several levels. First, at the patient level, healthcare professionals felt less uncertain because they could monitor the patient's recovery process from a distance. They were confronted with a new disease and the prognosis was uncertain. For example, they worried about the occurrence of silent hypoxaemia (in which the patient subjectively feels good, while desaturation is present). The RPM system enabled them to detect (potential) problems and to react quickly when necessary, for example, by correctly referring patients to the emergency department. This experience was shared by the GPs. Furthermore, RPM allowed GPs to adjust the follow&#x2010;up, for example, intensify the follow&#x2010;up of parameters and to have more frequent contact with patients as to better identify tipping points in the patient's evolution. In the case of the few general practitioners involved in NIHDI RPM projects, this was possible through an external monitoring service with nurses. GPs who had implemented RPM in their own practice perceived that they could anticipate complications better, and monitor the appropriateness of treatment.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0006"><p>
+<italic toggle="yes">&#x201C;It is also a relief for us, because as a doctor I also feel more reassured. Those patients are followed up, the saturation (oxygen) is observed, and if they call, the RPM centre calls for example, that patient doesn't call you himself anymore if he's troubled, but they pick up on it and you can go and respond in a targeted way&#x201D; &#x2013; PRM project 08</italic>.</p></disp-quote>
+</p>
+          <p>Second, some projects benefitted from the support of primary care nurses at the patient's home, which also reduced the uncertainty experienced by the TM team. Personal information about the patient, how (s)he felt or about his or her environment were relevant in addition to the data obtained by RPM.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0007"><p>
+<italic toggle="yes">&#x201C;I love the nurse's backup, I couldn't do without it. I think it's&#x2026; It was very good with the teleconsultations, and for all the future projects, I wouldn't do without the primary care nurse who was a big added value. By confirming or going against me by telling me &#x201C;you know he's not that good. &#x201C;But the patient showed me a beautiful image of himself on the video, when in reality he wasn't doing so well.&#x201D; &#x2013; RPM project 12</italic>.</p></disp-quote>
+</p>
+          <p>Third, on a more general level, it also reassured physicians of the hospital's capacity to handle critical moments of the pandemic. Medical doctors were concerned that the demands of the pandemic would outweigh the capacity of hospitals. The TM teams believed that the RPM projects reduced the pressure on the hospitals mainly through (1) freeing up beds by shortening hospital stays and reducing avoidable hospitalizations due to COVID&#x2010;19, (2) increasing the hospitals' capacity to cope with new COVID&#x2010;19 admissions, and (3) allowing the hospitals' usual activity to be maintained as far as possible.</p>
+          <sec id="jnu12814-sec-0022">
+            <title>
+<styled-content style="fixed-case" toggle="no">RPM</styled-content> was associated with a high workload for <styled-content style="fixed-case" toggle="no">TM</styled-content> teams and <styled-content style="fixed-case" toggle="no">GPs</styled-content>
+</title>
+            <p>Remote patient monitoring was associated with a high perceived workload. The investment required in terms of human resources for a comprehensive RPM follow&#x2010;up was seen as significant and had to be organized on top of the routine care. Most projects did not hire or allocate additional staff, and TM teams felt that this limited the capacity needed to scale up RPM projects. In some cases, other work was side&#x2010;lined, other actors were trained to support the activity (e.g., for administrative tasks) or the TM team members involved worked additional hours.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0008"><p>
+<italic toggle="yes">&#x201C;After some time, it (the work) really became too much with only the people from our team. After a while, we also had to rely on the head nurses of the COVID&#x2010;19 unit. &#x2013; RPM project 03</italic>.</p></disp-quote>
+</p>
+            <p>Some patients believed that RPM could reduce the burden on GPs. Remote patient monitoring provided GPs with a means to deal with the workload and burden resulting from the COVID&#x2010;19 pandemic. For instance, RPM provided an alternative to home visits and consultations and gave GPs a sense of control over the situation. However, GPs also associated RPM with a higher workload, for example, because of the high volume of patients with COVID&#x2010;19 and due to an increased administrative burden and limited resources. In some cases, primary care nurses who collaborated with GPs could reduce the burden of follow&#x2010;up by monitoring patients.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="jnu12814-sec-0023">
+        <title>Implementation challenges</title>
+        <sec id="jnu12814-sec-0024">
+          <title>Quality of data was important</title>
+          <p>All TM teams agreed that quality of data was a key factor, but they differed in what they found important. Quality of the data was described as having two dimensions, that is, the type of data needed for follow&#x2010;up, and the reliability of the measurements.</p>
+          <p>While some teams positioned objective data (e.g., temperature) as key to their follow&#x2010;up, others valued subjective general health and well&#x2010;being data. Objective data was valued because some TM teams stated that they did not always trust the answers of patients.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0009"><p>
+<italic toggle="yes">&#x201C;A lot of the information you ask in the questionnaires is subjective and can actually be derived from other parameters. And if you have to choose between the answers from the questionnaires or the parameters, then you will use the parameters, because they are objective.&#x201D; &#x2010; RPM Project 04</italic>.</p></disp-quote>
+</p>
+          <p>Telemonitoring teams systematically reported errors in the measurement of the respiratory rates (which was in most cases self&#x2010;reported), and several teams reported problems with thermometers. Teams had different ways of dealing with such errors, including sending a nurse to the patient's home to verify the measurement, or relying on experienced staff to filter the information. There was consensus that measurement of data should be easy and intuitively (easy to use without the need for formal training or education on its use).</p>
+        </sec>
+        <sec id="jnu12814-sec-0025">
+          <title>Logistic management was challenging</title>
+          <p>The logistic management of the project was a challenge because of the contagious character of COVID&#x2010;19, and the collaboration with hospital support services and primary care partners. A challenge was organizing a system for the safe return of previously used and &#x201C;contaminated&#x201D; RPM devices in the hospital, decontaminating the telemetry devices, and returning these to the TM team for the next patient. Teams that collaborated with primary care nurses experienced an additional challenge as RPM systems also had to be transferred from the hospital to the primary care partners and back.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0010"><p>
+<italic toggle="yes">&#x201C;I think the technology was the least of the challenges, except for the oxygen saturation meters, which was also a challenge, but it was mainly, &#x2018;how do we organize the care pathway&#x2019;? How do we ensure that the saturation meters get to the patient and are returned afterwards? And that they are disinfected and prepared to be used again. How do we follow up on the patient, how do we communicate with the first line? Those were the big challenges.&#x201D; &#x2013; RPM project 02</italic>.</p></disp-quote>
+</p>
+        </sec>
+        <sec id="jnu12814-sec-0026">
+          <title>Access to data is needed for collaboration and continuity of care</title>
+          <p>Having access to RPM data was considered an essential element to ensure continuity of care and information. Access referred to two elements: access for health professionals, and access to data in electronic patient records.</p>
+          <p>Access to the RPM data for GPs was an important element throughout the focus group discussions. Such access was considered necessary to ensure adequate follow&#x2010;up by all GPs and to facilitate collaboration. Teams that had a partnership with ambulatory nurses mentioned that access for these professionals was also important. However, in these projects, nurses did not have access to the RPM system. For some of them, this was not experienced as a barrier because their main task was installing and initiating the RPM at the patient's home. When nurses perceived their tasks to also include regular care and follow&#x2010;up of COVID&#x2010;19, having no access to the RPM data was perceived as a barrier. They reported missing important information about the patients, for example, medical history, contagiousness status, and RPM parameters or not being able to register the parameters in time.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0011"><p>
+<italic toggle="yes">&#x201C;If a patient was feeling bad we gave the advice: Ask for your family doctor to come. [&#x2026;] Then if the general practitioner wanted to, then they could look (in the PRM system) &#x2026; Because if they can't go and visit the patient, then they (the GP) have nothing. But in the event that someone would feel bad and not come to us and they go to their GP, then they (the GP) could look at that too, the parameters. An additional factor is that this concerns a special population, which is in isolation at the time. It's not that obvious for a GP to go and see how a patient is doing&#x201D;. &#x2010; RPM project 01</italic>.</p></disp-quote>
+</p>
+          <p>Participants reported that there are currently no bridges between the different information systems (including electronic patient records) of health professionals and organizations. They made the following suggestions. The RPM system should be integrated in the electronic patient records and all healthcare professionals involved in the follow&#x2010;up should have access. It should be linked to existing (health) platforms and not act as a standalone platform to increase the accessibility to data. Having multiple platforms running was experienced as a burden and not efficient for the implementation. They believed remote patient monitoring should also be modular and adaptable to different pathologies and patients.</p>
+        </sec>
+        <sec id="jnu12814-sec-0027">
+          <title>
+<styled-content style="fixed-case" toggle="no">NIHDI</styled-content> funding was not sufficient to support implementation</title>
+          <p>Telemonitoring teams, GPs and primary care nurses perceived that the NIHDI remuneration was not sufficient to fund the personnel that was needed to deliver RPM. They felt that a dedicated team was needed for the implementation to cover the different tasks, including recruitment, informing patients, monitoring RPM parameters, medical supervision, communication with patients during follow&#x2010;up, collaboration with primary care, project management and coordination, ICT support and logistics management. They commented how the funding model did not account for time invested in coordination, project management, and communication with patients by the TM team and GPs.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0012"><p>
+<italic toggle="yes">&#x201C;The funding we've had covers the telemetry and some follow&#x2010;up, [&#x2026;] but the focus is on the technical aspects. The time you put in the project, very regularly looking at the data, seven days a week, communicating, resolving questions, maybe also asking someone else for advice, giving feedback to the GP, that's not actually included in that fee.&#x201D; &#x2010; RPM Project 02</italic>.</p></disp-quote>
+</p>
+          <p>The lack of funding resulted in projects that were operated by teams who performed RPM tasks on top of their regular work. As a result, projects recruited fewer patients than desired and in some projects only a small number of patients. Overall, funding was considered an important barrier for future scaling up but the high burden on the hospitals, the motivation of healthcare professionals to deliver quality of care, and the vision of hospitals regarding RPM as a future intervention were important factors to overcome this barrier during the pandemic.</p>
+        </sec>
+        <sec id="jnu12814-sec-0028">
+          <title>Uncertainty about medical responsibility related to <styled-content style="fixed-case" toggle="no">PRM</styled-content>
+</title>
+          <p>Medical responsibility was a complex theme throughout the interviews, and TM teams differed on their views on the roles of patients, medical specialists, GPs, and nurses. Teams generally indicated that patients were responsible for seeking help when needed, for example, patients had to sign an informed consent for this purpose. However, teams also observed problems with this responsibility as many projects reported problems with accurate observations of vital parameters. If patients do not trust data because they are not accurate, they are less likely to take appropriate action. Responsibility was generally also attributed to supervising medical doctors in the hospital. However, from a legal point of view this was unclear.<disp-quote content-type="quotation" id="jnu12814-blkfxd-0013"><p>
+<italic toggle="yes">&#x201C;At the legal level, nothing is clear. In this case, I was the one who was doing the teleconsultations and receiving the alarms, so I judged that I was responsible. Therefore, I had a clause added to my professional liability insurance [&#x2026;] I have a medical insurance company that knows a lot about this, but they did not know what to do with my request for an additional liability clause.&#x201D; &#x2013; RPM Project 12</italic>.</p></disp-quote>
+</p>
+          <p>However, doubts arose as to which medical specialist was the main responsible person, and several projects also defined responsibilities for the nurses in their team. Not all teams agreed on sharing responsibility with primary care professionals. Teams collaborating with general practitioners in the follow&#x2010;up had an open view on sharing responsibility. Other projects however, stated that they were primarily responsible for follow&#x2010;up and that GPs were not systematically involved. General practitioners were uncertain or did not know how current legal frameworks applied to RPM. The GPs shared a number of uncertainties related to the medico&#x2010;legal responsibility in relation to RPM. There were also concerns about the (lack of) continuity of monitoring, for example, the impossibility to be available 24&#xA0;h at all days.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12814-sec-0029">
+      <title>DISCUSSION</title>
+      <p>This study aimed to understand how RPM was experienced in relation to the patients' illness experience, needs, care delivered and received, and outcomes. We also explored what factors challenged the implementation of the projects.</p>
+      <p>Overall, participants reported that RPM reduced the anxiety and uncertainty of patients and healthcare professionals. This results correspond to the findings of a large qualitative evaluation of telemonitoring in patients with COPD, diabetes, and heart failure who experienced a reassuring and even an empowering effect (Hanley et al.,&#xA0;<xref rid="jnu12814-bib-0009" ref-type="bibr">2018</xref>). We observed that a reduction of anxiety and uncertainty was dependent on how the intervention interacted with the individual needs and preferences of patients. Frequent communication with patients was seen as important to support patients in their needs. There was no consensus on the ideal mode of communication, and patient preferences regarding interaction also differed. A diversity in patient preferences regarding technology to manage health and communicate with health professionals has been observed before (Alexander et al.,&#xA0;<xref rid="jnu12814-bib-0001" ref-type="bibr">2021</xref>). Another important determinant for the experienced value of RPM, was how TM teams met the expectations and information needs of patients toward the system, how patients were involved in the decision of starting RPM.</p>
+      <p>The implementation of RPM was challenging for several reasons. The burden of operating RPM systems on both TM teams and GPs was high in comparison to the available resources. This was mostly because RPM was performed on top of their usual work. RPM was perceived as a complex pathway that requires the expertise and effort of multiple healthcare professionals and services. These include a project coordinator, a medical supervisor, a TM team for the recruitment as well as instructing patients and follow&#x2010;up of patients, ICT and logistic support, GPs, and &#x2010;in some projects&#x2010; primary care nurses. The &#x201C;burden of RPM&#x201D; has been observed in multiple studies, in particular when the follow&#x2010;up included patient telephone contacts (Andersen et al.,&#xA0;<xref rid="jnu12814-bib-0003" ref-type="bibr">2019</xref>; Ricci et al.,&#xA0;<xref rid="jnu12814-bib-0012" ref-type="bibr">2014</xref>).</p>
+      <p>Recruitment was a concern across projects. Older patients, those with a geriatric profile or less able to use the technology and non&#x2010;native speakers were often excluded from RPM, raising concerns about care inequality. This was attributed to the design of the projects' RPM interventions, having limited resources, and the context of the pandemic. This has been termed &#x201C;the digital divide,&#x201D; and became an important concern in the COVID&#x2010;19 pandemic when health systems fast&#x2010;tracked the adoption of digital health solutions (Astley et al.,&#xA0;<xref rid="jnu12814-bib-0004" ref-type="bibr">2021</xref>). Unequal access to RPM for vulnerable groups appears to be a common problem in the field of eHealth (Houlding et al.,&#xA0;<xref rid="jnu12814-bib-0010" ref-type="bibr">2021</xref>). Several projects collaborated with ambulatory nurses which helped them recruit older patients. Ambulatory nurses visited patients at home to teach and support them with the use of the RPM system. This also allowed nurses to investigate and deliver care for other needs. However, a need to also include older persons in the development of technology&#x2010;based interventions has been voiced (Allemann &amp; Poli,&#xA0;<xref rid="jnu12814-bib-0002" ref-type="bibr">2020</xref>).</p>
+      <p>Collaboration between hospital&#x2010;based TM teams and primary care professionals is imperative for a significant group of patients. This is consistent with overall literature about care integration, where patient and providers coming from primary and hospital levels should work &#x201C;as a team.&#x201D; This is called clinical integration in Valentijn's rainbow model and should also involve professional, organizational, and administrative integration (Valentijn et al.,&#xA0;<xref rid="jnu12814-bib-0014" ref-type="bibr">2015</xref>), which was tested in Belgium for people with chronic illnesses (Winter,&#xA0;<xref rid="jnu12814-bib-0017" ref-type="bibr">2022</xref>) and is certainly also relevant in the context of Covid&#x2010;19 patients. However, most TM teams had none to limited interaction with the GPs or primary care nurses. RPM systems allowed TM teams in hospitals to implement and deliver the intervention, but in projects in which primary care was actively involved, GPs, and ambulatory nurses wanted to be part of the system. Furthermore, many patients expected that their GP is involved in their care. Access to the RPM system was experienced as a minimal requirement for collaboration across levels of care but this was not the case in all projects. RPM systems were mostly developed as standalone platforms, and the lack of integration and communication of data with the electronic patient records of different healthcare professionals across levels of care was an important barrier.</p>
+      <sec id="jnu12814-sec-0030">
+        <title>Implications for implementation of <styled-content style="fixed-case" toggle="no">RPM</styled-content> in public health</title>
+        <p>A national framework is needed to define medical responsibilities and roles of different healthcare professionals involved in RPM across care levels according to a formal program theory. Funding schemes are not fully prepared for the reimbursement of remote care and should be adapted to the complex pathway of RPM, the different tasks and logistic and technical challenges. Both the framework and funding should be based on a thorough investigation of the best mode for the delivery and design of RPM and its integration in the different care levels, for example, should RPM be coordinated nationally, regionally, locally, and by hospitals, GPs, or dedicated independent teams? Current projects rely on local and historical collaborations between care partners, but a future framework should facilitate a structural collaboration between care partners. The framework should consider the time and administrative demands of individual healthcare professionals when their patients are in follow&#x2010;up with RPM, as well as the time needed to coordinate an RPM project.</p>
+        <p>The design of RPM systems should allow flexibility and individualization in terms of which parameters are measured and which values or thresholds are important for specific parameters. Current technology appears to be vulnerable for measurement errors and this should be addressed. A user&#x2010;centered design can facilitate the development or optimization of RPM systems so that they are also accessible for vulnerable groups. There is a need for a healthcare RPM platform that unifies and links input from different RPM systems and electronic patient records. Current RPM systems are designed and operationalized in isolation. A national platform could overcome fragmentation and facilitate communication of data to all healthcare professionals involved in the care of a patient included in an RPM project. The platform should be generic and not&#x2010;disease specific and should have a direct link to electronic patient records.</p>
+        <p>To facilitate RPM in patients, explicit and standardized educational strategies (both active and passive) should be developed, not only focussing on the use of the RPM system, but also on the parameters that are monitored in relation to the disease or condition monitored. The education strategies should overcome limitations in certain settings, for example, short and limited contacts between healthcare professionals and patients in GP practices or emergency department. Monitoring should also go beyond the disease and include a patients' personal experience with the disease. There is a clear need to communicate about the observed parameters, and the design of RPM system should include visual results and feedback. For independent patients, passive textual feedback may be sufficient. Older and socially isolated patients can benefit more from active &#x201C;person&#x2010;to&#x2010;person&#x201D; communication about their disease progression.</p>
+        <p>Initiation of RPM should consider the individual needs, perceived acceptability of the intervention, and expectations of patients for follow&#x2010;up. Involving GPs in the implementation of RPM is likely to increase the acceptability of the intervention in certain subgroups of patients. Yet remote patient monitoring may not be acceptable for all patients, and alternative but equivalent care should be available. Special attention is needed for the inclusion of patients in RPM projects because selective profiles are recruited, as access to RPM may be limited for more disadvantaged or vulnerable groups. The involvement of primary care nurses may increase the adoption of RPM in groups with language barriers and/or having low digital skills. For the monitoring of contagious diseases, the involvement of primary care nurses may also be important to combat social isolation.</p>
+      </sec>
+      <sec id="jnu12814-sec-0031">
+        <title>Strengths and limitations</title>
+        <p>The qualitative evaluation has several strengths. Several forms of triangulation were introduced which contributed to a multi&#x2010;perspective exploration of RPM, including interviewing different stakeholders and using different data collection methods. We used member checking during the interviews to verify the responses. Interviews were performed and analyzed by a team of researchers with experience in qualitative research. Furthermore, initial reports from interviews were discussed in team, which allowed us to gradually improve the quality of the interview guide as well as the data analysis. A systematic approach using the QUAGOL methodology helped to improve the depth and rigor of the analysis process. This included a team approach to discuss the initial findings, coding schemes, interpretation of codes, and integration of results in main findings. A qualitative researcher of the KCE also participated in the discussions of the analysis and results.</p>
+        <p>There were also some limitations. We were not able to interview patients from all projects (only 8 of the 12), and all but two patients had experience with <italic toggle="yes">post</italic>&#x2010;hospital RPM. The findings therefore apply primarily to post&#x2010;hospital RPM. Furthermore, we believe that (although we also captured a very negative experience) it is likely that most patients who responded had a positive attitude toward the RPM projects, potentially resulting in a self&#x2010;selection bias. Not all projects participated in the interviews with the TM team (10 of the 12), and not all team members who participated could be present at the time of the interviews. This entails some risk that individual experiences were missed. Focus group discussions were not feasible with GPs, and only a few GPs who were interviewed had experience with one of the NIHDI projects. We therefore also interviewed GPs who implemented their own RPM projects to help us understand the context of RPM for GPs. However, these interviews were shorter in duration, and while some contained rich data, other interviews were necessarily superficial. Likewise, we were not able to recruit the desired number of ambulatory nurses. However, it should be noted that GPs were only systematically involved in one project and nurses in only four projects. Consequently, our sampling reflects the characteristics of the projects under evaluation. Overall, this means that theoretical sampling was not possible and that it was difficult to explore the variation and depth of some experiences, which meant that we were not able to achieve saturation for most of the themes. Nonetheless, some experiences were consistent within and between groups of participants (e.g., reassurance of RPM), which strengthened the credibility of the main findings.</p>
+      </sec>
+      <sec id="jnu12814-sec-0032">
+        <title>Conclusion</title>
+        <p>Overall, patients' and professionals' attitudes toward RPM tend to be positive, and RPM is seen as a solution in dealing with the challenges of the COVID&#x2010;19 pandemic. Remote patient monitoring offers reassurance for both patients and healthcare professionals. However, older patients and non&#x2010;native speakers were often excluded by the RPM projects' staff, thus limiting their reach. Personal communication and flexibility in RPM procedures can cultivate a positive experience with patients because individual needs are more often met this way. Hindering factors for the implementation of RPM are the high burden on TM teams, insufficient resources, lack of financial remuneration of all tasks needed for RPM, technical problems with RPM systems, challenging logistic management of RPM, lack of access to RPM data for all relevant stakeholders, lacking integration of RPM data in electronic patient records, doubts about quality of data, and professionals' limited knowledge of relevant legal frameworks. Overall, healthcare professionals and patients perceive RPM as valuable and believe that the concept will have its place in the Belgian healthcare system. However, current RPM practice is challenged by too many barriers, and the sustainability of RPM implementation is low. This signals the need for policy development at national and organizational levels, as well as at the level of professional associations, in order to support RPM initiatives.</p>
+        <sec id="jnu12814-sec-0033">
+          <title>CLINICAL RESOURCES</title>
+          <p>Remote patient monitoring in patients with COVID&#x2010;19: <ext-link xlink:href="https://www.kce.fgov.be/en/remote-monitoring-of-patients-with-covid-19" ext-link-type="uri">https://www.kce.fgov.be/en/remote&#x2010;monitoring&#x2010;of&#x2010;patients&#x2010;with&#x2010;covid&#x2010;19</ext-link>
+</p>
+          <p>Telehealth Interventions to Improve Chronic Disease: <ext-link xlink:href="https://www.cdc.gov/dhdsp/pubs/telehealth.htm" ext-link-type="uri">https://www.cdc.gov/dhdsp/pubs/telehealth.htm</ext-link>
+</p>
+          <p>Telehealth and remote patient monitoring, preparing patients for telehealth: <ext-link xlink:href="https://telehealth.hhs.gov/providers/preparing-patients-for-telehealth/telehealth-and-remote-patient-monitoring/" ext-link-type="uri">https://telehealth.hhs.gov/providers/preparing&#x2010;patients&#x2010;for&#x2010;telehealth/telehealth&#x2010;and&#x2010;remote&#x2010;patient&#x2010;monitoring/</ext-link>
+</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="jnu12814-sec-0035">
+      <title>FUNDING INFORMATION</title>
+      <p>The study was funded by the Belgian Health Care Knowledge Centre (2021&#x2010;50).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12814-sec-0036">
+      <title>CONFLICT OF INTEREST</title>
+      <p>The authors declare that there is no conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12814-sec-0034">
+      <title>ACKNOWLEDGEMENT</title>
+      <p>The authors would like to thank the patients and healthcare professionals who participated in this study.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12814-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12814-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0001">
+<string-name>
+<surname>Alexander</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Ogle</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hoberg</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Linley</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bradford</surname>, <given-names>N.</given-names>
+</string-name> (<year>2021</year>). <article-title>Patient preferences for using technology in communication about symptoms post hospital discharge</article-title>. <source>BMC Health Services Research</source>, <volume>21</volume>(<issue>1</issue>), <fpage>141</fpage>. <pub-id pub-id-type="doi">10.1186/s12913-021-06119-7</pub-id>
+<pub-id pub-id-type="pmid">33588829</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0002">
+<string-name>
+<surname>Allemann</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Poli</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Designing and evaluating information and communication technology&#x2010;based interventions? Be aware of the needs of older people</article-title>. <source>European Journal of Cardiovascular Nursing</source>, <volume>19</volume>(<issue>5</issue>), <fpage>370</fpage>&#x2013;<lpage>372</lpage>. <pub-id pub-id-type="doi">10.1177/1474515119897398</pub-id>
+<pub-id pub-id-type="pmid">31969003</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0003">
+<string-name>
+<surname>Andersen</surname>, <given-names>T. O.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>K. D.</given-names>
+</string-name>, <string-name>
+<surname>Moll</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Svendsen</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2019</year>). <article-title>Unpacking telemonitoring work: Workload and telephone calls to patients in implanted cardiac device care</article-title>. <source>International Journal of Medical Informatics</source>, <volume>129</volume>, <fpage>381</fpage>&#x2013;<lpage>387</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2019.06.021</pub-id>
+<pub-id pub-id-type="pmid">31445281</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0004">
+<string-name>
+<surname>Astley</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Cartledge</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Beleigoli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Millington</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hendriks</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Remote cardiac rehabilitation services and the digital divide: Implications for elderly populations during the COVID19 pandemic</article-title>. <source>European Journal of Cardiovascular Nursing</source>, <volume>20</volume>(<issue>6</issue>), <fpage>521</fpage>&#x2013;<lpage>523</lpage>. <pub-id pub-id-type="doi">10.1093/eurjcn/zvab034</pub-id>
+<pub-id pub-id-type="pmid">34056650</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0005">
+<string-name>
+<surname>Braun</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Clarke</surname>, <given-names>V.</given-names>
+</string-name> (<year>2014</year>). <article-title>What can "thematic analysis" offer health and wellbeing researchers?</article-title>
+<source>International Journal of Qualitative Studies on Health and Well&#x2010;being</source>, <volume>9</volume>, <elocation-id>26152</elocation-id>. <pub-id pub-id-type="doi">10.3402/qhw.v9.26152</pub-id>
+<pub-id pub-id-type="pmid">25326092</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0006">
+        <mixed-citation publication-type="book" id="jnu12814-cit-0006">
+<string-name>
+<surname>Cornelis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Van Grootven</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Alvarez Irusta</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>de Meester</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Christiaens</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Van Durme</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dierckx de Casterl&#xE9;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Van Achterberg</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mistiaen</surname>, <given-names>P.</given-names>
+</string-name> (<year>2022</year>). <source>Remote monitoring of patients with COVID&#x2010;19. Health services research (HSR)</source>. <publisher-name>Belgian Health Care Knowledge Centre (KCE)</publisher-name> KCE Reports 354. D/2022/10.273/27.</mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0007">
+<string-name>
+<surname>Dierckx de Casterl&#xE9;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>De Vliegher</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gastmans</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mertens</surname>, <given-names>E.</given-names>
+</string-name> (<year>2021</year>). <article-title>Complex qualitative data analysis: Lessons learned from the experiences with the qualitative analysis guide of Leuven</article-title>. <source>Qualitative Health Research</source>, <volume>31</volume>(<issue>6</issue>), <fpage>1083</fpage>&#x2013;<lpage>1093</lpage>. <pub-id pub-id-type="doi">10.1177/1049732320966981</pub-id>
+<pub-id pub-id-type="pmid">33135554</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0008">
+<string-name>
+<surname>Dierckx de Casterl&#xE9;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gastmans</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bryon</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Denier</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2012</year>). <article-title>QUAGOL: A guide for qualitative data analysis</article-title>. <source>International Journal of Nursing Studies</source>, <volume>49</volume>(<issue>3</issue>), <fpage>360</fpage>&#x2013;<lpage>371</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2011.09.012</pub-id>
+<pub-id pub-id-type="pmid">21996649</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0009">
+<string-name>
+<surname>Hanley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pinnock</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Paterson</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McKinstry</surname>, <given-names>B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Implementing telemonitoring in primary care: Learning from a large qualitative dataset gathered during a series of studies</article-title>. <source>BMC Family Practice</source>, <volume>19</volume>(<issue>1</issue>), <fpage>118</fpage>. <pub-id pub-id-type="doi">10.1186/s12875-018-0814-6</pub-id>
+<pub-id pub-id-type="pmid">30021535</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0010">
+<string-name>
+<surname>Houlding</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mate</surname>, <given-names>K. K. V.</given-names>
+</string-name>, <string-name>
+<surname>Engler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ortiz&#x2010;Paredes</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pomey</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>J.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Lebouch&#xE9;</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Barriers to use of remote monitoring technologies used to support patients with COVID&#x2010;19: Rapid review</article-title>. <source>JMIR mHealth and uHealth</source>, <volume>9</volume>(<issue>4</issue>), <elocation-id>e24743</elocation-id>. <pub-id pub-id-type="doi">10.2196/24743</pub-id>
+<pub-id pub-id-type="pmid">33769943</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0011">
+        <mixed-citation publication-type="book" id="jnu12814-cit-0011">
+<string-name>
+<surname>Patton</surname>, <given-names>M. Q.</given-names>
+</string-name> (<year>2011</year>). <source>Qualitative research &amp; evaluation methods: Integrating theory and practice</source> (<edition designator="4">4th ed.</edition>). <publisher-name>Sage Publications</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0012">
+<string-name>
+<surname>Ricci</surname>, <given-names>R. P.</given-names>
+</string-name>, <string-name>
+<surname>Morichelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>D'Onofrio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cal&#xF2;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vaccari</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zanotto</surname>, <given-names>G.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Gargaro</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Manpower and outpatient clinic workload for remote monitoring of patients with cardiac implantable electronic devices: Data from the HomeGuide registry</article-title>. <source>Journal of Cardiovascular Electrophysiology</source>, <volume>25</volume>(<issue>11</issue>), <fpage>1216</fpage>&#x2013;<lpage>1223</lpage>. <pub-id pub-id-type="doi">10.1111/jce.12482</pub-id>
+<pub-id pub-id-type="pmid">24964380</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0013">
+<string-name>
+<surname>Taylor</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Snoswell</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>A. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Caffery</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Does remote patient monitoring reduce acute care use? A systematic review</article-title>. <source>BMJ Open</source>, <volume>11</volume>(<issue>3</issue>), <elocation-id>e040232</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-040232</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0014">
+<string-name>
+<surname>Valentijn</surname>, <given-names>P. P.</given-names>
+</string-name>, <string-name>
+<surname>Boesveld</surname>, <given-names>I. C.</given-names>
+</string-name>, <string-name>
+<surname>van der Klauw</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Ruwaard</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Struijs</surname>, <given-names>J. N.</given-names>
+</string-name>, <string-name>
+<surname>Molema</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Bruijnzeels</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Vrijhoef</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Towards a taxonomy for integrated care: A mixed&#x2010;methods study</article-title>. <source>International Journal of Integrated Care</source>, <volume>15</volume>, <elocation-id>e003</elocation-id>. <pub-id pub-id-type="doi">10.5334/ijic.1513</pub-id>
+<pub-id pub-id-type="pmid">25759607</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0015">
+<string-name>
+<surname>Vindrola&#x2010;Padros</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Sidhu</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Georghiou</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sherlaw&#x2010;Johnson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tomini</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Inada&#x2010;Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kirkham</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Streetly</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Fulop</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Remote home monitoring (virtual wards) for confirmed or suspected COVID&#x2010;19 patients: A rapid systematic review</article-title>. <source>EClinicalMedicine</source>, <volume>37</volume>, <elocation-id>100965</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.100965</pub-id>
+<pub-id pub-id-type="pmid">34179736</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0016">
+<string-name>
+<surname>Walker</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Palmer</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2019</year>). <article-title>Patient expectations and experiences of remote monitoring for chronic diseases: Systematic review and thematic synthesis of qualitative studies</article-title>. <source>International Journal of Medical Informatics</source>, <volume>124</volume>, <fpage>78</fpage>&#x2013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2019.01.013</pub-id>
+<pub-id pub-id-type="pmid">30784430</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12814-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12814-cit-0017">
+<string-name>
+<surname>Winter</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2022</year>). <article-title>Reshaping health care governance using pilot projects as public policy implementation instruments</article-title>. <source>International Review of Public Policy</source>, <volume>2</volume>(<issue>3</issue>), <fpage>317</fpage>&#x2013;<lpage>341</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1599 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12835" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36281970</article-id>
+      <article-id pub-id-type="pmc">9874398</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12835</article-id>
+      <article-id pub-id-type="publisher-id">JNU12835</article-id>
+      <article-id pub-id-type="other">JNU-05-22-341.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Special Issue</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The perceived effects of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 while living with a chronic illness</article-title>
+        <alt-title alt-title-type="right-running-head">
+<styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 and chronic illness</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12835-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Ryder</surname>
+            <given-names>Mary</given-names>
+          </name>
+          <degrees>PhD, MSc, BNS</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0988-4941</contrib-id>
+          <xref rid="jnu12835-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>mary.ryder@ucd.ie</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12835-cr-0002" contrib-type="author">
+          <name>
+            <surname>Guerin</surname>
+            <given-names>Suzanne</given-names>
+          </name>
+          <degrees>PhD, MSc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6744-7590</contrib-id>
+          <xref rid="jnu12835-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0003" contrib-type="author">
+          <name>
+            <surname>Forde</surname>
+            <given-names>Rita</given-names>
+          </name>
+          <degrees>PhD, MSc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1906-2431</contrib-id>
+          <xref rid="jnu12835-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0004" contrib-type="author">
+          <name>
+            <surname>Lowe</surname>
+            <given-names>Grainne</given-names>
+          </name>
+          <degrees>PhD, MSc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1545-3187</contrib-id>
+          <xref rid="jnu12835-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0005" contrib-type="author">
+          <name>
+            <surname>Jaarsma</surname>
+            <given-names>Tiny</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12835-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <xref rid="jnu12835-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0006" contrib-type="author">
+          <name>
+            <surname>O'Neill</surname>
+            <given-names>Madeline</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="jnu12835-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0007" contrib-type="author">
+          <name>
+            <surname>Halley</surname>
+            <given-names>Carmel</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref rid="jnu12835-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12835-cr-0008" contrib-type="author">
+          <name>
+            <surname>Connolly</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <degrees>PhD, MSc</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6602-1803</contrib-id>
+          <xref rid="jnu12835-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12835-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing, Midwifery &amp; Health Systems</named-content>
+<institution>University College Dublin</institution>
+<city>Dublin</city>
+<country country="IE">Ireland</country>
+</aff>
+      <aff id="jnu12835-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Psychology</named-content>
+<institution>University College Dublin</institution>
+<city>Dublin</city>
+<country country="IE">Ireland</country>
+</aff>
+      <aff id="jnu12835-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Nursing, Midwifery and Palliative Care</named-content>
+<institution>Kings College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff>
+      <aff id="jnu12835-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Health and Wellbeing</named-content>
+<institution>Federation University Australia</institution>
+<city>Melbourne</city>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jnu12835-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health, Medicine and Caring Sciences</named-content>
+<institution>Link&#xF6;ping University</institution>
+<city>Link&#xF6;ping</city>
+<country country="SE">Sweden</country>
+</aff>
+      <aff id="jnu12835-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Julius Center</named-content>
+<institution>University Medical Centre Utrecht</institution>
+<city>Utrecht</city>
+<country country="NL">The Netherlands</country>
+</aff>
+      <aff id="jnu12835-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing, Midwifery &amp; Health Systems, University College Dublin</named-content>
+<named-content content-type="organisation-division">Registered Advanced Nurse Practitioner</named-content>
+<institution>Our Lady's Hospice and Care Services, Harold's Cross</institution>
+<city>Dublin 8</city>
+<country country="IE">Ireland</country>
+</aff>
+      <aff id="jnu12835-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>St Vincent's University Hospital</institution>
+<city>Dublin 4</city>
+<country country="IE">Ireland</country>
+</aff>
+      <aff id="jnu12835-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>School of Nursing, Midwifery &amp; Health Systems University College Dublin and Our Lady's Hospice &amp; Care Services</institution>
+<city>Dublin</city>
+<country country="IE">Ireland</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Mary Ryder, General Nursing, School of Nursing, Midwifery &amp; Health Systems, University College Dublin, Ireland.<break/>
+Email: <email>mary.ryder@ucd.ie</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>25</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="180">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>154</fpage>
+      <lpage>162</lpage>
+      <history>
+<date date-type="rev-recd"><day>30</day><month>9</month><year>2022</year></date>
+<date date-type="received"><day>23</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>10</day><month>10</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of Nursing Scholarship</italic> published by Wiley Periodicals LLC on behalf of Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-154.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12835-sec-0001">
+          <title>Introduction</title>
+          <p>A diagnosis of chronic illness posed a serious threat to people during the recent COVID&#x2010;19 pandemic. People with chronic illnesses were faced with increased mortality and reduced access to healthcare. Self&#x2010;care is the process of maintaining health and managing a chronic illness. Nurses working in specialist services provide healthcare education to people with chronic illnesses. Access to these nurses was decreased during periods of the COVID&#x2010;19 virus escalation due to the reconfiguration of services and redeployment of nurses. The purpose of the research was to learn from the experiences of people with a chronic illnesses in self&#x2010;care behaviors and accessing altered healthcare services to inform future practices.</p>
+        </sec>
+        <sec id="jnu12835-sec-0002">
+          <title>Design</title>
+          <p>A population survey design.</p>
+        </sec>
+        <sec id="jnu12835-sec-0003">
+          <title>Methods</title>
+          <p>A mixed methods survey was designed, combining validated questionnaires and scales with open&#x2010;ended questions. A convenience sample was utilized via using social media platforms. Data analysis included descriptive and inferential statistics. Content analysis was used to analyze open&#x2010;ended responses.</p>
+        </sec>
+        <sec id="jnu12835-sec-0004">
+          <title>Results</title>
+          <p>There were 147 responses, with approximately half reporting no changes in face&#x2010;to&#x2010;face healthcare contact, 41% reporting decreased contacts and 12% increased contacts. Non&#x2010;face&#x2010;to&#x2010;face contacts were reduced by almost 9%, did not change by almost 60%, while 33% indicated an increase. Participants reported mixed perceptions in contact with healthcare providers during restrictions. In the Patient Assessment of Chronic Illness Care and the Self&#x2010;Care of Chronic Illness scales, participants scored statistically lower scores than in previous studies. Participants indicated that public health restrictions negatively impacted their confidence, created challenges with re&#x2010;engaging and that access to care was more difficult.</p>
+        </sec>
+        <sec id="jnu12835-sec-0005">
+          <title>Conclusion</title>
+          <p>This research highlights the importance of providing continued support to people with chronic illness irrespective of other challenges to healthcare services. A structured approach to virtual self&#x2010;care education is required.</p>
+        </sec>
+        <sec id="jnu12835-sec-0006">
+          <title>Clinical relevance</title>
+          <p>This research concluded that the experience of access to one healthcare professional as opposed to diverse multidisciplinary input was similar for a number of chronic illnesses groups of people during the COVID&#x2010;19 pandemic. There was an altered dynamic of virtual contacts with healthcare providers and a lack of confidence interpreting what monitoring was required by people with a chronic illnesses due to a lack of preparedness for virtual healthcare delivery.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12835-kwd-0001">arthritis</kwd>
+        <kwd id="jnu12835-kwd-0002">chronic illness</kwd>
+        <kwd id="jnu12835-kwd-0003">COVID&#x2010;19</kwd>
+        <kwd id="jnu12835-kwd-0004">diabetes</kwd>
+        <kwd id="jnu12835-kwd-0005">heart failure</kwd>
+        <kwd id="jnu12835-kwd-0006">lung disease</kwd>
+        <kwd id="jnu12835-kwd-0007">self&#x2010;care</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="5"/>
+        <page-count count="9"/>
+        <word-count count="6318"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12835-cit-2001">
+<string-name>
+<surname>Ryder</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Guerin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Forde</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lowe</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>O&#x2019;Neill</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Halley</surname>, <given-names>C.</given-names>
+</string-name> &amp; <string-name>
+<surname>Connolly</surname>, <given-names>M.</given-names>
+</string-name> (<year>2023</year>). <article-title>The perceived effects of <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x2010;19 while living with a chronic illness</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>154</fpage>&#x2013;<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12835</pub-id>
+<pub-id pub-id-type="pmid">36281970</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12835-body-0001">
+    <sec id="jnu12835-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>Coronavirus disease is an infectious disease commonly associated with infections in the nose and throat. In early 2020, the World Health Organization (WHO) identified SARS&#x2010;CoV&#x2010;2 as a new type of coronavirus disease (COVID&#x2010;19) which quickly spread throughout the world, through traditional person&#x2010;to&#x2010;person contact (WHO 2020) causing viral pneumonia.</p>
+      <p>In people with a diagnosis of diabetes, the risk of death associated with COVID&#x2010;19 infection was significantly increased (Chee et al.,&#xA0;<xref rid="jnu12835-bib-0005" ref-type="bibr">2020</xref>; Hillson,&#xA0;<xref rid="jnu12835-bib-0015" ref-type="bibr">2020</xref>). While international trends demonstrated a decrease in hospitalizations for acute decompensated heart failure (Cox et al.,&#xA0;<xref rid="jnu12835-bib-0007" ref-type="bibr">2020</xref>), people with heart failure were associated with increased mortality following a COVID&#x2010;19 diagnosis (Rey et al.,&#xA0;<xref rid="jnu12835-bib-0025" ref-type="bibr">2020</xref>; Tomasoni et al.,&#xA0;<xref rid="jnu12835-bib-0032" ref-type="bibr">2020</xref>). In addition, medications used to treat people with rheumatoid arthritis and lupus placed people at an increased risk of infection (Michaud et al.,&#xA0;<xref rid="jnu12835-bib-0020" ref-type="bibr">2020</xref>). A diagnosis of a chronic illness posed a significant morbid threat for people causing distress (Antony et al.,&#xA0;<xref rid="jnu12835-bib-0003" ref-type="bibr">2020</xref>). Yet access to chronic illness services was severely disrupted during restrictions.</p>
+      <p>The treatment and management of people with chronic illness traditionally include regular hospital visits with specialist healthcare teams, including medication titration regimens, and rapid consultation and review for reported symptoms of deterioration. Self&#x2010;care is a foundation for chronic illness management. Self&#x2010;care is defined as &#x2018;a process of maintaining health through health promoting practices and managing illness&#x2019; (Riegel et al.,&#xA0;<xref rid="jnu12835-bib-0026" ref-type="bibr">2012</xref> p195) self&#x2010;care is performed in both healthy and ill states. Self&#x2010;care education empowers people with chronic illnesses to maintain stability and to assess and respond to indicators that their illness has become unstable (De Maria et al.,&#xA0;<xref rid="jnu12835-bib-0008" ref-type="bibr">2021</xref>). The primary role of nurses working in specialist chronic illness services is to deliver self&#x2010;care education to people. Self&#x2010;care has traditionally been delivered by nurses in a face&#x2010;to&#x2010;face format and is supplemented with written and digital materials.</p>
+      <p>Teaching self&#x2010;care is a complex phased process and evidence indicates self&#x2010;care improves over the first year of the illness (Aamodt et al.,&#xA0;<xref rid="jnu12835-bib-0001" ref-type="bibr">2020</xref>). Multidisciplinary teams in chronic illness management are associated with improved outcomes for people attending, including increased compliance, reduced anxiety, and a reduction in hospitalizations. During the acute phases of the pandemic, people with chronic illness faced an increased risk to their health due to abrupt changes in healthcare delivery, to virtual contact service.</p>
+      <p>A significant proportion of the literature to date reports healthcare professionals' perceptions of the effect of COVID&#x2013;19 on specialist patient populations (Ciacci &amp; Siniscalchi,&#xA0;<xref rid="jnu12835-bib-0006" ref-type="bibr">2020</xref>; Forde et al.,&#xA0;<xref rid="jnu12835-bib-0011" ref-type="bibr">2021</xref>; Mauro et al.,&#xA0;<xref rid="jnu12835-bib-0019" ref-type="bibr">2020</xref>; Rey et al.,&#xA0;<xref rid="jnu12835-bib-0025" ref-type="bibr">2020</xref>; Zukowski et al.,&#xA0;<xref rid="jnu12835-bib-0035" ref-type="bibr">2021</xref>). There is a dearth of literature reporting people's perceptions of the effect of COVID&#x2010;19 on self&#x2010;care for their chronic illness. This research aims to explore the perceived effects of COVID&#x2010;19 on those living with a chronic illness during the pandemic and any associated restrictions. This research will provide insight into challenges faced by individuals when accessing the altered healthcare service delivery during the pandemic. The study will also seek to explore if new health&#x2010;seeking behaviors emerged during the COVID&#x2010;19 pandemic. The purpose of the research is to learn from the experiences of people with a chronic illnesses in self&#x2010;care behaviors and accessing altered healthcare services to inform future practices. The research questions included:
+<list list-type="order" id="jnu12835-list-0001"><list-item id="jnu12835-li-0001"><p>How did contact with healthcare change for people with a chronic illness during the COVID&#x2010;19 pandemic?</p></list-item><list-item id="jnu12835-li-0002"><p>What was the self&#x2010;care experience for people with a chronic illness during the COVID&#x2010;19 restrictions?</p></list-item><list-item id="jnu12835-li-0003"><p>How has COVID&#x2010;19 impacted the lives of people with a chronic illnesses?</p></list-item></list>
+</p>
+    </sec>
+    <sec id="jnu12835-sec-0008">
+      <title>DESIGN</title>
+      <sec sec-type="materials-and-methods" id="jnu12835-sec-0009">
+        <title>Materials and methods</title>
+        <p>The target population included individuals living with a chronic illness, specifically diabetes, heart failure/cardiac conditions, arthritis, and respiratory conditions. The study used a population survey design, with all members of the target population invited to take part in the study. Participants that did not identify a chronic condition in their response were excluded from the study. To facilitate participation, an online/cloud&#x2010;based survey was created. The survey used mixed methods, combining validated questionnaires and scales and open&#x2010;ended qualitative questions. Participants were required to read the information page and select the option &#x2018;I consent to participate&#x2019; to proceed to the survey.</p>
+        <p>A convenience sample was generated using social media recruitment methods. The study was advertised on Twitter, Facebook, and LinkedIn social media sites during May 2021. Relevant patient advocacy groups were tagged in the posts to raise awareness of the study.</p>
+      </sec>
+      <sec id="jnu12835-sec-0010">
+        <title>Data collection</title>
+        <p>Data were collected via a Qualtrics online survey. The completed questionnaire data were anonymous, and any identifiable data returned as part of open&#x2010;ended questions was de&#x2010;identified prior to analysis. Participants were asked to name all of the chronic illnesses that they had been diagnosed with. Questions exploring pre&#x2010;pandemic healthcare were phrased &#x201C;in the year before the pandemic.&#x201D; Questions exploring participants' responses during periods of restrictions were phrases &#x201C;during the last six months&#x201D; reflecting the period of restrictions before May 2021. Quantitative content included structured questions on the frequency of contact with professionals and three validated tools:
+<list list-type="order" id="jnu12835-list-0002"><list-item id="jnu12835-li-0004"><p>Self&#x2010;care of chronic illness inventory version 3, English version (Riegel et al., 2018). This is a self&#x2010;report measure of the processes of self&#x2010;care, designed for use with individuals with a range of chronic conditions. The scale has shown good reliability and validity in empirical studies (e.g., Brito Villa et al.,&#xA0;<xref rid="jnu12835-bib-0004" ref-type="bibr">2022</xref>). The version used requested reports of both common and recently used monitoring behaviors and allows for the calculation of a standardized score out of 100 (higher scores indicate more frequent use of the behaviors) across four subscales assessing aspects of self&#x2010;care, monitoring, and control. Cronbach alpha values in the present study ranged from 0.428 to 0.871.</p></list-item><list-item id="jnu12835-li-0005"><p>Patient assessment of chronic illness care tool (PACIC; Glasgow, Wagner, et al.,&#xA0;<xref rid="jnu12835-bib-0012" ref-type="bibr">2005</xref>). This self&#x2010;report measure was designed as a brief assessment of patient&#x2010;reported care in the context of the Chronic Care Model. The five subscales and overall score allow for the calculation of an average score between 1 and 5, with higher scores indicating more positive reports. The PACIC tool has been widely used and shown to have good reliability and validity (e.g., Schmittdiel et al.,&#xA0;<xref rid="jnu12835-bib-0030" ref-type="bibr">2008</xref>). Cronbach alpha values for the subscales in the present study ranged from 0.768 to 0.846, while the overall score had an alpha of 0.949.</p></list-item><list-item id="jnu12835-li-0006"><p>Self&#x2010;care self&#x2010;efficacy scale (Yu et al.,&#xA0;<xref rid="jnu12835-bib-0034" ref-type="bibr">2021</xref>). Confidence in self&#x2010;care was assessed using the 10&#x2010;item Self&#x2010;Care Self&#x2010;Efficacy scale, which was part of the Self&#x2010;Care of Heart Failure Index (Riegel et al.,&#xA0;<xref rid="jnu12835-bib-0027" ref-type="bibr">2009</xref>). This brief scale has been used as a separate scale with individuals with a range of chronic illnesses, with scores ranging from 10 to 50, with higher scores indicating greater self&#x2010;reported self&#x2010;efficacy or confidence in managing self&#x2010;care. There is evidence of good reliability and validity (e.g., Osokpo et al.,&#xA0;<xref rid="jnu12835-bib-0022" ref-type="bibr">2022</xref>) and Cronbach's alpha in the present study was 0.922.</p></list-item><list-item id="jnu12835-li-0007"><p>Coronavirus impact scale (Stoddard et al.,&#xA0;<xref rid="jnu12835-bib-0031" ref-type="bibr">2021</xref>). Given the relatively recent emergence of COVID&#x2010;19, this scale was chosen as a brief self&#x2010;report measure of the impact of COVID&#x2010;19, with the initial evidence of its reliability and use with a range of clinical samples (Stoddard et al.,&#xA0;<xref rid="jnu12835-bib-0031" ref-type="bibr">2021</xref>). It generates a single score ranging from 8 to 32, with higher scores indicating a higher perceived impact associated with COVID&#x2010;19 and its associated restrictions. The authors note it is included in the NIH OBSSR suite of common instruments. Cronbach's alpha in the present study was 0.704.</p></list-item></list>
+</p>
+        <p>The qualitative component used open&#x2010;ended questions to explore perceptions of changes in contact with healthcare providers during the pandemic and the impact on their life. An example of open&#x2010;ended questions include &#x201C;Please describe what you feel have been the main changes to your contact with your specialist healthcare provider?&#x201D; and &#x201C;Please tell us about any other ways the coronavirus pandemic has impacted your life.&#x201D;</p>
+      </sec>
+      <sec id="jnu12835-sec-0011">
+        <title>Data analysis</title>
+        <p>Data analysis included frequency analysis and descriptive statistics for core quantitative elements of the survey. In addition, inferential statistics included one&#x2010;sample t&#x2010;tests comparing scale scores to published means to allow the study to profile the sample against other chronic illness samples, and Pearson's correlations exploring relationships between scale scores. The impact of demographic variables was assessed using t&#x2010;tests and Analysis of Variance tests, with the scales serving as dependent variables and factors including condition, gender, and location used as independent variables. For all inferential statistics, normal distributions within the population were assumed allowing for the use of non&#x2010;parametric tests, while CI<sub>95</sub> and correlation coefficients are reported in addition to p&#x2010;values.</p>
+        <p>The open&#x2010;text questions were analyzed using an inductive content analysis approach (Elo &amp; Kyng&#xE4;s,&#xA0;<xref rid="jnu12835-bib-0009" ref-type="bibr">2008</xref>; Erlingsson &amp; Brysiewicz,&#xA0;<xref rid="jnu12835-bib-0010" ref-type="bibr">2017</xref>) to provide a description of the participant's experiences of the main changes to their contact with specialist healthcare providers, and the impact of the pandemic. This process involved familiarization with the data, developing meaning units from the responses, formulating codes, and generating categories and themes. The codes were developed by three researchers independently and iteratively refined collaboratively. The coded data and categories were discussed with the wider team and a consensus was reached on the categories and themes. Where indicative quotes are included participant identifiers are noted in parenthesis.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12835-sec-0012">
+      <title>RESULTS</title>
+      <p>A final sample of 147 individuals was included in the study (see Table&#xA0;<xref rid="jnu12835-tbl-0001" ref-type="table">1</xref>). The sample was predominantly female (76.2%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;112), with male (21.1%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;31) and non&#x2010;binary (0.7%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;1). The age range of the sample was 19&#x2013;84&#x2009;years (<italic toggle="yes">Mean</italic>&#xA0;=&#xA0;48.2, <italic toggle="yes">SD</italic>&#xA0;=&#xA0;11.3), with 20% under the age of 40&#x2009;years and 14.5% aged 60 and over. Just under two&#x2010;thirds of the sample were based in Ireland (62.2%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;92), with 33.3% based in the UK (<italic toggle="yes">n</italic>&#xA0;=&#xA0;49) and 3.4% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;5) in other locations. Within these countries the participants were spread relatively equally across large urban (31.3%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;46), small urban (16.3%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;24), suburban (29.3%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;43), and rural (23.1%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;34) locations. In terms of the medical conditions reported by the participants, the majority of the group reported only one chronic condition (76.2%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;112), with 23.8% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;35) reporting two or three conditions. There was no evidence of systematic differences in demographic characteristics across the illness groups.</p>
+      <table-wrap position="float" id="jnu12835-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Classification of illness frequency and age by group</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Condition<xref rid="jnu12835-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Mean age<xref rid="jnu12835-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Median age</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Diabetes (Type 1 and Type 2)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">43</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29.3%</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">44.7</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">10.0</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">47.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Rheumatology (IA and osteoarthritis)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">36</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">24.5%</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">47.0</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">10.6</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">47.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cardiac (including heart failure)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">20</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">13.6%</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">48.6</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">11.1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">48.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Respiratory (including asthma and chronic obstructive pulmonary disease)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">8.2%</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">44.1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">8.4</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">44.5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Multiple conditions</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">35</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">23.8%</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">54.8</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">11.8</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">52.0</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12835-ntgp-0001">
+          <fn id="jnu12835-note-0001">
+            <label>a</label>
+            <p>One participant reported an &#x2018;other&#x2019; condition.</p>
+          </fn>
+          <fn id="jnu12835-note-0002">
+            <label>
+<sup>b</sup>
+</label>
+            <p>Those with multiple conditions were statistically significantly older than those with diabetes (<italic toggle="yes">F</italic> [4139]&#xA0;=&#xA0;&#x2212;4.952, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.003; <italic toggle="yes">CI</italic>
+<sub>
+<italic toggle="yes">95</italic>
+</sub>&#x2013;17.680; &#x2212;2.478).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Data on the length of the condition were available for 131 participants, with the timeframe ranging from under 1 to 71&#x2009;years (<italic toggle="yes">Mean</italic>&#xA0;=&#xA0;20&#x2009;years, <italic toggle="yes">SD</italic>&#xA0;=&#xA0;15.2). Overall, 27.2% of the sample (<italic toggle="yes">n</italic>&#xA0;=&#xA0;40) had lived with at least one chronic condition for less than 10&#x2009;years, while 38.1% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;56) had lived with at least one chronic condition for more than 20&#x2009;years. Table&#xA0;<xref rid="jnu12835-tbl-0002" ref-type="table">2</xref> reports the length of illness by condition for any reports of the diagnosis (including those with multiple conditions).</p>
+      <table-wrap position="float" id="jnu12835-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Frequency of condition and length of illness</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Condition<xref rid="jnu12835-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> (m)</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Range<xref rid="jnu12835-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Median</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">&lt;1&#x2009;year</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">1&#x2013;5&#x2009;years</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">6&#x2013;10&#x2009;years</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">&gt;10&#x2009;years</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Diabetes</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">61 (3)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;1&#x2013;54&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">24.5</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">41</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Rheumatology</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">56 (26)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2&#x2013;31&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">10.0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">25</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cardiac</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">36 (6)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;1&#x2013;71&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Respiratory</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">34 (6)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2&#x2013;61&#x2009;years</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">25.0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">24</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">N/A</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">N/A</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2010;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2010;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2010;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2010;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12835-ntgp-0002">
+          <fn id="jnu12835-note-0003">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Includes all reports of a condition, so the total is &gt;100%, with missing data noted (m).</p>
+          </fn>
+          <fn id="jnu12835-note-0004">
+            <label>
+<sup>b</sup>
+</label>
+            <p>Those with very extended periods of illness reflect congenital conditions, note some missing data.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec id="jnu12835-sec-0013">
+        <title>Engagement with healthcare</title>
+        <p>Participants were asked to report the number of healthcare contacts (both face&#x2010;to&#x2010;face and online) before and during COVID&#x2010;19 restrictions and reports were tabulated to identify any possible impact (see Tables&#xA0;<xref rid="jnu12835-tbl-0003" ref-type="table">3</xref> and <xref rid="jnu12835-tbl-0004" ref-type="table">4</xref>). Cells marked in dark gray represent increases in contacts, while light gray reflects decreases. Cells appearing on the diagonal (no shading) reflect no change in reporting.</p>
+        <table-wrap position="float" id="jnu12835-tbl-0003" content-type="TABLE">
+          <label>TABLE 3</label>
+          <caption>
+            <p>Face&#x2010;to&#x2010;face contacts</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1"/>
+                <th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">During COVID&#x2010;19 restrictions</th>
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1"/>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Before COVID&#x2010;19</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">One contact</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">2&#x2013;5 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">6&#x2013;10 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">&gt;10 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Total</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">One contact</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">17</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">5</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">24</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2&#x2013;5 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">30</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">26</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">60</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">6&#x2013;10 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&gt;10 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Total</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">49</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">38</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">95</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap position="float" id="jnu12835-tbl-0004" content-type="TABLE">
+          <label>TABLE 4</label>
+          <caption>
+            <p>Non&#x2010;face&#x2010;to&#x2010;face contacts</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1"/>
+                <th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">During COVID&#x2010;19 restrictions</th>
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1"/>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Before COVID&#x2010;19</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">One contact</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">2&#x2013;5 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">6&#x2013;10 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">&gt;10 contacts</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Tot</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">One contact</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">32</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">19</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">4</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">56</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2&#x2013;5 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">14</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">3</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">23</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">6&#x2013;10 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#BFBFBF" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&gt;10 contacts</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td style="background-color:#F2F2F2" align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Total</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">38</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">34</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">81</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Of the 95 participants who answered both of these questions for face&#x2010;to&#x2010;face contacts (Table&#xA0;<xref rid="jnu12835-tbl-0003" ref-type="table">3</xref>), just under half (47.4%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;45) reported no changes in contact, while 41.1% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;39) reported a drop in contacts and 11.6% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;11) an increase in contacts. Examining the same patterns for participants reporting non face&#x2010;to&#x2010;face contacts (<italic toggle="yes">n</italic>&#xA0;=&#xA0;81, see Table&#xA0;<xref rid="jnu12835-tbl-0004" ref-type="table">4</xref>), almost 60% (58.0%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;47) reported no changes in contact. However, 8.6% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;7) reported a drop in contacts while a third of participants (33.3%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;27) reported an increase in contacts.</p>
+        <p>Participants also self&#x2010;reported the perceived impact of COVID&#x2010;19 restrictions on their contact with a specialist healthcare provider. While 15% did not respond to this question, a further 15% (<italic toggle="yes">n</italic>&#xA0;=&#xA0;22) reported that contact had increased, just over one&#x2010;third (35.4%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;52) reported no change, while a similar proportion (34.7%, <italic toggle="yes">n</italic>&#xA0;=&#xA0;51) reported contact had decreased.</p>
+        <p>The qualitative data describe perceptions of changes in contact with healthcare providers among respondents, with reports of both increased and reduced frequency of consultations. Participants perceived that virtual care provided a better use of time, and reduced costs, however, there was an increased reliance on people to self&#x2010;report and a reduction in screening/surveillance. Participants also reported that availability and/or access to care was altered and more difficult, with a change in emphasis away from chronic illness. Some respondents indicated that not only were their healthcare providers less available to them, but there was also a lack of input into their care from the various members of the multidisciplinary team, a key feature of chronic illness management prior to the pandemic. This perception is illustrated in the following extract from one respondent:<disp-quote content-type="quotation" id="jnu12835-blkfxd-0001"><p>&#x201C;I feel we are being left behind, with covid being top priority as time goes on our conditions can get worse nobody knows unless regular checks are done. When covid was not here it was deemed necessary for checks regularly but now in covid it doesn't seem to matter&#x201D;. (86)</p></disp-quote>
+</p>
+        <p>For other respondents' remote access was considered positive, with indications that healthcare providers were actually more available and easier to access:<disp-quote content-type="quotation" id="jnu12835-blkfxd-0002"><p>&#x201C;My provider seems to be more available via telehealth than they were before the pandemic&#x201D;. (119)</p></disp-quote>
+</p>
+        <p>However, for others, the &#x201C;remote environment' was less comfortable, and they felt their encounters were time limited&#x201D;. (60).</p>
+        <p>Some unexpected consequences of virtual consultations were also reported with participations sharing that family members were able to participate in their consultation. For others virtual participation meant they had reduced traveling time and costs associated with attending in&#x2010;person appointments, which indicated that virtual contacts seemed more convenient:<disp-quote content-type="quotation" id="jnu12835-blkfxd-0003"><p>&#x201C;I had one telephone conversation with a nurse instead of a doctor and it was great &#x2010; I didn't have to pay for parking. I didn't have to wait for over an hour, they had looked at my notes previously and asked relevant questions. It was quite disappointing to go back into the clinic. I can understand if you have something that needs to be physically inspected, but I would love to have more of these kinds of consultations rather than face&#x2010;to&#x2010;face.&#x201D; (184)</p></disp-quote>
+</p>
+      </sec>
+      <sec id="jnu12835-sec-0014">
+        <title>Analysis of scale scores</title>
+        <p>Descriptive statistics for the scales used are reported in Table&#xA0;<xref rid="jnu12835-tbl-0005" ref-type="table">5</xref>. For the Patient Assessment of Chronic Illness Care (PACIC), participants scored in the lower end of the possible range. In comparison, on the other scales, participants were showing a wider range of scores. There was no evidence of any statistically significant impact of demographic variables on scores on these scales.</p>
+        <table-wrap position="float" id="jnu12835-tbl-0005" content-type="TABLE">
+          <label>TABLE 5</label>
+          <caption>
+            <p>Descriptive and interferential statistics for standardized scales.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="char" char="." span="1"/>
+            <col align="char" char="." span="1"/>
+            <col align="char" char="&#x2013;" span="1"/>
+            <col align="char" char="&#x2013;" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Scale</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Mean</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Actual range</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Possible range</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Published mean (SD)</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" colspan="6" valign="top" rowspan="1">Self&#x2010;care of chronic illness inventory<xref rid="jnu12835-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">A: Common self&#x2010;help behaviors</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">68.8</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">11.8</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">37.5&#x2013;93.7</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0&#x2013;100</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">74.3</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">B: Common monitoring behaviors</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">72.2</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">19.4</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">20&#x2013;100</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0&#x2013;100</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">77.9</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">B: Recent monitoring behaviors</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">75.3</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">20.4</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">25&#x2013;100</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0&#x2013;100</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/A</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">C: Common control behaviors</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">62.2</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">17.3</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">20&#x2013;100</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0&#x2013;100</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">67.6<xref rid="jnu12835-note-0006" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Self&#x2010;care self&#x2010;efficacy scale</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">37.0</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8.65</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10&#x2013;50</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10&#x2013;50</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/A</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Patient assessment of chronic illness care total<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2.37</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0.9</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;4.6</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.2 (0.9)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">PACIC&#x2014;Patient activation<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2.81</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1.2</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.6 (1.1)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">PACIC&#x2014;Decision support<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2.69</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0.9</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.5 (0.9)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">PACIC&#x2014;Goalsetting &amp; Tailoring<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2.17</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0.9</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.0 (0.9)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">PACIC&#x2014;Problem solving<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2.62</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1.1</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3.4 (1.1)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">PACIC&#x2014;Follow&#x2010;up/Coordination<xref rid="jnu12835-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1.94</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0.9</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;4.6</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1&#x2013;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2.9 (1.0)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Coronavirus impact scale</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">17.7</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">3.77</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8&#x2013;27</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8&#x2013;32</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">N/A</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12835-ntgp-0003">
+            <fn id="jnu12835-note-0005">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Scale Scores have been standardized scale (0&#xA0;=&#xA0;100) and compared to figures reported by van Rijn et al (in press) for a sample with heart failure.</p>
+            </fn>
+            <fn id="jnu12835-note-0006">
+              <label>
+<sup>b</sup>
+</label>
+              <p>van Rijn et al. reported control behavior scores for people with and without symptoms, this figure represents the average across the two groups.</p>
+            </fn>
+            <fn id="jnu12835-note-0007">
+              <label>
+<sup>c</sup>
+</label>
+              <p>Calculated as an average score&#x2014;Published means from Glasgow, Whitesides, et al.,&#xA0;<xref rid="jnu12835-bib-0013" ref-type="bibr">2005</xref> reporting for the sample with diabetes.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>For the <italic toggle="yes">PACIC scale and subscales</italic>, the present sample scored statistically significantly lower than the sample of people with diabetes reported by Glasgow, Whitesides, et al.&#xA0;(<xref rid="jnu12835-bib-0013" ref-type="bibr">2005</xref>) &#x2010; PACIC Total t (97)&#xA0;=&#xA0;&#x2212;9.074, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.0104, &#x2212;0.6477; PACIC Activation t (101)&#xA0;=&#xA0;&#x2212;6.763, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.0169, &#x2212;0.5557; PACIC Decision Support t (99)&#xA0;=&#xA0;&#x2212;8.157, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.0029, &#x2212;0.6104; PACIC Goalsetting t (99)&#xA0;=&#xA0;&#x2212;8.546, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.0174, &#x2212;0.6340; PACIC Problem&#x2010;solving t (101)&#xA0;=&#xA0;&#x2212;7.147, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.0026, &#x2212;0.5670; and PACIC Follow&#x2010;up t (100)&#xA0;=&#xA0;&#x2212;10.587, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2013;1.1298, &#x2212;0.7732. A similar pattern was observed for the <italic toggle="yes">Self&#x2010;Care of Chronic Illness (SCCI) subscales</italic>, with the present sample scoring statistically significantly lower than a sample of people with heart failure (van Rijn et al.,&#xA0;<xref rid="jnu12835-bib-0033" ref-type="bibr">2022</xref>)&#x2014;SCCI Common Self&#x2010;Help t (112)&#xA0;=&#xA0;&#x2212;4.948, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CI95&#x2010;7.6948, &#x2212;3.2945; SCCI Common Monitoring t (112)&#xA0;=&#xA0;&#x2212;3.135, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.002, CI95&#x2010;9.3539, &#x2212;2.1098; SCCI Recent Monitoring N/A; Common Control t (112)&#xA0;=&#xA0;&#x2212;3.346, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.001, CI95&#x2010;8.6479, &#x2212;2.2158. It is also noted that the sample in the present study scored below the cut&#x2010;off of 70 reported by van Rijn et al.&#xA0;(<xref rid="jnu12835-bib-0033" ref-type="bibr">2022</xref>) for both self&#x2010;care and control subscales.</p>
+        <p>The perceived impact of COVID&#x2010;19 generally showed weak correlations with self&#x2010;care management and monitoring, however, there was a small negative correlation with the self&#x2010;care self&#x2010;efficacy scale (<italic toggle="yes">r</italic>&#xA0;=&#x2009;&#x2212;0.352; <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001). In addition, small negative correlations were found with all subscales of the PACIC (<italic toggle="yes">r</italic> values from &#x2212;0.229 to &#x2212;0.308; <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.015 for all correlations), with the exception of the activation subscale (<italic toggle="yes">r</italic>&#xA0;=&#x2009;&#x2212;0.166; <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.055). The direction of the albeit weak correlations suggests that the higher impact of COVID&#x2010;19 was associated with lower self&#x2010;efficacy/confidence and lower assessments of care.</p>
+        <p>Respondents echoed these findings in the open&#x2010;text questions on the impact of the pandemic on life, indicating that public health recommendations for isolation and restriction of movements had negative consequences. Two themes illustrate this, the &#x201C;emotional response&#x201D; and &#x201C;feeling restricted.&#x201D; Emotionally, respondents expressed impacted their reduced sense of confidence; &#x201C;Hope I get my confidence back (87).&#x201D; This reduced sense of confidence also impacted their engagement in clinic consultations with a respondent reporting they did not feel they could rely on their own judgment or distinguish what was relevant in relation to their own healthcare:<disp-quote content-type="quotation" id="jnu12835-blkfxd-0004"><p>&#x201C;I have been critically ill which has necessitated a lot more interaction. I have had all care with my usual provider over the telephone which has been more easy to discuss properly and in detail than in the past face&#x2010;to&#x2010;face but does rely more on my judgement. This is stressful as I have no real measures or knowledge to know whether I'm making the right judgement calls and they are trusting and relying on me to do that.&#x201D; (43)</p></disp-quote>The emotional responses also include a sense of fear, grief, and isolation with a particular fear of healthcare settings and of catching COVID&#x2010;19.</p>
+        <p>In relation to feeling restricted respondents reported feeling isolated related to loneliness, lack of social contact, and the need to attend alone for care. They also illustrated challenges when considering re&#x2010;engagement with society having led a more insulated life during the pandemic:<disp-quote content-type="quotation" id="jnu12835-blkfxd-0005"><p>&#x201C;Has made me even more insular &#x2010; I must be the only one who is quite happy with quarantine, although my confidence, work, socialisation skills etc have suffered, I'm not normal am I? &#x201C;(45)</p></disp-quote>Feeling restricted, has also had financial impacts and some increased workload due to responsibilities with homeschooling. While for others feeling restricted was more positive, in relation to self&#x2010;management and virtual consultations.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12835-sec-0015">
+      <title>DISCUSSION</title>
+      <p>The results of this research identified that the reported experiences of access to healthcare providers were similar for people with chronic illnesses irrespective of their primary diagnosis. This research utilized a combination of quantitative and qualitative data, which was uncommon in COVID&#x2010;19 research. There are two key findings evident in this study. The first is that while there were negative correlations between the impact of COVID&#x2010;19 and both confidence in self&#x2010;care and assessment of care these were low. The second is that the majority reported no change or an increase in face&#x2010;to&#x2010;face contact with their healthcare providers. While the amount of contact may not have changed their assessment of the quality of care reflected negative experiences. The quantitative data are supported qualitatively in responses relating to the two key findings.</p>
+      <p>This research suggests that healthcare support during COVID&#x2010;19 restrictions was associated with reduced self&#x2010;care behaviors for people with chronic illnesses. Participants in this research reported reduced support from the chronic illness team which was associated with a negative impact on their ability to perform self&#x2010;care. Chronic illness healthcare services are delivered primarily by specialist nurses. Mobilization of nurses throughout the pandemic relied heavily on the redeployment of specialist nurses (Ryder et al.,&#xA0;<xref rid="jnu12835-bib-0028" ref-type="bibr">2022</xref>). It is reasonable, therefore, to expect that their redeployment would result in a negative impact on chronic illness services. Forde et al.&#xA0;(<xref rid="jnu12835-bib-0011" ref-type="bibr">2021</xref>) reported that specialist nurses identified distress for people with diabetes across Europe with reduced support resulting in increased complications. Reduced support for people described here specifically impacts self&#x2010;care education and support.</p>
+      <p>This research suggests that higher impacts of COVID&#x2010;19 were associated with lower confidence and lower assessment of care, though the magnitude of the association suggests that other factors may have been more influential. Participants reported a lack of confidence in self&#x2010;monitoring and symptom interpretation when contributing to virtual consultations. Leese et al.&#xA0;(<xref rid="jnu12835-bib-0017" ref-type="bibr">2021</xref>) have reported that some people with rheumatoid arthritis experienced an improvement in their self&#x2010;care practices while remaining at home. However, Massouh et al.&#xA0;(<xref rid="jnu12835-bib-0018" ref-type="bibr">2020</xref>) reported that self&#x2010;efficacy/confidence is a key determinant in self&#x2010;care, enhanced by social support and knowledge.</p>
+      <p>Assessment of care is taught by specialist nurses when teaching self&#x2010;care. Teach&#x2010;back is a communication method recommended to confirm that people understand the information provided about their condition (Hong et al.,&#xA0;<xref rid="jnu12835-bib-0016" ref-type="bibr">2020</xref>). The preferred mode for education by healthcare providers is face&#x2010;to&#x2010;face, with limited training to educate people via telephone. There is a dearth of literature reporting on virtual education for patients, however, one randomized controlled trial for Asthma (Nguyen et al.,&#xA0;<xref rid="jnu12835-bib-0021" ref-type="bibr">2008</xref>) deduced that self&#x2010;management was comparable when educated via the Internet versus face&#x2010;to&#x2010;face. Nguyen et al.&#xA0;(<xref rid="jnu12835-bib-0021" ref-type="bibr">2008</xref>) provided a structured developed internet program for participants, which is not comparable to ad hoc telephone education delivered by a reduced workforce during COVID&#x2010;19 restrictions. Healthcare staff had limited orientation to deliver equivalent education for people with chronic illness using alternative virtual mediums during the pandemic. The previously mentioned COVID&#x2010;19 restrictions removed social support for many people and simultaneously reduced quality of access to healthcare services and more importantly specialist nurses to provide self&#x2010;care knowledge for people with chronic illnesses.</p>
+      <p>This research also provides a unique insight into the perceived effect of self&#x2010;care for people with a chronic illness during COVID&#x2010;19 restrictions. Previous research has reported increased stress levels for people with chronic illnesses (Paw&#x142;owski et al.,&#xA0;<xref rid="jnu12835-bib-0024" ref-type="bibr">2021</xref>) and increased anxiety levels for older people with a chronic illnesses (Ozteke Kozan &amp; Kesici,&#xA0;<xref rid="jnu12835-bib-0023" ref-type="bibr">2021</xref>). In addition, Ciacci and Siniscalchi&#xA0;(<xref rid="jnu12835-bib-0006" ref-type="bibr">2020</xref>) reported people had discontinued medications during the pandemic, but their primary concern was fear. The research highlighted widespread delayed access to healthcare worldwide affecting people with chronic illnesses (Aktas,&#xA0;<xref rid="jnu12835-bib-0002" ref-type="bibr">2021</xref>; Gualano et al.,&#xA0;<xref rid="jnu12835-bib-0014" ref-type="bibr">2021</xref>; Sankaranarayanan et al.,&#xA0;<xref rid="jnu12835-bib-0029" ref-type="bibr">2021</xref>; Zukowski et al.,&#xA0;<xref rid="jnu12835-bib-0035" ref-type="bibr">2021</xref>). Consequently, healthcare professionals were urged not to forget people with chronic illnesses (Mauro et al.,&#xA0;<xref rid="jnu12835-bib-0019" ref-type="bibr">2020</xref>) and to utilize telemedicine as an alternative to face&#x2010;to&#x2010;face healthcare. This research suggests there were mixed perceptions related to contact with healthcare providers, leaving people with chronic illnesses feeling they were forgotten. The findings echo previous research (Aktas,&#xA0;<xref rid="jnu12835-bib-0002" ref-type="bibr">2021</xref>; Paw&#x142;owski et al.,&#xA0;<xref rid="jnu12835-bib-0024" ref-type="bibr">2021</xref>; Sankaranarayanan et al.,&#xA0;<xref rid="jnu12835-bib-0029" ref-type="bibr">2021</xref>; Zukowski et al.,&#xA0;<xref rid="jnu12835-bib-0035" ref-type="bibr">2021</xref>) related to individual illness and build on this to conclude experiences for people were similar irrespective of the disease.</p>
+      <p>The research supports healthcare provider perceptions that people with chronic illness experienced a reduced quality of access to healthcare support during the COVID&#x2010;19 pandemic. The findings also highlight that careful consideration and preparation are required in advance of transferring chronic illness healthcare provision to remote services.</p>
+      <sec id="jnu12835-sec-0016">
+        <title>Lessons learnt due to Covid&#x2010;19 pandemic and policy change proposals</title>
+        <p>The lessons learnt from this research related to the COVID&#x2010;19 pandemic are that people with chronic illness, irrespective of their diagnosis, expressed a reduction in access to quality healthcare. In the event that future healthcare policy promotes virtual healthcare, people with chronic illnesses are appropriately prepared for remote monitoring. Future patient education should include focused self&#x2010;assessment and symptom interpretation. In addition, chronic illness teams must maintain some levels of support for people attempting to manage at home despite escalating hospital pressures. Future policy should include plans and procedures to maintain chronic illness support services during periods of escalation.</p>
+        <p>There are some strengths and limitations evident in the research that should be considered before a conclusion is drawn. The use of an online survey ensured accessibility to a wider population of potential participants, and this was supported by the use of social media recruitment. However, the achieved sample is significantly smaller than was hoped and there are clear implications for the representativeness of the findings. Social media recruitment arguably targeted a younger sample, therefore transferability of the findings to older people with a greater prevalence of chronic illness must be considered. Despite this concern, the findings do provide some insight into the experiences of people with chronic illness during a period of COVID&#x2010;19 restrictions, within the parameters of these limitations.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12835-sec-0017">
+      <title>CONCLUSION</title>
+      <p>This research highlights the importance of providing continued support to the higher risk population, including people with chronic illness irrespective of other challenges to healthcare services. In addition, a purposeful approach to preparing people with chronic illness is recommended to ensure they are adequately prepared to perform self&#x2010;care supported with remote monitoring rather than face&#x2010;to&#x2010;face healthcare.</p>
+      <sec id="jnu12835-sec-0018">
+        <title>Clinical resources</title>
+        <p>
+<list list-type="bullet" id="jnu12835-list-0003"><list-item id="jnu12835-li-0008"><p>Self&#x2010;Care of Chronic Illness inventory.</p></list-item></list>
+<ext-link xlink:href="https://self-care-measures.com/available-self-care-measures/self-care-of-chronic-illness-inventory/" ext-link-type="uri">https://self&#x2010;care&#x2010;measures.com/available&#x2010;self&#x2010;care&#x2010;measures/self&#x2010;care&#x2010;of&#x2010;chronic&#x2010;illness&#x2010;inventory/</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12835-sec-0019">
+      <title>CONFLICTS OF INTEREST</title>
+      <p>The authors wish to declare that there are no conflicts of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12835-sec-20">
+      <title>ACKNOWLEDGMENT</title>
+      <p>Open access funding provided by IReL.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12835-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12835-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0001">
+<string-name>
+<surname>Aamodt</surname>, <given-names>I. T.</given-names>
+</string-name>, <string-name>
+<surname>Lycholip</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Celutkiene</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>von Lueder</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Falk</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Helles&#xF8;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Str&#xF6;mberg</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lie</surname>, <given-names>I.</given-names>
+</string-name> (<year>2020</year>). <article-title>Self&#x2010;care monitoring of heart failure symptoms and lung impedance at home following hospital discharge: Longitudinal study</article-title>. <source>Journal of Medical Internet Research</source>, <volume>22</volume>(<issue>1</issue>), <elocation-id>e15445</elocation-id>.<pub-id pub-id-type="pmid">31909717</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0002">
+<string-name>
+<surname>Aktas</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Chronic and rare disease patients' access to healthcare services during a health crisis: The example of the COVID&#x2010;19 pandemic in Turkey</article-title>. <source>Health Expectations</source>, <volume>24</volume>(<issue>5</issue>), <fpage>1812</fpage>&#x2013;<lpage>1820</lpage>.<pub-id pub-id-type="pmid">34309998</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0003">
+<string-name>
+<surname>Antony</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Connelly</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Silva</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Eades</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tillett</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ayoub</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Morand</surname>, <given-names>E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Perspectives of patients with rheumatic diseases in the early phase of COVID&#x2010;19</article-title>. <source>Arthritis Care &amp; Research</source>, <volume>72</volume>(<issue>9</issue>), <fpage>1189</fpage>&#x2013;<lpage>1195</lpage>.<pub-id pub-id-type="pmid">32526068</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0004">
+<string-name>
+<surname>Brito Villa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>De Maria</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Caruso</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Matarese</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Arrigoni</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dellafiore</surname>, <given-names>F.</given-names>
+</string-name> (<year>2022</year>). <article-title>Self&#x2010;care of chronic illness inventory: An initial psychometric evaluation in people living with HIV in Italy</article-title>. <source>Journal of the Association of Nurses in AIDS Care</source>, <volume>33</volume>(<issue>4</issue>), <fpage>459</fpage>&#x2013;<lpage>467</lpage>. <pub-id pub-id-type="doi">10.1097/JNC.0000000000000331</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0005">
+<string-name>
+<surname>Chee</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>S. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yeoh</surname>, <given-names>E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Dissecting the interaction between COVID&#x2010;19 and diabetes mellitus</article-title>. <source>Journal of Diabetes Investigation</source>, <volume>11</volume>(<issue>5</issue>), <fpage>1104</fpage>&#x2013;<lpage>1114</lpage>.<pub-id pub-id-type="pmid">32558211</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0006">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0006">
+<string-name>
+<surname>Ciacci</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Siniscalchi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Tips from the battlefront: Psychological support of patients with a chronic illness during the COVID&#x2010;19 lockdown in four steps</article-title>. <source>United European Gastroenterology Journal</source>, <volume>8</volume>(<issue>6</issue>), <fpage>741</fpage>&#x2013;<lpage>742</lpage>.<pub-id pub-id-type="pmid">32423309</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0007">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0007">
+<string-name>
+<surname>Cox</surname>, <given-names>Z. L.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lindenfeld</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Decreases in acute heart failure hospitalizations during COVID&#x2010;19</article-title>. <source>European Journal of Heart Failure</source>, <volume>22</volume>(<issue>6</issue>), <fpage>1045</fpage>&#x2013;<lpage>1046</lpage>.<pub-id pub-id-type="pmid">32469132</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0008">
+<string-name>
+<surname>De Maria</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matarese</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Str&#xF6;mberg</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ausili</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vellone</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Osokpo</surname>, <given-names>O. H.</given-names>
+</string-name>, <string-name>
+<surname>Daus</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Barbaranelli</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Cross&#x2010;cultural assessment of the Self&#x2010;Care of Chronic Illness Inventory: A psychometric evaluation</article-title>. <source>International Journal of Nursing Studies</source>, <volume>116</volume>, <elocation-id>103422</elocation-id>.<pub-id pub-id-type="pmid">31791631</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0009">
+<string-name>
+<surname>Elo</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kyng&#xE4;s</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>). <article-title>The qualitative content analysis process</article-title>. <source>Journal of Advanced Nursing</source>, <volume>62</volume>(<issue>1</issue>), <fpage>107</fpage>&#x2013;<lpage>115</lpage>.<pub-id pub-id-type="pmid">18352969</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0010">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0010">
+<string-name>
+<surname>Erlingsson</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Brysiewicz</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <article-title>A hands&#x2010;on guide to doing content analysis</article-title>. <source>African Journal of Emergency Medicine</source>, <volume>7</volume>(<issue>3</issue>), <fpage>93</fpage>&#x2013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">30456117</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0011">
+<string-name>
+<surname>Forde</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Arente</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ausili</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>De Backer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Due&#x2010;Christensen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Epps</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Grixti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Groen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Halkoaho</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Iversen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>, <given-names>U. B.</given-names>
+</string-name>, <string-name>
+<surname>Leippert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ozcan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Sanpetreanu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Savet</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x2026; <collab collab-type="authors">FEND COVID&#x2010;19 consortium</collab>
+. (<year>2021</year>). <article-title>The impact of the COVID&#x2010;19 pandemic on people with diabetes and diabetes services: A pan&#x2010;European survey of diabetes specialist nurses undertaken by the Foundation of European Nurses in Diabetes survey consortium</article-title>. <source>Diabetic Medicine</source>, <volume>38</volume>(<issue>5</issue>), <elocation-id>e14498</elocation-id>.<pub-id pub-id-type="pmid">33314244</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0012">
+<string-name>
+<surname>Glasgow</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name>
+<surname>Schaefer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mahoney</surname>, <given-names>L. D.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>R. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Greene</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Development and validation of the Patient Assessment of Chronic Illness Care (PACIC)</article-title>. <source>Medical Care</source>, <volume>43</volume>(<issue>5</issue>), <fpage>436</fpage>&#x2013;<lpage>444</lpage>.<pub-id pub-id-type="pmid">15838407</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0013">
+<string-name>
+<surname>Glasgow</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Whitesides</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>, <given-names>C. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>King</surname>, <given-names>D. K.</given-names>
+</string-name> (<year>2005</year>). <article-title>Use of the patient assessment of chronic illness care (PACIC) with diabetic patients: Relationship to patient characteristics, receipt of care, and self&#x2010;management</article-title>. <source>Diabetes Care</source>, <volume>28</volume>(<issue>11</issue>), <fpage>2655</fpage>&#x2013;<lpage>2661</lpage>.<pub-id pub-id-type="pmid">16249535</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0014">
+<string-name>
+<surname>Gualano</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Corradi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Voglino</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bert</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Siliquini</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Beyond COVID&#x2010;19: A cross&#x2010;sectional study in Italy exploring the covid collateral impacts on healthcare services</article-title>. <source>Health Policy</source>, <volume>125</volume>(<issue>7</issue>), <fpage>869</fpage>&#x2013;<lpage>876</lpage>.<pub-id pub-id-type="pmid">33840478</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0015">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0015">
+<string-name>
+<surname>Hillson</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19: Diabetes and death. A call to action</article-title>. <source>Practical Diabetes</source>, <volume>37</volume>(<issue>3</issue>), <fpage>76</fpage>&#x2013;<lpage>78</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0016">
+<string-name>
+<surname>Hong</surname>, <given-names>Y.&#x2010;R.</given-names>
+</string-name>, <string-name>
+<surname>Jo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cardel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Huo</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mainous</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2020</year>). <article-title>Patient&#x2010;Provider communication with teach&#x2010;back, patient&#x2010;centered diabetes care, and diabetes care education</article-title>. <source>Patient Educucation &amp; Counselling</source>, <volume>103</volume>(<issue>12</issue>), <fpage>2443</fpage>&#x2013;<lpage>2450</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0017">
+<string-name>
+<surname>Leese</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Backman</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Koehn</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hoens</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>English</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>McQuitty</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gavin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Therrien</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Li</surname>, <given-names>L. C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Experiences of self&#x2010;care during the COVID&#x2010;19 pandemic among individuals with rheumatoid arthritis: A qualitative study</article-title>. <source>Health Expectations</source>, <volume>25</volume>(<issue>2</issue>), <fpage>482</fpage>&#x2013;<lpage>498</lpage>.<pub-id pub-id-type="pmid">34403189</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0018">
+<string-name>
+<surname>Massouh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Skouri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Huijer</surname>, <given-names>H. A. S.</given-names>
+</string-name>, <string-name>
+<surname>Khoury</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Meek</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>Self&#x2010;care confidence mediates self&#x2010;care maintenance and management in patients with heart failure</article-title>. <source>Heart &amp; Lung</source>, <volume>49</volume>(<issue>1</issue>), <fpage>30</fpage>&#x2013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">31371031</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0019">
+<string-name>
+<surname>Mauro</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Lorenzo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Paolo</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sergio</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Treat all COVID 19&#x2010;positive patients, but do not forget those negative with chronic diseases</article-title>. <source>Internal and Emergency Medicine</source>, <volume>15</volume>(<issue>5</issue>), <fpage>787</fpage>&#x2013;<lpage>790</lpage>.<pub-id pub-id-type="pmid">32519136</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0020">
+<string-name>
+<surname>Michaud</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wipfler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Cornish</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Ogdie</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Katz</surname>, <given-names>P.</given-names>
+</string-name> (<year>2020</year>). <article-title>Experiences of patients with rheumatic diseases in the United States during early days of the COVID&#x2010;19 Pandemic</article-title>. <source>ACR Open Rheumatology</source>, <volume>2</volume>(<issue>6</issue>), <fpage>335</fpage>&#x2013;<lpage>343</lpage>.<pub-id pub-id-type="pmid">32311836</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0021">
+<string-name>
+<surname>Nguyen</surname>, <given-names>H. Q.</given-names>
+</string-name>, <string-name>
+<surname>Donesky&#x2010;Cuenco</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wolpin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Reinke</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Benditt</surname>, <given-names>J. O.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>S. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Carrieri&#x2010;Kohlman</surname>, <given-names>V.</given-names>
+</string-name> (<year>2008</year>). <article-title>Randomized controlled trial of an internet&#x2010;based versus face&#x2010;to&#x2010;face dyspnea self&#x2010;management program for patients with chronic obstructive pulmonary disease: Pilot study</article-title>. <source>Journal of Medical Internet Research</source>, <volume>10</volume>(<issue>2</issue>), <elocation-id>e9</elocation-id>.<pub-id pub-id-type="pmid">18417444</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0022">
+<string-name>
+<surname>Osokpo</surname>, <given-names>O. H.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Ikeaba</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Chittams</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barg</surname>, <given-names>F. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2022</year>). <article-title>Self&#x2010;care of African immigrant adults with chronic illness</article-title>. <source>Clinical Nursing Research</source>, <volume>31</volume>(<issue>3</issue>), <fpage>413</fpage>&#x2013;<lpage>425</lpage>. <pub-id pub-id-type="doi">10.1177/10547738211056168</pub-id>
+<pub-id pub-id-type="pmid">34726102</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0023">
+<string-name>
+<surname>Ozteke Kozan</surname>, <given-names>H. I.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kesici</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Death anxiety among older adults with chronic illnesses during Covid&#x2010;19: A qualitative approach</article-title>. <source>Journal of Community Psychology</source>, <fpage>1</fpage>&#x2013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1002/jcop.22744</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0024">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0024">
+<string-name>
+<surname>Paw&#x142;owski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fila&#x2010;Witecka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>&#x141;uc</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Senczyszyn</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rymaszewska</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Paw&#x142;owska</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kami&#x144;ska</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pozna&#x144;ski</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Krajewska</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stefaniak</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Szepietowski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pokryszko&#x2010;Dragan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Budrewicz</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Paw&#x142;owski</surname>, <given-names>T.</given-names>
+</string-name> (<year>2021</year>). <article-title>Perceived stress level among patients with chronic illness during covid pandemia</article-title>. <source>European Psychiatry</source>, <volume>64</volume>(<issue>S1</issue>), <fpage>S286</fpage>&#x2013;<lpage>S287</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0025">
+<string-name>
+<surname>Rey</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Caro&#x2010;Cod&#xF3;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rosillo</surname>, <given-names>S. O.</given-names>
+</string-name>, <string-name>
+<surname>Iniesta</surname>, <given-names>&#xC1;. M.</given-names>
+</string-name>, <string-name>
+<surname>Castrej&#xF3;n&#x2010;Castrej&#xF3;n</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Marco&#x2010;Clement</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;n&#x2010;Polo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Merino&#x2010;Argos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#xED;guez&#x2010;Sotelo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#xED;a&#x2010;Veas</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;nez&#x2010;Mar&#xED;n</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#xED;nez&#x2010;Cossiani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bu&#xF1;o</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez&#x2010;Valle</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Herrero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>L&#xF3;pez&#x2010;Send&#xF3;n</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Merino</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Merino</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Caro&#x2010;Codon</surname>, <given-names>J.</given-names>
+</string-name>, &#x2026; <collab collab-type="authors">CARD&#x2010;COVID Investigators</collab>
+. (<year>2020</year>). <article-title>Heart failure in COVID&#x2010;19 patients: Prevalence, incidence and prognostic implications</article-title>. <source>European Journal of Heart Failure</source>, <volume>22</volume>(<issue>12</issue>), <fpage>2205</fpage>&#x2013;<lpage>2215</lpage>.<pub-id pub-id-type="pmid">32833283</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0026">
+<string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Str&#xF6;mberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>A middle&#x2010;range theory of self&#x2010;care of chronic illness</article-title>. <source>Advances in Nursing Science</source>, <volume>35</volume>(<issue>3</issue>), <fpage>194</fpage>&#x2013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">22739426</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0027">
+<string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>, <given-names>V. V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Carlson</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>). <article-title>An update on the Self&#x2010;care of Heart Failure Index</article-title>. <source>Journal of Cardiovascular Nursing</source>, <volume>24</volume>(<issue>6</issue>), <fpage>485</fpage>&#x2013;<lpage>497</lpage>.<pub-id pub-id-type="pmid">19786884</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0028">
+<string-name>
+<surname>Ryder</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Coughlan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Halligan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Guerin</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Connolly</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Nursing and midwifery workforce readiness during a global pandemic: A survey of the experience of one hospital group in the Republic of Ireland</article-title>. <source>Journal of Nursing Management</source>, <volume>30</volume>(<issue>1</issue>), <fpage>25</fpage>&#x2013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">34473868</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0029">
+<string-name>
+<surname>Sankaranarayanan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hartshorne&#x2010;Evans</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Redmond&#x2010;Lyon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Essa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Barton</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>, <given-names>F. Z.</given-names>
+</string-name>, <string-name>
+<surname>Cunnington</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Satchithananda</surname>, <given-names>D. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Murphy</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>The impact of COVID&#x2010;19 on the management of heart failure: A United Kingdom patient questionnaire study</article-title>. <source>ESC Heart Failure</source>, <volume>8</volume>(<issue>2</issue>), <fpage>1324</fpage>&#x2013;<lpage>1332</lpage>.<pub-id pub-id-type="pmid">33463044</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0030">
+<string-name>
+<surname>Schmittdiel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mosen</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Glasgow</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Remmers</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bellows</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Patient Assessment of Chronic Illness Care (PACIC) and improved patient&#x2010;centered outcomes for chronic conditions</article-title>. <source>Journal of General Internal Medicine</source>, <volume>23</volume>(<issue>1</issue>), <fpage>77</fpage>&#x2013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1007/s11606-007-0452-5</pub-id>
+<pub-id pub-id-type="pmid">18030539</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0031">
+        <mixed-citation publication-type="miscellaneous" id="jnu12835-cit-0031">
+<string-name>
+<surname>Stoddard</surname>
+<given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>
+<given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Paris</surname>
+<given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Haller</surname>
+<given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zik</surname>
+<given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Elliotte</surname>
+<given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Maru</surname>
+<given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mallidi</surname>
+<given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Volk</surname>
+<given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Brotman</surname>
+<given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kaufman</surname>
+<given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>The coronavirus impact scale: Construction, validation, and comparisons in diverse clinical samples</article-title>. Preprint available at: <pub-id pub-id-type="doi">10.31234/osf.io/kz4pg</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0032">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0032">
+<string-name>
+<surname>Tomasoni</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Inciardi</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Lombardi</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Tedino</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Agostoni</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ameri</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Barbieri</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bellasi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Camporotondo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Canale</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carubelli</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Carugo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Catagnano</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dalla Vecchia</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Danzi</surname>, <given-names>G. B.</given-names>
+</string-name>, <string-name>
+<surname>Di Pasquale</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaudenzi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Giovinazzo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gnecchi</surname>, <given-names>M.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Metra</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of heart failure on the clinical course and outcomes of patients hospitalized for COVID&#x2010;19. Results of the Cardio&#x2010;COVID&#x2010;Italy multicentre study</article-title>. <source>European Journal of Heart Failure</source>, <volume>22</volume>(<issue>12</issue>), <fpage>2238</fpage>&#x2013;<lpage>2247</lpage>.<pub-id pub-id-type="pmid">33179839</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0033">
+<string-name>
+<surname>van Rijn</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>de Man&#x2010;van Ginkel</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Weldam</surname>, <given-names>S. W. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Association between self&#x2010;care and resilience: A cross&#x2010;sectional study in heart failure patients</article-title>. <source>The Journal of Cardiovascular Nursing</source> Online ahead of print. Publish Ahead of Print.</mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0034">
+<string-name>
+<surname>Yu</surname>, <given-names>D. S.&#x2010;F.</given-names>
+</string-name>, <string-name>
+<surname>De Maria</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barbaranelli</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vellone</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Matarese</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ausili</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rejane</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Osokpo</surname>, <given-names>O. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Riegel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Cross&#x2010;cultural applicability of the self&#x2010;care self&#x2010;efficacy scale in a multi&#x2010;national study</article-title>. <source>Journal of Advanced Nursing</source>, <volume>77</volume>, <fpage>681</fpage>&#x2013;<lpage>692</lpage>.<pub-id pub-id-type="pmid">33295675</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12835-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12835-cit-0035">
+<string-name>
+<surname>Zukowski</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>DeWolff</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Coutere</surname>, <given-names>S. D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Yim</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Impact of the COVID&#x2010;19 pandemic on the experiences of hepatology nurses in Canada</article-title>. <source>Gastrointestinal Nursing</source>, <volume>19</volume>(<issue>Sup6</issue>), <fpage>S27</fpage>&#x2013;<lpage>S34</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1024 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12820" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36209359</article-id>
+      <article-id pub-id-type="pmc">9874530</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12820</article-id>
+      <article-id pub-id-type="publisher-id">JNU12820</article-id>
+      <article-id pub-id-type="other">JNU-05-22-402.R1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Profession and Society</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Puerto Rican healthcare workers' perspectives on the impact of COVID&#x2010;19 pandemic on their role, patient care, and mental health</article-title>
+        <alt-title alt-title-type="right-running-head">Puerto Rican Healthcare Worker Perspectives</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12820-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Alvarez</surname>
+            <given-names>Carmen</given-names>
+          </name>
+          <degrees>PhD, CRNP</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6417-4494</contrib-id>
+          <xref rid="jnu12820-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12820-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>alcarmen@nursing.upenn.edu</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12820-cr-0002" contrib-type="author">
+          <name>
+            <surname>Diaz&#x2010;Ramos</surname>
+            <given-names>Noemy</given-names>
+          </name>
+          <degrees>EdD, RN, MSN</degrees>
+          <xref rid="jnu12820-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12820-cr-0003" contrib-type="author">
+          <name>
+            <surname>Quiles</surname>
+            <given-names>Rosalphie</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12820-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12820-cr-0004" contrib-type="author">
+          <name>
+            <surname>Sanchez&#x2010;Roman</surname>
+            <given-names>Maria Jose</given-names>
+          </name>
+          <degrees>MD, MPH</degrees>
+          <xref rid="jnu12820-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12820-cr-0005" contrib-type="author">
+          <name>
+            <surname>Weeks</surname>
+            <given-names>Kristina</given-names>
+          </name>
+          <degrees>DrPH, MHS</degrees>
+          <xref rid="jnu12820-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="jnu12820-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12820-cr-0006" contrib-type="author">
+          <name>
+            <surname>Cooper</surname>
+            <given-names>Lisa A.</given-names>
+          </name>
+          <degrees>MD, MPH</degrees>
+          <xref rid="jnu12820-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="jnu12820-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12820-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing</named-content>
+<institution>University of Pennsylvania</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12820-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Johns Hopkins Center for Health Equity</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12820-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Medical Sciences Campus</named-content>
+<institution>University of Puerto Rico, School of Nursing</institution>
+<city>San Juan</city>
+<country country="PR">Puerto Rico</country>
+</aff>
+      <aff id="jnu12820-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Division of Geriatric Medicine and Gerontology</named-content>
+<institution>Johns Hopkins University School of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12820-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">College of Public Health, Department of Health Promotion</named-content>
+<institution>University of Nebraska Medical Center</institution>
+<city>Omaha</city>
+<named-content content-type="country-part">Nebraska</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12820-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Amstrong Institute of Patient Safety &amp; Quality</named-content>
+<institution>Johns Hopkins University School of Medicine, School of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12820-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">General Internal Medicine</named-content>
+<institution>Johns Hopkins University School of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Carmen Alvarez, University of Pennsylvania School of Nursing, 418 Curie Blvd, Philadelphia, PA 19104, USA.<break/>
+Email: <email>alcarmen@nursing.upenn.edu</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>08</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="130">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>112</fpage>
+      <lpage>122</lpage>
+      <history>
+<date date-type="rev-recd"><day>31</day><month>8</month><year>2022</year></date>
+<date date-type="received"><day>02</day><month>6</month><year>2022</year></date>
+<date date-type="accepted"><day>13</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-112.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12820-sec-0001">
+          <title>Purpose</title>
+          <p>To explore the personal and work&#x2010;related stressors of healthcare workers in Puerto Rico and the organizational support they received during the pandemic.</p>
+        </sec>
+        <sec id="jnu12820-sec-0002">
+          <title>Design and Methods</title>
+          <p>We used a qualitative descriptive design and from April &#x2013; November, 2021, conducted semi&#x2010;structured individual interviews with Puerto Rican frontline healthcare workers (n&#xA0;=&#xA0;12) and supervisors (n&#xA0;=&#xA0;5).</p>
+        </sec>
+        <sec id="jnu12820-sec-0003">
+          <title>Findings</title>
+          <p>Thematic analysis revealed five major themes: (a) Organizations' response to COVID&#x2010;19; (b) increased complexity of patients; (c) intensified work and psychological demand for nurses; (d) overwhelmed and overworked; and (e) recommendations for healthcare leadership. Participants explained that their organizations' responses to COVID&#x2010;19&#xA0;were&#xA0;insufficient&#xA0;for&#xA0; meeting the demands and acuity of the patients. Closure of outpatient services contributed to people presenting to hospitals with exacerbated chronic conditions &#x2013; especially the elderly. With COVID&#x2010;19 precautions prohibiting family visitation, nurses became responsible for total care, including emotional support of patients. In addition, the shortage of staff contributed to nurses assuming greater workloads, feeling overwhelmed and overworked, and healthcare worker resignations. Given their experiences, healthcare workers recommended that healthcare leadership show more appreciation for staff, demonstrate empathy, include frontline workers in decision&#x2010;making, and provide mental health resources for staff.</p>
+        </sec>
+        <sec id="jnu12820-sec-0004">
+          <title>Conclusions</title>
+          <p>This study with Puerto Rican frontline workers and supervisors uncovers the multiple stressors experienced during the COVID&#x2010;19 pandemic. Our findings underscore the need for prioritizing the well&#x2010;being of healthcare workers, preparing healthcare leadership on how to support staff, and mandating nurse&#x2010;to&#x2010;patient ratios.</p>
+        </sec>
+        <sec id="jnu12820-sec-0005">
+          <title>Clinical Relevance</title>
+          <p>Healthcare workers explained the barriers they experienced for providing quality care to their patients. They also presented recommendations for healthcare leadership to facilitate supporting frontline workers, which ultimately contributes to optimal patient care.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12820-kwd-0001">COVID&#x2010;19</kwd>
+        <kwd id="jnu12820-kwd-0002">healthcare workers</kwd>
+        <kwd id="jnu12820-kwd-0003">Puerto Rico</kwd>
+        <kwd id="jnu12820-kwd-0004">qualitative research</kwd>
+        <kwd id="jnu12820-kwd-0005">stress</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>Johns Hopkins Alliance for a Healthier World</funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="3"/>
+        <page-count count="11"/>
+        <word-count count="6823"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:25.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12820-cit-2001">
+<string-name>
+<surname>Alvarez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Diaz&#x2010;Ramos</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Quiles</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x2010;Roman</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Weeks</surname>, <given-names>K.</given-names>
+</string-name> &amp; <string-name>
+<surname>Cooper</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Puerto Rican healthcare workers' perspectives on the impact of COVID&#x2010;19 pandemic on their role, patient care, and mental health</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>112</fpage>&#x2013;<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12820</pub-id>
+<pub-id pub-id-type="pmid">36209359</pub-id></mixed-citation>
+</p>
+      <fn-group id="jnu12820-ntgp-0001">
+        <fn id="jnu12820-note-0001">
+          <p>Carmen Alvarez and Noemy Diaz&#x2010;Ramos contributed equally.</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body id="jnu12820-body-0001">
+    <sec id="jnu12820-sec-0006">
+      <title>INTRODUCTION</title>
+      <p>The COVID&#x2010;19 pandemic has been yet another crisis for the people in Puerto Rico to manage. Before the pandemic, Puerto Rico had already suffered multiple crises&#x2014;devastating hurricanes in 2017, a record number of earthquakes in 2019, and a precarious economy (Garc&#xED;a et al.,&#xA0;<xref rid="jnu12820-bib-0009" ref-type="bibr">2021</xref>). These disasters left Puerto Rico at a relatively greater disadvantage, with less resources to respond to the COVID&#x2010;19 pandemic and to meet the continuing needs of low&#x2010;income and marginalized populations. Healthcare workers, functioning at optimal levels, will be essential for helping communities recover from these multiple challenges. However, survey data from almost 4800 nurses on the island have indicated that many of the workers reported feeling unprepared for the management of patients with COVID&#x2010;19, felt under&#x2010;resourced, and were afraid and anxious about executing their duties (Figueroa et al., <xref rid="jnu12820-bib-0008" ref-type="bibr">2020</xref>). In this study we explored the personal and work&#x2010;related stressors of frontline healthcare workers and how their respective healthcare organizations supported or exacerbated their well&#x2010;being.</p>
+      <p>As COVID&#x2010;19 made its way around the world, the government and hospitals in Puerto Rico braced themselves for a sudden surge in cases. Similar to mainland US, a 24/7 quarantine was established and only essential personnel, such as healthcare workers (HCWs) were permitted to go to work. Community health clinics for the most part closed, and those that remained open provided mainly telemedicine services. In hospital settings, to accommodate incoming COVID&#x2010;19 patients, clients not requiring intensive care were discharged, and elective procedures were postponed. This protocol created a series of consequences; the first one being that many who needed medical care&#x2014;be it an emergency or a simple checkup&#x2014;could not receive care. This aligns with national data (Hartnett et al.,&#xA0;<xref rid="jnu12820-bib-0011" ref-type="bibr">2020</xref>) indicating that by mid&#x2010;pandemic, an estimated 41 percent of U.S. adults (about 105 million people) did not receive the healthcare that they needed, due to either appointment cancelations by the hospitals, closed doctors' offices or by limited or no access to technology (Grimm,&#xA0;<xref rid="jnu12820-bib-0010" ref-type="bibr">2021</xref>).</p>
+      <p>Another consequence of medical service restrictions in Puerto Rico was the laying&#x2010;off of nursing staff (Denis,&#xA0;<xref rid="jnu12820-bib-0007" ref-type="bibr">2020</xref>) due to a low census of patients seeking care. As hospitals remained open with minimal staff, it was precisely these nurses that had to face an ever&#x2010;increasing number of COVID&#x2010;19 cases. As a result, in a short amount of time, the hospital staff began to experience tiredness and burnout, which contributed to HCW absenteeism (Penchi,&#xA0;<xref rid="jnu12820-bib-0015" ref-type="bibr">2022</xref>).</p>
+      <p>Despite these challenges, there is a paucity of research addressing how HCWs were being supported within their healthcare organizations. Other studies have focused on the mental health challenges of healthcare workers and burnout (Cortina&#x2010;Rodr&#xED;guez &amp; Afanador,&#xA0;<xref rid="jnu12820-bib-0006" ref-type="bibr">2020</xref>; Rosales&#x2010;Vaca et al.,&#xA0;<xref rid="jnu12820-bib-0016" ref-type="bibr">2022</xref>). To prevent the worsening of health disparities caused by COVID&#x2010;19, we need a workforce that functions at the highest levels, one that can address patients' needs, particularly those of underserved and marginalized populations. Understanding the experiences of frontline workers during this pandemic is critical for identifying solutions to mitigate burnout and enhance support in future crises. The purpose of this study was to describe and understand the personal and work&#x2010;related stressors of healthcare workers in Puerto Rico and how they were being supported by their organizations during the pandemic.</p>
+    </sec>
+    <sec sec-type="methods" id="jnu12820-sec-0007">
+      <title>METHODS</title>
+      <sec id="jnu12820-sec-0008">
+        <title>Design</title>
+        <p>We used a qualitative descriptive methodology to achieve our study aims. Qualitative descriptive methods are used for obtaining descriptions and perspectives about specific experiences (Neergaard et al.,&#xA0;<xref rid="jnu12820-bib-0014" ref-type="bibr">2009</xref>). We used individual, semi&#x2010;structured interviews to learn about healthcare workers' experiences during the pandemic. The University Institutional Review Boards (University of Puerto Rico San Juan and Johns Hopkins School of Medicine) approved all study procedures.</p>
+      </sec>
+      <sec id="jnu12820-sec-0009">
+        <title>Sample and settings</title>
+        <p>This study was conducted in a metropolitan area in Puerto Rico. Eligible healthcare workers included frontline workers (including but not limited to nurses, community health workers, and social workers) who: worked at least 20&#xA0;hours per week in direct patient care, had been working at their current location for at least 1&#x2009;year, and served a predominantly underserved population (i.e., low&#x2010;income or uninsured). We recruited study participants through collaborations with community partners. These partners included five healthcare organization leaders (3 from the public sector and 2 from the private sector; both these private and public organizations served a predominantly low&#x2010;income population) who then distributed the study announcements within their organizations via email. All announcements included a hyperlink to the informed consent form, eligibility questionnaire, and allowed participants to leave their contact information if interested in participating in an interview.</p>
+        <p>Seventeen HCWs (16 nurses and one respiratory therapist; of these, five were in management positions) responded to the study announcement, consented to participate, and participated in the interviewing process.</p>
+      </sec>
+      <sec id="jnu12820-sec-0010">
+        <title>Data collection</title>
+        <p>The interviews were conducted in Spanish (the official language spoken in Puerto Rico) by three experienced nurses from Puerto Rico with extensive experience in qualitative methods and in conducting interviews. We conducted interviews between April and November, 2021. In response to COVID&#x2010;19, all interviews were conducted over the phone. The interview guide was designed to first understand the work environment prior to the pandemic, professional responsibilities, and then how the work environment and responsibilities changed with the pandemic, changes they noticed in their patient population, the type of training and preparation offered (if any), what support was offered from employers, and the personal life changes that emerged related to the pandemic. Semi&#x2010;structured interviews with healthcare organization leadership were also conducted to obtain perspectives on the organization's response to the pandemic, including employee support and preparation. All interviews were audio recorded, transcribed verbatim in their original language &#x2010; Spanish, de&#x2010;identified, and reviewed for accuracy. All participants were incentivized with a $20 gift card for their participation in the interviews. Interviews lasted an hour on average.</p>
+      </sec>
+      <sec id="jnu12820-sec-0011">
+        <title>Data analysis</title>
+        <p>We entered transcripts into NVivo Version 12 to facilitate coding and assessing inter&#x2010;rater reliability. Four study team members (3 PhD&#x2010;prepared researchers and 1 graduate student) independently read a sample of the transcripts of interviews to develop preliminary codes that emerged from the interviews; codes for the frontline workers and supervisors were developed separately. The study team convened multiple meetings to discuss and refine the codes. The study team tested the codes by double coding a sample (n&#xA0;=&#xA0;6) of the interviews and developed a final version of the codebook. All interviews were double&#x2010;coded and the team had weekly meetings to discuss the coding process and emerging themes. Coding discrepancies were systematically reviewed and discussed until we reached consensus. We then reviewed the codes for commonalities and discussed potential themes and sub&#x2010;themes (Braun &amp; Clarke,&#xA0;<xref rid="jnu12820-bib-0005" ref-type="bibr">2006</xref>). The quotes we selected were translated into English by a bilingual team member, the other bilingual team members reviewed the translation for equivalent meaning.</p>
+      </sec>
+      <sec id="jnu12820-sec-0012">
+        <title>Rigor and trustworthiness</title>
+        <p>We implemented multiple strategies to maintain rigor in our data collection and analysis. We reviewed our transcripts for accuracy, developed a codebook, and assessed for consistent coding. In support of establishing the trustworthiness of the data, we used a member&#x2010;checking strategy and shared the initial findings with a group of five participants. We presented our findings to the participants and invited them to share whether our analyses reflected their perspectives and experiences (Birt et al.,&#xA0;<xref rid="jnu12820-bib-0004" ref-type="bibr">2016</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12820-sec-0013">
+      <title>RESULTS</title>
+      <p>Our participant characteristics are presented in Table&#xA0;<xref rid="jnu12820-tbl-0001" ref-type="table">1</xref>, and in Table&#xA0;<xref rid="jnu12820-tbl-0002" ref-type="table">2</xref> we provide the job titles and units on which our participants worked. Thematic analysis revealed five major themes: (a) Organization response to COVID&#x2010;19, (b) increased complexity of patients, (c) intensified work and psychological demand for nurses, (d) overwhelmed and overworked, and (e) recommendations for healthcare leadership. A sample of quotes are presented in Table&#xA0;<xref rid="jnu12820-tbl-0003" ref-type="table">3</xref>.</p>
+      <table-wrap position="float" id="jnu12820-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Participants' sociodemographic characteristics</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Age</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">18&#x2013;24&#x2009;years</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">11.8</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">25&#x2013;34&#x2009;years</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">11</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">64.7</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">45&#x2013;54&#x2009;years</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">17.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">55&#x2013;64&#x2009;years</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5.9</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Gender</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">11</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">35.3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">64.07</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Education</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Bachelor's degree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">12</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">70.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Graduate degree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29.4</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Occupation</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Nurse</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">16</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">94.1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Respiratory Therapist</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Leadership or management position</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29.4</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12820-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Participants' job titles and work settings</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Participant number</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Job title and Unit</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 1</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Specialty ICU<xref rid="jnu12820-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 2</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Telemetry Unit</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 3</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Medical Surgical ICU</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 4</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Medical Surgical Unit</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 5</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Prenatal Clinic</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 6</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Emergency Room</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 7</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Oncology Community Clinic</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 8</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nursing Supervisor</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 9</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Emergency Room</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 10</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Emergency Room</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 11</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nursing Supervisor</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 12</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Specialty Unit<xref rid="jnu12820-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 13</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Emergency Room</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 14</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Specialty ICU<xref rid="jnu12820-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 15</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Supervisor for Respiratory Therapy, Specialty ICU</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 16</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Registered Nurse, Medical Surgery Step Down</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Participant 17</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nursing Supervisor</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12820-ntgp-0002">
+          <fn id="jnu12820-note-0002">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Name of unit was not disclosed for anonymity of organization.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12820-tbl-0003" content-type="TABLE">
+        <label>TABLE 3</label>
+        <caption>
+          <p>Themes and sample quotes from healthcare workers (HCWs)</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Theme 1: Organization response to COVID</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;I'm going to be honest with you, at first it was very ambiguous, like it wasn't organized, like the epidemiologist said one thing, the administrator said another, there were like many opinions&#x2026; It wasn't like a direct protocol. Afterwards, all the parts were integrated, and the general protocol was developed and handled quite a bit&#x2026; Basically [we were instructed] on the use of the equipment&#x2026; It was also instructed on, for example, if the patient was in a room and was diagnosed with COVID, the cleaning that had to be given to that room.&#x201D; (Participant 17)</p>
+<p>&#x201C;Yo te voy a ser honesta, al principio fue bien ambigua, como que no se estuvo organizado, como que la epidemi&#xF3;loga dec&#xED;a una cosa, el administrador dec&#xED;a otra, hab&#xED;a como muchas opiniones. &#x2026;no fue como un protocolo directo. Despu&#xE9;s se fue integrando todas las partes y se desarroll&#xF3; el protocolo general y se manej&#xF3; bastante. &#x2026; B&#xE1;sicamente [se orient&#xF3;] en el uso del equipo&#x2026; se orient&#xF3; tambi&#xE9;n sobre, si por ejemplo el paciente estaba en una habitaci&#xF3;n y se diagnostic&#xF3; con COVID, la limpieza que hab&#xED;a que darle a esa habitaci&#xF3;n.&#x201D; (Participante 17)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;It was to restrict visits to the unit, the mandatory use of masks, the use of surgical masks changed to what is the N95. The use of what are the face shields with which we were treating patients. The use of protective equipment. First it started with two gowns; later, it got reduced and now, it is with one. Let's see, before, we used two masks: an N95 and a surgical one. Then, we were told: &#x201C;No, you have to start reducing the use of masks. You are only going to use the N95&#x201D;. There were several things that they began to implement and, later, to restrict. &#x2026; They make me sign a paper where, as if I, so&#x2010;and&#x2010;so, am going to take the mask. That, starting my shift; remember that we started at seven in the morning. &#x2026; It's like &#x201C;So&#x2010;and&#x2010;so took, during the shift, so many masks.&#x201D; They counted that.&#x201D; (Participant 3)</p>
+<p>&#x201C;Fue restringir las visitas a la unidad, el uso de mascarilla obligatorio, el uso de mascarillas quir&#xFA;rgicas cambiaron a lo que es la N95. El uso de lo que son los face shields con los que est&#xE1;bamos atendiendo a los pacientes. El uso del equipo protectivo. Primero empezaron con dos batas; despu&#xE9;s, redujeron y, ahora, es con una. A ver, antes, us&#xE1;bamos dos mascarillas: una N95 y una quir&#xFA;rgica. Despu&#xE9;s, nos dijeron: &#x201C;No, tienen que empezar a disminuir el uso de las mascarillas. Van a utilizar solamente las N95&#x201D;. Fueron varias cosas que empezaron a implementar y, despu&#xE9;s, a restringir. &#x2026;Me hacen firmar un papel donde, como que yo, fulano de tal, voy a coger la mascarilla. Eso, entrando al turno; recuerda que entramos a las siete de la ma&#xF1;ana. &#x2026; Es como &#x201C;Fulano cogi&#xF3;, durante el turno, tantas mascarillas&#x201D;. Eso lo contabilizan.&#x201D; (Participante 3)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Theme 2: Complexity of patients and patient care</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;Well, look, when they are COVID patients, the confinements we have are closed, basically, they are four walls&#x2026; That exasperates patients a lot, some become bewildered, and it causes other things that are not directly related to COVID, but rather that are something from the environment. Those patients, right, well, they suffer a lot, loneliness and everything else, because there is not enough staff (personnel) to be coming in every two hours to see the patient.&#x201D; (Participant 13)</p>
+<p>&#x201C;Pues mira, cuando son pacientes de COVID, nosotros los aislamientos que tenemos son cerrados, b&#xE1;sicamente, son cuatro paredes&#x2026; Eso desespera mucho a los pacientes, algunos se desorientan, y causa otras cosas que no est&#xE1;n directamente relacionadas con el COVID, sino que es algo del ambiente. Esos pacientes, verdad, pues, sufren mucho, soledad y todo lo dem&#xE1;s, porque no hay demasiado equipo [personal] para estar entrando cada dos horas a ver el paciente.&#x201D; (Participante 13)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;&#x2026;I think that COVID, what has affected patients the most has been the emotional aspect because, apart from all the stress they already have because, perhaps, their pregnancy is already high risk, to that we add the new hospital protocols that do not allow family members to enter&#x2026; They let them see their babies only through the glass of the nursery, they did not let them enter. So, to that we added that they had no one to offer them psychological support because the hospital psychologist and the counselor were not working in&#x2010;person, they were at home. So they had a difficult situation in that they needed psychological support and they didn't have the support they needed, so we [nurses] had to start providing it.&#x201D; (Participant 5)</p>
+<p>&#x201C;&#x2026;yo creo que el COVID, lo que m&#xE1;s ha afectado a los pacientes ha sido en el aspecto emocional porque, aparte de todo el estr&#xE9;s que ellas ya tienen porque, quiz&#xE1;, su embarazo ya sea de alto riesgo, a eso le a&#xF1;adimos los nuevos protocolos del hospital que no permiten la entrada de familiares&#x2026; Las dejaban ver a sus beb&#xE9;s solamente por el cristal del nursery, no las dejaban entrar. Entonces, a eso le a&#xF1;adimos que no ten&#xED;an a nadie que les ofreciera el apoyo psicol&#xF3;gico porque la psic&#xF3;loga del hospital y la consejera no estaban trabajando presenciales, estaban en las casas. As&#xED; que ten&#xED;an una situaci&#xF3;n fuerte de que necesitaban apoyo psicol&#xF3;gico y no ten&#xED;an el apoyo que necesitaban, as&#xED; que nosotras [las enfermeras] ten&#xED;amos que empezar a brind&#xE1;rselo.&#x201D; (Participante 5)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Theme 3: Work and psychological demand intensify for nurses</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;The physical therapists didn't enter the patient's rooms, they just gave us [nurses] instructions, so we could give the physical therapy to the patients. The psychiatrics didn't enter the rooms either, they would just make calls through the telephones&#x2026;&#x201D; (Participant 16)</p>
+<p>&#x201C;Terapia f&#xED;sica no entraba [al cuarto del paciente], nos daba las instrucciones a enfermer&#xED;a para que nosotros entr&#xE1;ramos con el equipo de terapia f&#xED;sica y les di&#xE9;ramos terapia a los pacientes. El equipo de los m&#xE9;dicos de psiquiatr&#xED;a no entraba, lo que hac&#xED;an era hacer llamadas a trav&#xE9;s de los tel&#xE9;fonos&#x2026;&#x201D; (Participante 16)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;Well, yes, to be honest, my co&#x2010;worker and me work about 12&#xA0;hours a day from Monday to Friday. That really have an impact on us on a physical and emotional level. &#x2026;there are times when we don't even have time to eat all day, for example, if there are many patients. Now, we don't even have time to go to the bathroom.&#x201D; (Participant 7)</p>
+<p>&#x201C;Pues s&#xED;, para ser objetiva aqu&#xED; mi compa&#xF1;era y yo trabajamos alrededor 12 horas diarias de lunes a viernes. Que realmente si tienen un impacto en nosotras a nivel f&#xED;sico y emocional. &#x2026;hay momentos en que mi compa&#xF1;era y yo ni tan siquiera comemos en todo el d&#xED;a, por ejemplo, si hay muchos pacientes. Ahora ni tan siquiera vamos al ba&#xF1;o.&#x201D; (Participante 7)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;Because now the patients don't have their family, so it was just me [the nurse], and patient's relatives are an incredible help if they can be there&#x2026; But wow! Bathe and dressed an intubated patient without help&#x2026; oh no! It's very complicated and if you are on wards there's less staff&#x2026; &#x2026;another thing is that the doctor rarely enters the patient's room, so you have to the physical exam, a good physical exam to that patient because the doctor is going to ask you: &#x201C;and how is the patient? Did you notice something different? How are their lungs?&#x201D; (Participant 12)</p>
+<p>&#x201C;Porque pues ahora los pacientes no tienen familiares, as&#xED; que era solo yo (el enfermero), el familiar es una ayuda incre&#xED;ble si t&#xFA; lo tienes ah&#xED;&#x2026; Pero &#xA1;guau!, cambiarlo y ba&#xF1;arlo [al paciente] uno solo, paciente entubado, que no estaba&#x2026; &#xA1;uy no!, est&#xE1; bien complicado y m&#xE1;s que te toca la guardia entonces el personal es menos. &#x2026;otra cosa es que el doctor rara la vez entra entonces tienes que hacer un examen f&#xED;sico, un buen examen f&#xED;sico a ese paciente porque el doctor te va a preguntar: &#x201C;&#xBF;y c&#xF3;mo est&#xE1; el paciente?, y &#xBF;qu&#xE9; le notaste de diferente?, y &#xBF;los pulmones c&#xF3;mo est&#xE1;n?&#x201D; (Participante 12)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;Look, just by listening to them [the patients] they felt much better, maybe you don't know that you don't have to use a lot of words to make a person feel better, no. Just listen to the patients or touching their arms, telling them that everything will be fine, or ask them how you can help them? Doing things that are not even related to nursing. I got a cell phone charger [for a patient's cell phone]; it [the cell phone] had no signal, and I would go out with the patient's cell phone to the hall to find signal so the text messages written by the patient could be delivered&#x2026; (Participant 12)</p>
+<p>&#x201C;Mira, simplemente con escucharlos [a los pacientes] ellos se sent&#xED;an mucho mejor o uno no sabe que no tienes que usar muchas palabras quiz&#xE1; para hacer sentir bien a una persona, no. Simplemente escucharlo, tocarle el brazo, decirle que todo va a estar bien, preguntarle &#xBF;c&#xF3;mo te puedo ayudar? Todas las cosas que ni siquiera son de enfermer&#xED;a, eh, consegu&#xED; un cargador para el celular, no ten&#xED;a se&#xF1;al y uno sal&#xED;a con el celular del paciente al pasillo que ten&#xED;a enfrente para que la se&#xF1;al le llegara y pudieran llegar los mensajes a las personas a las que les hab&#xED;a escrito&#x2026;&#x201D; (Participante 12)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Theme 4: Overwhelmed and overworked</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;They [the nurses] are currently managing between 6 to 9 critically ill patients without assistance.&#x201D; &#x2026; It means that the quality of service is poor, and the nurses are burned out. I have found them crying on the floor.&#x201D; (Participant 8)</p>
+<p>&#x201C;Actualmente est&#xE1;n manejando [las enfermeras] entre 6 a 9 pacientes sin asistencia&#x2026; las enfermeras se me est&#xE1;n quemando. De que las he encontrado llorando en el piso&#x2026; Antes lo m&#xE1;ximo que manejaban eran 2 pacientes.&#x201D; (Participante 8)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;Weekly, a lot of patients were dying, and the fact that you have a patient, and you are kind of giving it your all and not being able to kind of help him was frustrating. And it has been hard the fact that many people have died due to this condition and seeing it daily was distressing. It hurt us, there was a lot of crying, and there came a time when even our colleagues were so tense that we couldn't do anything else. And we said it: &#x201C;I can't! I can't be there anymore! The place has me already&#x2026;!&#x201D; We already knew that we were going to go to work, and it was already a constant strain. There were many who were irritable. We just talked to them and that's it. The anger was there, the rage, and the feeling was always there, on the surface.&#x201D; (Participant 4)</p>
+<p>&#x201C;Semanalmente, mor&#xED;an muchos pacientes, y el hecho de que t&#xFA; tengas un paciente y t&#xFA; est&#xE1;s dando como que tu m&#xE1;ximo y no poder como que ayudarlo era frustrante. Y ha sido duro el hecho de que mucha gente haya fallecido debido a esta condici&#xF3;n y verlo diario s&#xED; era afectante. Nos doli&#xF3;, hubo mucho llanto, y lleg&#xF3; un momento dado de que ya hasta los mismos compa&#xF1;eros est&#xE1;bamos tan tensos que no pod&#xED;amos m&#xE1;s nada. Y lo dec&#xED;amos: &#x201C;&#xA1;No puedo! &#xA1;No ya puedo estar ah&#xED;! &#xA1;El &#xE1;rea me tiene ya&#x2026;!&#x201D; Ya sab&#xED;amos que &#xED;bamos a entrar a trabajar y ya era una tensi&#xF3;n constante. Hab&#xED;a muchos que estaban irritables. Simplemente les habl&#xE1;bamos y ya. La ira estaba, el coraje, y el sentimiento siempre estaba all&#xED;, a flor de piel.&#x201D;</p>
+<p>(Participante 4)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Theme 5: Recommendations for healthcare leadership</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;I think that they [leaders] should be a little more humane when it comes to treating employees. Not only they should provide us what we need, but also, for example, motivational talks and extracurricular activities. &#x2026;Things that take us off work, because not everything is work. They themselves&#x2013; I don't know, could bring us [nurses] pizza one day. I mean, that we feel like they are treating us well within the institution, that way one could feel good and supported. For example, you are doing a good job and I am going to reward you for that. Emotional support, I think that's what we need the most.&#x201D; (Participant 6)</p>
+<p>&#x201C;Yo pienso que ellos [l&#xED;deres] deben ser un poquito m&#xE1;s humanos a la hora de tratar a los empleados. No solamente brindar lo que necesitamos, sino tambi&#xE9;n, por ejemplo, charlas de motivaci&#xF3;n, actividades extracurriculares. &#x2026; Cosas que nos saquen un poco del panorama, que no todo es trabajo, que ellos mismos&#x2013; No s&#xE9;, nos traigan un d&#xED;a pizza. O sea, que nosotros nos sintamos como que nos est&#xE1;n tratando bien dentro de la instituci&#xF3;n, que uno se sienta bien. Que nosotros nos sintamos apoyados por ellos. Por ejemplo, est&#xE1;s haci&#xE9;ndolo bien que te voy a premiar con cualquier cosa. Apoyo emocional. Yo creo que era lo que m&#xE1;s necesit&#xE1;bamos en ese momento.&#x201D; (Participante 6)</p>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x201C;But again, because the administration wants to do some things, they don't not let our voice to be heard, they don't let us give our recommendations and everything stays the same as we continue to bear. I think that must be changed, it must be modified, they must allow our voices to be heard as nurses and let us be proactive and let us intervene in these processes because we are the ones doing the job and the ones that know how things work.&#x201D; (Participant 16)</p>
+<p>&#x201C;Pero volvemos a lo mismo, como administrativamente pues quieren hacer unas cosas no dejan que nuestra voz, que nuestras recomendaciones se den pues nos quedamos en lo mismo y seguimos aguantando. Eso yo entiendo que debe cambiarse, debe modificarse, deben dejar que la voz de enfermer&#xED;a sea m&#xE1;s proactiva, que se intervenga m&#xE1;s en esos procesos porque somos los que estamos ah&#xED; adentro y sabemos c&#xF3;mo se mueve la cosa.&#x201D; (Participante 16)</p>
+</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <sec id="jnu12820-sec-0014">
+        <title>Organization response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</title>
+        <p>Participants described a variety of approaches used by their institutions in response to COVID&#x2010;19 that required rapid response and adaptations. These approaches were focused more on outcomes and technical processes than fortifying the capacity of the workforce to respond to prolonged crisis. Activities included different trainings, provision of personal protective equipment (PPE), technical changes in care protocols and workflows, and re&#x2010;designating spaces. Overall, trainings focused on PPE and how to sanitize areas that had been occupied by COVID&#x2010;positive patients. In addition to initial trainings, pamphlets with guidance on PPE were distributed and healthcare workers were able to repeat trainings as needed. Trainings were informal in the sense that the supervisors or charge nurses reviewed proper donning of PPE in a huddle; the trainings were not developed and then disseminated by hospital leadership or occupational health for example. Most participants recalled receiving trainings via documents for self&#x2010;study. The availability of in&#x2010;person trainings also depended on shifts. A nurse supervisor explained: &#x201C;At that time I was working night shift&#x2026;they almost never offered trainings on night shift&#x2026;I do remember the training on PPE.&#x201D; He recalled that people who worked during the day were provided with additional trainings. Aside from PPE, other trainings included how to care for patients with COVID&#x2010;19, although from their perspective, the trainings were limited. Despite these trainings, HCWs remained unsettled and still felt unprepared to manage patients with COVID&#x2010;19. A nurse commented: &#x201C;There was a very strong feeling of uncertainty because we did not know exactly how to handle COVID&#x2010;19; not even the doctor knew the specific treatment that had to be given to the patient.&#x201D; (Participant 2)</p>
+        <p>Nurses also had to contend with frequent changes to guidelines and rules for using PPE as well as its scarcity. Some participants reported being provided with PPE, although often with restrictions and changing requirements. One nurse expressed her frustration with the consistent changes:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0001"><p>One day they said one thing, that this is the correct mask, the next day they said no, that you have to wear two masks, it can be a surgical mask, &#x2026;.no, the KN95, no it has to be the N95 (sighs) and we are still, still going on this way. (Participant 10)</p></disp-quote>Dealing with the scarcity of PPE was another issue. Some HCWs were issued only one mask per shift and would have to sign&#x2010;out another one if needed. Others purchased their own to use at work because supplies were no longer available, or they had to reuse their equipment.</p>
+        <p>Healthcare organizations also implemented multiple system&#x2010;level changes to minimize COVID&#x2010;19 infections within the hospital and to protect staff, such as: screening for COVID&#x2010;19 at hospital entrances, select areas within the hospital (including hallways) were repurposed for waiting areas to allow for physical distancing, as well as, for keeping inpatients with COVID&#x2010;19, suspected COVID&#x2010;19, and without COVID&#x2010;19 separated. Eventually, patient visitation was stopped, and then resumed with restrictions (e.g., one visitor for a 30&#x2010;minute visit). These visitation restrictions were not immediate in all locations, but rather in response to increasing infections within the hospital. Other changes included restrictions between units, where workers were expected to always remain on their designated units to avoid potential exposures and cross&#x2010;contamination. For infection control, some institutions also implemented negative pressure rooms, which were reserved for suspected and COVID&#x2010;19 positive patients. For the protection of healthcare workers, some supervisors did not assign workers with underlying medical conditions (conditions that increased their risk for severe illness from COVID&#x2010;19) to high&#x2010;risk areas such as triaging and screening in the ER.</p>
+      </sec>
+      <sec id="jnu12820-sec-0015">
+        <title>Complexity of patients and patient care</title>
+        <p>When reflecting on the patients they serve, healthcare workers consistently described low&#x2010;income populations with chronic conditions and challenges with self&#x2010;management. Even before the pandemic, healthcare workers were caring for elderly patients with uncontrolled conditions&#x2014;such as diabetes and kidney disease&#x2014;that when managed appropriately in outpatient settings would not result in hospitalization. Once the pandemic started, many outpatient services, including transportation services for bringing patients to appointments, were suspended. Participants explained that they then started to see patients being admitted in worse conditions than they used to see pre&#x2010;pandemic, in part because care was delayed. A supervisor shared:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0002"><p>&#x2026;.[COVID&#x2010;19] has exacerbated the timeline [for receiving care] because you know there was a moment when we went virtual and was a huge barrier&#x2026;.it worsened the timeline for care, patients even developed renal and cardiac problems because there was no link to care. In fact we were not prepared to do virtual visits or anything like that and many of them [the elderly] did not have the knowledge or know how. (Participant 17)</p></disp-quote>As indicated by this supervisor's remarks, lack of knowledge about how to access and work with telemedicine also contributed to the delay in care. For example, nurses described dialysis patients presenting with fluid overload, uncontrolled diabetics presenting with even higher blood sugars, and homebound patients presenting with skin ulcers. Some nurses also reported patients dying from exacerbated chronic conditions due to delay in care.</p>
+        <p>Nurses reported that their patients' greatest need&#x2014;despite the acuity of their conditions&#x2014;was emotional support. Because visitors were not allowed for a period of time, patients were often times alone and patients who were positive for COVID&#x2010;19 were in isolation. This isolation caused the patients to feel more anxious and the physical environment (4 walls, no windows) also contributed to the patients' becoming disoriented and created other challenges. One nurse recalled, &#x201C;there was a time when one of my patients clogged the toilet with tissue paper so that [they] could be removed from the room and at least see the hallway.&#x201D; (Participant 12). Patients complained about feeling lonely and expressed concerns about dying alone. Even though some were able to communicate with family over the phone, it was not the same as having in&#x2010;person visits. Nurses did what they could to try to offer more emotional support and reassurance to the patients, but again, COVID&#x2010;19 restrictions made this challenging because they also felt the need to limit time spent with the patients to reduce risk of exposure.</p>
+        <p>Care for patients was also delayed due to COVID&#x2010;19 and lack of personnel. Patients who presented with other morbidities in addition to COVID&#x2010;19 had to wait in isolation before receiving treatment of their non&#x2010;COVID&#x2010;19 conditions. Lack of COVID&#x2010;19 testing on the island also lengthened the duration of stay in isolation because tests were sent to mainland US for analysis&#x2014;a process that would take approximately 10&#x2013;14&#x2009;days. Also, the shortage of all types of staff&#x2014;not only nurses and respiratory therapists, but also physicians and other types of therapists&#x2014;contributed to almost all care being delayed.</p>
+      </sec>
+      <sec id="jnu12820-sec-0016">
+        <title>Work and psychological demand intensify for nurses</title>
+        <p>In addition to patients presenting with greater acuity and needing more emotional support, an array of other factors contributed to increasing the workload and psychological demand on nurses. Pre&#x2010;pandemic, family members were able to help with patient care. Once the pandemic started and visitation restrictions were implemented, emotional support aside, nurses assumed complete patient care to include supporting basic needs such as feeding, grooming, and other ancillary care. Physicians also became more reluctant to enter patient rooms and left physical assessments to the nurses. Because of both restrictions between floors and fear of exposure, staff that used to provide other patient services were no longer providing these services. For example, nutrition services no longer brought meals to the floor, and it became the nurses' responsibility to pick up and serve the meals. One nurse's comments exemplified the degree of responsibility left to the nursing staff.<disp-quote content-type="quotation" id="jnu12820-blkfxd-0003"><p>If something happened to the degree where the patient became aggressive or the event was serious enough that we needed to call some authority &#x2010; a manager or the police &#x2013; they would not enter the room, they only interrogated the nurse to find out what happened. They gave a heavy workload of services that did not correspond well with our work, this [patient care] is interdisciplinary and we have to be in communication with all the teams. But they delegated responsibilities that did not pertain to us but because we were the ones who entered [the rooms] we had to do the work. (Participant 16)</p></disp-quote>The lack of ancillary support was even more stressful when caring for the COVID&#x2010;19 patients who would easily deteriorate with any type of activity. One nurse explained that people who could otherwise function independently pre&#x2010;COVID&#x2010;19, now with COVID&#x2010;19 and respiratory assistance/devices could no longer complete their own activities of daily living and needed nursing support for complete care. Compounding these stressors were issues such as malfunctioning air conditioning, requiring nurses to work in uncomfortably warm spaces with full PPE. Also, early in the pandemic, COVID&#x2010;19 testing was not available on the island, leaving nurses working with patients with an unknown status. This uncertainty exacerbated their anxiety and fears of contracting COVID&#x2010;19.</p>
+        <p>Amid these stressors, because of COVID&#x2010;19 precautions, nurses and therapists were not getting the workplace emotional support from peers to which they were accustomed to pre&#x2010;pandemic. For example, one participant described:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0004"><p>Sometimes I could get together with my coworkers during the lunch break, talking together, and sharing food. For example, I used to work a lot at night and we would share a lot of food. Everybody would bring something from home to share. Now we can't do that, right&#x2026;it's prohibited. (Participant 13).</p></disp-quote>The pandemic also impacted other informal opportunities that allowed for social connection and support. For example, participants reflected on times when they used to meet in common areas, catch&#x2010;up briefly on social issues, and give each other hugs. Although the HCWs were no longer able to have the same level of social interaction as they had pre&#x2010;pandemic, they still did what they could to support each other. For example, they did what they could to make sure their colleagues donned their PPE correctly and tried to continue to be sources of emotional support by listening to each other's work challenges.</p>
+        <p>Family support was the one form of social support that remained consistent during the</p>
+        <p>pandemic for the HCWs. Those who had families at home still enjoyed going home to see them and were able to rely on siblings or their parents to help with things such as childcare and grocery shopping. Even though the frequent family gatherings had stopped, the HCWs remained connected with family through video calls.</p>
+      </sec>
+      <sec id="jnu12820-sec-0017">
+        <title>Overwhelmed and overworked</title>
+        <p>The increased work demands, less emotional support, and prolonged fear of contracting COVID&#x2010;19 created an environment in which healthcare workers often felt overwhelmed and overworked. Participants explained that at the start of the pandemic, many healthcare workers left the workforce either temporarily or permanently, leaving those who remained in care of the patient load. As one nurse explained, &#x201C;There is more work and we are the same number of people, and over time we are less because many co&#x2010;workers have resigned because of the workload or the fear of the unknown with COVID.&#x201D; (Participant 10).</p>
+        <p>Because the hospital created &#x201C;new spaces&#x201D; to accommodate patients with and without COVID&#x2010;19, HCWs had to manage more patients and be responsible for more areas. The areas that needed coverage expanded without a commensurate increase in personnel. Another participant shared that at times nurses would have to work double shifts because no one arrived to cover the patient load; leaving work without having someone to take over the care of your patients would be considered abandonment of your work. The lack of personnel led to extreme shortages to where multiple HCWs reported that they and their co&#x2010;workers were responsible for high patient loads, where 2&#x2013;3 nurses may be responsible for 20&#x2013;40 patients, and in some cases, one nurse was responsible for almost 20 patients: &#x201C;There were times when each nurse had 18 patients&#x2026; I had 18 patients and my colleague had 18 patients&#x2026; and every patient had specific care needs because of mental health, morbid obesity, cardiac issues, oxygen dependent&#x2026;.&#x201D;(Participant 4).</p>
+        <p>Participants also noted how the increased stress and workload was affecting patient care. Given their work in intensive care units, many HCWs were familiar with patient deaths; however, during the pandemic, they experienced patients dying more frequently. According to some participants, their experience of having to endure multiple deaths contributed to HCWs becoming a little desensitized to patient needs, which ultimately affected patient care.</p>
+        <p>Healthcare workers also shared how the multiple stressors&#x2014;particularly at work&#x2014;was affecting their mental health. Participants had to contend with concerns about contracting the virus and transmitting it to their own family members. This concern also made them question the integrity of their PPE and often wondered whether they were wearing it properly. Nurses also spoke about the anxiety they were experiencing due to the multiple work stressors including seeing people die, which led some to seek professional help. As one nurse explained:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0005"><p>For me, seeing a person die, even though I have been working here for 2&#x2009;years and I have seen a lot of people die, it still affects me every time. To see 28, 37, 40&#x2009;years olds dying is even more impactful because they're still so young [in their prime]&#x2026;. I was at home alone and I decided to go for psychiatric evaluation and then I started receiving psychotherapy along with medication. Thank God they discharged me&#x2026;.they [my healthcare providers] diagnosed with me post&#x2010;traumatic stress from the pandemic. (Participant 2)</p></disp-quote>Although with differing perspectives (compared to HCW) on availability of mental health resources, even supervisors noted how exhausted the staff were and how much it was affecting the health of the HCWs and the availability of personnel. Like other participants, the supervisors noted other indicators of exhaustion or burnout, where there were more absences from work due to illness, more healthcare workers were receiving some form of mental health support, and there was more defensiveness from the staff.</p>
+        <p>When asked what support they received from their organization to help them manage their mental health well&#x2010;being and workload, participants reported minimal to no support. Some organizations offered professional services; however, many employees did not use these resources because of concerns regarding confidentiality. When asked how the institution supported them with the increased stress they experienced with COVID, most participants responded that they received no support. One participant shared:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0006"><p>Before COVID, there was death every shift, and now sometimes there are 3 or 4 deaths in just one shift. Regarding this, the only thing the hospital did for us was tell us that we have to learn to manage our emotions&#x2026;.that stuck with me&#x2026; (Participant 3)</p></disp-quote>
+</p>
+      </sec>
+      <sec id="jnu12820-sec-0018">
+        <title>Recommendations</title>
+        <p>When asked how they could be better supported, participants' recommendations for the leadership included the following: Demonstrate more care for employees, show appreciation, include employees in decision&#x2010;making, and provide mental health support outside of the institution. HCWs did not feel supported in multiple ways; for example, workers felt that despite the work that they were doing in patient care, particularly for patients with COVID, they were not receiving the necessary support such as PPE and sufficient personnel so that the HCWs could be protected from COVID and provide quality patient care. As one nurse explained:<disp-quote content-type="quotation" id="jnu12820-blkfxd-0007"><p>You [the hospital] should take care of your employee. If you do not take care of your employee, who will do it? We have had many coworkers who have contracted [the virus] and we have seen how it impacts the workplace because you now have to look to other areas to have enough personnel to manage the patient load. You can see the impact when there is a lack of personnel, so the hospital should be supporting employees. (Participant 1)</p></disp-quote>HCWs provided other suggestions for how healthcare leadership could demonstrate better care for employees. HCWs suggested providing spaces onsite for quarantine so that HCWs would not have to worry about going home and potentially exposing their loved ones to COVID. Given the increased workload and exposure to COVID, increased compensation was also suggested; these additional resources would be beneficial for helping with the purchase of their own PPE and helping with expenses in the event they had to be away from work because of COVID infection. Many participants also just wanted leadership to show more appreciation for the work that the HCWs were doing. As one nurse commented about Nurses Week: &#x201C;They didn't even give a packet of candy, a pen, a flower saying &#x201C;happy nurses week&#x201D;&#x2026; Each unit leader should use their own budgets to purchase items for their nurses and show them [the nurses] their appreciation.&#x201D; (Participant 8).</p>
+        <p>HCWs also suggested that they [frontline workers] ought to be part of the discussions that involved workflow and patient care. HCWs explained that being on the frontline allowed them to have insights about the processes and the reality on the units. They explained that administrative personnel are likely more concerned with administrative duties and metrics that are not informed by the reality on the units.</p>
+        <p>Finally, HCWs emphasized the need for mental health support. Participants explained that the increased workload, stress of caring for patients, and witnessing more deaths called for more mental health support for all workers. Participants presented a variety of options, including breaking up schedules so that workers got a break after working 2&#x2009;days, rather than having to work 4&#x2013;5&#x2009;days before earning a break. They also suggested more opportunities for debriefing about what they were experiencing through group sessions and in&#x2010;service sessions about stress management. In addition to internal support, HCWs also suggested providing access to external professional services for mental health support.</p>
+      </sec>
+      <sec id="jnu12820-sec-0019">
+        <title>Feedback from member checks</title>
+        <p>Participants and other healthcare leadership appreciated the study findings. Participants who reviewed our analysis and themes shared that our results aligned with their experiences. In presenting our findings to healthcare leadership, the response was both one of surprise and appreciation for informing them of what frontline workers were experiencing. The leadership were surprised to learn that the issues suggestive of burnout, lack of personnel, and feeling unappreciated were pervasive in other healthcare organizations as well. They were interested in the participants' recommendations and reported plans to be more responsive and supportive of frontline workers.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="jnu12820-sec-0020">
+      <title>DISCUSSION</title>
+      <p>Our study highlighted the multiple stressors experienced by healthcare workers in Puerto Rico during the pandemic. Healthcare workers endured an array of primarily work&#x2010;related challenges with minimal psychosocial support from healthcare leadership. Institutional support focused on technical issues such as PPE, protocols to manage workflows, and some training on how to support patients with COVID&#x2010;19. Indeed, the pandemic was unprecedented; however, even though stressors were brought to the attention of the leadership, from the HCWs' perspectives, the responses were inadequate for their psychosocial needs or increased work demands. HCWs offered recommendations to guide healthcare leadership in supporting frontline workers. They suggested demonstrating more empathy, increasing personnel, providing mental health resources, including frontline healthcare workers in decision&#x2010;making about patient care and support for staff, and increased wages or other incentives like tokens of appreciation. To the best of our knowledge, this is the first qualitative study to assess healthcare worker experiences with work&#x2010;related and personal stressors in Puerto Rico.</p>
+      <p>In addition to the frontline workers' struggles, our findings revealed challenges experienced by underserved patients&#x2014;particularly the elderly. Part of why the workload for HCWs intensified was because people in the community were not able to access preventive and primary care services during the pandemic, which contributed to people having to be hospitalized with exacerbated chronic conditions. These findings provide some insights for how the pandemic may have disproportionately affected certain demographics in Puerto Rico (Azofeifa et al.,&#xA0;<xref rid="jnu12820-bib-0002" ref-type="bibr">2021</xref>). Our participants spoke mainly about the elderly with lower levels of health literacy, who were dependent on family support for their chronic disease self&#x2010;management, and who were not as familiar with technology and options for telemedicine. Indeed, public health reports indicated that most of the deaths (approximately 50%) in Puerto Rico were among the elderly (65&#x2013;84) (Azofeifa et al.,&#xA0;<xref rid="jnu12820-bib-0002" ref-type="bibr">2021</xref>). Now that telemedicine has emerged as an option for increasing access to care, healthcare systems and community&#x2010;based organizations need to ensure the accessibility and usability of these services for the most vulnerable patients.</p>
+      <p>Notable in our findings was the limited discussion of personal stressors. Among a group of HCWs who had already endured multiple hurricane disasters and earthquakes, we expected to learn more about personal stressors and family tension. However, the narrative that emerged from our data overwhelmingly reflected work&#x2010;related challenges and stress. Most participants shared that prior to the pandemic interactions with extended family members were almost weekly and for the purposes of enjoying each other's company. This value of family may have provided the foundation for continued support even during the strenuous times of the pandemic.</p>
+      <p>Our findings aligned with prior studies that have highlighted the impact of COVID&#x2010;19 on the mental health of HCWs. Unlike other studies, we did not assess for psychological distress using clinical assessments (Cortina&#x2010;Rodr&#xED;guez &amp; Afanador,&#xA0;<xref rid="jnu12820-bib-0006" ref-type="bibr">2020</xref>; Rosales&#x2010;Vaca et al.,&#xA0;<xref rid="jnu12820-bib-0016" ref-type="bibr">2022</xref>); however, nurses consistently reported increased psychosocial distress and the need for professional interventions. Our participants' stories offer insight into the potential mechanisms by which the pandemic created added pressure on an already strained workforce. For many participants it was dealing with the &#x201C;unknown&#x201D; that often contributed to worry and feelings of anxiety. Also, the degree to which their workload increased&#x2014;having to do more for each patient by way of also having to assume the responsibilities of other members of the healthcare team and having more critical patients under their care&#x2014;understandably contributed to feelings of exhaustion, burnout, and coworkers quitting, which then perpetuated this cycle of increased work demands on personnel due to lack of personnel and consequently greater psychosocial distress. Understanding these &#x201C;pain points&#x201D; can help inform solutions for improving workflows and protocols to support HCWs and quality patient care.</p>
+      <p>Other studies have also indicated that healthcare leadership was unprepared and struggled with how to support frontline workers during the pandemic (Alvarez et al., <xref rid="jnu12820-bib-0001" ref-type="bibr">2022</xref>; Shanafelt et al.,&#xA0;<xref rid="jnu12820-bib-0017" ref-type="bibr">2020</xref>). Indeed, the pandemic was unprecedented, and challenged everyone to contend with a lot of &#x201C;unknowns.&#x201D; As indicated by the participants' comments and the responses from stakeholders who were presented with our findings, it is likely that leaders in administrative roles were focused on other metrics and not on the processes that impacted frontline workers' responsibilities and well&#x2010;being. This disconnect between supervisors and frontline workers presents an opportunity for leadership development on managing and supporting staff, especially during times of crisis.</p>
+      <p>Perhaps unbeknown to our participants, their recommendations for healthcare leadership are in the literature (Shanafelt et al.,&#xA0;<xref rid="jnu12820-bib-0017" ref-type="bibr">2020</xref>). Demonstrating empathy, appreciation, providing mental health resources, and including frontline workers in decision&#x2010;making were all recommendations identified as elements for building resilient organizations (Benham et al.,&#xA0;<xref rid="jnu12820-bib-0003" ref-type="bibr">2022</xref>; Shanafelt et al.,&#xA0;<xref rid="jnu12820-bib-0017" ref-type="bibr">2020</xref>). Moreover, high&#x2010;performing teams place an emphasis on team communication, tracking performance, and devising better processes as a group (Kyle et al.,&#xA0;<xref rid="jnu12820-bib-0012" ref-type="bibr">2021</xref>; Singer et al., <xref rid="jnu12820-bib-0018" ref-type="bibr">2021</xref>). Supervisors and other administrative leadership were likely stressed and overwhelmed themselves. Therefore, there may be a benefit to hiring a specific person for always overseeing staff well&#x2010;being. Finally, the lack of nursing personnel was a critical issue that amplified all other work&#x2010;related stressors. High nurse&#x2010;to&#x2010;patient ratios are documented sources of burnout and poor&#x2010;quality care (Lasater et al.,&#xA0;<xref rid="jnu12820-bib-0013" ref-type="bibr">2021</xref>; Tawfik et al.,&#xA0;<xref rid="jnu12820-bib-0019" ref-type="bibr">2019</xref>). Nurse staffing policies may facilitate a chain reaction for training, recruitment, and retention of nurses.</p>
+      <sec id="jnu12820-sec-0021">
+        <title>Lessons learned</title>
+        <p>The perspectives from these healthcare workers underscore the importance of being attentive to group processes for healthcare worker wellbeing and effective care. Indeed, the COVID&#x2010;19 pandemic was unprecedented and presented challenges that no one could foresee. In dealing with the chaos of the unknown healthcare leadership directed attention to the patient needs; there was no discussion on how teams and leadership should organize for a potentially enduring problem. Although no one could have anticipated dealing with years of a pandemic, a cohesive interdisciplinary team with representation of frontline workers, that had the opportunity to review processes for team functioning and patient care on an ongoing basis may have contributed to anticipation and better management of the challenges shared by the frontline workers. For example, healthcare leaders could have taken the opportunity to communicate to frontline workers about the availability of mental health resources and learned what may have made these resources more acceptable to HCWs.</p>
+      </sec>
+      <sec id="jnu12820-sec-0022">
+        <title>Limitations</title>
+        <p>We acknowledge several limitations to our work. Most of those who participated in our study were single. Frontline workers with families, particularly with young children, may have offered different perspectives especially about family discord and home&#x2010;related stress. Also, our participants were recruited from one metropolitan area and therefore did not reflect experiences of those who worked in rural settings. In addition, our data do not include perspectives from other disciplines and role in healthcare (e.g. pharmacists, therapists, custodial services).</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12820-sec-0023">
+      <title>CONCLUSIONS</title>
+      <p>Healthcare workers practicing in inpatient settings in Puerto Rico presented a multitude of challenges that they encountered during the pandemic. Participants explained how the lack of primary care services contributed to people being admitted with exacerbated chronic conditions in addition to COVID. The shortage of staff, increased patient care needs, and lack of technical and emotional support from healthcare leadership and other healthcare team members contributed to exceptional work demands on nurses and increased psychosocial distress. Our findings underscore the need for prioritizing the well&#x2010;being of healthcare workers, preparing healthcare leadership on how to support staff, and mandating nurse&#x2010;to&#x2010;patient ratios.</p>
+      <sec id="jnu12820-sec-0024">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<list list-type="bullet" id="jnu12820-list-0001"><list-item id="jnu12820-li-0001"><p>Shanafelt, T. D., Ripp, J., Brown, M., &amp; Sinsky, C. A. (2020). Creating a resilient organization. Caring for health care workers during crisis [Electronic resource]. American Medical Association. URL: <ext-link xlink:href="https://www.ama-assn.org/practice-management/sustainability/creating-resilient-organization-health-care-workers-during" ext-link-type="uri">https://www.ama&#x2010;assn.org/practice&#x2010;management/sustainability/creating&#x2010;resilient&#x2010;organization&#x2010;health&#x2010;care&#x2010;workers&#x2010;during</ext-link>.</p></list-item><list-item id="jnu12820-li-0002"><p>Edmondson, A. (2012). <italic toggle="yes">Teamwork on the fly</italic>. Brighton: Harvard Business Review.</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12820-sec-0025">
+      <title>CONFLICT OF INTEREST</title>
+      <p>There are no conflicts of interest to declare.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12820-sec-0026">
+      <title>ACKNOWLEDGMENT</title>
+      <p>This work was funded by the Johns Hopkins Alliance for a Healthier World.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12820-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12820-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0001">
+<string-name>
+<surname>Alvarez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sims</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Walczak</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lipman</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Marsteller</surname>, <given-names>J. A.</given-names>
+</string-name>, &amp; <collab collab-type="authors">Rich Life Project Investigators</collab>
+. (<year>2022</year>). <article-title>Healthcare leadership perspectives on supporting frontline workers in health center settings during the pandemic</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>19</volume>(<issue>6</issue>), <fpage>3310</fpage>.<pub-id pub-id-type="pmid">35328995</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0002">
+<string-name>
+<surname>Azofeifa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Valencia</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Monta&#xF1;ez&#x2010;B&#xE1;ez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Tejada&#x2010;Vera</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Villafa&#xF1;e&#x2010;Delgado</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Cabrera</surname>, <given-names>J. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Valencia&#x2010;Prado</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Estimating and characterizing COVID&#x2010;19 deaths, Puerto Rico, March&#x2013;July 2020</article-title>. <source>Public Health Reports</source>, <volume>136</volume>(<issue>3</issue>), <fpage>354</fpage>&#x2013;<lpage>360</lpage>.<pub-id pub-id-type="pmid">33596136</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0003">
+<string-name>
+<surname>Benham</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bortolin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Court</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Groves</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Newbury</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Voskanyan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yogman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>AlHajjaj</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>AlMalki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Alossaimi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Awoniyi</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Bardeesi</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Cattamanchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Issa</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Manners</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Molloy</surname>, <given-names>M.</given-names>
+</string-name>, &#x2026; <string-name>
+<surname>Ciottone</surname>, <given-names>G.</given-names>
+</string-name> (<year>2022</year>). <article-title>Preparing for the second surge: Preventing posttraumatic stress disorder and building resilience for health care workers in the face of COVID&#x2010;19</article-title>. <source>Disaster Medicine and Public Health Preparedness</source>, <volume>16</volume>(<issue>2</issue>), <fpage>714</fpage>&#x2013;<lpage>717</lpage>. <pub-id pub-id-type="doi">10.1017/dmp.2020.371</pub-id>
+<pub-id pub-id-type="pmid">33046178</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0004">
+<string-name>
+<surname>Birt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cavers</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Walter</surname>, <given-names>F.</given-names>
+</string-name> (<year>2016</year>). <article-title>Member checking: A tool to enhance trustworthiness or merely a nod to validation?</article-title>
+<source>Qualitative Health Research</source>, <volume>26</volume>(<issue>13</issue>), <fpage>1802</fpage>&#x2013;<lpage>1811</lpage>.<pub-id pub-id-type="pmid">27340178</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0005">
+<string-name>
+<surname>Braun</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Clarke</surname>, <given-names>V.</given-names>
+</string-name> (<year>2006</year>). <article-title>Using thematic analysis in psychology</article-title>. <source>Qualitative Research in Psychology</source>, <volume>3</volume>(<issue>2</issue>), <fpage>77</fpage>&#x2013;<lpage>101</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12820-cit-0006">
+<string-name>
+<surname>Cortina&#x2010;Rodr&#xED;guez</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Afanador</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2020</year>). <article-title>Burnout in the clinical personnel of Puerto Rico during the COVID&#x2010;19 pandemic</article-title>.</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12820-cit-0007">
+<string-name>
+<surname>Denis</surname>
+<given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>COVID&#x2010;19 y el Colapso del Sistema de Salud Privado en Puerto</article-title>. <ext-link xlink:href="https://news.littlesis.org/2020/04/09/covid-19-y-el-colapso-del-sistema-de-salud-privado-en-puerto-rico/" ext-link-type="uri">https://news.littlesis.org/2020/04/09/covid&#x2010;19&#x2010;y&#x2010;el&#x2010;colapso&#x2010;del&#x2010;sistema&#x2010;de&#x2010;salud&#x2010;privado&#x2010;en&#x2010;puerto&#x2010;rico/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0008">
+        <mixed-citation publication-type="miscellaneous" id="jnu12820-cit-0008">
+<string-name>
+<surname>Figueroa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Arroyo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ralat</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ortiz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>J. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rivero</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Encuesta de necesidades del personal de enfermeria de cuidado directo en Puerto Rico ante la Pandemia del COVID&#x2010;19</article-title>. <ext-link xlink:href="http://cpepr.org/wp-content/uploads/2020/04/Encuesta-de-Necesidades-del-Personal-de-Enfermeri%CC%81a-COVID-19-Compress.pdf" ext-link-type="uri">http://cpepr.org/wp&#x2010;content/uploads/2020/04/Encuesta&#x2010;de&#x2010;Necesidades&#x2010;del&#x2010;Personal&#x2010;de&#x2010;Enfermeri%CC%81a&#x2010;COVID&#x2010;19&#x2010;Compress.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0009">
+<string-name>
+<surname>Garc&#xED;a</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rivera</surname>, <given-names>F. I.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Burgos</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Aranda</surname>, <given-names>M. P.</given-names>
+</string-name> (<year>2021</year>). <article-title>Contextualizing the COVID&#x2010;19 era in Puerto Rico: Compounding disasters and parallel pandemics</article-title>. <source>The Journals of Gerontology: Series B</source>, <volume>76</volume>(<issue>7</issue>), <fpage>e263</fpage>&#x2013;<lpage>e267</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0010">
+        <mixed-citation publication-type="book" id="jnu12820-cit-0010">
+<string-name>
+<surname>Grimm</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2021</year>). <source>Hospitals reported that the COVID&#x2010;19 pandemic has significantly strained health care delivery</source>. <publisher-name>US Department of Health and Human Services</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0011">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0011">
+<string-name>
+<surname>Hartnett</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name>
+<surname>Kite&#x2010;Powell</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>DeVies</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Coletta</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Boehmer</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>Adjemian</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gundlapalli</surname>, <given-names>A. V.</given-names>
+</string-name> (<year>2020</year>). <article-title>Impact of the COVID&#x2010;19 pandemic on emergency department visits&#x2014;United States, January 1, 2019&#x2013;May 30, 2020</article-title>. <source>Morbidity and Mortality Weekly Report</source>, <volume>69</volume>(<issue>23</issue>), <fpage>699</fpage>&#x2013;<lpage>704</lpage>.<pub-id pub-id-type="pmid">32525856</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0012">
+<string-name>
+<surname>Kyle</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Aveling</surname>, <given-names>E.&#x2010;L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Singer</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>A mixed methods study of change processes enabling effective transition to team&#x2010;based care</article-title>. <source>Medical Care Research and Review</source>, <volume>78</volume>(<issue>4</issue>), <fpage>326</fpage>&#x2013;<lpage>337</lpage>. <pub-id pub-id-type="doi">10.1177/1077558719881854</pub-id>
+<pub-id pub-id-type="pmid">31610742</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0013">
+<string-name>
+<surname>Lasater</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name>
+<surname>Aiken</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Sloane</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>French</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Reneau</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McHugh</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Chronic hospital nurse understaffing meets COVID&#x2010;19: An observational study</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>30</volume>(<issue>8</issue>), <fpage>639</fpage>&#x2013;<lpage>647</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0014">
+<string-name>
+<surname>Neergaard</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Olesen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>R. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sondergaard</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Qualitative description&#x2013;the poor cousin of health research?</article-title>
+<source>BMC Medical Research Methodology</source>, <volume>9</volume>(<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">19123933</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0015">
+        <mixed-citation publication-type="book" id="jnu12820-cit-0015">
+<string-name>
+<surname>Penchi</surname>, <given-names>L.</given-names>
+</string-name> (<year>2022</year>). <source>Reportan cansancio en enfermeros y ausentismo en Puerto Rico, dice experto</source>. <publisher-name>Medicina y Salud P&#xFA;blica. Recuperado de</publisher-name>. <ext-link xlink:href="https://medicinaysaludpublica.com/noticias/covid-19/reportan-cansancio-en-enfermeros-y-ausentismo-en-puerto-rico-dice-experto/12341" ext-link-type="uri">https://medicinaysaludpublica.com/noticias/covid&#x2010;19/reportan&#x2010;cansancio&#x2010;en&#x2010;enfermeros&#x2010;y&#x2010;ausentismo&#x2010;en&#x2010;puerto&#x2010;rico&#x2010;dice&#x2010;experto/12341</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0016">
+<string-name>
+<surname>Rosales&#x2010;Vaca</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Cruz&#x2010;Barrientos</surname>, <given-names>O. I.</given-names>
+</string-name>, <string-name>
+<surname>Gir&#xF3;n&#x2010;L&#xF3;pez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Noriega</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>More&#x2010;&#xC1;rias</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guariente</surname>, <given-names>S. M. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zazula</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Mental health of healthcare workers of Latin American countries: A review of studies published during the first year of COVID&#x2010;19 pandemic</article-title>. <source>Psychiatry Research</source>, <volume>311</volume>, <fpage>114501</fpage>.<pub-id pub-id-type="pmid">35320759</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0017">
+        <mixed-citation publication-type="book" id="jnu12820-cit-0017">
+<string-name>
+<surname>Shanafelt</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name>
+<surname>Ripp</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sinsky</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2020</year>). <source>Creating a resilient organization. Caring for health care workers during crisis [Electronic resource]</source>. <publisher-name>American Medical Association</publisher-name>. <ext-link xlink:href="https://www.ama-assn.org/practice-management/sustainability/creating-resilient-organization-health-care-workers-during" ext-link-type="uri">https://www.ama&#x2010;assn.org/practice&#x2010;management/sustainability/creating&#x2010;resilient&#x2010;organization&#x2010;health&#x2010;care&#x2010;workers&#x2010;during</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0018">
+<string-name>
+<surname>Singer</surname>, <given-names>S. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kerrissey</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Leading health care teams beyond COVID&#x2010;19: Marking the moment and shifting from recuperation to regeneration</article-title>. <source>NEJM Catalyst Innovations in Care Delivery</source>, <volume>2</volume>(<issue>4</issue>).</mixed-citation>
+      </ref>
+      <ref id="jnu12820-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12820-cit-0019">
+<string-name>
+<surname>Tawfik</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Scheid</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Profit</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shanafelt</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Trockel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Adair</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Sexton</surname>, <given-names>J. B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ioannidis</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2019</year>). <article-title>Evidence relating health care provider burnout and quality of care: A systematic review and meta&#x2010;analysis</article-title>. <source>Annals of Internal Medicine</source>, <volume>171</volume>(<issue>8</issue>), <fpage>555</fpage>&#x2013;<lpage>567</lpage>.<pub-id pub-id-type="pmid">31590181</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

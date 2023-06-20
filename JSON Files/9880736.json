@@ -1,0 +1,1683 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12857" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36583655</article-id>
+      <article-id pub-id-type="pmc">9880736</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12857</article-id>
+      <article-id pub-id-type="publisher-id">JNU12857</article-id>
+      <article-id pub-id-type="other">JNU-05-22-384.R4</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Profession and Society</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Experiencing and witnessing disruptive behaviors toward nurses in COVID&#x2010;19 teams, patient safety, and errors in care</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12857-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Shafran Tikva</surname>
+            <given-names>Sigal</given-names>
+          </name>
+          <degrees>RN, MPH, MHA, PhD</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1598-1545</contrib-id>
+          <xref rid="jnu12857-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>tsigal@hadassah.org.il</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12857-cr-0002" contrib-type="author">
+          <name>
+            <surname>Gabay</surname>
+            <given-names>Gillie</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12857-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12857-cr-0003" contrib-type="author">
+          <name>
+            <surname>Asraf</surname>
+            <given-names>Liron</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12857-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12857-cr-0004" contrib-type="author">
+          <name>
+            <surname>Kluger</surname>
+            <given-names>Avraham N.</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="jnu12857-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12857-cr-0005" contrib-type="author">
+          <name>
+            <surname>Lerman</surname>
+            <given-names>Yulia</given-names>
+          </name>
+          <degrees>RN</degrees>
+          <xref rid="jnu12857-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12857-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing Jerusalem College of Technology, Head, Hadassah Research and Innovation Center in Nursing</named-content>
+<institution>Hadassah University Medical Center</institution>
+<city>Jerusalem</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12857-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Multi&#x2010;Disciplinary Studies</named-content>
+<institution>Achva Academic College</institution>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12857-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Guilford Glazer Faculty of Business and Management</named-content>
+<institution>Ben&#x2010;Gurion University of the Negev</institution>
+<city>Beersheba</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12857-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">The Jerusalem School of Business Administration</named-content>
+<institution>The Hebrew University&#x2013;Mt. Scopus</institution>
+<city>Jerusalem</city>
+<country country="IL">Israel</country>
+</aff>
+      <aff id="jnu12857-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Operating Room and Post&#x2010; Anesthesia Care Unit Academic Consultant</named-content>
+<institution>Hadassah University Medical Center</institution>
+<city>Jerusalem</city>
+<country country="IL">Israel</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Sigal Shafran Tikva, RN, MPH, MHA, PhD, Head, Hadassah Research and Innovation Center in Nursing, Hadassah University Medical Center, Lecturer, School of Nursing Jerusalem College of Technology, Jerusalem, Israel.<break/>
+Email: <email>tsigal@hadassah.org.il</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>30</day>
+        <month>12</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="270">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>253</fpage>
+      <lpage>261</lpage>
+      <history>
+<date date-type="rev-recd"><day>19</day><month>11</month><year>2022</year></date>
+<date date-type="received"><day>13</day><month>6</month><year>2022</year></date>
+<date date-type="accepted"><day>19</day><month>11</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-253.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12857-sec-0001">
+          <title>Background</title>
+          <p>Nurse managers and team co&#x2010;workers' disruptive behaviors (DBs) are negatively associated with a perceived safe climate. Moreover, DBs are a risk factor for patients' safety. Yet, it remains unknown whether and to what extent these effects were prevalent in COVID&#x2010;19 wards and among witnesses of DBs.</p>
+        </sec>
+        <sec id="jnu12857-sec-0002">
+          <title>Design</title>
+          <p>A cross&#x2010;sectional study.</p>
+        </sec>
+        <sec id="jnu12857-sec-0003">
+          <title>Methods</title>
+          <p>A questionnaire was distributed on social networks and completed by nurses in various Israeli healthcare organizations using snowball sampling between October and December 2021. The questionnaire included seven previously published measures and a question checking whether the participants had worked in a COVID&#x2010;19 ward. The minimal sample size for any analysis was 236. Hypotheses were tested with correlations and structural equation modeling.</p>
+        </sec>
+        <sec id="jnu12857-sec-0004">
+          <title>Results</title>
+          <p>DBs of nurse managers and team co&#x2010;workers toward nurses were higher in COVID&#x2010;19 teams. As hypothesized, DBs were negatively correlated with a safe climate and positively with patient safety (fewer errors). The data were consistent with a model suggesting that a safe climate is related to fewer DBs and DBs largely mediate the effects of safe climate on errors. Surprisingly and importantly, the strongest predictor of errors, including preventable mortality, is witnessing DBs and not being a victim of DBs.</p>
+        </sec>
+        <sec id="jnu12857-sec-0005">
+          <title>Conclusions</title>
+          <p>DBs may impede open communication and collaboration among co&#x2010;workers, particularly in COVID&#x2010;19 teams. This study shows the links between nurse shaping of a safe climate, DBs toward nurses, and patient safety.</p>
+        </sec>
+        <sec id="jnu12857-sec-0006">
+          <title>Clinical relevance</title>
+          <p>Nurse managers who create a safe climate and show zero tolerance for DBs could reduce the risk of errors in care.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12857-kwd-0001">disruptive behaviors</kwd>
+        <kwd id="jnu12857-kwd-0002">frontline Covid&#x2010;19 nurses</kwd>
+        <kwd id="jnu12857-kwd-0003">patient safety</kwd>
+        <kwd id="jnu12857-kwd-0004">safety climate</kwd>
+        <kwd id="jnu12857-kwd-0005">team coworkers</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="2"/>
+        <page-count count="9"/>
+        <word-count count="6215"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:27.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12857-cit-2001">
+<string-name>
+<surname>Shafran Tikva</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gabay</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Asraf</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kluger</surname>, <given-names>A. N.</given-names>
+</string-name> &amp; <string-name>
+<surname>Lerman</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2023</year>). <article-title>Experiencing and witnessing disruptive behaviors toward nurses in COVID&#x2010;19 teams, patient safety, and errors in care</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>253</fpage>&#x2013;<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12857</pub-id>
+<pub-id pub-id-type="pmid">36583655</pub-id></mixed-citation>
+</p>
+      <fn-group id="jnu12857-ntgp-0001">
+        <fn id="jnu12857-note-0001">
+          <p>Equal contributor&#x2014;Gillie Gabay</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body id="jnu12857-body-0001">
+    <sec id="jnu12857-sec-0007">
+      <title>INTRODUCTION</title>
+      <p>Reducing medical errors requires strong and effective clinical teamwork, but throughout the COVID&#x2010;19 pandemic, front&#x2010;line nurses faced multi&#x2010;adversities that may have inhibited team effectiveness (Gabay et al.,&#xA0;<xref rid="jnu12857-bib-0027" ref-type="bibr">2022</xref>; Takizawa et al.,&#xA0;<xref rid="jnu12857-bib-0078" ref-type="bibr">2021</xref>). During COVID&#x2010;19, front&#x2010;line nurses worked around the clock, struggling to balance their own physical and mental needs with those of their co&#x2010;workers (Cai et al.,&#xA0;<xref rid="jnu12857-bib-0016" ref-type="bibr">2020</xref>). In addition, nurses faced heavier physical workloads due to the quarantine of co&#x2010;workers and more significant emotional overload as they were separated from their own teams and joined new COVID&#x2010;19 teams (Gabay et al.,&#xA0;<xref rid="jnu12857-bib-0027" ref-type="bibr">2022</xref>). Moreover, the discomfort during endless shifts due to full protective gear and clothing that nurses were obliged to wear exacerbated their exhaustion, limited their hearing, and caused communication barriers with co&#x2010;workers and patients (Brucato,&#xA0;<xref rid="jnu12857-bib-0014" ref-type="bibr">2020</xref>; Greenberg et al.,&#xA0;<xref rid="jnu12857-bib-0029" ref-type="bibr">2020</xref>; Unadkat &amp; Farquhar,&#xA0;<xref rid="jnu12857-bib-0082" ref-type="bibr">2020</xref>). Thus, the more responsibilities and the busier the schedule, the higher the emotional exhaustion of nurses, jeopardizing their health (Adams &amp; Walls,&#xA0;<xref rid="jnu12857-bib-0001" ref-type="bibr">2020</xref>).</p>
+      <p>The multi&#x2010;adversities emerging from caring for COVID&#x2010;19 patients have resulted in heightened stress, depression, anxiety, hopelessness, helplessness, and fear (Bettinsoli et al.,&#xA0;<xref rid="jnu12857-bib-0006" ref-type="bibr">2020</xref>; Maben &amp; Bridges,&#xA0;<xref rid="jnu12857-bib-0051" ref-type="bibr">2020</xref>; Y&#x131;ld&#x131;r&#x131;m et al.,&#xA0;<xref rid="jnu12857-bib-0086" ref-type="bibr">2020</xref>). The need to provide safe care for COVID&#x2010;19 patients without a protocol for this unfamiliar disease was associated with nurses' psychological distress, post&#x2010;traumatic stress disorder, anxiety, depression, poor physical health, and risky health behaviors (Bozda&#x11F; &amp; Erg&#xFC;n,&#xA0;<xref rid="jnu12857-bib-0012" ref-type="bibr">2020</xref>; Y&#x131;ld&#x131;r&#x131;m et al.,&#xA0;<xref rid="jnu12857-bib-0086" ref-type="bibr">2020</xref>). Nurses were stretched thinner than ever, and the weak support from their nurse managers led them to maladaptive coping (Foli et al.,&#xA0;<xref rid="jnu12857-bib-0025" ref-type="bibr">2021</xref>).</p>
+      <p>Nurse managers themselves were overwhelmed due to their various duties of quickly deploying nurses for a rapidly expanding number of inpatients, training nurses who were newly deployed to the inpatient front&#x2010;line, supervising care based on newly updated standardized protocols, supervising triage processes, and caring for patients in expanded ICUs and non&#x2010;traditional care spaces (Tomer et al.,&#xA0;<xref rid="jnu12857-bib-0079" ref-type="bibr">2021</xref>). There was an urgent need for effective collaborations in clinical teams and good communication for discussing medical information and making decisions to reduce errors and provide safe patient care under intensely complex demands (Boehmer et al.,&#xA0;<xref rid="jnu12857-bib-0009" ref-type="bibr">2020</xref>; Gabay et al.,&#xA0;<xref rid="jnu12857-bib-0027" ref-type="bibr">2022</xref>). To ensure patient safety, a safety climate comprised of open culture, a blame&#x2010;free environment, and a reflective (non&#x2010;punitive) attitude toward errors and adverse events were to be implemented (Elsous et al.,&#xA0;<xref rid="jnu12857-bib-0022" ref-type="bibr">2017</xref>; Halligan &amp; Zecevic,&#xA0;<xref rid="jnu12857-bib-0033" ref-type="bibr">2011</xref>; Mitchell et al.,&#xA0;<xref rid="jnu12857-bib-0056" ref-type="bibr">2016</xref>; Sorra et al.,&#xA0;<xref rid="jnu12857-bib-0076" ref-type="bibr">2010</xref>; Wagner et al.,&#xA0;<xref rid="jnu12857-bib-0083" ref-type="bibr">2013</xref>).</p>
+      <p>Constant communication among team co&#x2010;workers was key to resolving issues of patient safety that demanded immediate attention (El&#x2010;Jardali et al.,&#xA0;<xref rid="jnu12857-bib-0021" ref-type="bibr">2010</xref>; Singla et al.,&#xA0;<xref rid="jnu12857-bib-0074" ref-type="bibr">2006</xref>). Since nurse function as gatekeepers, coordinators, and evaluators of care, their perception of the ward's climate as a safe climate is essential for patient safety (Jones et al.,&#xA0;<xref rid="jnu12857-bib-0044" ref-type="bibr">2015</xref>). The pivotal role of nurse managers in building and improving a safe climate and in influencing the perceived safety climate among nurses has been widely acknowledged (Cleary&#x2010;Holdforth,&#xA0;<xref rid="jnu12857-bib-0020" ref-type="bibr">2019</xref>; Griffiths et al.,&#xA0;<xref rid="jnu12857-bib-0030" ref-type="bibr">2019</xref>; Gurkov&#xE1; et al.,&#xA0;<xref rid="jnu12857-bib-0031" ref-type="bibr">2020</xref>; Kelloway et al.,&#xA0;<xref rid="jnu12857-bib-0045" ref-type="bibr">2006</xref>; Mitchell et al.,&#xA0;<xref rid="jnu12857-bib-0056" ref-type="bibr">2016</xref>). Nurse managers are also pivotal for shaping team effectiveness in a health crisis (Cariaso&#x2010;Sugay et al.,&#xA0;<xref rid="jnu12857-bib-0018" ref-type="bibr">2021</xref>). Indeed, throughout COVID&#x2010;19, nurse managers significantly affected teamwork, with some teams putting patient safety first and growing stronger. In contrast, other teams, under similar conditions, fought among themselves and reached decisions that failed to put patient safety first (Thompson &amp; Kusy, 2021). Broadening our knowledge of nurses' occupational experience during the pandemic and their association with patient safety is essential for encouraging nurse managers to support their team nurses and adapt to the needs of nurses and patients in a health crisis (Marceau et al.,&#xA0;<xref rid="jnu12857-bib-0053" ref-type="bibr">2022</xref>).</p>
+      <sec id="jnu12857-sec-0008">
+        <title>Development of hypotheses</title>
+        <p>Recent studies found that during the COVID&#x2010;19 pandemic, front&#x2010;line nurses experienced more abusive behaviors such as shouting, swearing, and pushing, perpetrated by their co&#x2010;workers (Ghareeb et al.,&#xA0;<xref rid="jnu12857-bib-0028" ref-type="bibr">2021</xref>; Hussain et al.,&#xA0;<xref rid="jnu12857-bib-0040" ref-type="bibr">2021</xref>). Such behaviors are defined as disruptive behaviors (DBs), referring to negative behaviors or lateral violence among peers. DBs include bullying, workplace incivility, hostility, horizontal violence, and interpersonal conflict (Blair,&#xA0;<xref rid="jnu12857-bib-0008" ref-type="bibr">2013</xref>; Castronovo et al.,&#xA0;<xref rid="jnu12857-bib-0019" ref-type="bibr">2016</xref>; Embree &amp; White,&#xA0;<xref rid="jnu12857-bib-0023" ref-type="bibr">2010</xref>; Martin,&#xA0;<xref rid="jnu12857-bib-0055" ref-type="bibr">2008</xref>; Shafran&#x2010;Tikva, Zelker, et al.,&#xA0;<xref rid="jnu12857-bib-0072" ref-type="bibr">2017</xref>). DBs of nurse managers and co&#x2010;workers have been associated with the poor psychological well&#x2010;being of team nurses and their intention to quit (Simard &amp; Parent&#x2010;Lamarche,&#xA0;<xref rid="jnu12857-bib-0073" ref-type="bibr">2022</xref>). DBs frequently occur in healthcare across countries and cultures (Allen et al.,&#xA0;<xref rid="jnu12857-bib-0004" ref-type="bibr">2015</xref>; Bardak&#xE7;&#x131; &amp; G&#xFC;n&#xFC;&#x15F;en,&#xA0;<xref rid="jnu12857-bib-0005" ref-type="bibr">2016</xref>; Shafran&#x2010;Tikva, Zelker, et al.,&#xA0;<xref rid="jnu12857-bib-0072" ref-type="bibr">2017</xref>; Stanley et al.,&#xA0;<xref rid="jnu12857-bib-0077" ref-type="bibr">2007</xref>). We hypothesize that higher DBs will be found in teams during COVID&#x2010;19.<statement content-type="Hypothesis" id="jnu12857-mthst-0001"><label>Hypothesis 1</label><p>Front&#x2010;line nurses who cared for COVID&#x2010;19 patients experienced more DBs than nurses who did not care for COVID&#x2010;19 patients.</p></statement>
+</p>
+        <p>Extensive research has focused on vertical violence toward nurses by their managers and horizontal violence by co&#x2010;workers. However, there is a lack of research on DBs toward team nurses during COVID&#x2010;19 by nurse managers and co&#x2010;workers and their effect on the perceived safety climate. Patients of nurses who experienced DBs rated the safety and quality of care lower than did patients of nurses who did not experience DBs (Laschinger &amp; Nosko,&#xA0;<xref rid="jnu12857-bib-0048" ref-type="bibr">2015a</xref>). This effect may have been due to the lower attention that nurses who experienced DBs paid to their nursing tasks, which may have increased their errors in the delivery of care, enhanced preventable risks and adverse events for patients, and jeopardized clinical outcomes (Arnetz &amp; Arnetz, <xref rid="jnu12857-bib-0085" ref-type="bibr">2001</xref>; Blair,&#xA0;<xref rid="jnu12857-bib-0008" ref-type="bibr">2013</xref>; Joint Commission,&#xA0;<xref rid="jnu12857-bib-0043" ref-type="bibr">2008</xref>; Purpora et al.,&#xA0;<xref rid="jnu12857-bib-0060" ref-type="bibr">2015</xref>; Rosenstein &amp; O'Daniel,&#xA0;<xref rid="jnu12857-bib-0067" ref-type="bibr">2008a</xref>). Indeed, DBs have been shown to mediate the relationship between the work climate and clinical outcomes (Olsen et al.,&#xA0;<xref rid="jnu12857-bib-0057" ref-type="bibr">2017</xref>). DBs were found to negatively impact nurse&#x2010;assessed patient quality of care through perceived patient safety risk (Spence, Laschinger &amp; Nosko,&#xA0;<xref rid="jnu12857-bib-0048" ref-type="bibr">2015b</xref>). Therefore, we hypothesize that DBs toward nurses during COVID&#x2010;19 will be negatively associated with a safety climate and preventable errors in care.<statement content-type="Hypothesis" id="jnu12857-mthst-0002"><label>Hypothesis 2</label><p>DBs Of (a) nurse managers and (b) team co&#x2010;workers are inversely related to patient safety and increase errors of care.</p></statement>
+</p>
+        <p>Antecedents of DBs include role characteristics, relationship quality, leadership style, and organizational culture (Tr&#xE9;panier et al.,&#xA0;<xref rid="jnu12857-bib-0080" ref-type="bibr">2016</xref>). Moreover, DBs are associated with an organizational culture that includes informal alliances, tolerance of and rewards for bullying, and misuse of legitimate organizational processes and procedures (Hutchinson et al.,&#xA0;<xref rid="jnu12857-bib-0041" ref-type="bibr">2010</xref>). Research in contexts other than nursing provides additional insights into the effects of DBs on workers merely witnessing them in the workplace. For example, witnessing DBs among engineers resulted in lower perceived organizational justice but not lower well&#x2010;being. Also, support from managers, higher levels of power, and job embeddedness, partly moderated the relationship between witnessing DBs and perceived organizational justice (Holm et al.,&#xA0;<xref rid="jnu12857-bib-0036" ref-type="bibr">2021</xref>). In academia, DBs were found to challenge colleagues' status, trigger feelings of responsibility, and mediate the effect of power on confrontation and decreased avoidance. Powerful employees who witnessed DBs responded to them against others at work by directly confronting the perpetrators and offering support to targets of DBs (Hershcovis et al.,&#xA0;<xref rid="jnu12857-bib-0035" ref-type="bibr">2017</xref>). Third&#x2010;party responses to DBs in nursing have yet to be revealed. We hypothesize that DBs affect witnesses of DBs.<statement content-type="Hypothesis" id="jnu12857-mthst-0003"><label>Hypothesis 3</label><p>Witnessing DBs in the workplace is inversely related to patient safety and increases errors in care.</p></statement>
+</p>
+        <p>The present study aims to close the gaps in state&#x2010;of&#x2010;the&#x2010;art testing of the association between DBs toward nurses by nurse managers and co&#x2010;workers during the pandemic and the perceived safety climate and errors in care among victims and witnesses of DBs.</p>
+      </sec>
+    </sec>
+    <sec sec-type="methods" id="jnu12857-sec-0009">
+      <title>METHODS</title>
+      <sec id="jnu12857-sec-0010">
+        <title>Sample</title>
+        <p>We sought to obtain a sample large enough to have a 0.95 power to detect a correlation of the size of |0.20| with a one&#x2010;tailed test. We calculated the needed sample size of this statistical power with G power 3.1 and obtained <italic toggle="yes">N&#x2009;=</italic>&#xA0;236. We ran our study with Qualtrics and found 641 clicks on the opening page of our survey (the same individual could have made multiple clicks). Of these clicks, 313 were followed by answers to at least one scale, but only 181 were followed by a complete questionnaire with no missing data. To obtain the most power from our data, we kept all records with any answers. We had a sample of at least 250 nurses for most analyses and no less than 236 for any analysis. These nurses worked in various Israeli hospitals, in COVID&#x2010;19 and non&#x2010;COVID&#x2010;19 wards. Table&#xA0;<xref rid="jnu12857-tbl-0001" ref-type="table">1</xref> presents the sample's composition and properties.</p>
+        <table-wrap position="float" id="jnu12857-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Sample demographics</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="char" char="(" span="1"/>
+            <col align="char" char="(" span="1"/>
+            <col align="char" char="(" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Characteristic</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Overall, <italic toggle="yes">N</italic>&#xA0;=&#xA0;314</th>
+                <th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Worked in COVID&#x2010;19 ward?</th>
+                <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Yes, <italic toggle="yes">N</italic>&#xA0;=&#xA0;139</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">No, <italic toggle="yes">N</italic>&#xA0;=&#xA0;175</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">34.7 (10.4)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">34.1 (10.8)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">35.4 (9.9)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">68</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">39</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">29</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Diploma year</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">9.0 (11.4)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8.8 (12.1)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">9.2 (10.6)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">89</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">54</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">35</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Current job year</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">6.0 (7.1)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">5.3 (6.8)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">7.0 (7.5)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">75</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">44</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">31</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Gender</td>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">210/(84%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">124/(91%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">86/(75%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">39/(16%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10/(7.4%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">29/(25%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2/(0.8%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">2/(1.5%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0/(0%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">63</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">39</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">24</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Manager</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">41/(17%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">18/(13%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">23/(21%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">67</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">27</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Full Time</td>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">100%</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">98/(39%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">46/(34%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">52/(46%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">74%&#x2013;50%</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">48/(19%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">30/(22%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">18/(16%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">75%&#x2013;99%</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">75/(30%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">41/(30%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">34/(30%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Less than 50%</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">28/(11%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">18/(13%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">10/(8.8%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">65</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Public</td>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Integrated</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">29/(12%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">21/(16%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8/(7.1%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Private</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">26/(10%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">14/(10%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">12/(11%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Public</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">193/(78%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">100/(74%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">93/(82%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">66</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Organization</td>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+                <td align="char" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Community care</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">42/(17%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">33/(24%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">9/(7.8%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">General hospital</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">178/(71%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">82/(61%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">96/(83%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Geriatric center</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1/(0.4%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">0/(0%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1/(0.9%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">25/(10%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">17/(13%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">8/(7.0%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Rehabilitation center</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">4/(1.6%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">3/(2.2%)</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">1/(0.9%)</td>
+              </tr>
+              <tr>
+                <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">64</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                <td align="char" valign="top" rowspan="1" colspan="1">24</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot id="jnu12857-ntgp-0002">
+            <fn id="jnu12857-note-0002">
+              <p>
+<italic toggle="yes">Note</italic>: The first three variables are shown as mean (SD); the remaining variables are <italic toggle="yes">n</italic>/(%).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="jnu12857-sec-0011">
+        <title>Procedure</title>
+        <p>Data were collected from October to December 2021, the peak of the fourth wave of COVID&#x2010;19 in Israel, with infection rates rising, ongoing morbidity, and vaccination rejected by 48% of the population (Gabay,&#xA0;<xref rid="jnu12857-bib-0026" ref-type="bibr">2022</xref>). A questionnaire was distributed among nurses on social networks using snowball sampling. The questionnaires were sent to respondents who agreed to participate via a link to the webpage. Before completing the questionnaires, the study's goals were presented, and respondents were assured that their anonymity and confidentiality would be maintained and thanked for their participation. Respondents were asked to mark an informed consent box for participation and publication and to complete the questionnaire.</p>
+      </sec>
+      <sec id="jnu12857-sec-0012">
+        <title>Instrument</title>
+        <p>The questionnaire included 50 items assessed in seven subsections, assessing six variables on a rating scale that ranged from 0&#xA0;=&#xA0;&#x201C;not at all&#x201D; to 10&#xA0;=&#xA0;&#x201C;to a very large extent,&#x201D; plus control variables. The use of an 11&#x2010;point scale was in order to increase their validity (Aguinis et al.,&#xA0;<xref rid="jnu12857-bib-0002" ref-type="bibr">2009</xref>). Although the means and standard deviations of the items in this study differ from those in previous studies, they provide a better likelihood of correctly estimating the size of the correlations among the constructs measured in this study (Aguinis et al.,&#xA0;<xref rid="jnu12857-bib-0002" ref-type="bibr">2009</xref>). Nurses who worked in COVID&#x2010;19 wards were asked to answer all questions regarding their work in the ward.</p>
+        <p>
+<italic toggle="yes">Working in a COVID&#x2010;19 ward</italic> was measured by a single question: &#x201C;Have you worked with COVID&#x2010;19 patients during the last 6&#x2009;months?&#x201D; (0&#xA0;=&#x2009;no; 1&#xA0;=&#x2009;yes).</p>
+        <p>
+<italic toggle="yes">Safety climate</italic> was assessed by seven items on an interval scale (Pinheiro &amp; de Sousa Uva,&#xA0;<xref rid="jnu12857-bib-0058" ref-type="bibr">2016</xref>). A sample item is: &#x201C;In my unit, it is easy to learn from the errors of others&#x201D; (<italic toggle="yes">&#x3B1;</italic>&#xA0;=&#xA0;0.81).</p>
+        <p>
+<italic toggle="yes">Experiencing DBs by a direct nurse manager</italic> was assessed by nine items (Rehder et al.,&#xA0;<xref rid="jnu12857-bib-0063" ref-type="bibr">2020</xref>). A sample item is: &#x201C;Your direct nurse manager turned her back on you before the conversation was over&#x201D; (<italic toggle="yes">&#x3B1;</italic>&#xA0;=&#xA0;0.91).</p>
+        <p>
+<italic toggle="yes">Experiencing DBs performed by team members</italic> were assessed with the same items as items measuring exposure to DBs by a direct nurse manager, adapted to team members. A sample item is: &#x201C;Your colleague turned his back on you before the conversation was over&#x201D; (<italic toggle="yes">&#x3B1;</italic>&#xA0;=&#xA0;0.90).</p>
+        <p>
+<italic toggle="yes">Witnessing DBs</italic> were assessed using the same items as the last two scales and adapted to witnessing. A sample item is: &#x201C;I witnessed colleagues turning their backs on a team member even before the conversation ended&#x201D; (<italic toggle="yes">&#x3B1;</italic>&#xA0;=&#xA0;0.93).</p>
+        <p>
+<italic toggle="yes">Patient safety</italic> was assessed by five items (Rosenstein &amp; O'Daniel,&#xA0;<xref rid="jnu12857-bib-0068" ref-type="bibr">2008b</xref>) relating to the quality of care, patient safety, errors, adverse events, and preventable mortality (<italic toggle="yes">&#x3B1;</italic>&#xA0;=&#xA0;0.86).</p>
+        <p>
+<italic toggle="yes">Occupational and other demographic information</italic> were collected with 10 items.</p>
+      </sec>
+      <sec id="jnu12857-sec-0013">
+        <title>Data analysis</title>
+        <p>All analyses were carried out with R (R Core Team,&#xA0;<xref rid="jnu12857-bib-0061" ref-type="bibr">2022</xref>). To ensure validity scales were probed with factor analyses, their reliabilities were assessed with Cronbach's alpha and the hypotheses were tested with correlations and structural equation models (SEMs), using recommended criteria for SEM fit (Kline,&#xA0;<xref rid="jnu12857-bib-0046" ref-type="bibr">2016</xref>).</p>
+        <p>SEM offers four advantages over a series of ordinary least squares regression analyses: (a) it explicitly models the correlation among the antecedents of patient safety (safety climate, DBs); (b) it constrains the hypothesized paths between antecedents of safety climate and between safety climate and patient safety in care to zero; (c) it tests the overall fit of the hypothesized model to the data; (d) the hypothesized relationships among variables are estimated while controlling for the biasing influence of random measurement errors.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="jnu12857-sec-0014">
+      <title>RESULTS</title>
+      <p>Hypothesis&#xA0;<xref rid="jnu12857-mthst-0001" ref-type="statement">1</xref> was mainly supported (see column 1 in Table&#xA0;<xref rid="jnu12857-tbl-0002" ref-type="table">2</xref>). Nurses who had worked in COVID&#x2010;19 wards reported higher experiences of DBs (from managers and team members). They also reported witnessing higher preventable mortality.</p>
+      <table-wrap position="float" id="jnu12857-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Descriptive statistics and correlations for study variables</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Measure</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Mean</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">SD</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">1</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">2</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">3</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">4</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">5</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">6</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">7</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">8</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">9</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">10</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">11</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">1. Worked in COVID&#x2010;19 unit (0&#xA0;=&#x2009;no; 1&#xA0;=&#x2009;yes)</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">313</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.44</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.50</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">2. Safety climate</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">294</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">6.79</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.85</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.04</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(0.81)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">3. Experienced DB from nurse manager</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">286</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.44</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.94</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.08</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.40<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(0.91)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">4. Experienced DB from co&#x2010;workers in team</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">278</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.23</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.62</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.12<xref rid="jnu12857-note-0004" ref-type="table-fn">*</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.26<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.47<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(0.90)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">5. Witnessed DBs in team</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">276</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.68</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.54</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.14<xref rid="jnu12857-note-0004" ref-type="table-fn">*</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.37<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.57<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.69<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(0.93)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">6. An index of all error items</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">250</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.96</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.04</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.06</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.42<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.30<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.41<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.52<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(0.86)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">7. Quality of care</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">250</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.49</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.67</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.08</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.44<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.25<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.31<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.44<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.81<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">8. Patient safety</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">236</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.08</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.55</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.03</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.48<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.35<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.39<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.48<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.89<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.76<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">9. Errors in care</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">238</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.26</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.30</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.04</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.34<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.24<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.23<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.37<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.82<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.53<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.65<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">10. Adverse events</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">236</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.22</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.47</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.06</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.19<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.22<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.31<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.41<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.78<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.41<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.57<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.62<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">11. Preventable mortality</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">236</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.33</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">2.15</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.14<xref rid="jnu12857-note-0004" ref-type="table-fn">*</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.28<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.23<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.33<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.36<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.75<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.46<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.57<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.52<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="char" char="." valign="top" rowspan="1" colspan="1">0.53<xref rid="jnu12857-note-0005" ref-type="table-fn">**</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">(&#x2212;)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12857-ntgp-0003">
+          <fn id="jnu12857-note-0003">
+            <p>
+<italic toggle="yes">Note</italic>: Values on the diagonal are reliabilities.</p>
+          </fn>
+          <fn id="jnu12857-note-0004">
+            <label>*</label>
+            <p>
+<italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.05.</p>
+          </fn>
+          <fn id="jnu12857-note-0005">
+            <label>**</label>
+            <p>
+<italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.01.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Table&#xA0;<xref rid="jnu12857-tbl-0002" ref-type="table">2</xref> also provides support for Hypothesis&#xA0;<xref rid="jnu12857-mthst-0002" ref-type="statement">2</xref> and Hypothesis&#xA0;<xref rid="jnu12857-mthst-0003" ref-type="statement">3</xref>. As seen in column 2, DBs by managers and nurses are inversely correlated with safety climate. In Column 3, DBs by managers and nurses are positively correlated with reports of all error types, including preventable mortality, supporting Hypothesis&#xA0;<xref rid="jnu12857-mthst-0002" ref-type="statement">2</xref>. Also, column 6, regarding witnessing DBs, shows the same pattern of correlations, supporting Hypothesis&#xA0;<xref rid="jnu12857-mthst-0003" ref-type="statement">3</xref>. Notably, the correlations with witnessing DBs are higher than with experiencing DBs performed by managers or nurses, plausibly because witnessing DBs is more frequent, and the variability in witnessing is larger (compare the means and standard deviation of Row 3 through Row 5 in Table&#xA0;<xref rid="jnu12857-tbl-0002" ref-type="table">2</xref>).</p>
+      <p>Next, we tested our model (top panel of Figure&#xA0;<xref rid="jnu12857-fig-0001" ref-type="fig">1</xref>) on 244 nurses, with all the data required for this analysis. The model is consistent with our hypotheses in that DBs from both sources reflect DBs in general, safety climates predict DBs, and DBs predict errors. Yet, this model did not fit the data well, &#x3C7;<sup>2</sup>
+<sub>(10)</sub>&#xA0;=&#x2009;432.3, <italic toggle="yes">p</italic>&#xA0;&lt;&#x2009;0.001, CFI&#xA0;=&#xA0;0.94, RMSEA&#xA0;=&#xA0;0.14 with 95% CI (0.097, 0.195), and SRMR&#xA0;=&#xA0;0.059. The CFI and SRMR are acceptable, but the other fit indices are not. Therefore, we inspected the matrix of the residuals and modified the model to fit the data (bottom panel of Figure&#xA0;<xref rid="jnu12857-fig-0001" ref-type="fig">1</xref>). The modified model fits the data very well, &#x3C7;<sup>2</sup>
+<sub>(10)</sub>&#xA0;=&#x2009;3.52, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.32, CFI&#xA0;=&#xA0;0.99, RMSEA&#xA0;=&#xA0;0.027 with 95% CI (0.00, 0.114), and SRMR&#xA0;=&#xA0;0.018. The modification did not alter the basic conclusion of our original model. However, the modified model suggests that safety climate affects errors via DBs, as hypothesized, and directly. Thus, DB partially mediates the effect of safety climate on errors. In addition, the modified model suggests that safety climate covaries negatively with managers' DB.</p>
+      <fig position="float" fig-type="FIGURE" id="jnu12857-fig-0001">
+        <label>FIGURE 1</label>
+        <caption>
+          <p>SEM results for path analysis of the study model.</p>
+          <p>Note: <italic toggle="yes">R</italic>
+<sup>2</sup> =.59, <italic toggle="yes">p</italic>=.0000; <italic toggle="yes">X</italic>2 = 432, <italic toggle="yes">N</italic> = 244, DF = 10, <italic toggle="yes">p</italic> = .2000; RMSEA=.0114; CFI= .967; TLI = .918. <italic toggle="yes">p</italic>&lt;0.001</p>
+        </caption>
+        <graphic xlink:href="JNU-55-253-g001" position="anchor" id="jats-graphic-1"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion" id="jnu12857-sec-0015">
+      <title>DISCUSSION</title>
+      <p>This study examined the association between nurse experiences of DB by managers, experiencing DBs performed by team co&#x2010;workers, and witnessing DBs, with the perceived safety climate and preventable errors in medical care. Findings show that DBs of team co&#x2010;workers toward nurses and witnessing DB were higher in COVID&#x2010;19 wards than in non&#x2010;COVID&#x2010;19 wards, perhaps due to the adversity nurses faced in COVID&#x2010;19 wards. Experiencing both sources of DBs (managers and co&#x2010;workers) and witnessing DBs were inversely related to a safe climate, safe patient care, and preventable mortality. This study makes several theoretical contributions. First, the study tested the extent to which COVID&#x2010;19 front&#x2010;line nurses experienced DBs, compared to the experiences of nurses in non&#x2010;COVID&#x2010;19 wards, and indicates that front&#x2010;line nurses in COVID&#x2010;19 wards experienced more DBs. Second, to the best of our knowledge, this is the first study to test the effect of witnessing DBs toward nurses within the team on the perceived safety climate and patient safety. Third, this study tested the effect of safety climate on DBs and DB effects on patient safety.</p>
+      <sec id="jnu12857-sec-0016">
+        <title>Theoretical implications</title>
+        <p>All our hypotheses were corroborated: (a) Front&#x2010;line COVID&#x2010;19 nurses experienced more DBs than nurses in non&#x2010;COVID&#x2010;10 wards; (b) DBs were correlated with medical errors, and (c) Climate safety was negatively associated with DBs and medical errors, where DBs partially mediate its effect on error. Findings surprisingly indicated that care errors were more strongly associated with witnessing DBs than with experiencing DBs performed by nurse managers and team co&#x2010;workers. While this finding may not mean that witnessing DBs produce more harm than being a victim of DBs, it suggests that the effects of all DBs are stronger than would be observed if witnessing DBs are not measured. The implication of this statistical phenomenon (more frequent behaviors with more considerable variance produce stronger correlations) is that the costs of DBs in medical errors, including preventable mortality, are even higher than previously thought.</p>
+        <p>Our findings support the conclusions of the Joint Commission statement that DBs foster medical errors, contribute to poor patient satisfaction and preventable adverse outcomes, increase the cost of care, and cause qualified nurses to seek new positions (<ext-link xlink:href="http://bit.ly/2vdzkCP" ext-link-type="uri">http://bit.ly/2vdzkCP</ext-link>.&#xA0;<xref rid="jnu12857-bib-0043" ref-type="bibr">2008</xref>). Patient safety is affected by the work environment of nurses (Aiken et al.,&#xA0;<xref rid="jnu12857-bib-0003" ref-type="bibr">2017</xref>; Recio&#x2010;Saucedo et al.,&#xA0;<xref rid="jnu12857-bib-0062" ref-type="bibr">2018</xref>). Findings show a covariance between DBs by nurse managers and safety climate, suggesting that nurse managers shape the safety climate, and the safety climate may legitimize or inhibit DBs by nurse managers. This finding supports previous studies that found that misuse of organizational power, organizational tolerance to DBs toward nurses, and rewarding DBs of nurse managers and team co&#x2010;workers, jeopardizes patient safety (Hutchinson et al.,&#xA0;<xref rid="jnu12857-bib-0041" ref-type="bibr">2010</xref>). Our findings also support the associations between work climate, DBs, and nurses' job performance (Olsen et al.,&#xA0;<xref rid="jnu12857-bib-0057" ref-type="bibr">2017</xref>).</p>
+      </sec>
+      <sec id="jnu12857-sec-0017">
+        <title>Practice implications</title>
+        <p>The practical implication of this study is the need to monitor, train, and manage climate safety and DBs to reduce preventable errors and improve patient safety. DBs toward nurses impede open communication and collaboration among team co&#x2010;workers, particularly in COVID&#x2010;19 wards. Since there was no protocol for COVID&#x2010;19, communication was essential for coordinating care, but DBs inhibited this. These DBs effects were added to the already limited communication due to front&#x2010;line nurses wearing protective suits and masks. Nursing managers, in routine and in health crises, must understand the importance of eradicating DBs through workshops and meetups. A stronger safety climate and zero tolerance to DBs by nurse managers will enable health organizations to identify high&#x2010;risk situations of DB and of safety issues that put patients at increased risk of errors in medical care (El&#x2010;Jardali et al.,&#xA0;<xref rid="jnu12857-bib-0021" ref-type="bibr">2010</xref>; Singla et al.,&#xA0;<xref rid="jnu12857-bib-0074" ref-type="bibr">2006</xref>). To determine the strengths and weaknesses of the safety climate and safety care, they must be regularly measured, and areas for improvement must be identified (El&#x2010;Jardali et al.,&#xA0;<xref rid="jnu12857-bib-0021" ref-type="bibr">2010</xref>; Elsous et al.,&#xA0;<xref rid="jnu12857-bib-0022" ref-type="bibr">2017</xref>; Reis et al.,&#xA0;<xref rid="jnu12857-bib-0064" ref-type="bibr">2018</xref>; Smits et al.,&#xA0;<xref rid="jnu12857-bib-0075" ref-type="bibr">2009</xref>). One means to reduce DBs and improve the safety climate may be to train all involved personnel in listening. Poor listening is known to be associated with violence in romantic relationships, and we have good reason to expect this poor listening and violence link to be present at work. Moreover, listening training could alleviate DBs and contribute in many ways to the hospital's performance, including better patient compliance, patient satisfaction, and more.</p>
+        <p>Improving patient safety is a pressing challenge related to leadership, safety climate, and continuous quality improvement. Nurse managers are called upon to elucidate and modify both leadership&#x2010;related antecedents and organizational culture antecedents of DBs, to prevent the dire consequences of DBs on errors in medical care (Tr&#xE9;panier et al.,&#xA0;<xref rid="jnu12857-bib-0080" ref-type="bibr">2016</xref>). The jarring consequences of DBs toward nurses in work teams lead to anxiety, depression, anger, and frustration, in an environment of a continuing shortage of nurses, low job satisfaction, persisting burnout, and migration of highly qualified nurse specialists (Hampton et al.,&#xA0;<xref rid="jnu12857-bib-0034" ref-type="bibr">2019</xref>). Indeed, DBs by nurse managers have been associated with the poor psychological well&#x2010;being of team nurses and their intention to quit (Simard &amp; Parent&#x2010;Lamarche,&#xA0;<xref rid="jnu12857-bib-0073" ref-type="bibr">2022</xref>). The consequences of DBs can potentially jeopardize the quality of care (Hampton et al.,&#xA0;<xref rid="jnu12857-bib-0034" ref-type="bibr">2019</xref>) and call for hospital and nursing managements to intervene to eliminate DBs toward nurses (Gurkov&#xE1; et al.,&#xA0;<xref rid="jnu12857-bib-0031" ref-type="bibr">2020</xref>). To promote and improve patient safety and enhance the perceived commitment to patient safety, nursing managements are called upon to prevent DBs, and ensure the safety of nurses at work and in teams. Managements are called upon to foster an authentic leadership style found to directly decrease DBs (Laschinger &amp; Fida,&#xA0;<xref rid="jnu12857-bib-0049" ref-type="bibr">2014</xref>). Once the safety of nurses at work is established, patient safety may be improved through dedicating necessary resources to safety and rewarding proper conduct.</p>
+      </sec>
+      <sec id="jnu12857-sec-0018">
+        <title>Clinical relevance</title>
+        <p>A stronger safety climate and zero tolerance to DBs by nurse managers will enable health organizations to identify high&#x2010;risk situations of DBs and safety issues that put patients at increased risk of errors in medical care. Patient safety may be improved by dedicating the necessary organizational commitment and resources to safety and rewarding proper conduct.</p>
+      </sec>
+      <sec id="jnu12857-sec-0019">
+        <title>Policy implications</title>
+        <p>One means to reduce DBs and improve the safety climate may be to train all involved personnel in listening. Poor listening is known to be associated with violence in romantic relationships, and we have good reason to expect this poor listening and violence link to be present at work. Moreover, listening training could alleviate DBs and contribute in many ways to the hospital's performance, including better patient compliance, patient satisfaction, and more.</p>
+      </sec>
+      <sec id="jnu12857-sec-0020">
+        <title>Study limitations</title>
+        <p>This study is not without limitations. First, the same measures were used to assess self&#x2010;reported DBs performed by nurse managers, team members, and witnesses, perhaps creating a common method bias. Second, because data were collected through social networks, it was impossible to compare health organizations. Third, data may have been affected by the playout of COVID&#x2010;19 in Israel in the data collection period. Third, although DBs exist across cultures and countries, findings may be affected by the cultural context.</p>
+      </sec>
+      <sec id="jnu12857-sec-0021">
+        <title>Directions for future studies</title>
+        <p>Future studies are called for to test the experiencing and <italic toggle="yes">witnessing</italic> of DBs and their effect on safety climate and errors in care in other healthcare services sectors. Furthermore, the research could test the effect of training nurse managers in listening on reduction in DBs and consequently improvement in patient safety.</p>
+      </sec>
+      <sec id="jnu12857-sec-0022">
+        <title>Clinical resources</title>
+        <p>
+<ext-link xlink:href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2797662?resultClick%3D1" ext-link-type="uri">https://jamanetwork.com/journals/jama&#x2010;health&#x2010;forum/fullarticle/2797662?resultClick=1</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.lni.wa.gov/forms-publications/f310-002-000.pdf" ext-link-type="uri">https://www.lni.wa.gov/forms&#x2010;publications/f310&#x2010;002&#x2010;000.pdf</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.medpro.com/disruptive-behavior-patient-safety-financial-implications" ext-link-type="uri">https://www.medpro.com/disruptive&#x2010;behavior&#x2010;patient&#x2010;safety&#x2010;financial&#x2010;implications</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2797394?resultClick%3D1" ext-link-type="uri">https://jamanetwork.com/journals/jamainternalmedicine/article&#x2010;abstract/2797394?resultClick=1</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://www.sciencedirect.com/topics/medicine-and-dentistry/disruptive-behavior" ext-link-type="uri">https://www.sciencedirect.com/topics/medicine&#x2010;and&#x2010;dentistry/disruptive&#x2010;behavior</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://blog.thesullivangroup.com/disruptive-behavior-in-healthcare" ext-link-type="uri">https://blog.thesullivangroup.com/disruptive&#x2010;behavior&#x2010;in&#x2010;healthcare</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2797662?resultClick%3D24" ext-link-type="uri">https://jamanetwork.com/journals/jama&#x2010;health&#x2010;forum/fullarticle/2797662?resultClick=24</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://hqca.ca/resources-for-improvement/frameworks/managing-disruptive-behaviour-in-the-healthcare-workplace-framework/" ext-link-type="uri">https://hqca.ca/resources&#x2010;for&#x2010;improvement/frameworks/managing&#x2010;disruptive&#x2010;behaviour&#x2010;in&#x2010;the&#x2010;healthcare&#x2010;workplace&#x2010;framework/</ext-link>
+</p>
+        <p>
+<ext-link xlink:href="https://apps.who.int/iris/handle/10665/270713" ext-link-type="uri">https://apps.who.int/iris/handle/10665/270713</ext-link>
+</p>
+      </sec>
+    </sec>
+    <sec id="jnu12857-sec-0023">
+      <title>FUNDING INFORMATION</title>
+      <p>This research received no specific grant from any funding agency in the public, commercial, or not&#x2010;for&#x2010;profit sectors.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12857-sec-0024">
+      <title>CONFLICTS OF INTEREST</title>
+      <p>The authors declare that there is no conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="data-availability" id="jnu12857-sec-0026">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+    </sec>
+    <ref-list content-type="cited-references" id="jnu12857-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12857-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>J. G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Walls</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Supporting the health care workforce during the COVID&#x2010;19 global epidemic</article-title>. <source>JAMA</source>, <volume>323</volume>(<issue>15</issue>), <fpage>1439</fpage>&#x2013;<lpage>1440</lpage>.<pub-id pub-id-type="pmid">32163102</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0002">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0002">
+<string-name>
+<surname>Aguinis</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>, <given-names>C. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Culpepper</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Scale coarseness as a methodological artifact: Correcting correlation coefficients attenuated from using coarse scales</article-title>. <source>Organizational Research Methods</source>, <volume>12</volume>, <fpage>623</fpage>&#x2013;<lpage>652</lpage>. <pub-id pub-id-type="doi">10.1177/1094428108318065</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0003">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0003">
+<string-name>
+<surname>Aiken</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Sloane</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rafferty</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Bruyneel</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>McHugh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>, <given-names>C. B.</given-names>
+</string-name>, <string-name>
+<surname>Moreno&#x2010;Casbas</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Ausserhofer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sermeus</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <collab collab-type="authors">RN4CAST Consortium</collab>
+. (<year>2017</year>). <article-title>Nursing skill mix in European hospitals: Cross&#x2010;sectional study of the association with mortality, patient ratings, and quality of care</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>26</volume>(<issue>7</issue>), <fpage>559</fpage>&#x2013;<lpage>568</lpage>. <pub-id pub-id-type="doi">10.1136/bmjqs-2016-005567</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0004">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0004">
+<string-name>
+<surname>Allen</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Reynolds</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>The effect of bullying on burnout in nurses: The moderating role of psychological detachment</article-title>. <source>Journal of Advanced Nursing</source>, <volume>71</volume>(<issue>2</issue>), <fpage>381</fpage>&#x2013;<lpage>390</lpage>.<pub-id pub-id-type="pmid">25082131</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0085">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0085">
+<string-name>
+<surname>Arnetz</surname>, <given-names>J. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Arnetz</surname>, <given-names>B. B.</given-names>
+</string-name> (<year>2001</year>). <article-title>Violence towards health care staff and possible effects on the quality of patient care</article-title>. <source>Social Science &amp; Medicine</source>, <volume>52</volume>(<issue>3</issue>), <fpage>417</fpage>&#x2013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1016/s0277-9536(00)00146-5</pub-id>
+<pub-id pub-id-type="pmid">11330776</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0005">
+<string-name>
+<surname>Bardak&#xE7;&#x131;</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>G&#xFC;n&#xFC;&#x15F;en</surname>, <given-names>N. P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Influence of workplace bullying on Turkish nurses' psychological distress and nurses' reactions to bullying</article-title>. <source>Journal of Transcultural Nursing</source>, <volume>27</volume>(<issue>2</issue>), <fpage>166</fpage>&#x2013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">25193340</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0006">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0006">
+<string-name>
+<surname>Bettinsoli</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>di Riso</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Napier</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Moretti</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bettinsoli</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Delmedico</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Piazzolla</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Moretti</surname>, <given-names>B.</given-names>
+</string-name> (<year>2020</year>). <article-title>Mental health conditions of Italian healthcare professionals during the COVID&#x2010;19 disease outbreak</article-title>. <source>Applied Psychology: Health and Well&#x2010;Being</source>, <volume>12</volume>(<issue>4</issue>), <fpage>1054</fpage>&#x2013;<lpage>1073</lpage>. <pub-id pub-id-type="doi">10.1111/aphw.12239</pub-id>
+<pub-id pub-id-type="pmid">33016564</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0008">
+<string-name>
+<surname>Blair</surname>, <given-names>P. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Lateral violence in nursing</article-title>. <source>Journal of Emergency Nursing</source>, <volume>39</volume>(<issue>5</issue>), <fpage>e75</fpage>&#x2013;<lpage>e78</lpage>.<pub-id pub-id-type="pmid">22245396</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0009">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0009">
+<string-name>
+<surname>Boehmer</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>DeVies</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Caruso</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>van Santen</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Hartnett</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name>
+<surname>Kite&#x2010;Powell</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dietz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lozier</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gundlapalli</surname>, <given-names>A. V.</given-names>
+</string-name> (<year>2020</year>). <article-title>Changing age distribution of the COVID&#x2010;19 pandemic&#x2014;United States, may&#x2013;august 2020</article-title>. <source>Morbidity and Mortality Weekly Report</source>, <volume>69</volume>(<issue>39</issue>), <fpage>1404</fpage>&#x2013;<lpage>1409</lpage>.<pub-id pub-id-type="pmid">33001872</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0012">
+<string-name>
+<surname>Bozda&#x11F;</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Erg&#xFC;n</surname>, <given-names>N.</given-names>
+</string-name> (<year>2021</year>). <article-title>Psychological resilience of healthcare professionals during COVID&#x2010;19 pandemic</article-title>. <source>Psychological Reports</source>, <volume>124</volume>(<issue>6</issue>), <fpage>2567</fpage>&#x2013;<lpage>2586</lpage>. <pub-id pub-id-type="doi">10.1177/0033294120965477</pub-id>
+<pub-id pub-id-type="pmid">33050800</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0014">
+<string-name>
+<surname>Brucato</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Voices from the front&#x2010;line: Notes from a COVID&#x2010;19 emergency unit in Milan, Italy</article-title>. <source>Journal of Communication in Healthcare</source>, <volume>13</volume>(<issue>2</issue>), <fpage>76</fpage>&#x2013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1080/17538068.2020.1777687</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0016">
+<string-name>
+<surname>Cai</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhuang</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2020</year>). <article-title>Psychological impact and coping strategies of front&#x2010;line medical staff in Hunan between January and march 2020 during the outbreak of coronavirus disease 2019 (COVID&#x2010;19) in Hubei, China. Medical science monitor</article-title>. <source>International Medical Journal of Experimental and Clinical Research</source>, <volume>26</volume>, <elocation-id>e924171</elocation-id>. <pub-id pub-id-type="doi">10.12659/MSM.924171</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0018">
+<string-name>
+<surname>Cariaso&#x2010;Sugay</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hultgren</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Browder</surname>, <given-names>B. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chen</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Nurse leaders' knowledge and confidence managing disasters in the acute care setting</article-title>. <source>Nursing Administration Quarterly</source>, <volume>45</volume>(<issue>2</issue>), <fpage>142</fpage>&#x2013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">33587412</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0019">
+<string-name>
+<surname>Castronovo</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Pullizzi</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Evans</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Nurse bullying: A review and a proposed solution</article-title>. <source>Nursing Outlook</source>, <volume>64</volume>(<issue>3</issue>), <fpage>208</fpage>&#x2013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">26732552</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0020">
+<string-name>
+<surname>Cleary&#x2010;Holdforth</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Missed nursing care: A symptom of missing evidence</article-title>. <source>Worldviews on Evidence&#x2010;Based Nursing</source>, <volume>16</volume>(<issue>2</issue>), <fpage>88</fpage>&#x2013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1111/wvn.12351</pub-id>
+<pub-id pub-id-type="pmid">30811823</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0021">
+<string-name>
+<surname>El&#x2010;Jardali</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Jaafar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dimassi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jamal</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hamdan</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>). <article-title>The current state of patient safety culture in Lebanese hospitals: A study at baseline</article-title>. <source>International Journal for Quality in Health Care</source>, <volume>22</volume>(<issue>5</issue>), <fpage>386</fpage>&#x2013;<lpage>395</lpage>. <pub-id pub-id-type="doi">10.1093/intqhc/mzq047</pub-id>
+<pub-id pub-id-type="pmid">20699233</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0022">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0022">
+<string-name>
+<surname>Elsous</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Akbari Sari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>AlJeesh</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Radwan</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Nursing perceptions of patient safety climate in the Gaza strip, Palestine</article-title>. <source>International Nursing Review</source>, <volume>64</volume>(<issue>3</issue>), <fpage>446</fpage>&#x2013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1111/inr.12351</pub-id>
+<pub-id pub-id-type="pmid">28102544</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0023">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0023">
+<string-name>
+<surname>Embree</surname>, <given-names>J. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>White</surname>, <given-names>A. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Concept analysis: Nurse&#x2010;to&#x2010;nurse lateral violence</article-title>. <source>Nursing Forum</source>, <volume>45</volume>(<issue>3</issue>), <fpage>166</fpage>&#x2013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">20690992</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0025">
+<string-name>
+<surname>Foli</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chiu</surname>, <given-names>Y. C.</given-names>
+</string-name> (<year>2021</year>). <article-title>Voices from the COVID&#x2010;19 front&#x2010;line: Nurses' trauma and coping</article-title>. <source>Journal of Advanced Nursing</source>, <volume>77</volume>(<issue>9</issue>), <fpage>3853</fpage>&#x2013;<lpage>3866</lpage>.<pub-id pub-id-type="pmid">34314068</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0026">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0026">
+<string-name>
+<surname>Gabay</surname>, <given-names>G.</given-names>
+</string-name> (<year>2022</year>). <article-title>Health policies and the playout of the COVID&#x2010;19 vaccine in Israel</article-title>. <source>MECOSAN: Health management and Policy: International perspectives</source>, <volume>121</volume>, <fpage>57</fpage>&#x2013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.3280/mesa2022-121oa13859</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0027">
+<string-name>
+<surname>Gabay</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Naamati&#x2010;Schieder</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pikkel</surname>, <given-names>D.</given-names>
+</string-name> (<year>2022</year>). <article-title>Cultivating psychological resilience of Israeli medical directors of COVID&#x2010;19 divisions: The dynamic spheres of Salutogenics</article-title>. <source>Frontiers of Public Health</source>, <volume>10</volume>, <elocation-id>801297</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpubh.2022.801297</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0028">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0028">
+<string-name>
+<surname>Ghareeb</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>El&#x2010;Shafei</surname>, <given-names>D. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Eladl</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Workplace violence among healthcare workers during COVID&#x2010;19 pandemic in a Jordanian governmental hospital: The tip of the iceberg</article-title>. <source>Environmental Science and Pollution Research</source>, <volume>28</volume>(<issue>43</issue>), <fpage>61441</fpage>&#x2013;<lpage>61449</lpage>.<pub-id pub-id-type="pmid">34173953</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0029">
+<string-name>
+<surname>Greenberg</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Docherty</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gnanapragasam</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wessely</surname>, <given-names>S.</given-names>
+</string-name> (<year>2020</year>). <article-title>Managing mental health challenges faced by healthcare workers during covid&#x2010;19 pandemic</article-title>. <source>BMJ</source>, <volume>368</volume>, <fpage>1</fpage>&#x2013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.m1211</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0030">
+<string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Maruotti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Recio Saucedo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>, <given-names>O. C.</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Briggs</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dall'Ora</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>G. B.</given-names>
+</string-name>, &amp; <collab collab-type="authors">Missed Care Study Group</collab>
+. (<year>2019</year>). <article-title>Nurse staffing, nursing assistants and hospital mortality: Retrospective longitudinal cohort study</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>28</volume>(<issue>8</issue>), <fpage>609</fpage>&#x2013;<lpage>617</lpage>. <pub-id pub-id-type="doi">10.1136/bmjqs-2018-008043</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0031">
+<string-name>
+<surname>Gurkov&#xE1;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Zelen&#xED;kov&#xE1;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Friganovic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Uchmanowicz</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jaro&#x161;ov&#xE1;</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Papastavrou</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>&#x17D;iakov&#xE1;</surname>, <given-names>K.</given-names>
+</string-name> (<year>2020</year>). <article-title>Hospital safety climate from nurses' perspective in four European countries</article-title>. <source>International Nursing Review</source>, <volume>67</volume>(<issue>2</issue>), <fpage>208</fpage>&#x2013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">31742691</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0033">
+<string-name>
+<surname>Halligan</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zecevic</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Safety culture in healthcare: A review of concepts, dimensions, measures and progress</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>20</volume>(<issue>4</issue>), <fpage>338</fpage>&#x2013;<lpage>343</lpage>. <pub-id pub-id-type="doi">10.1136/bmjqs.2010.040964</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0034">
+<string-name>
+<surname>Hampton</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Tharp&#x2010;Barrie</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kay Rayens</surname>, <given-names>M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Experience of nursing leaders with workplace bullying and how to best cope</article-title>. <source>Journal of Nursing Management</source>, <volume>27</volume>(<issue>3</issue>), <fpage>517</fpage>&#x2013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">30136408</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0035">
+<string-name>
+<surname>Hershcovis</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Neville</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Cortina</surname>, <given-names>L. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Shan</surname>, <given-names>J. V.</given-names>
+</string-name> (<year>2017</year>). <article-title>Witnessing wrongdoing: The effects of observer power on incivility intervention in the workplace</article-title>. <source>Organizational Behavior and Human Decision Processes</source>, <volume>142</volume>, <fpage>45</fpage>&#x2013;<lpage>57</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0036">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0036">
+<string-name>
+<surname>Holm</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Torkelson</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>B&#xE4;ckstr&#xF6;m</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Longitudinal outcomes of witnessed workplace incivility: A three&#x2010;wave full panel study exploring mediators and moderators</article-title>. <source>Occupational Health Science</source>, <volume>5</volume>, <fpage>189</fpage>&#x2013;<lpage>216</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0040">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0040">
+<string-name>
+<surname>Hussain</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Begum</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Batul</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Tui</surname>, <given-names>N. N.</given-names>
+</string-name>, <string-name>
+<surname>Islam</surname>, <given-names>M. N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hussain</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Healthcare workers during the COVID&#x2010;19 pandemic: Experiences of doctors and nurses in Bangladesh</article-title>. <source>The International Journal of Health Planning and Management</source>, <volume>36</volume>(<issue>S1</issue>), <fpage>174</fpage>&#x2013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">33819348</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0041">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0041">
+<string-name>
+<surname>Hutchinson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wilkes</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Vickers</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Integrating individual, work group and organizational factors: Testing a multidimensional model of bullying in the nursing workplace</article-title>. <source>Journal of Nursing Management</source>, <volume>18</volume>(<issue>2</issue>), <fpage>173</fpage>&#x2013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">20465745</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0043">
+        <mixed-citation publication-type="miscellaneous" id="jnu12857-cit-0043">
+<collab collab-type="authors">Joint Commission</collab>
+. (<year>2008</year>). <article-title>Behaviors that undermine a culture of safety</article-title>. Sentinal Event Alert, 40.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0044">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0044">
+<string-name>
+<surname>Jones</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Murry</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Unfinished nursing care, missed care, and implicitly rationed care: State of the science review</article-title>. <source>International Journal of Nursing Studies</source>, <volume>52</volume>(<issue>6</issue>), <fpage>1121</fpage>&#x2013;<lpage>1137</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2015.02.012</pub-id>
+<pub-id pub-id-type="pmid">25794946</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0045">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0045">
+<string-name>
+<surname>Kelloway</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Mullen</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Francis</surname>, <given-names>L.</given-names>
+</string-name> (<year>2006</year>). <article-title>Divergent effects of transformational and passive leadership on employee safety</article-title>. <source>Journal of Occupational Health Psychology</source>, <volume>11</volume>(<issue>1</issue>), <fpage>76</fpage>&#x2013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1037/1076-8998.11.1.76</pub-id>
+<pub-id pub-id-type="pmid">16551176</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0046">
+        <mixed-citation publication-type="book" id="jnu12857-cit-0046">
+<string-name>
+<surname>Kline</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2016</year>). <source>Principles and practice of structural equation modeling</source> (<edition designator="4">4th ed.</edition>). <publisher-name>Guilford Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0048">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0048">
+<string-name>
+<surname>Laschinger</surname>, <given-names>H. K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nosko</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015a</year>). <article-title>Exposure to workplace bullying and post&#x2010;traumatic stress disorder symptomology: The role of protective psychological resources</article-title>. <source>Journal of Nursing Management</source>, <volume>23</volume>(<issue>2</issue>), <fpage>252</fpage>&#x2013;<lpage>262</lpage>.<pub-id pub-id-type="pmid">24033807</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0049">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0049">
+<string-name>
+<surname>Laschinger</surname>, <given-names>H. K. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Fida</surname>, <given-names>R.</given-names>
+</string-name> (<year>2014</year>). <article-title>A time&#x2010;lagged analysis of the effect of authentic leadership on workplace bullying, burnout, and occupational turnover intentions</article-title>. <source>European Journal of Work and Organizational Psychology</source>, <volume>23</volume>(<issue>5</issue>), <fpage>739</fpage>&#x2013;<lpage>753</lpage>. <pub-id pub-id-type="doi">10.1080/1359432X.2013.804646</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0051">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0051">
+<string-name>
+<surname>Maben</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bridges</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Covid&#x2010;19: Supporting nurses' psychological and mental health</article-title>. <source>Journal of Clinical Nursing</source>, <volume>15&#x2010;16</volume>, <fpage>2742</fpage>&#x2013;<lpage>2750</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.15307</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0053">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0053">
+<string-name>
+<surname>Marceau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ledoux</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lavoie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Benyamina Douma</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mailhot&#x2010;Bisson</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gosselin</surname>, <given-names>&#xC9;.</given-names>
+</string-name> (<year>2022</year>). <article-title>Exploration of the occupational and personal dimensions impacted by the COVID&#x2010;19 pandemic for nurses: A qualitative analysis of survey responses</article-title>. <source>Journal of Advanced Nursing.</source>, <volume>78</volume>, <fpage>2150</fpage>&#x2013;<lpage>2164</lpage>.<pub-id pub-id-type="pmid">35133027</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0055">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0055">
+<string-name>
+<surname>Martin</surname>, <given-names>W. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>Is your hospital safe? Disruptive behavior and workplace bullying</article-title>. <source>Hospital Topics</source>, <volume>86</volume>(<issue>3</issue>), <fpage>21</fpage>&#x2013;<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0056">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0056">
+<string-name>
+<surname>Mitchell</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Schuster</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Pronovost</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wu</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Patient safety incident reporting: A qualitative study of thoughts and perceptions of experts 15&#x2009;years after &#x2018;to err is human&#x2019;</article-title>. <source>BMJ quality &amp; safety</source>, <volume>25</volume>(<issue>2</issue>), <fpage>92</fpage>&#x2013;<lpage>99</lpage>. <pub-id pub-id-type="doi">10.1136/bmjqs-2015-004405</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0057">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0057">
+<string-name>
+<surname>Olsen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bjaalid</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mikkelsen</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Work climate and the mediating role of workplace bullying related to job performance, job satisfaction, and work ability: A study among hospital nurses</article-title>. <source>Journal of Advanced Nursing</source>, <volume>73</volume>(<issue>11</issue>), <fpage>2709</fpage>&#x2013;<lpage>2719</lpage>.<pub-id pub-id-type="pmid">28512986</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0058">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0058">
+<string-name>
+<surname>Pinheiro</surname>, <given-names>J. P. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>de Sousa Uva</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Safety climate in the operating room: Translation, validation and application of the safety attitudes questionnaire</article-title>. <source>Revista portuguesa de sa&#xFA;de p&#xFA;blica</source>, <volume>34</volume>(<issue>2</issue>), <fpage>107</fpage>&#x2013;<lpage>116</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0060">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0060">
+<string-name>
+<surname>Purpora</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Blegen</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Stotts</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Hospital staff registered nurses' perception of horizontal violence, peer relationships, and the quality and safety of patient care</article-title>. <source>Work</source>, <volume>51</volume>(<issue>1</issue>), <fpage>29</fpage>&#x2013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.3233/WOR-141892</pub-id>
+<pub-id pub-id-type="pmid">24939123</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0061">
+        <mixed-citation publication-type="book" id="jnu12857-cit-0061">
+<collab collab-type="authors">R Core Team</collab>
+. (<year>2022</year>). <source>R: A language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>. <ext-link xlink:href="https://www.r-project.org" ext-link-type="uri">https://www.R&#x2010;project.org</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0062">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0062">
+<string-name>
+<surname>Recio&#x2010;Saucedo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dall'Ora</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maruotti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Briggs</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meredith</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>, <given-names>O. C.</given-names>
+</string-name>, <string-name>
+<surname>Kovacs</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Prytherch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>G. B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Griffiths</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>). <article-title>What impact does nursing care left undone have on patient outcomes? Review of the literature</article-title>. <source>Journal of Clinical Nursing</source>, <volume>27</volume>(<issue>11&#x2013;12</issue>), <fpage>2248</fpage>&#x2013;<lpage>2259</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.14058</pub-id>
+<pub-id pub-id-type="pmid">28859254</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0063">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0063">
+<string-name>
+<surname>Rehder</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Adair</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Hadley</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>McKittrick</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Frankel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Frankel</surname>, <given-names>T. C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bryan Sexton</surname>, <given-names>J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Associations between a new disruptive behaviors scale and teamwork, patient safety, work&#x2010;life balance, burnout, and depression</article-title>. <source>The Joint Commission Journal on Quality and Patient Safety</source>, <volume>46</volume>(<issue>1</issue>), <fpage>18</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcjq.2019.09.004</pub-id>
+<pub-id pub-id-type="pmid">31706686</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0064">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0064">
+<string-name>
+<surname>Reis</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>S. G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Sousa</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>). <article-title>The patient safety culture: A systematic review by characteristics of hospital survey on patient safety culture dimensions</article-title>. <source>International Journal for Quality in Health Care</source>, <volume>30</volume>(<issue>9</issue>), <fpage>660</fpage>&#x2013;<lpage>677</lpage>. <pub-id pub-id-type="doi">10.1093/intqhc/mzy080</pub-id>
+<pub-id pub-id-type="pmid">29788273</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0067">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0067">
+<string-name>
+<surname>Rosenstein</surname>, <given-names>A. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>O'Daniel</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008a</year>). <article-title>Invited article: Managing disruptive physician behavior: Impact on staff relationships and patient care</article-title>. <source>Neurology</source>, <volume>70</volume>(<issue>17</issue>), <fpage>1564</fpage>&#x2013;<lpage>1570</lpage>. <pub-id pub-id-type="doi">10.1212/01.wnl.0000310641.26223.82</pub-id>
+<pub-id pub-id-type="pmid">18427073</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0068">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0068">
+<string-name>
+<surname>Rosenstein</surname>, <given-names>A. H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>O'Daniel</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008b</year>). <article-title>A survey of the impact of disruptive behaviors and communication defects on patient safety</article-title>. <source>The Joint Commission Journal on Quality and Patient Safety</source>, <volume>34</volume>(<issue>8</issue>), <fpage>464</fpage>&#x2013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">18714748</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0072">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0072">
+<string-name>
+<surname>Shafran&#x2010;Tikva</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zelker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Chinitz</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Workplace violence in a tertiary care Israeli hospital &#x2010; a systematic analysis of the types of violence, the perpetrators and hospital departments</article-title>. <source>Israel Journal Health Policy Research</source>, <volume>6</volume>, <fpage>43</fpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0073">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0073">
+<string-name>
+<surname>Simard</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Parent&#x2010;Lamarche</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Abusive leadership, psychological well&#x2010;being, and intention to quit during the COVID&#x2010;19 pandemic: A moderated mediation analysis among Quebec's healthcare system workers</article-title>. <source>International Archives of Occupational and Environmental Health</source>, <volume>95</volume>(<issue>2</issue>), <fpage>437</fpage>&#x2013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">34674033</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0074">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0074">
+<string-name>
+<surname>Singla</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Kitch</surname>, <given-names>B. T.</given-names>
+</string-name>, <string-name>
+<surname>Weissman</surname>, <given-names>J. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Campbell</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Assessing patient safety culture: A review and synthesis of the measurement tools</article-title>. <source>Journal of Patient Safety</source>, <volume>2</volume>, <fpage>105</fpage>&#x2013;<lpage>115</lpage>. <ext-link xlink:href="http://www.jstor.org/stable/26636471" ext-link-type="uri">http://www.jstor.org/stable/26636471</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0075">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0075">
+<string-name>
+<surname>Smits</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Spreeuwenberg</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Van Der Wal</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Groenewegen</surname>, <given-names>P. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Measuring patient safety culture: An assessment of the clustering of responses at unit level and hospital level</article-title>. <source>BMJ Quality &amp; Safety</source>, <volume>18</volume>(<issue>4</issue>), <fpage>292</fpage>&#x2013;<lpage>296</lpage>. <pub-id pub-id-type="doi">10.1136/qshc.2007.025965</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0076">
+        <mixed-citation publication-type="book" id="jnu12857-cit-0076">
+<string-name>
+<surname>Sorra</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>, <given-names>F. T.</given-names>
+</string-name>, <string-name>
+<surname>Khanna</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nelson</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>). <source>Hospital survey on patient safety culture: 2010 user comparative database report</source>. <publisher-name>Agency for Healthcare Research and Quality US Department of Health and Human Services</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0077">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0077">
+<string-name>
+<surname>Stanley</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Welton</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nemeth</surname>, <given-names>L. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Examining lateral violence in the nursing workforce</article-title>. <source>Issues in Mental Health Nursing</source>, <volume>28</volume>(<issue>11</issue>), <fpage>1247</fpage>&#x2013;<lpage>1265</lpage>.<pub-id pub-id-type="pmid">17987480</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0078">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0078">
+<string-name>
+<surname>Takizawa</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Honan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brissette</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>B. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Wilkins</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Teamwork in the time of COVID&#x2010;19</article-title>. <source>FASEB BioAdvances</source>, <volume>3</volume>(<issue>3</issue>), <fpage>175</fpage>&#x2013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">33363271</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0079">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0079">
+<string-name>
+<surname>Tomer</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ng Gong</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Southern</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kitsis</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Kajita</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kusy</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Has the COVID pandemic strengthened or weakened health care teams? A field guide to healthy workforce best practices</article-title>. <source>Nursing Administration Quarterly</source>, <volume>45</volume>(<issue>2</issue>), <fpage>135</fpage>&#x2013;<lpage>141</lpage>.<pub-id pub-id-type="pmid">33570881</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0080">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0080">
+<string-name>
+<surname>Tr&#xE9;panier</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name>
+<surname>Fernet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Austin</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Boudrias</surname>, <given-names>V.</given-names>
+</string-name> (<year>2016</year>). <article-title>Work environment antecedents of bullying: A review and integrative model applied to registered nurses</article-title>. <source>International Journal of Nursing Studies</source>, <volume>55</volume>, <fpage>85</fpage>&#x2013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">26603730</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0082">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0082">
+<string-name>
+<surname>Unadkat</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Farquhar</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Doctors' well&#x2010;being: Self&#x2010;care during the covid&#x2010;19 pandemic</article-title>. <source>BMJ</source>, <volume>368</volume>, <elocation-id>m1150</elocation-id>.<pub-id pub-id-type="pmid">32209559</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0083">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0083">
+<string-name>
+<surname>Wagner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Smits</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sorra</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Huang</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Assessing patient safety culture in hospitals across countries</article-title>. <source>International Journal for Quality in Health Care</source>, <volume>25</volume>(<issue>3</issue>), <fpage>213</fpage>&#x2013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1093/intqhc/mzt024</pub-id>
+<pub-id pub-id-type="pmid">23571748</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12857-bib-0086">
+        <mixed-citation publication-type="journal" id="jnu12857-cit-0086">
+<string-name>
+<surname>Y&#x131;ld&#x131;r&#x131;m</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Arslan</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>&#xD6;zaslan</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Perceived risk and mental health problems among healthcare professionals during COVID&#x2010;19 pandemic: Exploring the mediating effects of resilience and coronavirus fear</article-title>. <source>International Journal of Mental Health and Addiction, Nov</source>, <volume>16</volume>, <fpage>1</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1007/s11469-020-00424-8</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

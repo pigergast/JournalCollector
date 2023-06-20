@@ -1,0 +1,1339 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jnu12832" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Nurs Scholarsh</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1547-5069</journal-id>
+      <journal-id journal-id-type="publisher-id">JNU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Nursing Scholarship</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1527-6546</issn>
+      <issn pub-type="epub">1547-5069</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36218219</article-id>
+      <article-id pub-id-type="pmc">9874805</article-id>
+      <article-id pub-id-type="doi">10.1111/jnu.12832</article-id>
+      <article-id pub-id-type="publisher-id">JNU12832</article-id>
+      <article-id pub-id-type="other">JNU-05-22-364.R3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Health Policy and Systems</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Covid&#x2010;19 Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Telehealth during the pandemic: Patient perceptions and policy implications</article-title>
+        <alt-title alt-title-type="right-running-head">Telehealth perceptions and policy</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jnu12832-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Crouch</surname>
+            <given-names>Jacob</given-names>
+          </name>
+          <degrees>BSN, RN&#x2010;BC</degrees>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5847-9451</contrib-id>
+          <xref rid="jnu12832-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jnu12832-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>jacobrcrouch@gmail.com</email>
+          </address>
+        </contrib>
+        <contrib id="jnu12832-cr-0002" contrib-type="author">
+          <name>
+            <surname>Winters</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <degrees>PhD, RN, FAAN</degrees>
+          <xref rid="jnu12832-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12832-cr-0003" contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Lei</given-names>
+          </name>
+          <degrees>PhD, MBA</degrees>
+          <xref rid="jnu12832-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="jnu12832-cr-0004" contrib-type="author">
+          <name>
+            <surname>Stewart</surname>
+            <given-names>Mary W.</given-names>
+          </name>
+          <degrees>PhD, RN, FAAN</degrees>
+          <xref rid="jnu12832-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jnu12832-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>The University of Mississippi Medical Center</institution>
+<city>Jackson</city>
+<named-content content-type="country-part">Mississippi</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jnu12832-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Mississippi College</institution>
+<city>Clinton</city>
+<named-content content-type="country-part">Mississippi</named-content>
+<country country="US">USA</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jacob Crouch, The University of Mississippi Medical Center, 2500 North State Street, Jackson, Mississippi 39216&#x2010;4505, USA.<break/>
+Email: <email>jacobrcrouch@gmail.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>11</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>55</volume>
+      <issue seq="160">1</issue>
+      <issue-id pub-id-type="doi">10.1111/jnu.v55.1</issue-id>
+      <issue-title content-type="special-issue-title">Health Policy Implications: Lessons Learned From Covid&#x2010;19</issue-title>
+      <fpage>141</fpage>
+      <lpage>148</lpage>
+      <history>
+<date date-type="rev-recd"><day>28</day><month>9</month><year>2022</year></date>
+<date date-type="received"><day>30</day><month>5</month><year>2022</year></date>
+<date date-type="accepted"><day>29</day><month>9</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 Sigma Theta Tau International-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 Sigma Theta Tau International.</copyright-statement>
+        <license>
+          <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JNU-55-141.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="jnu12832-sec-0001">
+          <title>Introduction</title>
+          <p>Telehealth's potential to improve access to specialty health care, increase favorable patient outcomes, and save money demands attention. Unfortunately, patients often fail to embrace telehealth. The COVID&#x2010;19 pandemic fueled greater telehealth usage globally. Little is known about patient perceptions of telehealth in the context of a pandemic. Therefore, we sought to understand patient perceptions of telehealth during the COVID&#x2010;19 pandemic and explore relevant policy implications.</p>
+        </sec>
+        <sec id="jnu12832-sec-0002">
+          <title>Design</title>
+          <p>Researchers used a cross&#x2010;sectional, non&#x2010;experimental design to survey 366 patients across two telehealth programs at a Mississippi academic health sciences center between November 1, 2021 and November 15, 2021.</p>
+        </sec>
+        <sec id="jnu12832-sec-0003">
+          <title>Methods</title>
+          <p>As part of a larger, psychometric study on patient acceptance of telehealth, participants rated the item, &#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; on a 5&#x2010;point Likert scale (1&#xA0;=&#xA0;strongly disagree; 5&#xA0;=&#xA0;strongly agree). Means of the different groups were analyzed using independent <italic toggle="no">t</italic>&#x2010;test and one&#x2010;way ANOVA with Bonferroni post&#x2010;hoc multiple comparisons.</p>
+        </sec>
+        <sec id="jnu12832-sec-0004">
+          <title>Results</title>
+          <p>Of the total participants, 73% (<italic toggle="no">n</italic>&#xA0;=&#xA0;366) either agreed or strongly agreed that the COVID&#x2010;19 pandemic had made them more open to using telehealth. Significant differences existed by age (<italic toggle="no">p</italic>&#xA0;=&#xA0;0.016), race/ethnicity (<italic toggle="no">p</italic>&#xA0;=&#xA0;0.015), and sex (<italic toggle="no">p</italic>&#x2009;&lt;&#x2009;0.001), however, groups did not differ by age during post&#x2010;hoc analysis. A significant difference in the mean responses was observed between black participants (M&#xA0;=&#xA0;4.29) and white participants (M&#xA0;=&#xA0;3.91; <italic toggle="no">p</italic>&#xA0;=&#xA0;0.011). In addition, female participants (M&#xA0;=&#xA0;4.11) rated the item higher than male participants (M&#xA0;=&#xA0;3.65).</p>
+        </sec>
+        <sec id="jnu12832-sec-0005">
+          <title>Conclusion</title>
+          <p>As access to telehealth increased due to the COVID&#x2010;19 pandemic, patients' perceptions to telehealth seem to have shifted in the positive direction as well. Findings may be used to support expansion of telehealth and advocacy for patients in a variety of settings.</p>
+        </sec>
+        <sec id="jnu12832-sec-0006">
+          <title>Clinical Relevance</title>
+          <p>Study findings indicate that participants of telehealth are more open to using telehealth due to the COVID&#x2010;19 pandemic. Implementing telehealth should be a priority to increase access to care for those who have limited access to specialty care, and policymakers should advocate to decrease barriers to telehealth within their institutions.</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="jnu12832-kwd-0001">COVID&#x2010;19 pandemic</kwd>
+        <kwd id="jnu12832-kwd-0002">patient perceptions</kwd>
+        <kwd id="jnu12832-kwd-0003">telehealth acceptance</kwd>
+        <kwd id="jnu12832-kwd-0004">telehealth policy</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="7"/>
+        <page-count count="8"/>
+        <word-count count="4897"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:25.01.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JNU12832-cit-2001">
+<string-name>
+<surname>Crouch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Winters</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name> &amp; <string-name>
+<surname>Stewart</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2023</year>). <article-title>Telehealth during the pandemic: Patient perceptions and policy implications</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>55</volume>, <fpage>141</fpage>&#x2013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12832</pub-id>
+<pub-id pub-id-type="pmid">36218219</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body id="jnu12832-body-0001">
+    <p>According to the Centers for Disease Control and Prevention (CDC)&#xA0;(<xref rid="jnu12832-bib-0006" ref-type="bibr">2022</xref>), in the United States alone, by 05/10/2022 there have been over 81.5 million positive cases and over 995,000 deaths from COVID&#x2010;19. Mississippi has been no exception, with over 799,000 total cases and over 12,000 deaths since the beginning of the pandemic (MSDH,&#xA0;<xref rid="jnu12832-bib-0023" ref-type="bibr">2022</xref>). This has provided a unique challenge for those working in the community healthcare setting.</p>
+    <p>Along with the disruption to normal life, healthcare has had to adapt appropriately, nurses especially being challenged to grow and respond to various crises throughout the pandemic (Melnikov et al.,&#xA0;<xref rid="jnu12832-bib-0019" ref-type="bibr">2022</xref>). One of the areas impacted by the pandemic has been telehealth (Ohannessian et al.,&#xA0;<xref rid="jnu12832-bib-0025" ref-type="bibr">2020</xref>). For those in rural areas, telehealth has the potential to increase access and provide better health outcomes (WHO,&#xA0;<xref rid="jnu12832-bib-0037" ref-type="bibr">2016</xref>). The World Health Organization (WHO)&#xA0;(<xref rid="jnu12832-bib-0037" ref-type="bibr">2016</xref>) defined telehealth as:<disp-quote content-type="quotation" id="jnu12832-blkfxd-0001"><p>the delivery of health care services, where patients and providers are separated by distance. Telehealth uses [Information and Communication Technologies (ICTs)] for the exchange of information for the diagnosis and treatment of diseases and injuries, research and evaluation, and for the continuing education of health professionals (p. 56).</p></disp-quote>
+</p>
+    <p>Within this broad definition, telehealth can be delivered in a variety of applications. Common types of telehealth include communication technologies such as videoconferencing (Fischer et al.,&#xA0;<xref rid="jnu12832-bib-0012" ref-type="bibr">2020</xref>), remote patient monitoring, virtual visits, and chat&#x2010;based interactions (ATA,&#xA0;<xref rid="jnu12832-bib-0003" ref-type="bibr">2020a</xref>). Cellphone applications have been developed for dermatology (Horsham et al.,&#xA0;<xref rid="jnu12832-bib-0014" ref-type="bibr">2016</xref>) and, health kiosks allow interactions with health care providers by video conferencing (Abraham et al.,&#xA0;<xref rid="jnu12832-bib-0001" ref-type="bibr">2018</xref>). Also, telehealth use increased during the pandemic to provide mental health services (Zhou et al.,&#xA0;<xref rid="jnu12832-bib-0039" ref-type="bibr">2020</xref>).</p>
+    <p>Before the pandemic, 66% of healthcare consumers were willing to use telehealth, but only 8% had tried it (Telehealth index<italic toggle="yes">: 2019 consumer survey</italic>,&#xA0;<xref rid="jnu12832-bib-0032" ref-type="bibr">2019</xref>). According to Mann et al.&#xA0;(<xref rid="jnu12832-bib-0018" ref-type="bibr">2020</xref>), telehealth visits increased by 683% in one New York hospital. In Mississippi, one center for telehealth experienced a 286% increase in telehealth visits and an increase in telehealth users of 5704 percent during the pandemic (<italic toggle="yes">Disruption, innovation and growth: A story of perserverance</italic>, 2021).</p>
+    <p>Not only has telehealth usage skyrocketed among patients, but this rapid increase in telehealth usage also forced providers to use telehealth&#x2014;some, for the first time (Waizinger et al.,&#xA0;<xref rid="jnu12832-bib-0033" ref-type="bibr">2021</xref>). For providers, two longstanding barriers to telehealth include reimbursement of telehealth services and regulations of telehealth providers (Institute of Medicine,&#xA0;<xref rid="jnu12832-bib-0015" ref-type="bibr">2012</xref>). Specifically, the Centers for Medicare and Medicaid Services (CMS) often would not provide reimbursement for telehealth visits, and regulations limited which practitioners could bill for telehealth services, keeping providers from adopting telehealth (Institute of Medicine,&#xA0;<xref rid="jnu12832-bib-0015" ref-type="bibr">2012</xref>). Fortunately, loosening of these regulations and increase of reimbursement have been effects of the COVID&#x2010;19 pandemic. In 2021, under the authority of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), CMS issued a blanket waiver to &#x201C;[expand] the types of health care professionals that can furnish distant site telehealth services to include all those that are eligible to bill Medicare for their professional services&#x201D; (CMS,&#xA0;<xref rid="jnu12832-bib-0007" ref-type="bibr">2021</xref>, p. 1). This blanket waiver will stay in effect until the end of the public health emergency declaration. At that time pre&#x2010;pandemic restrictions for providers and telehealth will be reinstated (CMS,&#xA0;<xref rid="jnu12832-bib-0007" ref-type="bibr">2021</xref>). As previously mentioned, since the pandemic providers have had access to telehealth in an unprecedented way. However, have patients actually become more open to using telehealth?</p>
+    <p>Mississippi is a rural state with a population around 2.9&#xA0;million (QuickFacts: Mississippi,&#xA0;<xref rid="jnu12832-bib-0028" ref-type="bibr">2020</xref>). People living in over 64% of Mississippi counties have to drive at least 40&#xA0;minutes to receive specialty care (The University of Mississippi Medical Center Center for Telehealth, <xref rid="jnu12832-bib-0041" ref-type="bibr">2017</xref>). Also, 18.7% of Mississippians live in poverty, which makes reliable transportation challenging (QuickFacts: Mississippi,&#xA0;<xref rid="jnu12832-bib-0028" ref-type="bibr">2020</xref>). Thus, a huge barrier exists to care that rural Mississippians need. Not only this, but the Mississippi State Department of Health&#xA0;(<xref rid="jnu12832-bib-0022" ref-type="bibr">2017</xref>) stated, &#x201C;Mississippi ranks last, or close to last, in almost every leading health outcome&#x201D; (para. 1). Furthermore, during the pandemic, Mississippi's response to implementing COVID&#x2010;19 precautions fell behind other states, requiring statewide masking for 56&#x2009;days, the shortest duration of any state (&#x201C;Executive Order No. 1516,&#x201D;&#xA0;<xref rid="jnu12832-bib-0009" ref-type="bibr">2020</xref>; &#x201C;Executive Order No. 1525,&#x201D;&#xA0;<xref rid="jnu12832-bib-0010" ref-type="bibr">2020</xref>). Mississippi's poor health metrics and limited access to specialty care create a unique challenge for Mississippians trying to manage their health. Telehealth offers delivery of specialty care to Mississippians who would otherwise have difficulty finding that care, as seen during the pandemic (Mills et al.,&#xA0;<xref rid="jnu12832-bib-0020" ref-type="bibr">2021</xref>). If using telehealth can increase access to specialty care and create better health outcomes, then understanding patient acceptance of telehealth is acutely important for communities with limited healthcare access.</p>
+    <p>This study sought to answer that question: Have patients' perceptions of telehealth increased favorably due to the COVID&#x2010;19 pandemic? Investigators asked participants to rate their perception of telehealth as a part of a study designed to estimate validity and reliability of a 32&#x2010;item healthcare technology acceptance questionnaire. Briefly, the questionnaire was developed to study patients' acceptance of telehealth, and was theoretically derived from the Health Belief Model (HBM), the Health Promotion Model (HPM), and the Unified Theory of Acceptance and Use of Technology (UTAUT). Since telehealth involves perceptions regarding both health and technology, this new questionnaire combined these theoretical models from the realms of healthcare (HBM and HPM) and technology (UTAUT) in order to understand patients' acceptance of telehealth. Spheres of Influence, Self&#x2010;Efficacy, Disease Perception, Perceived Barriers, and Intention to Use were identified as constructs that may explain patient acceptance.</p>
+    <p>The investigators sent the questionnaire to participants of two statewide telehealth programs, UMMC 2 You and Remote Patient Monitoring (RPM). UMMC 2 You, a patient&#x2010;driven telehealth program, allows users to access medical care for minor issues, whereas the RPM program is a provider&#x2010;driven telehealth program used for management of chronic health diseases such as diabetes and heart failure. (The University of Mississippi Medical Center Center for Telehealth, <xref rid="jnu12832-bib-0041" ref-type="bibr">2017</xref>). Pre&#x2010;pandemic, RPM had about 160 patients enrolled in a 12&#x2010;month period, while the UMMC 2 You program had over 3400 enrollees with over 2300 appointments made in a 12&#x2010;month period. In April of 2020 alone, UMMC 2 You consultations totaled over 11,500 (Cummins, <xref rid="jnu12832-bib-0042" ref-type="bibr">2020</xref>). Studying these two programs allows for observing how patient perceptions may vary between those with minor health issues and those with more chronic disease processes. Also, since RPM is provider&#x2010;initiated and UMMC 2 You is patient&#x2010;initiated, this provided the opportunity to observe the influence of the provider on patient perceptions of telehealth.</p>
+    <sec id="jnu12832-sec-0008">
+      <title>DESIGN AND METHODS</title>
+      <p>We used a cross&#x2010;sectional, non&#x2010;experimental design to survey patients in two telehealth programs from November 1, 2021 to November 15, 2021. Development of the questionnaire was conducted in two phases: Phase I consisted of expert responses regarding item relevance, as well as patient responses to the questionnaire regarding readability and clarity of items. Due to feedback from the experts, the item regarding the COVID&#x2010;19 pandemic was added. In Phase II of the study, participants of the two telehealth programs were invited to answer the questionnaire. To further estimate validity and reliability, the data was searched for any errors or omissions and then exploratory factor analysis and item analysis were conducted, followed by computing a Cronbach's alpha coefficient. Independent <italic toggle="yes">t</italic>&#x2010;test and ANOVA were conducted to determine if there were any differences in the means among the groups. Incomplete questionnaires were discarded.</p>
+      <p>Potential participants received an email with a description of the study, followed by a link to the questionnaire. Email addresses were selected, with participation from the center for telehealth, if patients had signed up for or used either telehealth platform in the previous 12&#xA0;months. Of the 8000 emails that were delivered, 366 patients fully answered the 32&#x2010;item online questionnaire and were enrolled in the study. Participants were asked to rate their response to the question &#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; on a 5&#x2010;point Likert scale (1&#xA0;=&#xA0;Strongly Disagree, 2&#xA0;=&#xA0;Disagree, 3&#xA0;=&#xA0;Neutral, 4&#xA0;=&#xA0;Agree, and 5&#xA0;=&#xA0;Strongly Agree). We also asked participants to select the most recently used telehealth system from the following options: UMMC 2 You, RPM, or Other. Participants also provided information regarding sex (Male, Female), race/ethnicity (American Indian or Alaska Native, Asian, Black or African American, Hispanic or Latino, White, Other, Prefer Not to Answer), and age (21&#x2013;39, 40&#x2013;65, 65+). Due to small numbers for various ethnic groups, the variable was recoded into White, Black, and Other.</p>
+      <p>Participants' responses to the online questionnaire were downloaded from the Research Electronic Data Capture (REDCap) platform and imported into the IBM Statistical Package for the Social Sciences (SPSS) 28.0&#xAE; for statistical analysis. Patient responses, per institution policy, were either kept on the REDCap platform or downloaded to a password protected flash drive and kept in a locked office. Participant responses were not linked to their email address in order to maintain privacy and confidentiality. Descriptive statistics were run on the data (Table&#xA0;<xref rid="jnu12832-tbl-0001" ref-type="table">1</xref>), as well as an independent <italic toggle="yes">t</italic>&#x2010;test for sex, and ANOVA for telehealth system, race/ethnicity, and age group.</p>
+      <table-wrap position="float" id="jnu12832-tbl-0001" content-type="TABLE">
+        <label>TABLE 1</label>
+        <caption>
+          <p>Demographic characteristics of the participants</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Telehealth system</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">UMMC 2 You</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">301</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">82.2</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RPM</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">21</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5.7</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">44</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">12</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Age (years)</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">21&#x2013;39</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">123</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">33.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40&#x2013;65</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">214</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">58.5</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">65+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">7.9</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Sex</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">79</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">21.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">287</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">78.4</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="3" valign="top" rowspan="1">Race/ethnicity</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">American Indian or Alaska Native<xref rid="jnu12832-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.3</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian<xref rid="jnu12832-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black or African American</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">95</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hispanic or Latino<xref rid="jnu12832-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">251</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">68.6</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other<xref rid="jnu12832-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.1</td>
+            </tr>
+            <tr>
+              <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Prefer Not to Answer<xref rid="jnu12832-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.4</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12832-ntgp-0001">
+          <fn id="jnu12832-note-0001">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Recoded into variable &#x201C;Other&#x201D; due to small numbers.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="results" id="jnu12832-sec-0009">
+      <title>RESULTS</title>
+      <p>The majority of participants use UMMC 2 You (<italic toggle="yes">n</italic>&#xA0;=&#xA0;301, 82.2%), 21 were users of RPM, and 44 participants used some &#x201C;Other&#x201D; telehealth program. The majority of participants (58.5%) were in the 40&#x2013;65 age range while 33.6% were in the 21&#x2013;39 age range, and 7.9% were in the 65+ age range. Most participants (78.4%) were female and 21.6% were male. The racial distribution was 68.6% White, 26% Black, and 5.4% for other ethnicities (Table&#xA0;<xref rid="jnu12832-tbl-0001" ref-type="table">1</xref>).</p>
+      <p>Most (73.0%) of the participants Agreed or Strongly Agreed with the statement that the COVID&#x2010;19 pandemic had made them more open to using telehealth. However, 16.1% were Neutral to the statement, and only 10.9% Disagreed or Strongly Disagreed (Table&#xA0;<xref rid="jnu12832-tbl-0002" ref-type="table">2</xref>). There were no statistically significant differences in participants' responses to the statement across those using different types of telehealth (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.393), but there were differences between black participants and white participants (<italic toggle="yes">p</italic>&#xA0;=&#xA0;0.015) and males and females (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001).</p>
+      <table-wrap position="float" id="jnu12832-tbl-0002" content-type="TABLE">
+        <label>TABLE 2</label>
+        <caption>
+          <p>Totals for item &#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D;</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">%</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Strongly Disagree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">14</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Disagree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">7.1</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Neutral</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">59</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">16.1</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Agree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">109</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29.8</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Strongly Agree</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">158</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">43.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Total</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">366</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">100</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>A one&#x2010;way ANOVA was performed to compare the effect of age and race/ethnicity on the questionnaire item (Tables&#xA0;<xref rid="jnu12832-tbl-0003" ref-type="table">3</xref> and <xref rid="jnu12832-tbl-0004" ref-type="table">4</xref>). The age groups were 21&#x2013;39, 40&#x2013;65, and 65+, and race/ethnicity groups were White, Black, and Other. For age, a one&#x2010;way ANOVA revealed that there was a statistically significant difference in the means of the item, <italic toggle="yes">F</italic>(2, 336)&#xA0;=&#xA0;4.160, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.016, between at least two groups, however, Bonferroni's test found that the mean value for the item was not significantly different between the age groups. For race/ethnicity, the one&#x2010;way ANOVA revealed that there was a statistically significant difference in the item, <italic toggle="yes">F</italic>(2, 363)&#xA0;=&#xA0;4.278, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.015, among different ethnicities. Bonferroni's test revealed that the average rating among Black participants (4.29) was statistically higher than White participants (3.91), indicating more openness to using telehealth (mean difference&#xA0;=&#xA0;0.386, <italic toggle="yes">p</italic>&#xA0;=&#xA0;0.011), (Table&#xA0;<xref rid="jnu12832-tbl-0005" ref-type="table">5</xref>). An independent t&#x2010;test revealed that females were more likely to be open to using telehealth than males (mean difference&#xA0;=&#xA0;0.469, <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001), with females having an average rating of 4.11 and males having an average of 3.65 (Table&#xA0;<xref rid="jnu12832-tbl-0006" ref-type="table">6</xref>). Mean differences and the associated <italic toggle="yes">p</italic>&#x2010;values are reported in Table&#xA0;<xref rid="jnu12832-tbl-0007" ref-type="table">7</xref>.</p>
+      <table-wrap position="float" id="jnu12832-tbl-0003" content-type="TABLE">
+        <label>TABLE 3</label>
+        <caption>
+          <p>&#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; by age group (year)</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">21&#x2013;39</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">40&#x2013;65</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">65+</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">F</italic>(2, 363)</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>&#x2010;value</th>
+            </tr>
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.23</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.904</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.93</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.153</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.69</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.391</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.2<xref rid="jnu12832-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.016</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12832-ntgp-0002">
+          <fn id="jnu12832-note-0002">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Indicates mean difference is significant at 0.05.</p>
+          </fn>
+          <fn id="jnu12832-note-0003">
+            <p>Abbreviations: M, mean; SD, standard deviation.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12832-tbl-0004" content-type="TABLE">
+        <label>TABLE 4</label>
+        <caption>
+          <p>&#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; by race/ethnicity</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">White</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Black</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Other</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">F</italic>(2, 363)</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>&#x2010;value</th>
+            </tr>
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.91</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.136</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.29</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.977</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.124</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.3<xref rid="jnu12832-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">0.015</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12832-ntgp-0003">
+          <fn id="jnu12832-note-0004">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Indicates mean difference is significant at 0.05.</p>
+          </fn>
+          <fn id="jnu12832-note-0005">
+            <p>Abbreviations: M, mean; SD, standard deviation.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12832-tbl-0005" content-type="TABLE">
+        <label>TABLE 5</label>
+        <caption>
+          <p>&#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; using Bonferonni test for race/ethnicity</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">(I) Ethnicity</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">(J) Ethnicity</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Mean difference (I&#x2009;&#x2212;&#x2009;J)</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">SE</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">p&#x2010;</italic>value</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">95% confidence interval</th>
+            </tr>
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Lower bound</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Upper bound</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">White</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Black</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.386<xref rid="jnu12832-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.132</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.011</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.7</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.07</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.092</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.255</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.7</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.52</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Black</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">White</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.386<xref rid="jnu12832-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.132</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.011</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.07</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.295</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.27</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.826</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.35</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.94</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Other</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">White</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.092</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.255</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.52</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Black</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.295</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.27</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.826</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">&#x2212;0.94</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.35</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12832-ntgp-0004">
+          <fn id="jnu12832-note-0006">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Indicates mean difference is significant at 0.05.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12832-tbl-0006" content-type="TABLE">
+        <label>TABLE 6</label>
+        <caption>
+          <p>&#x201C;The COVID&#x2010;19 pandemic has made me more open to using telehealth&#x201D; by sex</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Male</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Female</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">t</italic>
+</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+</th>
+            </tr>
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">M</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">3.65</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">4.11</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">1.06</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;3.39</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001<xref rid="jnu12832-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot id="jnu12832-ntgp-0005">
+          <fn id="jnu12832-note-0007">
+            <label>
+<sup>a</sup>
+</label>
+            <p>Indicates mean difference is significant at 0.05.</p>
+          </fn>
+          <fn id="jnu12832-note-0008">
+            <p>Abbreviations: M, mean; SD, standard deviation.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="jnu12832-tbl-0007" content-type="TABLE">
+        <label>TABLE 7</label>
+        <caption>
+          <p>Perception of using telehealth due to COVID&#x2010;19 by age, race/ethnicity, and sex</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <col align="left" span="1"/>
+          <col align="left" span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <col align="char" char="." span="1"/>
+          <thead valign="bottom">
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" rowspan="2" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">The COVID&#x2010;19 pandemic has made me more open to using telehealth</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">M</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">SD</th>
+              <th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">SE</th>
+              <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">95% confidence interval for mean</th>
+            </tr>
+            <tr style="border-bottom:solid 1px #000000">
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Lower bound</th>
+              <th align="left" valign="bottom" rowspan="1" colspan="1">Upper bound</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="3" align="left" valign="top" colspan="1">Age</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">21&#x2013;39</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">123</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.23</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.904</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.081</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.07</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.39</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">40&#x2013;65</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">214</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.93</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.153</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.079</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.78</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.09</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">65+</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">29</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.69</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.391</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.258</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.16</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.22</td>
+            </tr>
+            <tr>
+              <td rowspan="3" align="left" valign="top" colspan="1">Race/Ethnicity</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">White</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">251</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.91</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.136</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.072</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.77</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.05</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Black</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">95</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.29</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.977</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.100</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.10</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.49</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">20</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.00</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.124</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.251</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.47</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.53</td>
+            </tr>
+            <tr>
+              <td rowspan="2" align="left" valign="top" colspan="1">Sex</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Male</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">79</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">3.65</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.188</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.134</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Female</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">287</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">4.11</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">1.063</td>
+              <td align="char" valign="top" rowspan="1" colspan="1">0.063</td>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+              <td align="char" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec id="jnu12832-sec-0010">
+      <title>DISCUSSION AND POLICY IMPLICATIONS</title>
+      <p>The results of this study suggest that the COVID&#x2010;19 pandemic has had a positive effect on openness to telehealth among users of telehealth systems in the southern United States with almost three quarters of participants indicating that they were more open to using telehealth since the start of the pandemic. This is an increase in telehealth openness, since a previous study completed before the pandemic showed that only about 51% of patients were willing to use telehealth (Welch et al.,&#xA0;<xref rid="jnu12832-bib-0035" ref-type="bibr">2017</xref>). Also, differences between age, race/ethnicity, and sex suggest that these various characteristics should be considered when implementing telehealth. Access to telehealth has obviously skyrocketed since the beginning of the pandemic, but patient perceptions seem to be shifting as well. Telehealth providers and stakeholders should be investing in the future of telehealth through training for providers (Rutledge et al.,&#xA0;<xref rid="jnu12832-bib-0029" ref-type="bibr">2020</xref>), establishing new telehealth services, and informing rural communities of the increasing availability of telehealth services.</p>
+      <p>One observation from the analysis was that while the one&#x2010;way ANOVA revealed differences across the age groups, further analysis did not identify any differences, although the 21&#x2013;39&#x2010;year age group had a higher average rating of this item (<italic toggle="yes">M</italic>&#xA0;=&#xA0;4.23). The older the participant, the lower the average rating of openness to telehealth. Some studies of telehealth acceptance have shown that age can be a significant determinant of telehealth usage (Hennemann et al.,&#xA0;<xref rid="jnu12832-bib-0013" ref-type="bibr">2016</xref>; Lee &amp; Rho,&#xA0;<xref rid="jnu12832-bib-0017" ref-type="bibr">2013</xref>; Ware et al.,&#xA0;<xref rid="jnu12832-bib-0034" ref-type="bibr">2019</xref>), while others suggest that age does not have a significant effect on telehealth acceptance (Dou et al.,&#xA0;<xref rid="jnu12832-bib-0008" ref-type="bibr">2017</xref>; Tavares &amp; Oliveira,&#xA0;<xref rid="jnu12832-bib-0031" ref-type="bibr">2016</xref>). Future studies could look at smaller age group increments to see where these differences actually exist. Policymakers should understand that age could be a factor in ultimate openness and adoption of telehealth.</p>
+      <p>Importantly, the pandemic has had differing levels of influence on factors like ethnicity and sex. These findings suggest that Black participants are more open to using telehealth due to the COVID&#x2010;19 pandemic (<italic toggle="yes">M</italic>&#xA0;=&#xA0;4.29). Other studies also found that Black participants were more likely than White participants to seek telehealth care for minor health problems since the beginning of the pandemic (Campos&#x2010;Castillo &amp; Anthony,&#xA0;<xref rid="jnu12832-bib-0005" ref-type="bibr">2021</xref>). This is an important shift since Fischer et al.&#xA0;(<xref rid="jnu12832-bib-0012" ref-type="bibr">2020</xref>) found that Black participants were significantly less likely to express willingness to use certain types of telehealth around the beginning of the pandemic. Whereas all groups on average rated the item as Agree or Strongly Agree, this increase in openness to telehealth is an encouraging sign for the future of telehealth development.</p>
+      <p>According to Qian et al.&#xA0;(<xref rid="jnu12832-bib-0027" ref-type="bibr">2021</xref>), usage of telehealth increased among males significantly more than females after the start of the pandemic. The current study suggests that, while usage increased among males, females have become more open than males to using telehealth. Thus, our findings echo literature that suggests that females were more likely to adopt telehealth pre&#x2010;pandemic (FAIR Health,&#xA0;<xref rid="jnu12832-bib-0011" ref-type="bibr">2019</xref>). Policies surrounding telehealth should be implemented in such a way that considers that sex and ethnicity can influence one's openness to telehealth.</p>
+      <p>Other policy implications from this study warrant consideration. Because of the increased openness of patients toward telehealth, nurses should advocate for permanently removing the barriers to telehealth reimbursement. Also, nurses should advocate for permanently removing the restrictions for the types of providers that can bill for telehealth services, as has been suggested elsewhere (Smith &amp; Raskin,&#xA0;<xref rid="jnu12832-bib-0030" ref-type="bibr">2020</xref>). The American Telemedicine Association (ATA) advocates specifically for the removal of these and other barriers across the country (ATA,&#xA0;<xref rid="jnu12832-bib-0004" ref-type="bibr">2020b</xref>; Zebley,&#xA0;<xref rid="jnu12832-bib-0038" ref-type="bibr">2022</xref>). Patients in rural areas often lack access to specialty care (Nguyen et al.,&#xA0;<xref rid="jnu12832-bib-0024" ref-type="bibr">2016</xref>), therefore, removing this barrier for providers can increase the availability of specialty services.</p>
+      <p>The significance for nursing is manifold. Not only can increasing telehealth services increase access for patients, but it can also decrease the hospital burden and reduce the workload for nurses. Nursing shortages have dramatically increased during the pandemic. The US Department of Health and Human Services released data at the beginning of this year that over 19% of US hospitals were experiencing a critical staffing shortage (Plescia &amp; Gooch,&#xA0;<xref rid="jnu12832-bib-0026" ref-type="bibr">2022</xref>). Unique telehealth solutions can be leveraged to increase nursing presence, even when nursing supply is low, as has been the experience of places like the Mercy Virtual Care Center (Klingensmith &amp; Knodel,&#xA0;<xref rid="jnu12832-bib-0016" ref-type="bibr">2016</xref>). Nurses and other providers can encourage administrators to consider these different strategies to help relieve the burden placed on the healthcare system due to staffing shortages.</p>
+      <p>Regarding the telehealth programs in view, these are primarily nurse&#x2010;driven programs. Registered nurses run the daily operations of the programs, and UMMC 2 You is primarily staffed by nurse practitioners. Understanding perceptions of telehealth for these programs directly affects nurses.</p>
+      <p>Also, advocacy is a pillar of the nursing profession (ANA,&#xA0;<xref rid="jnu12832-bib-0002" ref-type="bibr">2020</xref>). Seeking to understand patients' perception of telehealth is an extension of the nursing principal of advocacy. If patients are more open to using telehealth due to the pandemic, nurses can advocate for patients and provide crucial interventions that can remove barriers to telehealth usage.</p>
+      <p>Nurses can also provide valuable insights as they are often the first points of contact for patients (Moore &amp; Trainum,&#xA0;<xref rid="jnu12832-bib-0021" ref-type="bibr">2019</xref>). Nurses should be driving changes and improvements in the delivery of telehealth, and this research can help nurses inform policy and practice change. Nursing is uniquely positioned to give insights into a patient's perspective and a provider's perspective into the telehealth conversation, and nurses should lead the way in effecting change in the field of telehealth.</p>
+      <p>An increase in telehealth openness also can mean that routine and follow&#x2010;up care can be increasingly delivered via telehealth. Hospitals and healthcare providers should consider the increased openness of patients to using telehealth as a motivator to support telehealth opportunities, especially in rural communities where access is most limited. During the pandemic, reports of families and children in Mississippi having access to specialty care are motivators to continue support of telehealth (Whitehead,&#xA0;<xref rid="jnu12832-bib-0036" ref-type="bibr">2021</xref>).</p>
+      <p>The regional constraints of only sampling participants from two Mississippi telehealth programs limit the study's scope. Future research should assess if perceptions of telehealth have changed in other states and countries. Also, other areas might have had higher acceptance of telehealth pre&#x2010;pandemic. Higher acceptance would mean that the pandemic would not have necessarily increased someone's openness to telehealth.</p>
+    </sec>
+    <sec sec-type="conclusions" id="jnu12832-sec-0011">
+      <title>CONCLUSION</title>
+      <p>While the COVID&#x2010;19 pandemic has affected how we work, where we can go, and what we must wear, telehealth has become increasingly more available (Disruption, innovation and growth: A story of perseverance, <xref rid="jnu12832-bib-0040" ref-type="bibr">2021</xref>) and, as this study suggests, participants in the Southern United States have been more open to using telehealth. Investors, providers, and stakeholders should see this as a significant sign for more telehealth acceptance into the future. Diseases that spread like COVID&#x2010;19 could be ripe ground for telehealth development. Telehealth visits for diseases like flu and other respiratory illnesses might receive more acceptance among patients going forward. Also, increasing telehealth usage could be leveraged to help decrease the burden on hospitals related to staffing shortages. More studies should be completed to determine COVID&#x2010;19's impact on telehealth perceptions in other parts of the United States and across the world.</p>
+      <sec id="jnu12832-sec-0012">
+        <title>CLINICAL RESOURCES</title>
+        <p>
+<list list-type="bullet" id="jnu12832-list-0001"><list-item id="jnu12832-li-0001"><p>American Telemedicine Association&#x2014;<ext-link xlink:href="https://www.americantelemed.org" ext-link-type="uri">https://www.americantelemed.org</ext-link>
+</p></list-item><list-item id="jnu12832-li-0002"><p>Centers for Disease Control and Prevention COVID&#x2010;19 Guidance&#x2014;<ext-link xlink:href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" ext-link-type="uri">https://www.cdc.gov/coronavirus/2019&#x2010;ncov/index.html</ext-link>
+</p></list-item><list-item id="jnu12832-li-0003"><p>COVID&#x2010;19 Emergency Declaration Blanket Waivers for Health Care Providers&#x2014;<ext-link xlink:href="https://www.cms.gov/files/document/covid-19-emergency-declaration-waivers.pdf" ext-link-type="uri">https://www.cms.gov/files/document/covid&#x2010;19&#x2010;emergency&#x2010;declaration&#x2010;waivers.pdf</ext-link>
+</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec sec-type="COI-statement" id="jnu12832-sec-0014">
+      <title>CONFLICT OF INTEREST</title>
+      <p>None to declare.</p>
+    </sec>
+    <sec id="jnu12832-sec-0015">
+      <title>STTI CHAPTER</title>
+      <p>Omicron Lambda.</p>
+    </sec>
+    <sec id="jnu12832-sec-0016">
+      <title>INSTITUTIONAL REVIEW BOARD APPROVAL</title>
+      <p>The Institutional Review Board of the University of Mississippi Medical Center approved this study (#2020&#x2010;0216).</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jnu12832-sec-0013">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>Appreciation to Dr. Renee Williams, Dr. Saurabh Chandra, Dr. Sydney Murphy, and Dr. Tearsanee Carlisle&#x2010;Davis for their time and expertise. We also acknowledge the individuals who participated in this study.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="jnu12832-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jnu12832-bib-0001">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0001">
+<string-name>
+<surname>Abraham</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Feathers</surname>, <given-names>A.</given-names>
+</string-name>(<year>2018</year>). <article-title>Acceptability of health kiosks within african american community settings: A pilot study</article-title>. <source>Health Services Research Managerial Epidemiology</source>, <volume>5</volume>, <elocation-id>2333392817752211</elocation-id>. <pub-id pub-id-type="doi">10.1177/2333392817752211</pub-id>
+<pub-id pub-id-type="pmid">29383325</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0002">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0002">
+<collab collab-type="authors">ANA</collab>
+. (<year>2020</year>). <article-title>
+Advocacy
+</article-title>. <ext-link xlink:href="https://www.nursingworld.org/practice-policy/advocacy/" ext-link-type="uri">https://www.nursingworld.org/practice&#x2010;policy/advocacy/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0003">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0003">
+<collab collab-type="authors">ATA</collab>
+. (<year>2020a</year>). <article-title>
+Telehealth: Defining 21st century care
+</article-title>. <ext-link xlink:href="https://marketing.americantelemed.org/hubfs/Files/Resources/ATA_Telehealth_Taxonomy_9-11-20.pdf" ext-link-type="uri">https://marketing.americantelemed.org/hubfs/Files/Resources/ATA_Telehealth_Taxonomy_9&#x2010;11&#x2010;20.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0004">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0004">
+<collab collab-type="authors">ATA</collab>
+. (<year>2020b</year>). <article-title>
+Telehealth flexibilities during the COVID&#x2010;19 pandemic and the ATA's recommendations for permanent policy
+</article-title>. <ext-link xlink:href="https://www.americantelemed.org/policies/ata-recommendations-for-permanent-telehealth-policy/" ext-link-type="uri">https://www.americantelemed.org/policies/ata&#x2010;recommendations&#x2010;for&#x2010;permanent&#x2010;telehealth&#x2010;policy/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0005">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0005">
+<string-name>
+<surname>Campos&#x2010;Castillo</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Anthony</surname>, <given-names>D.</given-names>
+</string-name>(<year>2021</year>). <article-title>Racial and ethnic differences in self&#x2010;reported telehealth use during the COVID&#x2010;19 pandemic: A secondary analysis of a US survey of internet users from late march</article-title>. <source>Journal of the American Medical Informatics Association: JAMIA</source>, <volume>28</volume>(<issue>1</issue>), <fpage>119</fpage>&#x2013;<lpage>125</lpage>. <pub-id pub-id-type="doi">10.1093/jamia/ocaa221</pub-id>
+<pub-id pub-id-type="pmid">32894772</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0006">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0006">
+<collab collab-type="authors">CDC</collab>
+. (<year>2022</year>). <article-title>
+COVID data tracker
+</article-title>. <ext-link xlink:href="https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days" ext-link-type="uri">https://covid.cdc.gov/covid&#x2010;data&#x2010;tracker/#cases_casesper100klast7days</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0007">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0007">
+<collab collab-type="authors">COVID&#x2010;19 emergency declaration blanket waivers for health care providers</collab>
+. (<year>2021</year>). <ext-link xlink:href="https://www.cms.gov/files/document/covid-19-emergency-declaration-waivers.pdf" ext-link-type="uri">https://www.cms.gov/files/document/covid&#x2010;19&#x2010;emergency&#x2010;declaration&#x2010;waivers.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0042">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0042">
+<string-name>
+<surname>Cummins</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>FCC grant gives boost to Center for Telehealth&#x2019;s COVID&#x2010;19 care</article-title>. Retrieved May 22, 2022 from <ext-link xlink:href="https://www.umc.edu/news/News_Articles/2020/06/FCC-Grant-Center-for-Telehealth.html" ext-link-type="uri">https://www.umc.edu/news/News_Articles/2020/06/FCC&#x2010;Grant&#x2010;Center&#x2010;for&#x2010;Telehealth.html</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0040">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0040">
+<collab collab-type="authors">Disruption, innovation and growth: A story of perseverance</collab>
+. (<year>2021</year>). <ext-link xlink:href="https://www.umc.edu/common/files/institutionalfiles/UMMC-Annual-Report-19-21.pdf" ext-link-type="uri">https://www.umc.edu/common/files/institutional%20files/UMMC&#x2010;Annual&#x2010;Report&#x2010;19&#x2010;21.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0008">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0008">
+<string-name>
+<surname>Dou</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>X.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Duan</surname>, <given-names>H.</given-names>
+</string-name>(<year>2017</year>). <article-title>Patients' acceptance of smartphone health technology for chronic disease management: A theoretical model and empirical test</article-title>. <source>JMIR mHealth and uHealth</source>, <volume>5</volume>(<issue>12</issue>), <elocation-id>e177</elocation-id>. <pub-id pub-id-type="doi">10.2196/mhealth.7886</pub-id>
+<pub-id pub-id-type="pmid">29212629</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0009">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0009">
+<article-title>Executive Order No. 1516</article-title>. (<year>2020</year>).</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0010">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0010">
+<article-title>Executive Order No. 1525</article-title>. (<year>2020</year>).</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0011">
+        <mixed-citation publication-type="book" id="jnu12832-cit-0011">
+<collab collab-type="authors">FAIR Health</collab>
+. (<year>2019</year>). <source>A multilayered analysis of telehealth: How this emerging venue of care is affecting the healthcare landscape</source>(White paper). <publisher-name>FAIR Health, Inc</publisher-name>. <ext-link xlink:href="https://s3.amazonaws.com/media2.fairhealth.org/whitepaper/asset/AMultilayeredAnalysisofTelehealth-AFAIRHealthWhitePaper.pdf" ext-link-type="uri">https://s3.amazonaws.com/media2.fairhealth.org/whitepaper/asset/A%20Multilayered%20Analysis%20of%20Telehealth%20&#x2010;%20A%20FAIR%20Health%20White%20Paper.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0012">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0012">
+<string-name>
+<surname>Fischer</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Mehrotra</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bloom</surname>, <given-names>E. L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Uscher&#x2010;Pines</surname>, <given-names>L.</given-names>
+</string-name>(<year>2020</year>). <article-title>Prevalence and characteristics of telehealth utilization in the United States</article-title>. <source>JAMA Network Open</source>, <volume>3</volume>(<issue>10</issue>), <elocation-id>e2022302</elocation-id>. <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.22302</pub-id>
+<pub-id pub-id-type="pmid">33104208</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0013">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0013">
+<string-name>
+<surname>Hennemann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Beutel</surname>, <given-names>M. E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zwerenz</surname>, <given-names>R.</given-names>
+</string-name>(<year>2016</year>). <article-title>Drivers and barriers to acceptance of web&#x2010;based aftercare of patients in inpatient routine care: A cross&#x2010;sectional survey</article-title>. <source>Journal of Medical Internet Research</source>, <volume>18</volume>(<issue>12</issue>), <elocation-id>e337</elocation-id>. <pub-id pub-id-type="doi">10.2196/jmir.6003</pub-id>
+<pub-id pub-id-type="pmid">28011445</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0014">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0014">
+<string-name>
+<surname>Horsham</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Loescher</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Whiteman</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Soyer</surname>, <given-names>H. P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Janda</surname>, <given-names>M.</given-names>
+</string-name>(<year>2016</year>). <article-title>Consumer acceptance of patient&#x2010;performed mobile teledermoscopy for the early detection of melanoma</article-title>. <source>British Journal of Dermatology</source>, <volume>175</volume>(<issue>6</issue>), <fpage>1301</fpage>&#x2013;<lpage>1310</lpage>. <pub-id pub-id-type="doi">10.1111/bjd.14630</pub-id>
+<pub-id pub-id-type="pmid">27037999</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0015">
+        <mixed-citation publication-type="book" id="jnu12832-cit-0015">
+<collab collab-type="authors">Institute of Medicine</collab>
+. (<year>2012</year>). <source>The role of telehealth in an evolving health care environment: Workshop summary</source>. <publisher-name>The National Academies Press</publisher-name>. <pub-id pub-id-type="doi">10.17226/13466</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0016">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0016">
+<string-name>
+<surname>Klingensmith</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Knodel</surname>, <given-names>L.</given-names>
+</string-name>(<year>2016</year>). <article-title>Mercy virtual nursing: An innovative care delivery model</article-title>. <source>Nurse Leader</source>, <volume>14</volume>(<issue>4</issue>), <fpage>275</fpage>&#x2013;<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1016/j.mnl.2016.05.011</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0017">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0017">
+<string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rho</surname>, <given-names>M. J.</given-names>
+</string-name>(<year>2013</year>). <article-title>Perception of influencing factors on acceptance of mobile health monitoring service: A comparison between users and non&#x2010;users</article-title>. <source>Healthcare Informatics Research</source>, <volume>19</volume>(<issue>3</issue>), <fpage>167</fpage>&#x2013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.4258/hir.2013.19.3.167</pub-id>
+<pub-id pub-id-type="pmid">24175115</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0018">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0018">
+<string-name>
+<surname>Mann</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chunara</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Testa</surname>, <given-names>P. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Nov</surname>, <given-names>O.</given-names>
+</string-name>(<year>2020</year>). <article-title>COVID&#x2010;19 transforms health care through telemedicine: Evidence from the field</article-title>. <source>Journal of the American Medical Informatics Association</source>, <volume>27</volume>(<issue>7</issue>), <fpage>1132</fpage>&#x2013;<lpage>1135</lpage>. <pub-id pub-id-type="doi">10.1093/jamia/ocaa072</pub-id>
+<pub-id pub-id-type="pmid">32324855</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0019">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0019">
+<string-name>
+<surname>Melnikov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kagan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Felizardo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jakab&#x2010;Hall</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Langan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vermeir</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Luiking&#x2010;Martin</surname>, <given-names>M.&#x2010;L.</given-names>
+</string-name>(<year>2022</year>). <article-title>Practices and experiences of European frontline nurses under the shadow of COVID&#x2010;19</article-title>. <source>Nursing and Health Sciences</source>, <volume>24</volume>, <fpage>405</fpage>&#x2013;<lpage>413</lpage>. <pub-id pub-id-type="doi">10.1111/nhs.12936</pub-id>
+<pub-id pub-id-type="pmid">35238460</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0020">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0020">
+<string-name>
+<surname>Mills</surname>, <given-names>K. T.</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zimmerman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cyprian</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Fuqua</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Gilliam</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Greer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gray&#x2010;Winfrey</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wiltz</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Winfrey</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Whelton</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Krousel&#x2010;Wood</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>He</surname>, <given-names>J.</given-names>
+</string-name>(<year>2021</year>). <article-title>Experiences and beliefs of low&#x2010;income patients with hypertension in Louisiana and Mississippi during the COVID&#x2010;19 pandemic</article-title>. <source>Journal of the American Heart Association</source>, <volume>10</volume>(<issue>3</issue>), <elocation-id>e018510</elocation-id>. <pub-id pub-id-type="doi">10.1161/jaha.120.018510</pub-id>
+<pub-id pub-id-type="pmid">33267723</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0021">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0021">
+<string-name>
+<surname>Moore</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Trainum</surname>, <given-names>B.</given-names>
+</string-name>(<year>2019</year>). <article-title>Connected health: ANA's updated principles put nursing at the forefront</article-title>. <source>American Nurse Today</source>, <volume>14</volume>(<issue>12</issue>), <fpage>32</fpage>&#x2013;<lpage>33</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0022">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0022">
+<collab collab-type="authors">MSDH</collab>
+. (<year>2017</year>). <article-title>
+Health equity in Mississippi
+</article-title>. <ext-link xlink:href="https://msdh.ms.gov/msdhsite/_static/44,0,236.html" ext-link-type="uri">https://msdh.ms.gov/msdhsite/_static/44,0,236.html</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0023">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0023">
+<collab collab-type="authors">MSDH</collab>
+. (<year>2022</year>). <article-title>
+Coronavirus Disease 2019 (COVID&#x2010;19)
+</article-title>. <ext-link xlink:href="https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi" ext-link-type="uri">https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0024">
+        <mixed-citation publication-type="book" id="jnu12832-cit-0024">
+<string-name>
+<surname>Nguyen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Trout</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Madison</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Watkins</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Watanabe&#x2010;Galloway</surname>, <given-names>S.</given-names>
+</string-name>(<year>2016</year>). <source>Nebraska's rural behavioral healthcare workforce distribution and relationship between supply and county characteristics</source>(Vol. <volume>16</volume>). <publisher-name>James Cook University</publisher-name>. <pub-id pub-id-type="doi">10.3316/informit.225608034620738</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0025">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0025">
+<string-name>
+<surname>Ohannessian</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Duong</surname>, <given-names>T. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Odone</surname>, <given-names>A.</given-names>
+</string-name>(<year>2020</year>). <article-title>Global telemedicine implementation and integration within health systems to fight the COVID&#x2010;19 pandemic: A call to action</article-title>. <source>JMIR Public Health Surveillance</source>, <volume>6</volume>(<issue>2</issue>), <elocation-id>e18810</elocation-id>. <pub-id pub-id-type="doi">10.2196/18810</pub-id>
+<pub-id pub-id-type="pmid">32238336</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0026">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0026">
+<string-name>
+<surname>Plescia</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gooch</surname>, <given-names>K.</given-names>
+</string-name>(<year>2022</year>). <article-title>
+19% of US hospitals critically understaffed, 21% anticipate shortages: Numbers by state
+</article-title>. <ext-link xlink:href="https://www.beckershospitalreview.com/workforce/19-of-us-hospitals-critically-understaffed-21-anticipate-shortages-numbers-by-state.html" ext-link-type="uri">https://www.beckershospitalreview.com/workforce/19&#x2010;of&#x2010;us&#x2010;hospitals&#x2010;critically&#x2010;understaffed&#x2010;21&#x2010;anticipate&#x2010;shortages&#x2010;numbers&#x2010;by&#x2010;state.html</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0027">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0027">
+<string-name>
+<surname>Qian</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sy</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Glenn</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Morrissette</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S. J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Xu</surname>, <given-names>S.</given-names>
+</string-name>(<year>2021</year>). <article-title>Disparities in outpatient and telehealth visits during the covid&#x2010;19 pandemic in a large integrated health care organization: Retrospective cohort study</article-title>. <source>Journal of Medical Internet Research</source>, <volume>23</volume>(<issue>9</issue>), <elocation-id>e29959</elocation-id>. <pub-id pub-id-type="doi">10.2196/29959</pub-id>
+<pub-id pub-id-type="pmid">34351865</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0028">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0028">
+<collab collab-type="authors">QuickFacts: Mississippi</collab>
+. (<year>2020</year>). <ext-link xlink:href="https://www.census.gov/quickfacts/MS" ext-link-type="uri">https://www.census.gov/quickfacts/MS</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0029">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0029">
+<string-name>
+<surname>Rutledge</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hawkins</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Bordelon</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gustin</surname>, <given-names>T. S.</given-names>
+</string-name>(<year>2020</year>). <article-title>Telehealth education: An interprofessional online immersion experience in response to COVID&#x2010;19</article-title>. <source>Journal of Nursing Education</source>, <volume>59</volume>(<issue>10</issue>), <fpage>570</fpage>&#x2013;<lpage>576</lpage>. <pub-id pub-id-type="doi">10.3928/01484834-20200921-06</pub-id>
+<pub-id pub-id-type="pmid">33002163</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0030">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0030">
+<string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Raskin</surname>, <given-names>S.</given-names>
+</string-name>(<year>2020</year>). <article-title>COVID&#x2010;19's impact on telehealth</article-title>. <source>The Nurse Practitioner</source>, <volume>45</volume>(<issue>8</issue>), <fpage>6</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1097/01.Npr.0000681804.23530.81</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0031">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0031">
+<string-name>
+<surname>Tavares</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Oliveira</surname>, <given-names>T.</given-names>
+</string-name>(<year>2016</year>). <article-title>Electronic health record patient portal adoption by health care consumers: An acceptance model and survey</article-title>. <source>Journal of Medical Internet Research</source>, <volume>18</volume>(<issue>3</issue>), <fpage>36</fpage>. <pub-id pub-id-type="doi">10.2196/jmir.5069</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0032">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0032">
+<collab collab-type="authors">Telehealth index: 2019 consumer survey</collab>
+. (<year>2019</year>). <ext-link xlink:href="https://static.americanwell.com/app/uploads/2019/07/American-Well-Telehealth-Index-2019-Consumer-Survey-eBook2.pdf" ext-link-type="uri">https://static.americanwell.com/app/uploads/2019/07/American&#x2010;Well&#x2010;Telehealth&#x2010;Index&#x2010;2019&#x2010;Consumer&#x2010;Survey&#x2010;eBook2.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0041">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0041">
+<collab collab-type="authors">The University of Mississippi Medical Center Center for Telehealth</collab>
+. (<year>2017</year>). <ext-link xlink:href="https://www.umc.edu/Healthcare/Telehealth/Files/telehealth_brochure.pdf" ext-link-type="uri">https://www.umc.edu/Healthcare/Telehealth/Files/telehealth_brochure.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0033">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0033">
+<string-name>
+<surname>Waizinger</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Shpigelman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shental</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yunis</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Shimoni</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Od Cohen</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Kagan</surname>, <given-names>I.</given-names>
+</string-name>(<year>2021</year>). <article-title>Diabetes nurse practitioners in the shadow of the COVID&#x2010;19 pandemic: Challenges, insights, and suggestions for improvement</article-title>. <source>Journal of Nursing Scholarship</source>, <volume>54</volume>, <fpage>453</fpage>&#x2013;<lpage>461</lpage>. <pub-id pub-id-type="doi">10.1111/jnu.12754</pub-id>
+<pub-id pub-id-type="pmid">34854227</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0034">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0034">
+<string-name>
+<surname>Ware</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dorai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Cafazzo</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Laporte</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boodoo</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Seto</surname>, <given-names>E.</given-names>
+</string-name>(<year>2019</year>). <article-title>Patient adherence to a mobile phone&#x2010;based heart failure telemonitoring program: A longitudinal mixed&#x2010;methods study</article-title>. <source>BMC Health Services Research</source>, <volume>7</volume>(<issue>2</issue>), <elocation-id>e13259</elocation-id>. <pub-id pub-id-type="doi">10.2196/13259</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0035">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0035">
+<string-name>
+<surname>Welch</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>, <given-names>N. S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>McElligott</surname>, <given-names>J. T.</given-names>
+</string-name>(<year>2017</year>). <article-title>Patient preferences for direct&#x2010;to&#x2010;consumer telemedicine services: A nationwide survey</article-title>. <source>BMC Health Services Research</source>, <volume>17</volume>(<issue>1</issue>), <fpage>784</fpage>. <pub-id pub-id-type="doi">10.1186/s12913-017-2744-8</pub-id>
+<pub-id pub-id-type="pmid">29183372</pub-id></mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0036">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0036">
+<string-name>
+<surname>Whitehead</surname>, <given-names>J.</given-names>
+</string-name>(<year>2021</year>). <article-title>Mississippi health insurers to cover telehealth visits at same rate as in&#x2010;person</article-title>. <italic toggle="yes">The Clarion Ledger</italic>. <ext-link xlink:href="https://www.clarionledger.com/story/news/2021/12/02/health-insurers-agree-post-covid-emergency-to-pay-for-telehealth-visits-at-same-rate/8798912002/" ext-link-type="uri">https://www.clarionledger.com/story/news/2021/12/02/health&#x2010;insurers&#x2010;agree&#x2010;post&#x2010;covid&#x2010;emergency&#x2010;to&#x2010;pay&#x2010;for&#x2010;telehealth&#x2010;visits&#x2010;at&#x2010;same&#x2010;rate/8798912002/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0037">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0037">
+<collab collab-type="authors">WHO</collab>
+. (<year>2016</year>). <article-title>
+Global diffusion of eHealth: Making universal health coverage achievable
+</article-title>. Report of the third global survey on eHealth.</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0038">
+        <mixed-citation publication-type="miscellaneous" id="jnu12832-cit-0038">
+<string-name>
+<surname>Zebley</surname>, <given-names>K</given-names>
+</string-name>. (<year>2022</year>). <article-title>
+ATA support for senate bill 2738
+</article-title>. <ext-link xlink:href="https://www.americantelemed.org/wp-content/uploads/2022/03/2022-MS-Conference-Committee-ATA-Comments.pdf" ext-link-type="uri">https://www.americantelemed.org/wp&#x2010;content/uploads/2022/03/2022&#x2010;MS&#x2010;Conference&#x2010;Committee&#x2010;ATA&#x2010;Comments.pdf</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jnu12832-bib-0039">
+        <mixed-citation publication-type="journal" id="jnu12832-cit-0039">
+<string-name>
+<surname>Zhou</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Snoswell</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Bambling</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Edirippulige</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>X.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Smith</surname>, <given-names>A. C.</given-names>
+</string-name>(<year>2020</year>). <article-title>The role of telehealth in reducing the mental health burden from COVID&#x2010;19</article-title>. <source>Telemedicine and e&#x2010;Health</source>, <volume>26</volume>(<issue>4</issue>), <fpage>377</fpage>&#x2013;<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1089/tmj.2020.0068</pub-id>
+<pub-id pub-id-type="pmid">32202977</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

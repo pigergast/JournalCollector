@@ -62,7 +62,8 @@ if __name__ == '__main__':
     Functions.write_to_csv(doi_list, types)
     print("Done writing")
 
-
+    # get json files
+    Functions.download_json_files(pmcids)
 
 
 
