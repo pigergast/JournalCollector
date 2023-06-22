@@ -167,25 +167,53 @@ def get_doi_from_pmcid(pmcid):
     return None
 
 
-def get_article_type(doi):
-    api_url = f"https://api.crossref.org/v1/works/{doi}"
-    response = requests.get(api_url)
+import requests
 
-    if response.status_code == 200:
-        data = response.json()
-        article_type = data['message']['type']
-        return article_type
-    else:
-        return None
+def get_article_info(doi_list):
+    article_types = []
+    article_journals = []
+    article_published_dates = []
+
+    for doi in doi_list:
+        api_url = f"https://api.crossref.org/v1/works/{doi}"
+        response = requests.get(api_url)
+
+        if response.status_code == 200:
+            data = response.json()
+            article_type = data['message']['type']
+            article_journal = data['message']['short-container-title']
+            article_journal = str(article_journal)
+            article_journal = article_journal.replace("['", "")
+            article_journal = article_journal.replace("']", "")
+
+            # Extracting the timestamp from the license in the message part
+            message_license = data['message'].get('license', [])
+            license_timestamp = None
+            if message_license:
+                date_time = message_license[0].get('start', {}).get('date-time')
+                if date_time:
+                    license_timestamp = date_time[:10]
+            if license_timestamp:
+                article_published_date = license_timestamp
+
+            article_types.append(article_type)
+            article_journals.append(article_journal)
+            article_published_dates.append(article_published_date)
+        else:
+            article_types.append(None)
+            article_journals.append(None)
+            article_published_dates.append(None)
+
+    return article_types, article_journals, article_published_dates
 
 
-def write_to_csv(dois, data_types):
+def write_to_csv(dois, data_types, pmcids, types, journals, published_dates):
     with open('summary.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['DOI', 'Article Type'])  # Write header
+        writer.writerow(['DOI', 'PMCID', 'Published Journal', 'Published Date' ,'Article Type'])  # Write header
 
-        for doi, data_type in zip(dois, data_types):
-            writer.writerow([doi, data_type])
+        for doi, data_type, pmcids, types, journals, published_dates in zip(dois, data_types, pmcids, types, journals, published_dates):
+            writer.writerow([doi,pmcids,journals,published_dates, data_type])
 
 
 def download_json_files(pmcid_list):

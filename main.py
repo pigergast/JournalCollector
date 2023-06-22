@@ -53,17 +53,13 @@ if __name__ == '__main__':
         doi_list.append(doi)
     print(len(doi_list))
     print(doi_list)
-    # get metadata from doi using https://api.crossref.org/v1/works/ and write to csv
-    types = []
-    for doi in doi_list:
-        type = Functions.get_article_type(doi)
-        types.append(type)
-
-    Functions.write_to_csv(doi_list, types)
-    print("Done writing")
-
-    # get json files
+    # get metadata from doi using https://api.crossref.org/v1/works/
+    types, journals, published_dates = Functions.get_article_info(doi_list)
+    # write to csv
+    Functions.write_to_csv(doi_list, types, pmcids, types, journals, published_dates)
+    # download json files
     Functions.download_json_files(pmcids)
+
 
 
 
