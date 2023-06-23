@@ -1,7 +1,6 @@
 import tarfile
 import Functions
-from datetime import datetime
-
+import shutil
 if __name__ == '__main__':
     # get PMCIDs
     # modify the startDate and endDate to get the PMCIDs from the PMC Open Access Subset
@@ -12,40 +11,7 @@ if __name__ == '__main__':
     print("Number of PMCIDs found from the PMC Open Access Subset: " + str(len(pmcids)))
     print(pmcids)
 
-    # download PDFs
-    print("-------------------")
-    print("Downloading PDFs...")
-    #go through each PMCIDs and get the PDFs
-    #count number of sucessful and unsuccessful downloads
-    successful = 0
-    unsuccessful = 0
-    for pmcid in pmcids:
-        print("Processing PMC" + pmcid)
-        link = Functions.PMCPDFLinkExtractor(pmcid)
-        if(link is None):
-            link = Functions.PMCTARGZLinkExtractor(pmcid)
-            if (link is None):
-                print("No PDF/TAR.GZ link for PMC" + pmcid)
-                unsuccessful += 1
-                continue
-            else:
-                successful += 1
-                Functions.downloadTarGz(link, "PMC" + pmcid + ".tar.gz")
-                tar = tarfile.open("Downloads/tarGz/PMC" + pmcid + ".tar.gz", "r:gz")
-                #extract PDF from tar.gz
-                for tarinfo in tar:
-                    if tarinfo.name.endswith(".pdf"):
-                        tar.extract(tarinfo, path="Downloads")
-                        break
-                tar.close()
-                continue
-        Functions.downloadPdf(link, "PMC" + pmcid + ".pdf")
-        successful += 1
-    print("-------------------")
-    print("SUMMARY:")
-    print("Number of successful downloads: " + str(successful))
-    print("Number of unsuccessful downloads: " + str(unsuccessful))
-
+    Functions.downloadPdfFromPMCIDList(pmcids, "pdfs")
     # get doi from pmcid
     doi_list = []
     for pmcid in pmcids:
