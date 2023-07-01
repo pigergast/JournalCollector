@@ -1,4 +1,5 @@
 import Functions2
+from multiprocessing import Pool
 
 csv_file = 'journal-list.csv'
 journal_list = Functions2.extract_journal_names(csv_file)
@@ -21,6 +22,19 @@ print("The first 10 PMIDs:", pmid_list[:10])
 
 Functions2.write_array_to_csv(pmid_list)
 """
+pmid_list = Functions2.extract_pmids_from_csv('metadata.csv')
+print("The number of PMIDs found:", len(pmid_list))
+
+pmcid_list = []
+progress2 = 0
+for pmid in pmid_list:
+    progress2 += 1
+    pmcid = Functions2.get_pmcid(pmid)
+    if pmcid:
+        print(pmcid)
+        pmcid_list.append(pmcid)
+    if progress2 % 100 == 0:
+        print(f"Progress: {progress2}/{len(pmid_list)}")
 
 
-
+Functions2.write_pmcid_to_csv(pmcid_list)

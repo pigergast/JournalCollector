@@ -71,7 +71,34 @@ def write_array_to_csv(array):
         writer.writeheader()
         writer.writerows(data)
 
-# Example usage:
+
+def extract_pmids_from_csv(filename):
+    pmid_list = []
+
+    with open(filename, 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            pmid = row['pmid']
+            pmid_list.append(pmid)
+
+    return pmid_list
+
+
+def write_pmcid_to_csv(pmcid_list):
+    with open('metadata.csv', 'r', newline='') as file:
+        reader = csv.DictReader(file)
+        fieldnames = reader.fieldnames + ['pmcid']
+
+        rows = []
+        for row in reader:
+            pmcid = pmcid_list.pop(0) if pmcid_list else ''
+            row['pmcid'] = pmcid
+            rows.append(row)
+
+    with open('metadata.csv', 'w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
 
 
 
