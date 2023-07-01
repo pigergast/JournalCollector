@@ -3,7 +3,7 @@ import Functions2
 csv_file = 'journal-list.csv'
 journal_list = Functions2.extract_journal_names(csv_file)
 print("The number of journals in the list:", len(journal_list))
-
+"""
 start_date = "2022/10/30"
 end_date = "2023/07/01"
 
@@ -17,6 +17,10 @@ for journal_name in journal_list:
         print(f"Progress: {progress}/{len(journal_list)}")
 
 print("The number of PMIDs found:", len(pmid_list))
+print("The first 10 PMIDs:", pmid_list[:10])
 
-pmcid_list = []
-doi_list = []
+Functions2.write_array_to_csv(pmid_list)
+"""
+
+
+

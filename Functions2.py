@@ -1,5 +1,6 @@
 import requests
 import csv
+from bs4 import BeautifulSoup
 
 
 def extract_journal_names(csv_file):
@@ -36,5 +37,41 @@ def get_pmids_from_journal(journal_name, start_date, end_date):
 
     pmids = data["esearchresult"].get("idlist", [])
     return pmids
+
+
+def get_pmcid(pmid):
+    url = f"https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids={pmid}"
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for non-2xx status codes
+        soup = BeautifulSoup(response.content, "lxml-xml")
+
+        records = soup.find_all("record")
+        if len(records) > 0:
+            record = records[0]
+            pmcid = record.get("pmcid")
+            return pmcid
+    except requests.exceptions.RequestException as e:
+        print("Error occurred:", str(e))
+
+    return None
+
+
+def write_array_to_csv(array):
+    # Prepare the data to be written
+    data = [{'pmid': item} for item in array]
+
+    # Define the fieldnames (column names) for the CSV file
+    fieldnames = ['pmid']
+
+    # Write the data to the CSV file
+    with open('metadata.csv', 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
+
+# Example usage:
+
 
 
