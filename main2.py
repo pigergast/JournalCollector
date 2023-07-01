@@ -17,19 +17,6 @@ for journal_name in journal_list:
         print(f"Progress: {progress}/{len(journal_list)}")
 
 print("The number of PMIDs found:", len(pmid_list))
+
 pmcid_list = []
 doi_list = []
-
-progress2 = 0
-for pmid in pmid_list:
-    progress2 += 1
-    pmcid, doi = Functions2.get_pmcid_and_doi_from_pmid(pmid)
-    if pmcid:
-        pmcid_list.append(pmcid)
-    if doi:
-        doi_list.append(doi)
-    if progress2 % 100 == 0:
-        print(f"Progress: {progress2}/{len(pmid_list)}")
-
-print("The number of PMCIDs found:", len(pmcid_list))
-print("The number of DOIs found:", len(doi_list))
