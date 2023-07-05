@@ -4,52 +4,6 @@ import urllib.parse
 import tarfile
 import shutil
 
-def downloadPdfFromPMCIDList(PMCIDList, folderName):
-    # download PDFs
-    print("-------------------")
-    print("Downloading PDFs...")
-    isExist = os.path.exists("Downloads")
-    if not isExist:
-        # Create a new directory because it does not exist
-        os.makedirs("Downloads")
-    #create folder if not exist
-    isExist = os.path.exists(f"Downloads/{folderName}")
-    if not isExist:
-        # Create a new directory because it does not exist
-        os.makedirs(f"Downloads/{folderName}")
-    # go through each PMCIDs and get the PDFs
-    # count number of sucessful and unsuccessful downloads
-    successful = 0
-    unsuccessful = 0
-    for pmcid in PMCIDList:
-        print("Processing PMC" + pmcid)
-        link = PMCPDFLinkExtractor(pmcid)
-        if (link is None):
-            link = PMCTARGZLinkExtractor(pmcid)
-            if (link is None):
-                print("No PDF/TAR.GZ link for PMC" + pmcid)
-                unsuccessful += 1
-                continue
-            else:
-                successful += 1
-                downloadTarGz(link, "PMC" + pmcid + ".tar.gz")
-                tar = tarfile.open("Downloads/tarGz/PMC" + pmcid + ".tar.gz", "r:gz")
-                # extract PDF from tar.gz
-                for tarinfo in tar:
-                    if tarinfo.name.endswith(".pdf"):
-                        pdf_file = tar.extractfile(tarinfo.path)
-                        with open(f"Downloads/{folderName}/PMC" + pmcid + ".pdf", "wb") as output_file:
-                            shutil.copyfileobj(pdf_file, output_file)
-                        break
-                tar.close()
-                continue
-        downloadPdf(link, "PMC" + pmcid + ".pdf", f"Downloads/{folderName}")
-        successful += 1
-    print("-------------------")
-    print("SUMMARY:")
-    print("Number of successful downloads: " + str(successful))
-    print("Number of unsuccessful downloads: " + str(unsuccessful))
-
 
 def downloadPdf(url, title, path):
     response = requests.get(url)
@@ -246,3 +200,65 @@ def download_json_files(pmcid_list):
             print(f"Failed to download {pmcid}.json")
 
     print(f"Downloaded {jsonNum} JSON files")
+
+
+def downloadPdfFromPMCIDList(PMCIDList, folderName):
+    # download PDFs
+    print("-------------------")
+    print("Downloading PDFs...")
+    isExist = os.path.exists("Downloads")
+    if not isExist:
+        # Create a new directory because it does not exist
+        os.makedirs("Downloads")
+    # create folder if not exist
+    isExist = os.path.exists(f"Downloads/{folderName}")
+    if not isExist:
+        # Create a new directory because it does not exist
+        os.makedirs(f"Downloads/{folderName}")
+    # go through each PMCIDs and get the PDFs
+    # count number of successful and unsuccessful downloads
+    successful = 0
+    unsuccessful = 0
+    download_records = []  # List to store download records for CSV report
+
+    for pmcid in PMCIDList:
+        print("Processing PMC" + pmcid)
+        link = PMCPDFLinkExtractor(pmcid)
+        if link is None:
+            link = PMCTARGZLinkExtractor(pmcid)
+            if link is None:
+                print("No PDF/TAR.GZ link for PMC" + pmcid)
+                unsuccessful += 1
+                download_records.append([pmcid, "Unsuccessful"])  # Add record to download_records list
+                continue
+            else:
+                successful += 1
+                downloadTarGz(link, "PMC" + pmcid + ".tar.gz")
+                tar = tarfile.open("Downloads/tarGz/PMC" + pmcid + ".tar.gz", "r:gz")
+                # extract PDF from tar.gz
+                for tarinfo in tar:
+                    if tarinfo.name.endswith(".pdf"):
+                        pdf_file = tar.extractfile(tarinfo.path)
+                        with open(f"Downloads/{folderName}/PMC" + pmcid + ".pdf", "wb") as output_file:
+                            shutil.copyfileobj(pdf_file, output_file)
+                        break
+                tar.close()
+                download_records.append([pmcid, "Successful"])  # Add record to download_records list
+                continue
+        downloadPdf(link, "PMC" + pmcid + ".pdf", f"Downloads/{folderName}")
+        successful += 1
+        download_records.append([pmcid, "Successful"])  # Add record to download_records list
+
+    print("-------------------")
+    print("SUMMARY:")
+    print("Number of successful downloads: " + str(successful))
+    print("Number of unsuccessful downloads: " + str(unsuccessful))
+
+    # Generate CSV report
+    report_filename = f"Downloads/{folderName}/download_report.csv"
+    with open(report_filename, "w", newline="") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["PMCID", "Status"])  # Write header
+        writer.writerows(download_records)  # Write download records
+
+    print("Download report generated: " + report_filename)
