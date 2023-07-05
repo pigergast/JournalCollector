@@ -22,7 +22,7 @@ def get_journal_pmcids(issn, start_date, end_date):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     parameters = {
         "db": "pmc",
-        "term": f'"{issn}"[jour] AND open access[filter] AND ("{start_date}"[PubDate] : "{end_date}"[PubDate])',
+        "term": f'"{issn}"[jour] AND ("{start_date}"[PubDate] : "{end_date}"[PubDate])',
         "retmode": "json",
         "retmax": 100000,  # Adjust the value based on your requirements
         "usehistory": "y"
