@@ -66,15 +66,25 @@ def get_journal_pmcids(issn, start_date, end_date):
     return pmcid_list
 
 
-def write_pmcids_to_csv(array):
-    # Prepare the data to be written
-    data = [{'pmcid': item} for item in array]
+def write_pmcids_to_csv(arr, filename):
+    column_name = "PMCID"
+    formatted_string = column_name + ","
 
-    # Define the fieldnames (column names) for the CSV file
-    fieldnames = ['pmcid']
+    for number in arr:
+        formatted_string += "\n" + number + ","
 
-    # Write the data to the CSV file
-    with open('metadata.csv', 'w', newline='') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(data)
+    with open(filename, "w") as file:
+        file.write(formatted_string)
+
+
+def extract_pmcids_from_csv(filename):
+    pmcids = []
+
+    with open(filename, "r") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            number = row["PMCID"].strip()
+            if number != "":
+                pmcids.append(number)
+
+    return pmcids

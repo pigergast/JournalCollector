@@ -1,5 +1,6 @@
 import Functions2
 
+""" 
 csv_file = 'journal-list.csv'
 
 journal_list = Functions2.extract_journal_issn(csv_file)
@@ -17,7 +18,14 @@ for journal in journal_list:
     if progress % 10 == 0:
         print(f"Progress: {progress}/{len(journal_list)}")
 
-Functions2.write_pmcids_to_csv(pmcid_list)
+meta_file = 'metadata.csv'
 
+Functions2.write_pmcids_to_csv(pmcid_list, meta_file)
+
+print("The number of PMCIDs found from the PMC Open Access Subset:", len(pmcid_list))
+print("The first 10 PMCIDs:", pmcid_list[:10])
+"""
+
+pmcid_list = Functions2.extract_pmcids_from_csv('metadata.csv')
 print("The number of PMCIDs found from the PMC Open Access Subset:", len(pmcid_list))
 print("The first 10 PMCIDs:", pmcid_list[:10])
