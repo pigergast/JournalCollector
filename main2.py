@@ -1,31 +1,67 @@
 import Functions2
 
-""" 
 csv_file = 'journal-list.csv'
-
-journal_list = Functions2.extract_journal_issn(csv_file)
-print("The number of journals in the list:", len(journal_list))
-print("The first 10 journals:", journal_list[:10])
+name_list = Functions2.extract_journal_list_col(csv_file, 0)
+issn_list = Functions2.extract_journal_list_col(csv_file, 2)
+print("The first five journals:", name_list[:3])
+print("The first five ISSNs:", issn_list[:3])
 
 start_date = '2022/10/30'
-end_date = '2023/07/01'
+end_date = '2023/07/10'
+
+# Get the PMCID from PubMed Central
 
 pmcid_list = []
+pmcid_per_journal = []
 progress = 0
-for journal in journal_list:
+
+for issn in issn_list:
     progress += 1
-    pmcid_list.extend(Functions2.get_journal_pmcids(journal, start_date, end_date))
+    temp_list = Functions2.get_journal_pmcids(issn, start_date, end_date)
+
+    if temp_list is None:
+        pmcid_per_journal.append(0)
+    else:
+        pmcid_list.extend(temp_list)
+        pmcid_per_journal.append(len(temp_list))
+
     if progress % 10 == 0:
-        print(f"Progress: {progress}/{len(journal_list)}")
+        print("Progress:", progress, "out of", len(issn_list))
 
-meta_file = 'metadata.csv'
+print("The first three PMCID:", pmcid_list[:3])
+print("The first three PMCID per journal:", pmcid_per_journal[:3])
 
-Functions2.write_pmcids_to_csv(pmcid_list, meta_file)
+# Get the PMID from PubMed
 
-print("The number of PMCIDs found from the PMC Open Access Subset:", len(pmcid_list))
-print("The first 10 PMCIDs:", pmcid_list[:10])
-"""
+pmid_list = []
+pmid_per_journal = []
+progress = 0
+for name in name_list:
+    progress += 1
+    temp_list = Functions2.get_journal_pmids(name, start_date, end_date)
 
-pmcid_list = Functions2.extract_pmcids_from_csv('metadata.csv')
-print("The number of PMCIDs found from the PMC Open Access Subset:", len(pmcid_list))
-print("The first 10 PMCIDs:", pmcid_list[:10])
+    if temp_list is None:
+        pmid_per_journal.append(0)
+    else:
+        pmid_list.extend(temp_list)
+        pmid_per_journal.append(len(temp_list))
+
+    if progress % 10 == 0:
+        print("Progress:", progress, "out of", len(name_list))
+
+print("The first three PMID:", pmid_list[:3])
+print("The first three PMID per journal:", pmid_per_journal[:3])
+
+
+# Save to journal-list-report.csv
+Functions2.write_journal_list_report(name_list, issn_list, pmid_per_journal, pmcid_per_journal)
+
+
+
+
+
+
+
+
+
+
