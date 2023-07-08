@@ -8,6 +8,10 @@ Query Format: issn number + time range.
 
 Example: `1527-6546 AND ("2022/10/30"[Date - Publication] : "2023/07/10"[Date - Publication]) `
 
+Result: The above query returns 124 articles. However, most of the articles are not open access. 
+If we want to get only open-access articles, we need to add the following filter to the query: ` AND "Free Full Text"[filter]`
+Then, it will return 31 open-access articles.
+
 List of ISSN with no item found during the time range: 
 - 1043-4542, 0813-0531, 0103-2100.
 
@@ -18,6 +22,8 @@ Number of PMCID found: 1336 pmcids.
 Query Format: issn number + time range 
 
 Example: `"1527-6546"[jour] AND ("2022/10/30"[PubDate] : "2023/07/10"[PubDate])`
+
+Result: this query returns 10 open-access articles.
 
 List of ISSN with no item found during the time range: 
 - 0730-7659, 1320-7881, 0893-2190, 1682-3141, 0148-4834, 0031-5990, 0279-5442, 0161-9268. 
