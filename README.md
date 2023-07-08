@@ -36,5 +36,6 @@ List of ISSN with no item found during the time range:
 1. To download the pdf version of an article, we need its PMCID.
 2. Then, use this API link: https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC5334499
 3. Put the PMCID in the id parameter. And get the downloaded part: `ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8e/71/WJR-9-27.PMC5334499.pdf`
-4. Add it with `https://` + `ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8e/71/WJR-9-27.PMC5334499.pdf`
+4. Add it with `https://` + `ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8e/71/WJR-9-27.PMC5334499.pdf` to create a downloaded link.
+5. The complete link: https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8e/71/WJR-9-27.PMC5334499.pdf
 5. Then, we can download the pdf file.
