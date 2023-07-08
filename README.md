@@ -1,7 +1,7 @@
 # JournalCollector
 
-Query used in PubMed: journal name + time range 
-- Journal Of Nursing Scholarship AND ("2022/10/30"[Date - Publication] : "2023/07/01"[Date - Publication]) 
+Query used in PubMed: issn number + time range 
+- 1527-6546 AND ("2022/10/30"[Date - Publication] : "2023/07/01"[Date - Publication]) 
 
 Query used in PubMed Central: issn number + time range
 - "1527-6546"[jour] AND ("2022/10/30"[PubDate] : "2023/07/07"[PubDate])

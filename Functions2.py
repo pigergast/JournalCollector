@@ -66,11 +66,11 @@ def get_journal_pmcids(issn, start_date, end_date):
     return pmcid_list
 
 
-def get_journal_pmids(journal_name, start_date, end_date):
+def get_journal_pmids(issn, start_date, end_date):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     parameters = {
         "db": "pubmed",
-        "term": f'"{journal_name}" AND ("{start_date}"[Date - Publication] : "{end_date}"[Date - Publication])',
+        "term": f'{issn} AND ("{start_date}"[Date - Publication] : "{end_date}"[Date - Publication])',
         "retmode": "json",
         "retmax": 100000,  # Adjust the value based on your requirements
         "usehistory": "y"
@@ -106,7 +106,7 @@ def get_journal_pmids(journal_name, start_date, end_date):
         if 'esearchresult' in fetch_json and 'idlist' in fetch_json['esearchresult']:
             pmid_list.extend(fetch_json['esearchresult']['idlist'])
         else:
-            print("Error: Invalid fetch response for", journal_name)
+            print("Error: Invalid fetch response for", issn)
             return None
 
         retstart += retmax
@@ -132,7 +132,4 @@ def write_journal_list_report(name_list, issn_list, pmid_per_journal, pmcid_per_
         writer.writerows(rows)
 
     print("Report generated successfully!")
-
-
-
 
