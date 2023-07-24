@@ -8,5 +8,3 @@ class Article:
         return f"ISSN: {self.issn}, DOI: {self.doi}, PMID: {self.pmid}."
 
 
-p1 = Article("123", "456", "789")
-print(p1)
