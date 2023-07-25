@@ -43,8 +43,11 @@ if __name__ == '__main__':
 
         if doi is not None:
             doi_list.append(doi)
+            # writing to csv file as generated
+            ScienceDirectFunctions.add_doi_to_csv(doi)
         else:
             doi_list.append('None')
+            ScienceDirectFunctions.add_doi_to_csv('None')
 
         if progress % 10 == 0:
             print("Progress:", progress, "out of", len(pmid_list))
@@ -52,8 +55,8 @@ if __name__ == '__main__':
     print("The first three DOIs:", doi_list[:3])
     print("Total number of DOIs:", len(doi_list))
 
+    # writing to journal-obj-list.csv file as completed
     ScienceDirectFunctions.write_obj_list_report(issn_obj_list, pmid_list, doi_list)
-
 
     # CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', '1d7b5a634d98e470780d362c4373e718')
 

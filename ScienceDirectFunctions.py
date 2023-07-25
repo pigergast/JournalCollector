@@ -115,3 +115,17 @@ def write_obj_list_report(list1, list2, list3):
         writer.writerows(rows)
 
     print("Report object list generated successfully!")
+
+
+def add_doi_to_csv(doi, file_path='doi-list.csv'):
+    # Create a new CSV file if it doesn't exist
+    with open(file_path, 'a', newline='') as csvfile:
+        # Define the header of the CSV file if it's empty
+        if csvfile.tell() == 0:
+            fieldnames = ['DOI']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+
+        # Append the DOI to the CSV file
+        writer = csv.writer(csvfile)
+        writer.writerow([doi])
