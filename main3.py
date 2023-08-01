@@ -70,6 +70,6 @@ if __name__ == '__main__':
     print("Total number of DOIs:", len(doi_list))
 
     # writing to article-obj-list.csv file as completed
-    ScienceDirectFunctions.write_obj_list_report(issn_obj_list, pmid_list, doi_list)
+    ScienceDirectFunctions.write_obj_list_report(issn_list, pmid_list, doi_list)
 
     # CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', '1d7b5a634d98e470780d362c4373e718')
