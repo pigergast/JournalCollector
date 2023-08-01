@@ -1,8 +1,7 @@
 import requests
 import csv
 from bs4 import BeautifulSoup
-
-
+from xml.etree import ElementTree as ET
 
 def extract_journal_list_col(csv_file, col):
     journal_list = []
@@ -66,23 +65,28 @@ def get_journal_pmids(issn, start_date, end_date):
     return pmid_list
 
 
-def get_doi_from_pmid(pmid):
-    url = f"https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids={pmid}"
+def pmid_to_doi(pmid):
+    base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+    params = {
+        "db": "pubmed",
+        "id": pmid,
+    }
 
     try:
-        response = requests.get(url)
-        response.raise_for_status()  # Raise an exception for non-2xx status codes
-        soup = BeautifulSoup(response.content, "lxml-xml")
-
-        records = soup.find_all("record")
-        if len(records) > 0:
-            record = records[0]
-            doi = record.get("doi")
-            return doi
-    except requests.exceptions.RequestException as e:
-        print("Error occurred:", str(e))
-
-    return None
+        response = requests.get(base_url, params=params)
+        if response.status_code == 200:
+            root = ET.fromstring(response.content)
+            doi_item = root.find(".//Item[@Name='doi']")
+            if doi_item is not None:
+                return doi_item.text
+            else:
+                return None
+        else:
+            print(f"Error: Unable to retrieve DOI for PMID {pmid}. Status Code: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"Error: An error occurred while processing the request: {str(e)}")
+        return None
 
 
 def CheckScienceDirectDoi(doi, apiKey):

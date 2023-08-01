@@ -1,5 +1,6 @@
 from ScienceDirectFunctions import CheckScienceDirectDoi
 import ScienceDirectFunctions
+# pip install certifi
 
 if __name__ == '__main__':
 
@@ -23,6 +24,9 @@ if __name__ == '__main__':
         if temp_list is not None:
             pmid_list.extend(temp_list)
 
+            for i in temp_list:
+                print(ScienceDirectFunctions.pmid_to_doi(i))
+
             for i in range(len(temp_list)):
                 issn_obj_list.append(issn)
 
@@ -39,7 +43,7 @@ if __name__ == '__main__':
 
     for pmid in pmid_list:
         progress += 1
-        doi = ScienceDirectFunctions.get_doi_from_pmid(pmid)
+        doi = ScienceDirectFunctions.pmid_to_doi(pmid)
 
         if doi is not None:
             doi_list.append(doi)
