@@ -1,9 +1,8 @@
-from ScienceDirectFunctions import CheckScienceDirectDoi
 import ScienceDirectFunctions
 # pip install certifi
 
 if __name__ == '__main__':
-
+    """ 
     csv_file = 'journal-list.csv'
     name_list = ScienceDirectFunctions.extract_journal_list_col(csv_file, 0)
     issn_list = ScienceDirectFunctions.extract_journal_list_col(csv_file, 2)
@@ -11,7 +10,7 @@ if __name__ == '__main__':
     print("The first three ISSNs:", issn_list[:3])
 
     start_date = '2022/10/30'
-    end_date = '2023/07/22'
+    end_date = '2023/08/30'
 
     # Get the PMID from PubMed
     pmid_list = []
@@ -24,9 +23,6 @@ if __name__ == '__main__':
         if temp_list is not None:
             pmid_list.extend(temp_list)
 
-            for i in temp_list:
-                print(ScienceDirectFunctions.pmid_to_doi(i))
-
             for i in range(len(temp_list)):
                 issn_obj_list.append(issn)
 
@@ -37,21 +33,35 @@ if __name__ == '__main__':
     print("Total number of PMID:", len(pmid_list))
     print("The first three ISSNs for obj:", issn_obj_list[:3])
     print("Total number of ISSNs for obj:", len(issn_obj_list))
-    
+
+    ScienceDirectFunctions.write_to_issn_pmid_list(issn_obj_list, pmid_list)
+    """
+
+    csv_file = 'issn-pmid-list.csv'
+
+    issn_list = ScienceDirectFunctions.extract_issn_pmid_list_col(csv_file, 0)
+    pmid_list = ScienceDirectFunctions.extract_issn_pmid_list_col(csv_file, 1)
+
+    print("The first two ISSNs:", issn_list[:2], "| Total number of ISSNs:", len(issn_list))
+    print("The first two PMID:", pmid_list[:2], "| Total number of PMID:", len(pmid_list))
+
     doi_list = []
     progress = 0
 
     for pmid in pmid_list:
         progress += 1
         doi = ScienceDirectFunctions.pmid_to_doi(pmid)
-
+        print("Progress:", progress, "out of", len(pmid_list))
         if doi is not None:
             doi_list.append(doi)
-            # writing to csv file as generated
+            # writing to csv file as generating
             ScienceDirectFunctions.add_doi_to_csv(doi)
+
+            print(doi)
         else:
             doi_list.append('None')
             ScienceDirectFunctions.add_doi_to_csv('None')
+            print('None')
 
         if progress % 10 == 0:
             print("Progress:", progress, "out of", len(pmid_list))
@@ -59,15 +69,7 @@ if __name__ == '__main__':
     print("The first three DOIs:", doi_list[:3])
     print("Total number of DOIs:", len(doi_list))
 
-    # writing to journal-obj-list.csv file as completed
+    # writing to article-obj-list.csv file as completed
     ScienceDirectFunctions.write_obj_list_report(issn_obj_list, pmid_list, doi_list)
 
     # CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', '1d7b5a634d98e470780d362c4373e718')
-
-
-
-
-
-
-
-

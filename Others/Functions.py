@@ -13,10 +13,10 @@ def downloadPdf(url, title, path):
     file.close()
 
 def downloadTarGz(url, title):
-    isExist = os.path.exists("Downloads/tarGz")
+    isExist = os.path.exists("../Downloads/tarGz")
     if not isExist:
         # Create a new directory because it does not exist
-        os.makedirs("Downloads/tarGz")
+        os.makedirs("../Downloads/tarGz")
     response = requests.get(url)
     fileTitle = re.sub(r'[\\/*?:"<>|]', "", title)
     file = open(f"Downloads/tarGz/{fileTitle}", "wb")
@@ -206,10 +206,10 @@ def downloadPdfFromPMCIDList(PMCIDList, folderName):
     # download PDFs
     print("-------------------")
     print("Downloading PDFs...")
-    isExist = os.path.exists("Downloads")
+    isExist = os.path.exists("../Downloads")
     if not isExist:
         # Create a new directory because it does not exist
-        os.makedirs("Downloads")
+        os.makedirs("../Downloads")
     # create folder if not exist
     isExist = os.path.exists(f"Downloads/{folderName}")
     if not isExist:

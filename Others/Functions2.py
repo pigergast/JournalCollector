@@ -74,7 +74,7 @@ def write_doi_download_report(doi_list, download_status_list):
     column_names = ['DOI', 'Download Status']
 
     # Open the file in write mode
-    with open('doi-download-report.csv', 'w', newline='') as csvfile:
+    with open('../doi-download-report.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
 
         # Write the column names as the first row

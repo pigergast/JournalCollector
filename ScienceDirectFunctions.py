@@ -3,6 +3,8 @@ import csv
 from bs4 import BeautifulSoup
 from xml.etree import ElementTree as ET
 
+
+# FUnction to extract the journal list from the CSV file
 def extract_journal_list_col(csv_file, col):
     journal_list = []
 
@@ -16,7 +18,20 @@ def extract_journal_list_col(csv_file, col):
 
     return journal_list
 
+def extract_issn_pmid_list_col(csv_file, col):
+    journal_list = []
 
+    with open(csv_file, newline='') as file:
+        reader = csv.reader(file, delimiter=',')
+        next(reader)  # Skip the header row
+
+        for row in reader:
+            journal_name = row[col]
+            journal_list.append(journal_name)
+
+    return journal_list
+
+# Function to get the PMID from PubMed
 def get_journal_pmids(issn, start_date, end_date):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     parameters = {
@@ -64,7 +79,7 @@ def get_journal_pmids(issn, start_date, end_date):
 
     return pmid_list
 
-
+# Function to get the DOI from the PMID
 def pmid_to_doi(pmid):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
     params = {
@@ -101,6 +116,27 @@ def CheckScienceDirectDoi(doi, apiKey):
         return False
 
 
+
+def write_to_issn_pmid_list(list1, list2):
+    # Prepare the data as rows
+    rows = zip(list1, list2)
+
+    # Define the column names
+    column_names = ['ISSN', 'PMID']
+
+    # Open the file in write mode
+    with open('issn-pmid-list.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+
+        # Write the column names as the first row
+        writer.writerow(column_names)
+
+        # Write the data rows
+        writer.writerows(rows)
+
+    print("Report object list generated successfully!")
+
+
 def write_obj_list_report(list1, list2, list3):
     # Prepare the data as rows
     rows = zip(list1, list2, list3)
@@ -109,7 +145,7 @@ def write_obj_list_report(list1, list2, list3):
     column_names = ['ISSN', 'PMID', 'DOI']
 
     # Open the file in write mode
-    with open('journal-obj-list.csv', 'w', newline='') as csvfile:
+    with open('article-obj-list.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
 
         # Write the column names as the first row

@@ -1,6 +1,5 @@
-import tarfile
-import Functions
-import shutil
+from Others import Functions
+
 if __name__ == '__main__':
     # get PMCIDs
     # modify the startDate and endDate to get the PMCIDs from the PMC Open Access Subset
