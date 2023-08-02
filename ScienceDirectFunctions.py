@@ -157,7 +157,7 @@ def write_obj_list_report(list1, list2, list3):
     print("Report object list generated successfully!")
 
 
-def add_doi_to_csv(doi, file_path='doi-list.csv'):
+def add_doi_to_csv(doi, file_path='doi-list2.csv'):
     # Create a new CSV file if it doesn't exist
     with open(file_path, 'a', newline='') as csvfile:
         # Define the header of the CSV file if it's empty
