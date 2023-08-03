@@ -30,6 +30,18 @@ def extract_issn_pmid_list_col(csv_file, col):
             journal_list.append(journal_name)
 
     return journal_list
+def extract_article_obj_list_col(csv_file, col):
+    journal_list = []
+
+    with open(csv_file, newline='') as file:
+        reader = csv.reader(file, delimiter=',')
+        next(reader)  # Skip the header row
+
+        for row in reader:
+            journal_name = row[col]
+            journal_list.append(journal_name)
+
+    return journal_list
 
 # Function to get the PMID from PubMed
 def get_journal_pmids(issn, start_date, end_date):
