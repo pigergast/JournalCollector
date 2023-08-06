@@ -69,22 +69,25 @@ if __name__ == '__main__':
     ScienceDirectFunctions.write_obj_list_report(issn_list, pmid_list, doi_list)
     """
 
-    issn_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 0)
-    pmid_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 1)
-    doi_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 2)
+    # issn_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 0)
+    # pmid_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 1)
+    # doi_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 2)
+    #
+    # print("The length of ISSN list:", len(issn_list))
+    # print("The length of PMID list:", len(pmid_list))
+    # print("The length of DOI list:", len(doi_list))
+    #
+    # print("---------------------------------")
+    #
+    # # create a list of Article objects
+    # article_obj_list = []
+    # for i in range(len(issn_list)):
+    #     article_obj_list.append(Article.Article(issn_list[i], pmid_list[i], doi_list[i]))
+    #
+    # print("The first Article object:", article_obj_list[0])
+    # print("The length of Article object list:", len(article_obj_list))
+    instToken = 'a3869e2826f13c74d9c2f79f601f6607'
+    apiKey = '1d7b5a634d98e470780d362c4373e718';
 
-    print("The length of ISSN list:", len(issn_list))
-    print("The length of PMID list:", len(pmid_list))
-    print("The length of DOI list:", len(doi_list))
-
-    print("---------------------------------")
-
-    # create a list of Article objects
-    article_obj_list = []
-    for i in range(len(issn_list)):
-        article_obj_list.append(Article.Article(issn_list[i], pmid_list[i], doi_list[i]))
-
-    print("The first Article object:", article_obj_list[0])
-    print("The length of Article object list:", len(article_obj_list))
-
-    # CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', '1d7b5a634d98e470780d362c4373e718')
+    print(ScienceDirectFunctions.CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', apiKey, instToken)
+)

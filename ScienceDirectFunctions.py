@@ -116,9 +116,10 @@ def pmid_to_doi(pmid):
         return None
 
 
-def CheckScienceDirectDoi(doi, apiKey):
+def CheckScienceDirectDoi(doi, apiKey, token):
     apiUrl = "https://api.elsevier.com/content/article/doi/";
     headers = {'X-ELS-APIKey': apiKey,
+               'X-ELS-Insttoken': token,
                'Accept': 'application/json'}
     try:
         response = requests.get(f"{apiUrl}{doi}", headers=headers)
