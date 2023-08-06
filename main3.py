@@ -67,27 +67,50 @@ if __name__ == '__main__':
     
      # writing to article-obj-list.csv file as completed
     ScienceDirectFunctions.write_obj_list_report(issn_list, pmid_list, doi_list)
+    
+    # create a list of Article objects
+    article_obj_list = []
+    for i in range(len(issn_list)):
+        article_obj_list.append(Article.Article(issn_list[i], pmid_list[i], doi_list[i]))
+    
+    print("The first Article object:", article_obj_list[0])
+    print("The length of Article object list:", len(article_obj_list))
     """
 
-    # issn_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 0)
-    # pmid_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 1)
-    # doi_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 2)
-    #
-    # print("The length of ISSN list:", len(issn_list))
-    # print("The length of PMID list:", len(pmid_list))
-    # print("The length of DOI list:", len(doi_list))
-    #
-    # print("---------------------------------")
-    #
-    # # create a list of Article objects
-    # article_obj_list = []
-    # for i in range(len(issn_list)):
-    #     article_obj_list.append(Article.Article(issn_list[i], pmid_list[i], doi_list[i]))
-    #
-    # print("The first Article object:", article_obj_list[0])
-    # print("The length of Article object list:", len(article_obj_list))
-    instToken = 'a3869e2826f13c74d9c2f79f601f6607'
-    apiKey = '1d7b5a634d98e470780d362c4373e718';
+    issn_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 0)
+    doi_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 2)
 
-    print(ScienceDirectFunctions.CheckScienceDirectDoi('10.1016/j.profnurs.2023.05.006', apiKey, instToken)
-)
+    print("The length of ISSN list:", len(issn_list))
+    print("The length of DOI list:", len(doi_list))
+
+    # create a status list
+    instToken = 'a3869e2826f13c74d9c2f79f601f6607'
+    apiKey = '1d7b5a634d98e470780d362c4373e718'
+
+    status_list = []
+    progress = 0
+    true = 0
+    false = 0
+
+    for doi in doi_list:
+        progress += 1
+        print("Progress:", progress, "out of", len(doi_list), "| DOI:", doi)
+
+        status = ScienceDirectFunctions.CheckScienceDirectDoi(doi, apiKey, instToken)
+
+        if status is True:
+            status_list.append(status)
+            ScienceDirectFunctions.add_status_to_csv(status)
+            print(status)
+            true += 1
+        else:
+            status_list.append(status)
+            ScienceDirectFunctions.add_status_to_csv(status)
+            print(status)
+            false += 1
+
+    print("The number of True:", true)
+    print("The number of False:", false)
+    print("The length of status list:", len(status_list))
+    print("The first three status:", status_list[:3])
+
