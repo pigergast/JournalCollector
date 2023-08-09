@@ -1,4 +1,5 @@
 import ScienceDirectFunctions
+import CSVFunctions
 import Article
 # pip install certifi
 
@@ -78,11 +79,10 @@ if __name__ == '__main__':
     """
 
     issn_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 0)
+    pmid_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 1)
     doi_list = ScienceDirectFunctions.extract_article_obj_list_col('article-obj-list.csv', 2)
 
-    print("The length of ISSN list:", len(issn_list))
-    print("The length of DOI list:", len(doi_list))
-
+    """ 
     # create a status list
     instToken = 'a3869e2826f13c74d9c2f79f601f6607'
     apiKey = '1d7b5a634d98e470780d362c4373e718'
@@ -113,4 +113,11 @@ if __name__ == '__main__':
     print("The number of False:", false)
     print("The length of status list:", len(status_list))
     print("The first three status:", status_list[:3])
+    """
+    status_list = CSVFunctions.get_status_array('status-list.csv')
+
+    print("The length of status list:", len(status_list))
+    print("The first three status:", status_list[:3])
+
+    CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list)
 
