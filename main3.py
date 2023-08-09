@@ -114,7 +114,7 @@ if __name__ == '__main__':
     print("The length of status list:", len(status_list))
     print("The first three status:", status_list[:3])
     """
-    status_list = CSVFunctions.get_status_array('status-list.csv')
+    status_list = CSVFunctions.get_status_array('Old Code Files/status-list.csv')
 
     print("The length of status list:", len(status_list))
     print("The first three status:", status_list[:3])
