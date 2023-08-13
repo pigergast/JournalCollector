@@ -175,12 +175,10 @@ def create_journal_availability_list_sd():
 
         if status is True:
             status_list.append(status)
-            ScienceDirectFunctions.add_status_to_csv(status)
             print(status)
             true += 1
         else:
             status_list.append(status)
-            ScienceDirectFunctions.add_status_to_csv(status)
             print(status)
             false += 1
 
