@@ -24,6 +24,29 @@ if __name__ == '__main__':
     print("The first three DOI:", doi_list[:3])
     print("The first three status:", status_list[:3])
 
+    pmcid_list = []
+    progress = 0
+    # start from the index 8654 to the end of the pmid_list
+    for pmid in pmid_list:
+        progress += 1
+        pmcid = ScienceDirectFunctions.convert_pmid_to_pmcid(pmid)
+
+        print("Progress:", progress - 1, "out of", len(pmid_list), "| PMID:", pmid)
+
+        if pmcid is not None:
+            pmcid_list.append(pmcid)
+            CSVFunctions.add_single_item_to_csv(pmcid, 'pmcid-list2.csv', 'PMCID')
+            print(pmcid)
+        else:
+            pmcid_list.append('None')
+            CSVFunctions.add_single_item_to_csv('None', 'pmcid-list2.csv', 'PMCID')
+            print('None')
+
+    print("The length of PMCID list:", len(pmcid_list))
+
+    CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list, pmcid_list, 'master-list2.csv')
+
+
 
 
 
