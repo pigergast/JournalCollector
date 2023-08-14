@@ -68,7 +68,8 @@ def write_array_to_csv(arr, file_path, col_name):
         writer = csv.writer(csvfile)
         writer.writerow([arr])
 
-def add_to_csv_an_index_a_time(item, file_path, col_name):
+
+def add_single_item_to_csv(item, file_path, col_name):
     # Create a new CSV file if it doesn't exist
     with open(file_path, 'a', newline='') as csvfile:
         # Define the header of the CSV file if it's empty
