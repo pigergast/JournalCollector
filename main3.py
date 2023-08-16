@@ -12,7 +12,7 @@ if __name__ == '__main__':
     
     print("The first Article object:", article_obj_list[0])
     print("The length of Article object list:", len(article_obj_list))
-    """
+    
 
     issn_list = CSVFunctions.extract_col_from_csv('master-list.csv', 0)
     pmid_list = CSVFunctions.extract_col_from_csv('master-list.csv', 1)
@@ -45,7 +45,10 @@ if __name__ == '__main__':
     print("The length of PMCID list:", len(pmcid_list))
 
     CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list, pmcid_list, 'master-list2.csv')
-
+    """
+    pmid_list = CSVFunctions.extract_col_from_csv('master-list.csv', 1)
+    print(len(pmid_list))
+    print(pmid_list[8654])
 
 
 
