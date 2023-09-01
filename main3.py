@@ -46,13 +46,13 @@ if __name__ == '__main__':
 
     CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list, pmcid_list, 'master-list2.csv')
     """
-    issn_list = CSVFunctions.extract_col_from_csv('master-list.csv', 0)
+
     pmid_list = CSVFunctions.extract_col_from_csv('master-list.csv', 1)
     doi_list = CSVFunctions.extract_col_from_csv('master-list.csv', 2)
     status_list = CSVFunctions.extract_col_from_csv('master-list.csv', 3)
     pmcid_list = CSVFunctions.extract_col_from_csv('pmcid-list.csv', 0)
 
-    CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list, pmcid_list, 'master-list2.csv')
+    # CSVFunctions.create_master_list(issn_list, pmid_list, doi_list, status_list, pmcid_list, 'master-list2.csv')
 
 
 
