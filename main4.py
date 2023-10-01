@@ -15,13 +15,15 @@ if __name__ == '__main__':
         temp_check = checkLibgen(doi)
         if temp_check is not None:
             libGenList.append(temp_check)
-            CSVFunctions.add_single_item_to_csv(temp_check, 'libgen-list3.csv', 'LibGen')
+            CSVFunctions.add_single_item_to_csv(temp_check, 'libgen-list4.csv', 'LibGen')
             print(temp_check)
         else:
             libGenList.append('None')
-            CSVFunctions.add_single_item_to_csv('None', 'libgen-list-3.csv', 'LibGen')
+            CSVFunctions.add_single_item_to_csv('None', 'libgen-list4.csv', 'LibGen')
             print('None')
 
     print("The length of LibGen list:", len(libGenList))
+
+
 
     # print(checkLibgen('10.2174/0929867324666170801101448'))
