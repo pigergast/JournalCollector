@@ -15,7 +15,7 @@ def extract_col_from_csv(csv_file, col):
     return journal_list
 
 
-def create_master_list(list1, list2, list3, list4, list5, list6, filename='master-list4.csv'):
+def create_master_list(list1, list2, list3, list4, list5, list6, filename='master-list100.csv'):
     # Prepare the data as rows
     rows = zip(list1, list2, list3, list4, list5, list6)
 
