@@ -160,7 +160,7 @@ def create_journal_availability_list_sd():
     instToken = 'a3869e2826f13c74d9c2f79f601f6607'
     apiKey = '1d7b5a634d98e470780d362c4373e718'
 
-    doi_list = CSVFunctions.extract_col_from_csv('master-list.csv', 2)
+    doi_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list.csv', 2)
 
     status_list = []
     progress = 0
