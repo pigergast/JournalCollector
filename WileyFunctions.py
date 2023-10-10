@@ -1,5 +1,4 @@
 import urllib
-
 import requests
 
 
@@ -10,7 +9,7 @@ def checkWiley(inputDoi):
     doi = inputDoi
     # encode doi
     doi = urllib.parse.quote(doi, safe='')
-    print(doi)
+    print("Encoded DOI:", doi)
     response = requests.get(f"{apiUrl}{doi}", headers=headers)
     if response.status_code == 200:
         return True
