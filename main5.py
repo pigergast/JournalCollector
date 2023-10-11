@@ -28,13 +28,17 @@ if __name__ == '__main__':
             temp = wf.checkWiley(doi)
 
             if temp is True:
-                wiley_list.append('Yes')
-                CSVFunctions.add_single_item_to_csv('Yes', 'wiley-list.csv', 'Wiley')
-                print('Yes')
+                wiley_list.append('True')
+                CSVFunctions.add_single_item_to_csv('True', 'wiley-list.csv', 'Wiley')
+                print('True')
             else:
-                wiley_list.append('No')
-                CSVFunctions.add_single_item_to_csv('No', 'wiley-list.csv', 'Wiley')
-                print('No')
+                wiley_list.append('None')
+                CSVFunctions.add_single_item_to_csv('None', 'wiley-list.csv', 'Wiley')
+                print('None')
+        else:
+            wiley_list.append('None')
+            CSVFunctions.add_single_item_to_csv('None', 'wiley-list.csv', 'Wiley')
+            print('None')
 
     print("The length of Wiley list:", len(wiley_list))
     CSVFunctions.write_array_to_csv(wiley_list, 'wiley-list-total.csv', 'Wiley')
