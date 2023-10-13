@@ -15,11 +15,16 @@ if __name__ == '__main__':
     # print(response.status_code)
 
     # extract doi from master-list
-    doi_list = CSVFunctions.extract_col_from_csv('master-list100.csv', 2)
+    pid = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 0)
+    issn_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 1)
+    doi_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 2)
+    sciencedirect_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 3)
+    pubmedcentral_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 4)
+    libgen_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 5)
 
     # encoding doi list
-    wiley_list = []
-    progress = 10234
+    wiley_list = CSVFunctions.extract_col_from_csv('wiley-list.csv', 0)
+
 
     # for doi in doi_list[10234:]:
     #     progress += 1
@@ -43,8 +48,8 @@ if __name__ == '__main__':
     # print("The length of Wiley list:", len(wiley_list))
     # CSVFunctions.write_array_to_csv(wiley_list, 'wiley-list-total.csv', 'Wiley')
 
-    ans = wf.checkWiley('10.1111/jonm.13441')
-    print(ans)
+    CSVFunctions.create_master_list(pid, issn_list, doi_list, sciencedirect_list, pubmedcentral_list, libgen_list,
+                                    wiley_list, 'master-list101.csv')
 
 
 

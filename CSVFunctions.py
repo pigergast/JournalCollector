@@ -15,12 +15,13 @@ def extract_col_from_csv(csv_file, col):
     return journal_list
 
 
-def create_master_list(list1, list2, list3, list4, list5, list6, filename='master-list100.csv'):
+def create_master_list(list1, list2, list3, list4, list5, list6, list7, filename='master-list101.csv'):
     # Prepare the data as rows
-    rows = zip(list1, list2, list3, list4, list5, list6)
+    rows = zip(list1, list2, list3, list4, list5, list6, list7)
 
     # Define the column names
-    column_names = ['ISSN', 'PMID', 'DOI', 'Available on ScienceDirect', 'Available on PubMed Central', 'Available on LibGen']
+    column_names = ['ISSN', 'PMID', 'DOI', 'Available on ScienceDirect', 'Available on PubMed Central',
+                    'Available on LibGen', 'Available on Wiley']
 
     # Open the file in write mode
     with open(filename, 'w', newline='') as csvfile:
