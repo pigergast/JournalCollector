@@ -21,27 +21,32 @@ if __name__ == '__main__':
     wiley_list = []
     progress = 10234
 
-    for doi in doi_list[10234:]:
-        progress += 1
-        print("Progress:", progress - 1, "out of", len(doi_list), "| DOI:", doi)
-        if doi != 'None':
-            temp = wf.checkWiley(doi)
+    # for doi in doi_list[10234:]:
+    #     progress += 1
+    #     print("Progress:", progress - 1, "out of", len(doi_list), "| DOI:", doi)
+    #     if doi != 'None':
+    #         temp = wf.checkWiley(doi)
+    #
+    #         if temp is True:
+    #             wiley_list.append('True')
+    #             CSVFunctions.add_single_item_to_csv('True', 'wiley-list2.csv', 'Wiley')
+    #             print('True')
+    #         else:
+    #             wiley_list.append('None')
+    #             CSVFunctions.add_single_item_to_csv('None', 'wiley-list2.csv', 'Wiley')
+    #             print('None')
+    #     else:
+    #         wiley_list.append('None')
+    #         CSVFunctions.add_single_item_to_csv('None', 'wiley-list2.csv', 'Wiley')
+    #         print('None')
+    #
+    # print("The length of Wiley list:", len(wiley_list))
+    # CSVFunctions.write_array_to_csv(wiley_list, 'wiley-list-total.csv', 'Wiley')
 
-            if temp is True:
-                wiley_list.append('True')
-                CSVFunctions.add_single_item_to_csv('True', 'wiley-list2.csv', 'Wiley')
-                print('True')
-            else:
-                wiley_list.append('None')
-                CSVFunctions.add_single_item_to_csv('None', 'wiley-list2.csv', 'Wiley')
-                print('None')
-        else:
-            wiley_list.append('None')
-            CSVFunctions.add_single_item_to_csv('None', 'wiley-list2.csv', 'Wiley')
-            print('None')
+    ans = wf.checkWiley('10.1111/jonm.13441')
+    print(ans)
 
-    print("The length of Wiley list:", len(wiley_list))
-    CSVFunctions.write_array_to_csv(wiley_list, 'wiley-list-total.csv', 'Wiley')
+
 
 
 
