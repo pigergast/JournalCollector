@@ -23,7 +23,7 @@ if __name__ == '__main__':
     libgen_list = CSVFunctions.extract_col_from_csv('Old Code Files/master-list100.csv', 5)
 
     # encoding doi list
-    wiley_list = CSVFunctions.extract_col_from_csv('wiley-list.csv', 0)
+    wiley_list = CSVFunctions.extract_col_from_csv('Old Code Files/wiley-list.csv', 0)
 
 
     # for doi in doi_list[10234:]:
